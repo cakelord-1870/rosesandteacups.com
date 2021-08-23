@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/bone-china-mugs.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-14T20:54:23-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388655824985</id>
+    <published>2019-12-14T20:54:23-06:00</published>
+    <updated>2019-12-14T20:54:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/empire-peony-bone-china-mugs-set-of-4"/>
+    <title>Empire Peony Bone China Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/empire-peony-bone-china-mugs-set-of-4.jpg?v=1601095167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Empire Peony Bone China Mugs Set of 4 <span>Made of Stechol Bone China Holds Approximately 10 ounces</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388655824985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1214195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388643569753</id>
+    <published>2019-12-14T15:19:29-06:00</published>
+    <updated>2019-12-14T15:19:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppy-bone-china-mugs-set-of-4"/>
+    <title>Poppy Bone China Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppy-bone-china-mugs-set-of-4.jpg?v=1601095165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppy Bone China Mugs Set of 4 <span>Made of Stechol Bone China Holds Approximately 11 ounces</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388643569753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1214195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4357942771801</id>
+    <published>2019-11-22T11:10:52-06:00</published>
+    <updated>2019-11-22T11:10:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/assorted-pastel-cameo-rose-bone-china-footed-mugs-set-of-4"/>
+    <title>Assorted Pastel Cameo Rose Bone China Footed Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/assorted-pastel-cameo-rose-bone-china-footed-mugs-set-of-4.jpg?v=1601095075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Assorted Pastel Cameo Rose Bone China Footed Mugs Set of 4 holds approximately 9 ounces.  Soft pastel colors trimmed in 14K gold decorated with lovely rose cameos adds elegance to your morning brew.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4357942771801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>112219-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510836545</id>
+    <published>2019-07-11T00:19:23-05:00</published>
+    <updated>2019-07-11T00:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-lilacs-victorian-tankards"/>
+    <title>Set of 4 Gracie&apos;s Rose Bone China Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-gracies-rose-bone-china-mugs.jpg?v=1601089774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gracie's Rose Trumpet Fine Bone China Mugs with Gold Trim hold 11 ounces.  This pattern has lovely roses, daises and pretty forget me nots. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510836545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122614636633</id>
+    <published>2019-06-28T11:22:55-05:00</published>
+    <updated>2019-06-28T11:22:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cookies-and-cup-cakes-bone-china-mug-only-4-available"/>
+    <title>Cookies and Cup Cakes Bone China Mug - Only 3 Available!</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Cardew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cookies-and-cup-cakes-bone-china-mug-only-3-available.jpg?v=1601094848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardew<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cookies and Cupcakes Bone China Mug has fun and yummy pattern going all the way around and cute sayings and cupcakes on the inside.  The text on the inside reads: Sweet Tooth, The Icing on the Cake, and Sprinkles. The handle is also decorated and has text that ready Cup Cakes. Holds a generous 15 ounces. Microwave and dish washer safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122614636633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0628192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120467775577</id>
+    <published>2019-06-25T15:28:44-05:00</published>
+    <updated>2019-06-25T15:28:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-patrician-bone-china-mug-misty-rose-pattern-made-in-england-only-2-available"/>
+    <title>Royal Patrician Bone China Mug Misty Rose Pattern Made in England - Only 2 Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-patrician-bone-china-mug-misty-rose-pattern-made-in-england-only-2-available.jpg?v=1601094834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This cheerful bone china mug features the new Misty Rose Chintz pattern from Royal Patrician. Each mug holds 10 ounces of liquid. Fine bone china, Made in England by Royal Patrician. A brightly colored chintz rendition of a former favorite, the Misty Rose Chintz pattern's cheerful color palette will bring a glimmer of sunshine to your tea party. Each piece is crafted of fine bone china in England by Royal Patrician who is no longer in business which makes this a rare collectible. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120467775577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>062519-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118049824857</id>
+    <published>2019-06-21T16:24:16-05:00</published>
+    <updated>2019-06-21T16:24:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-purple-pansies-bone-china-made-in-england-only-2-available"/>
+    <title>Rare Royal Patrician Purple Pansies Bone China Made in England - Only 2 Available!</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-purple-pansies-bone-china-made-in-england-only-2-available.jpg?v=1601094821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Royal Patrician Purple Pansies Bone China Made in England</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118049824857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>062119-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118047727705</id>
+    <published>2019-06-21T16:19:13-05:00</published>
+    <updated>2019-06-21T16:19:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-aurora-bone-china-made-in-england-only-3-available"/>
+    <title>Rare Royal Patrician Aurora Bone China Made in England - Only 2 Available!</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-aurora-bone-china-made-in-england-only-2-available.jpg?v=1601094820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Royal Patrician Aurora Bone China Made in England</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118047727705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>062119-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118041403481</id>
+    <published>2019-06-21T15:56:28-05:00</published>
+    <updated>2019-06-21T15:56:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-guinevere-bone-china-made-in-england-only-3-available"/>
+    <title>Rare Royal Patrician Guinevere Bone China Made in England - Only 3 Available!</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-guinevere-bone-china-made-in-england-only-3-available.jpg?v=1601094818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Royal Patrician Guinevere Bone China Made in England</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118041403481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>062119-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054707675225</id>
+    <published>2019-04-04T12:59:36-05:00</published>
+    <updated>2019-04-04T12:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy"/>
+    <title>Hydrangea and Butterflies Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy.jpg?v=1601094730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea and Butterfles Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054707675225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054704037977</id>
+    <published>2019-04-04T12:33:20-05:00</published>
+    <updated>2019-04-04T12:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy"/>
+    <title>Pretty Pink Roses and Floral Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy.jpg?v=1601094728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty in Pink Floral Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054704037977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8105988609</id>
+    <published>2016-09-29T10:31:00-05:00</published>
+    <updated>2016-09-29T10:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-santa-and-children-fine-bone-china-footed-mug"/>
+    <title>Christmas Santa and Children Fine Bone China Footed Mug</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-santa-and-children-fine-bone-china-footed-mug.jpg?v=1601092637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Christmas Santa and Children Fine Bone China Footed Mug hold approximately 9 ounces your favorite holiday beverage.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8105988609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>092916-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2040041217</id>
+    <published>2015-09-11T08:29:25-05:00</published>
+    <updated>2015-09-11T08:29:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-floral-bone-china-mug"/>
+    <title>Peach Floral Bone China Mug - Only 6 Left</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-floral-bone-china-mug-only-6-left.jpg?v=1601091191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Peach Floral Bone China Mug is dish washer and micormave safe. Gift boxed.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2040041217</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9532</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2040039937</id>
+    <published>2015-09-11T08:29:00-05:00</published>
+    <updated>2015-09-11T08:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-bone-china-mug"/>
+    <title>Hydrangea Bone China Mug</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Hydrangea-Bone-China-Mug_9edb285f-de03-485a-9108-f6d3bda0c70d.jpg?v=1629418352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hydrangea Bone China Mug is dish washer and microwave safe. Gift boxed.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2040039937</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510863937</id>
+    <published>2015-07-12T10:51:00-05:00</published>
+    <updated>2015-07-12T10:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-english-rose-bone-china-mugs-9-oz-bone-china-mug-gold-trimmed"/>
+    <title>Set of 4 English Rose Bone China Mugs 9 oz Bone China Mug Gold Trimmed</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-english-rose-bone-china-mugs-9-oz-bone-china-mug-gold-trimmed.jpg?v=1601089790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 4 Assorted Color English Rose Bone China Mugs 9 oz Bone China Mug Gold Trimmed</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510863937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>6305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510852801</id>
+    <published>2015-07-12T10:51:00-05:00</published>
+    <updated>2015-07-12T10:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-rose-bouquet-bone-china-mugs"/>
+    <title>Set of 4 Rose Bouquet Bone China Trumpet Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-rose-bouquet-bone-china-trumpet-mugs.jpg?v=1601089781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful pale pink roses adorn these lovely 11 ounce Trumpet Mugs made of Fine Bone China with Gold Trim</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510852801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510848065</id>
+    <published>2015-07-12T10:51:00-05:00</published>
+    <updated>2015-07-12T10:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-gracies-pansy-bone-china-mugs"/>
+    <title>Set of 4 Pansy Fine Bone China Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-pansy-fine-bone-china-mugs.jpg?v=1601089777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>11 oz. Trumpet Mugs Fine Bone China with Gold Trim</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510848065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106643457</id>
+    <published>2015-06-12T16:10:00-05:00</published>
+    <updated>2015-06-12T16:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daffodil-english-bone-china-tea-cups-set-of-2"/>
+    <title>Daffodil English Bone China Mugs Set of 6</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daffodil-english-bone-china-mugs-set-of-6.jpg?v=1601092660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Daffodil English Bone China Mugs Fine Bone China Made in England 6 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106643457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>09292016-28N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106387137</id>
+    <published>2015-06-12T16:10:00-05:00</published>
+    <updated>2015-06-12T16:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-china-roses-english-bone-china-mug"/>
+    <title>Pink China Roses English Bone China Mugs Set of 6</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-china-roses-english-bone-china-mugs-set-of-6.jpg?v=1601092654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Pink China Roses English Bone China Mugs Fine Bone China are Made in England 10 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106387137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>09292016-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

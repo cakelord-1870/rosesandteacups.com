@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/silver-spoon-rings.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-09-28T13:32:54-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4727714512985</id>
+    <published>2020-09-28T13:32:54-05:00</published>
+    <updated>2020-09-28T13:32:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-rose-spoon-ring-limited-supply"/>
+    <title>Royal Rose Flatware Silver Spoon Ring - Limited Supply!!</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-rose-flatware-silver-spoon-ring-limited-supply.jpg?v=1601384578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Rose Silver Spoon Ring is made from actual 1939 Vintage Silver Flatware the delicate romantic floral motif trails from the tip to mid-handle of each piece in the setting. The original pattern debuted in 1939 and even inspired a bridal gown design. Mirror and oxidized finish.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SSP</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4727714512985</id>
+      <title>8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4727714512985</id>
+      <title>7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309130096741</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-antiqued-spoon-ring"/>
+    <title>Sterling Silver Antiqued Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-antiqued-spoon-ring.jpg?v=1601094148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Antiqued design.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309130096741</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-19N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309130096741</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-19-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309130096741</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-19N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309130096741</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-19N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309130096741</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-19N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309129441381</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-classic-victorian-spoon-ring"/>
+    <title>Sterling Silver Classic Victorian Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-classic-victorian-spoon-ring.jpg?v=1601094146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Classic Victorian pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309129441381</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-18N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309129441381</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-18-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309129441381</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-18N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309129441381</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-18N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309129441381</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-18N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309128458341</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-dramatic-vintage-spoon-ring"/>
+    <title>Sterling Silver Dramatic Vintage Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-dramatic-vintage-spoon-ring.jpg?v=1601094145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Dramatic vintage pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128458341</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-17N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128458341</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-17-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128458341</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-17N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128458341</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-17N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128458341</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-17N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309128196197</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-vintage-edge-spoon-ring"/>
+    <title>Sterling Silver Vintage Edge Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-vintage-edge-spoon-ring.jpg?v=1601094144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Delicate vintage pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128196197</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-16N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128196197</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-16N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128196197</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-16N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128196197</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-16N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309128196197</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-16N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309126918245</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-spoon-ring-with-flowers"/>
+    <title>Sterling Silver Spoon Ring with Flowers</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-spoon-ring-with-flowers.jpg?v=1601321152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Gorgeous floral pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126918245</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-15N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126918245</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-15N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126918245</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-15N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126918245</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-15N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126918245</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-15N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309126557797</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ornate-sterling-silver-spoon-ring"/>
+    <title>Ornate Sterling Silver Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ornate-sterling-silver-spoon-ring.jpg?v=1601094142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5 sizes.  Sterling Silver.  Gorgeous ornate pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126557797</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-14N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126557797</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-14N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126557797</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-14N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126557797</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-14N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309126557797</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-14N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309125279845</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-spoon-ring-with-rose-motif"/>
+    <title>Sterling Silver Spoon Ring with Rose Motif</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-spoon-ring-with-rose-motif.jpg?v=1601094141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sweet floral spoon ring in 5 sizes.  Sterling Silver.  Delicate rose cameo.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125279845</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-13N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125279845</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-13N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125279845</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-13N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125279845</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-13N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125279845</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-13N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309125017701</id>
+    <published>2018-07-05T13:37:12-05:00</published>
+    <updated>2018-07-05T13:37:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-victorian-flower-spoon-ring"/>
+    <title>Sterling Silver Victorian Flower Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Welman Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-victorian-flower-spoon-ring.jpg?v=1601094140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Welman Group<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sweet floral spoon ring in 5 sizes.  Sterling Silver.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125017701</id>
+      <title>6</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-12N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125017701</id>
+      <title>7</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-12N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125017701</id>
+      <title>8</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-12N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125017701</id>
+      <title>9</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-12N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309125017701</id>
+      <title>10</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>07052018-12N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1528024641</id>
+    <published>2015-07-14T18:01:00-05:00</published>
+    <updated>2015-07-14T18:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/moss-rose-spoon-ring"/>
+    <title>Moss Rose Spoon Ring</title>
+    <s:type>Alice in Wonderland Teaware</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/moss-rose-spoon-ring.jpg?v=1601090523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Alice in Wonderland Teaware<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moss Rose Handcrafted Vintage Silver Spoon Jewelry Ring</p>
+<p>Available in Ring Size 6, 7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SSP</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1528024641</id>
+      <title>6</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4766</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1528024641</id>
+      <title>9</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4767</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1528024641</id>
+      <title>8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4768</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1528024641</id>
+      <title>7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1527989697</id>
+    <published>2015-07-14T17:56:00-05:00</published>
+    <updated>2015-07-14T17:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantment-spoon-ring"/>
+    <title>Enchantment Spoon Ring - Limited Supply!!</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchantment-spoon-ring-limited-supply.jpg?v=1603744125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enchantment Silver Spoon Ring is made from actual 1952 Vintage Silver Flatware </p>
+<p>Available in Ring Sizes</p>
+<p>6, 7</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SSP</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527989697</id>
+      <title>6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527989697</id>
+      <title>7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1527938369</id>
+    <published>2015-07-14T17:51:04-05:00</published>
+    <updated>2015-07-14T17:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/magnolia-spoon-ring"/>
+    <title>Magnolia Spoon Ring</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/magnolia-spoon-ring.jpg?v=1601090514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnolia<br>
+Silver Spoon Ring</p>  
+<p>Vintage Silver Spoon Pattern Jewelry</p>
+<p>Available in Ring Sizes<br>
+5, 6, 7, 8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SSP</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527938369</id>
+      <title>5</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4815</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527938369</id>
+      <title>8</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4816</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527938369</id>
+      <title>7</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4817</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1527938369</id>
+      <title>6</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

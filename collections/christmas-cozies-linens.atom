@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christmas-cozies-linens.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-02T14:00:31-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371619250265</id>
+    <published>2019-12-02T14:00:31-06:00</published>
+    <updated>2019-12-02T14:00:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-blue-snowflakes-2-in-one-reversible-6-cup-warp-around-teapot-cozy"/>
+    <title>Silver and Blue Snowflakes 2 in One Reversible 6 Cup Warp Around Teapot Cozy</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-blue-snowflakes-2-in-one-reversible-6-cup-warp-around-teapot-cozy.jpg?v=1601095112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy with Insulation is hand sewn just for you at the time of your order by one of our talented seamstresses Nan!  Tea cup cozy is sold separately.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371619250265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>83173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371458981977</id>
+    <published>2019-12-02T11:44:03-06:00</published>
+    <updated>2019-12-02T11:44:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettias-and-plaid-2-in-one-reversible-6-cup-warp-around-cozy"/>
+    <title>Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettias-and-plaid-2-in-one-reversible-6-cup-warp-around-teapot-cozy.jpg?v=1601095106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy with Insulation is hand sewn just for you at the time of your order by one of our talented seamstresses Nan!  Tea cup cozy is sold separately.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371458981977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>83172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371436929113</id>
+    <published>2019-12-02T11:20:15-06:00</published>
+    <updated>2019-12-02T11:20:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy-1"/>
+    <title>Postcard Merry Christmas Tea Cup (Teacup) Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-teacup-cozy.png?v=1601095104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371436929113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102355746905</id>
+    <published>2019-09-19T14:23:07-05:00</published>
+    <updated>2019-09-19T14:23:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-cup-tea-tote-with-tea-and-spiced-tea-cup-mat-1"/>
+    <title>Holiday Tea Cup Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-cup-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601094990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gift tote features a festive holiday tea cup on the front of the tote and the text, "A Cup of Tea warms the soul like a Good Friend" on the back.  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102355746905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34500N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844408647769</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chickadee-teacup-embroidered-christmas-pillow"/>
+    <title>Chickadee Teacup Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chickadee-teacup-embroidered-christmas-pillow.png?v=1601094499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Chickadee &amp; Christmas Tea"</div>
+<div>Intricately embroidered Chickadee in Christmas Tea cup with roses and pine cones. Teacup embroidered in soft seafoam green on ivory moire' taffeta background. Seafoam green moire' taffeta trim.  Ivory backing with zippered opening.  16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844408647769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>11142018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844404060249</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-deer-embroidered-christmas-pillow"/>
+    <title>Midnight Deer Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-deer-embroidered-christmas-pillow.png?v=1601094497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Midnight Deer Whitework scene embroidered on midnight blue moire' taffeta with Swarovski crystals with zippered back opening.</div>
+<div>16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844404060249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>11142018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844394066009</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-embroidered-merry-christmas-pillow"/>
+    <title>Country Embroidered Merry Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-embroidered-merry-christmas-pillow.png?v=1601094494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Embroidered "Merry Christmas"  on gray/white pillow ticking with forest-deer-cardinal scene on back and large red piping edging. Zippered back opening. 100% cotton. 16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844394066009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11142018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1801089122393</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals"/>
+    <title>Burgundy Embroidered Merry Christmas Pillow with Swarovski Crystals</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals.png?v=1601094463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Burgundy Embroidered Merry Christmas Victorian Script Pillow with Swarovski crystals on elegant ivory moire' taffeta f<span class="">ront &amp; back.  Trimmed in burgundy moire' with roped satin piping.  Zipper opening in back.  16x16 </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1801089122393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11062018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1785097060441</id>
+    <published>2018-11-03T17:07:11-05:00</published>
+    <updated>2018-11-03T17:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-blue-jays-coordinating-napkins-set-of-4-18x18"/>
+    <title>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-blue-jays-coordinating-christmas-tree-napkins-set-of-4-18x18.png?v=1601094431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</p>
+<p>Reversible.</p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1785097060441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11032018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363519537253</id>
+    <published>2018-10-23T08:41:29-05:00</published>
+    <updated>2018-10-23T08:41:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/nifty-fiffies-retro-christmas-holiday-apron"/>
+    <title>Nifty Fiffies Retro Christmas Holiday Apron</title>
+    <s:type>Aprons</s:type>
+    <s:vendor>Jessie Steele</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/nifty-fiffies-retro-christmas-holiday-apron.png?v=1601094371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jessie Steele<br>
+        <strong>Type: </strong>Aprons<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our 50's inspired Christmas apron is both fun and functional perfect for your upcoming holiday parties.<br>100% cotton exclusive of trim<br>Removable red grosgrain bow<br>One size fits most - adjustable ties at neck &amp; waist</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363519537253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>102318-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306463993957</id>
+    <published>2018-06-29T13:23:45-05:00</published>
+    <updated>2018-06-29T13:23:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-christmas-tea-cups-mini-tote"/>
+    <title>Stacked Christmas Tea Cups Mini Tote</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-christmas-tea-cups-mini-tote.jpg?v=1601094086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The uses are endless for these versatile little totes. Fill with any of your favorite things. Jellies, gourmet foods, dried flowers, note cards, etc. Makes a thoughtful and inexpensive gift. Size 6 ½" x 5 ½". </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306463993957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06292018-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306799571045</id>
+    <published>2018-06-29T13:17:33-05:00</published>
+    <updated>2018-06-29T13:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-christmas-tea-cups-tea-towels"/>
+    <title>Stacked Christmas Tea Cups Tea Towels</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-christmas-tea-cups-tea-towels.jpg?v=1601094091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set contains two 24" x 36" 100% cotton flour sack towels. They are soft, lint free, highly absorbent, and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine Washable. Packaged and tied with ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306799571045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>06302018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306462814309</id>
+    <published>2018-06-29T13:17:33-05:00</published>
+    <updated>2018-06-29T13:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gourmet-stacked-christmas-tea-cups-gift-caddy"/>
+    <title>Gourmet Stacked Christmas Tea Cups Gift Caddy</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gourmet-stacked-christmas-tea-cups-gift-caddy.jpg?v=1601094085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fill with your favorite gourmet delicacies, vinegars, oils, pasta, coffee, chocolates, etc... Bag size is 5 ½" w x 9" h x 2 ½" depth.  So easy to present your gifts in style!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306462814309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>06292018-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/286208852008</id>
+    <published>2017-11-16T09:52:58-06:00</published>
+    <updated>2017-11-16T09:52:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holly-berry-guest-towels"/>
+    <title>Holly Berry Guest Towels</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Boston</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holly-berry-guest-towels.jpg?v=1601093752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holly Berry Guest Towels 16 Guest Towels</p>
+<p><span>8 1/2 x 4 1/2 Decorative Paper Guest Towels</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Décor</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/286208852008</id>
+      <title>Default</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>111617-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8350377025</id>
+    <published>2016-10-29T13:27:00-05:00</published>
+    <updated>2016-10-29T13:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daisies-and-lady-bugs-teapot-cozy-only-2-available"/>
+    <title>Daisies And Lady Bugs Teapot Cozy on Pink - Only 1 Available</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Special Handmade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daisies-and-lady-bugs-teapot-cozy-on-pink-only-1-available.jpg?v=1601092778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Special Handmade<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Daisies And Lady Bugs Teapot Cozy </span><span> is </span><span>handmade just for you and fits a small (2 cups) teapot. Perfectly adorable cozy to keep your tea warm! The cozy (cosy) in the images was placed on teapot which is 2 cups. Machine washable but we suggest hand wash and dry flat.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8350377025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>102916-J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8350250369</id>
+    <published>2016-10-29T13:02:00-05:00</published>
+    <updated>2016-10-29T13:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/oh-my-gracious-gray-crochet-teapot-cozy-only-2-available"/>
+    <title>Oh My Gracious Gray Crochet Teapot Cozy - Only 2 Available</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Special Handmade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/oh-my-gracious-gray-crochet-teapot-cozy-only-2-available.jpg?v=1601092775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Special Handmade<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Oh My Gracious Gray Crochet Teapot Cozy <span> is </span><span>handmade just for you and fits a medium/large (4 to 6 cups) or (6 to 8) teapot. Perfectly adorable cozy to keep your tea warm! The cozy (cosy) in the images was placed on teapot which is 6 to 8 cups, but it fits well on medium tea pot of 4 to 6 cups too. Machine washable at 40, but we suggest hand wash and dry flat.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8350250369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>102916-1J0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624984257</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia and Aqua Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases.jpg?v=1601091676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624984257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22613N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624975041</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-poinsettia-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-christmas-pillow-cases.jpg?v=1601091675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624975041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22612N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612199553</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-holly-on-white-christmas-pillow-cases"/>
+    <title>Set of 2 Holly on White Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-holly-on-white-christmas-pillow-cases.jpg?v=1601091673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612199553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22611N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612194049</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-holly-on-burgundy-christmas-pillow-cases"/>
+    <title>Set of 2 Holly on Burgundy Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-holly-on-burgundy-christmas-pillow-cases.jpg?v=1601091672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612194049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22610N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612158593</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-french-christmas-pillow-cases"/>
+    <title>Set of 2 French Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-french-christmas-pillow-cases.jpg?v=1601091671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612158593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22609N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598025345</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-snowman-flannel-pillow-cases"/>
+    <title>Set of 2 Snowman Flannel Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-snowman-flannel-pillow-cases.jpg?v=1601091667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598025345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22601N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598012609</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-merry-christmas-turquoise-holly-pillow-cases"/>
+    <title>Set of 2 Merry Christmas Turquoise Holly Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-merry-christmas-turquoise-holly-pillow-cases.jpg?v=1601091666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598012609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22601N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598009345</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-merry-christmas-holly-pillow-cases"/>
+    <title>Set of 2 Merry Christmas Holly Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-merry-christmas-holly-pillow-cases.jpg?v=1601091664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598009345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22600N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1830313099353</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy"/>
+    <title>Postcard Merry Christmas Tea Cup Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-cozy.png?v=1601094491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1830313099353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/personalized-calling-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-18T14:20:10-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4096599949401</id>
+    <published>2019-09-18T14:20:10-05:00</published>
+    <updated>2019-09-18T14:20:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/on-the-wing-custom-printed-victorian-calling-cards-250"/>
+    <title>On the Wing  Custom Printed Victorian Calling Cards 250</title>
+    <s:type>Calling Cards</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/on-the-wing-custom-printed-victorian-calling-cards-250.jpg?v=1601094988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>I</span>ntroduce yourself with feminine elegance!  Let us know what you would like printed on your calling cards as you checkout, and we'll send you a proof for your approval.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4096599949401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09182019N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4094941102169</id>
+    <published>2019-09-17T13:56:27-05:00</published>
+    <updated>2019-09-17T13:56:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-fans-custom-printed-victorian-calling-cards-250"/>
+    <title>Victorian Fans Custom Printed Victorian Calling Cards 250</title>
+    <s:type>Calling Cards</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-fans-custom-printed-victorian-calling-cards-250.jpg?v=1601094987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduce yourself with feminine elegance!  Let us know what you would like printed on your calling cards as you checkout, and we'll send you a proof for your approval.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4094941102169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09172019N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547429441</id>
+    <published>2015-07-16T11:18:00-05:00</published>
+    <updated>2015-07-16T11:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-clusters-custom-printed-victorian-calling-cards"/>
+    <title>Rose Clusters Custom Printed Victorian Calling Cards 250</title>
+    <s:type>Calling Cards</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-clusters-custom-printed-victorian-calling-cards-250.jpg?v=1582071199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduce yourself with feminine elegance!  Let us know what you would like printed on your calling cards as you checkout, and we'll send you a proof for your approval.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547429441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547409857</id>
+    <published>2015-07-16T11:18:00-05:00</published>
+    <updated>2015-07-16T11:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bible-verse-custom-printed-victorian-calling-cards"/>
+    <title>&quot;Bible Verse&quot;  Custom Printed Victorian Calling Cards 250</title>
+    <s:type>Calling Cards</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bible-verse-custom-printed-victorian-calling-cards-250.jpg?v=1601090781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your favorite Bible verse can be placed beneath this Victorian rose-covered cross.  </span>Introduce yourself with feminine elegance!  Let us know what you would like printed on your calling cards as you checkout, and we'll send you a proof for your approval.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547409857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547361217</id>
+    <published>2015-07-16T11:18:00-05:00</published>
+    <updated>2015-07-16T11:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-and-pearls-calling-cards"/>
+    <title>Roses and Pearls Calling Cards 250</title>
+    <s:type>Calling Cards</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-and-pearls-calling-cards-250.jpg?v=1601090780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introduce yourself with feminine elegance!  Let us know what you would like printed on your calling cards as you checkout, and we'll send you a proof for your approval.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547361217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6268</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547333249</id>
+    <published>2015-07-16T11:18:00-05:00</published>
+    <updated>2015-07-16T11:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/metal-calling-cards-case"/>
+    <title>Metal Calling Cards Case</title>
+    <s:type>Calling Cards Case</s:type>
+    <s:vendor>Vista Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/metal-calling-cards-case.jpg?v=1601090778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vista Print<br>
+        <strong>Type: </strong>Calling Cards Case<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547333249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>9483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

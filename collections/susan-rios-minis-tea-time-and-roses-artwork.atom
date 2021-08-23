@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/susan-rios-minis-tea-time-and-roses-artwork.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-02-29T10:27:00-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/8195743361</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-rosie-mini-tea-art"/>
+    <title>Susan Rios Rosie Mini Tea Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-rosie-mini-tea-art.jpg?v=1601092711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text"><span>I have taken some of my most popular original works and created fun, mini little prints for sale! This one features my granddaughter, Rosie,l wearing a precious pink outfit surrounded by a beautifully floral garden scene with glitter detail. Aprrox. dimensions 5x6 inch with hot pink hanging ribbon. Can frame them or hang them on walls, wine bottles, use for packaging/gift wrapping, etc. Get creative! These are very versatile, multipurpose mini art prints!!! SO CUTE! Comes in its own plastic packaging.</span></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8195743361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>10082016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8195720449</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-antique-pitcher-mini-tea-art"/>
+    <title>Susan Rios Antique Pitcher with Roses Mini Tea Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-antique-pitcher-with-roses-mini-tea-art.jpg?v=1601092710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">
+<span>"Pitcher With Roses" is a print made from an original painting I did. The print is adhered to illustration board, and hangs from satin ribbons. It's 6.5" tall x 4.75" wide. Soft pink roses are in a crystal vase, and sit on a lace tablecloth. An antique pitcher sits on the dresser, with a pink hat decorated with roses hangs on the striped wallpaper behind.</span><br><span>Tie the ribbons in a pretty bow, and hang this lovely print anywhere. It makes a very special gift card, and would be beautiful for a birthday, wedding, or Mother's Day gift. It would be beautiful tied on a package too. A dusting of fine iridescent glitter makes it sparkle! Comes in a clear cello bag.</span>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8195720449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>10082016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8191351745</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-autumn-picnic-mini-tea-art-1"/>
+    <title>Susan Rios Autumn Picnic Mini Tea Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-autumn-picnic-mini-tea-art.jpg?v=1601092707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text"><span>These little teddies are having an autumn picnic, and the black labrador is too, because he's hoping to get fed! The print, 5"x 6", is adhered to illustration board, and hangs from satin ribbons. Tie them in a pretty bow and hang this anywhere, tie it to a package or wine bottle for a gift tag, or put into an envelope and send a special gift card. A little glitter is added for seasonal sparkle!</span></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8191351745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>10072016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8191336257</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-autumn-picnic-mini-tea-art"/>
+    <title>Susan Rios Jacquie&apos;s Autumn Mini Tea Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-jacquies-autumn-mini-tea-art.jpg?v=1601092706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text"><span>This little print is from the original painting I did called "Jackie's Autumn". This is my favorite time of the year, so I love painting autumn images. The print, (5"x 7"), is mounted on illustration board, with ribbons coming from the top, to hang it. You can hang it on the wall as is, tie it on a package as a gift tag, put it in an envelope and send it as a special gift card ~ these are very versatile little art prints! This one also has a little sign in the front of the house that says "Give Thanks", so would be great for Thanksgiving too.</span></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8191336257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>10072016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5292175809</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-lyric-lovebirds-and-flowers-mini-art"/>
+    <title>Susan Rios Lyric Lovebirds and Flowers Mini Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-lyric-lovebirds-and-flowers-mini-art.jpg?v=1601091971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">"Lyric Love" is a print made from an original painting I did. The print is adhered to illustration board, and hangs from satin ribbons. It's 4.75" tall x 4.75" wide. Soft pink blossoms surround two little bluebirds ~ a very sweet and romantic little print.<br>Tie the ribbons in a pretty bow, and hang this lovely print anywhere. It makes a very special gift card, and would be beautiful for a birthday, Mother's Day, or special friend gift. It would be beautiful tied on a package too. A dusting of fine iridescent glitter makes it sparkle! Comes in a clear cello bag."  USA MADE</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5292175809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34007N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5292167873</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-easter-tea-mini-art"/>
+    <title>Susan Rios Easter Tea Mini Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-easter-tea-mini-art.jpg?v=1601091969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>From the Artist:  "This is a little print from a painting I did. I take the print, which measures approx. 6.25"x 5", adhere it to illustration board, and pink satin ribbons come out from the top so it can be tied in a pretty bow and hung on the wall. It can also be hung around a wine bottle, or tied on a package as a gift tag, put in an envelope and sent as a special gift card, or even set on a pretty easel. It's also dusted with a little glitter for some fun sparkle. However you choose to use it, this cheery little Easter image will make you smile!"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5292167873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34005N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

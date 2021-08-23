@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/heirloom-christening-gowns.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-17T11:33:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/9106687617</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rebecca-heirloom-christening-gown-with-bonnet-and-slip"/>
+    <title>Rebecca Heirloom Christening Gown with Bonnet and Slip</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rebecca-heirloom-christening-gown-with-bonnet-and-slip.jpg?v=1601093088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            252.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3-pc. Rebecca - Rosebud &amp; Dots Baby Dedication / Christening Gown made of White Eyelet Cotton/Poly for easy care.  (Slip not shown)</p>
+<p>Rosebuds and dots embroidered motif on front bodice, with matching motif on sleeves.  Sleeves are tied with silk ribbons making them adjustable.  Rosebuds and dots repeated on skirt front along with Cross motif.  Length of gown from front neckline is 35". </p>
+<p>Gown and slip open in back all the way down for easy on and off, and making it easy to hold baby for pictures. </p>
+<p>Matching lined eyelet bonnet.  French cotton laces and Mother-of-Pearl buttons used throughout.  Sizes: 3, 6, 9 mo.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9106687617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">252.99</s:price>
+      <s:sku>03302017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557177857</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-sweet-sydney-christening-dress-ensemble"/>
+    <title>3-Piece Sweet Sydney Christening Dress Ensemble</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-sweet-sydney-christening-dress-ensemble.jpg?v=1601091017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            207.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Choose from white or yellow dotted swiss</strong> for this sweet embroidered dress, slip and bonnet combination. Dress has a voile underlayer, and bonnet and slip are both edged in French lace. Embroidery includes a cross (see below) which is optional.</span></p>
+<p>The Victorian women would often hand sew elaborate christening gowns while pregnant with their first child. These gowns, always white and with varying modes of delicate elaboration, would be carefully packed away and used again for each subsequent child. Lace, embroidery, tucks and insertions were common.</p>
+<p>When purchasing an heirloom christening gown, be aware that cotton and silk (natural fibers) will preserve their beauty far longer than man-made materials.</p>
+<p><span>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing)~~ for an additional $25.00.</span></p>
+<p><span>Christening Gowns will have a "History of Gown" description along with several sheets for passing down information as to when &amp; by whom these Heirloom Gowns are worn for future generations. </span><br><br><span>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</span></p>
+<p><span>Available in Newborn (8-13 lbs.) Small (13-15 lbs.) Medium (16-18 lbs.) and Large (19-21 lbs.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>newborn</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>small</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>medium</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>large</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557143169</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-antique-replica-heirloom-christening-gown-ensemble"/>
+    <title>3-Piece Antique Replica Heirloom Christening Gown Ensemble</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-antique-replica-heirloom-christening-gown-ensemble.jpg?v=1601091013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            237.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gorgeous Heirloom Christening Gown is an exact replica of an antique! It features white voile with tiny tucks in the front and back and lace-trimmed long sleeves and hem. Front has added "bolero" style layer at shoulders edged in lace. This ensemble comes complete with matching slip and bonnet.</span></p>
+<p>The Victorian women would often hand sew elaborate christening gowns while pregnant with their first child. These gowns, always white and with varying modes of delicate elaboration, would be carefully packed away and used again for each subsequent child. Lace, embroidery, tucks and insertions were common.</p>
+<p>When purchasing an heirloom christening gown, be aware that cotton and silk (natural fibers) will preserve their beauty far longer than man-made materials.</p>
+<p><span>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing)~~ for an additional $25.00.</span></p>
+<p><span>Christening Gowns will have a "History of Gown" description along with several sheets for passing down information as to when &amp; by whom these Heirloom Gowns are worn for future generations. </span><br><br><span>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</span></p>
+<p><span>Available in Newborn (8-13 lbs.) Small (13-15 lbs.) Medium (16-18 lbs.) and Large (19-21 lbs.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>newborn</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>small</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>medium</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>large</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557024449</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sarah-beth-heirloom-christening-gown-with-slip-and-bonnet"/>
+    <title>Sarah Beth Heirloom Christening Gown with Slip and Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sarah-beth-heirloom-christening-gown-with-slip-and-bonnet.jpg?v=1601091008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            212.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This little "Daygown" Heirloom Christening Gown uses 100% Cotton Batiste with 2 panels of Swiss Cotton Eyelet, Entredeux in the middle with Lavender ribbon running down front, French insertion lace on both sides of Swiss Eyelet and French edging at neckline. Back of neck has placket opening. Long sleeves have lavender ribbon through entredeux and French edging lace.</span></p>
+<p>SLIP: (Not shown) 100% Cotton Batiste with narrow lace around hemline, arms and neckline</p>
+<p>Bonnet has 100% Cotton Batiste Eyelet edging in front and eyelet gathered in back with a tied ribbon making it adjustable for baby's head. Lavender ribbon ties attached with lavender ribbon bows.</p>
+<p>Any color of ribbon may be chosen making this simpler gown appropriate for boys!</p>
+<p>The Victorian women would often hand sew elaborate christening gowns while pregnant with their first child. These gowns, always white and with varying modes of delicate elaboration, would be carefully packed away and used again for each subsequent child. Lace, embroidery, tucks and insertions were common.</p>
+<p>When purchasing an heirloom christening gown, be aware that cotton and silk (natural fibers) will preserve their beauty far longer than man-made materials.</p>
+<p><span>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing)~~ for an additional $25.00.</span></p>
+<p><span>Christening Gowns will have a "History of Gown" description along with several sheets for passing down information as to when &amp; by whom these Heirloom Gowns are worn for future generations. </span><br><br><span>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</span></p>
+<p>Choose 3, 6 or 9 month size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557024449</id>
+      <title>3 mo</title>
+      <s:price currency="USD">212.99</s:price>
+      <s:sku>2511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557024449</id>
+      <title>6 mo</title>
+      <s:price currency="USD">212.99</s:price>
+      <s:sku>3259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557024449</id>
+      <title>9 mo</title>
+      <s:price currency="USD">212.99</s:price>
+      <s:sku>3260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556966145</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/molly-malinda-heirloom-christening-gown-with-bonnet-and-slip"/>
+    <title>Molly Malinda Heirloom Christening Gown with Bonnet and Slip</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/molly-malinda-heirloom-christening-gown-with-bonnet-and-slip.jpg?v=1601091000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            312.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing) - for an additional $25.00.</p>
+<p>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</p>
+<p><span><span>Molly Malinda Heirloom Christening Gown with Slip</span></span></p>
+<p>Our "Molly Malinda" christening gown is embellished with French insertion lace across bodice and down front with a delicate ribbon rosebud design on lower bodice. Ribbon design is repeated above and below. Embroidered at the hemline is a cross and ribbon design. 100% Pima Cotton 27" in Length</p>
+<p>The neck is finished with entredeux and lace. Around neck front and back are hand-sewn French knots. At each shoulder on back and also at back hemline, tiny rosebuds are embroidered. Long sleeves repeat ribbon and rosebud cluster with insertion lace down each side of design. Bottom of sleeve has insertion lace and beading lace tied with silk ribbon. Hem has a row of insertion lace and Swiss embroidered lace with insertion lace with entredeux between each row. The last row of lace shows tiny crosses.</p>
+<p>SLIP: Slip repeats two rosebud designs at bodice and larger rosebud ribbon cluster at hemline. Neck, arms and hem are finished with lace.</p>
+<p><span>BONNET: Top of Bonnet repeats the ribbon and rosebud cluster. Each side and back has small rosebud design. Bonnet is edged in lace with wing-needle and has entredeux stitching around the entire edge. Silk ribbon ties are attached with square mother-of-pearl buttons.</span></p>
+<p>All Dedication/Christening collections include care instructions and "History of Gown" for future generations.</p>
+<p>Choose 3, 6 or 9 month size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556966145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">312.99</s:price>
+      <s:sku>2509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556958337</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/emma-lynn-christening-ensemble"/>
+    <title>Emma Lynn Christening Ensemble</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/emma-lynn-christening-ensemble.jpg?v=1601090991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            312.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 3-piece short sleeved baby Dedication/ Christening Gown ensemble is silk dupioni, French cotton laces, silk ribbons, and vintage reproduction mother-of-pearl buttons. <br>Gown is 36 inches long with matching slip and bonnet. <br>Gown and slip open in back all the way down for easy on and off of baby. Also making it easy to hold baby for pictures. <br>Embroidered motif with Cross on gown front. <br>Similar motif design on bodice front, sleeves, slip and bonnet.</p>
+<p>All Dedication/Christening collections include care instructions and "History of Gown" for future generations.</p>
+<p>Choose 3, 6 or 9 month size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556958337</id>
+      <title>3 mo</title>
+      <s:price currency="USD">312.99</s:price>
+      <s:sku>911N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556958337</id>
+      <title>6 mo</title>
+      <s:price currency="USD">312.99</s:price>
+      <s:sku>911N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556958337</id>
+      <title>9 mo</title>
+      <s:price currency="USD">312.99</s:price>
+      <s:sku>911N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

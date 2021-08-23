@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/rose-and-glass-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T10:18:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764246573145</id>
+    <published>2020-12-16T18:33:59-06:00</published>
+    <updated>2020-12-16T18:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-keshi-freshwater-pearl-necklace-earring-set"/>
+    <title>Peacock Keshi Freshwater Pearl Necklace Earring Set</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-keshi-freshwater-pearl-necklace-earring-set.jpg?v=1608210220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This necklace and earring are made by peacock color keshi pearls, cultured freshwater white pearls and white crystals. The neckalce is in 17 inch with 2.5 inch extension. The matching earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764246573145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1216204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764243951705</id>
+    <published>2020-12-16T18:32:04-06:00</published>
+    <updated>2020-12-16T18:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/keshi-queen-freshwater-pearl-necklace"/>
+    <title>Keshi Queen Freshwater Pearl Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/keshi-queen-freshwater-pearl-necklace.jpg?v=1608210219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant looking necklace and earring are made by AAA+ quality white keshi pearls and red &amp;l ight blue crystals in 17 inch with 2.5 inch extension. All white keshi pearls are very good luster and flawless. Earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764243951705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1216203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763701968985</id>
+    <published>2020-12-15T12:42:09-06:00</published>
+    <updated>2020-12-15T12:42:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-pn112"/>
+    <title>White Freshwater Pearl Necklace PN112</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn112.jpg?v=1608123791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7mm 85 inch cultured freshwater white pearl necklace with very good luster and hand knotted.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763701968985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1215201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2166168846425</id>
+    <published>2019-08-28T15:22:02-05:00</published>
+    <updated>2019-08-28T15:22:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/amethyst-broken-reclaimed-antique-glass-cage-earrings"/>
+    <title>Amethyst Broken Reclaimed Antique Glass Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/amethyst-broken-reclaimed-antique-glass-cage-earrings.jpg?v=1601094954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Amethyst Broken Reclaimed Antique Glass Cage Earrings, from early 1900's medicine bottles are absolutely AMAZING!  Beautiful pale lavender glass originally made clear, but after years in the sun turns purple in the sunlight.  These are fun to watch them instantly change colors as inside away from the sun they are a pale blue but once sun hits them they instantly turn an amazing lavender color. A light and airy way to wear a little bit of American history! A petite 1/2" silver-tone cage holds a few nuggets of beautiful antique glass bottles reclaimed from wooded environments, hammered and fired for gloss and smoothness. Cage is silver plated steel, ear wires are sterling plated surgical steel.</span></p>
+<p><span>Has matching necklace! </span></p>
+<p><a href="https://rosesandteacups.com/collections/vintage-glass-jewelry" target="_blank" title="Vintage Glass Jewelry Benefits Survivors of Domestic Violence" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-amethyst-cage-necklace_480x.jpg?v=1521856213" alt="Reclaimed Glass Amethyst Cage Necklace - Roses And Teacups " width="98" height="159"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2166168846425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>0828191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308612460645</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/exotic-freshwater-pearl-bridal-cuff-bracelet-778b"/>
+    <title>Exotic Freshwater Pearl Bridal Cuff Bracelet 778B</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/exotic-freshwater-pearl-bridal-cuff-bracelet-778b.jpg?v=1601094117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This stylish cuff measures a dramatic 2" w and creates a spectacular fashion statement for your beach or destination wedding jewelry. This cuff bracelet is also great for summer weddings.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308612460645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>07042018-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308507537509</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-vine-bridal-necklace-and-earrings-set-with-freshwater-pearls-4429sc-s"/>
+    <title>Silver Vine Bridal Necklace and Earrings Set with Freshwater Pearls 4429SC-S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-vine-bridal-necklace-and-earrings-set-with-freshwater-pearls-4429sc-s.jpg?v=1601094110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This <span>glistening Freshwater Pearl wedding necklace &amp; earrings boast an Austrian crystal studded floral motif. The adj. 14"-17" necklace is 1 1/2" h at the center. Dangle earrings (1 1/2" h) complete this elegant set.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308507537509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07042018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308506718309</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-crystal-gold-wedding-necklace-and-earrings-set-4061s-i-g"/>
+    <title>Ivory Freshwater Pearl &amp; Crystal Gold Wedding Necklace and Earrings Set 4061S-I-G</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-freshwater-pearl-crystal-gold-wedding-necklace-and-earrings-set-4061s-i-g.jpg?v=1601094109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This <span>glistening Pearl Wedding Necklace &amp; Earrings set has a crystal studded abstract motif plated in14K Gold. The adjustable 15" - 18" necklace is 1 1/2" high at the center. The 1 1/2" long dangle earrings complete our freshwater pearl set. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308506718309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07042018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308245852261</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/freshwater-pearl-crystal-wedding-necklace-and-earrings-set-4061s"/>
+    <title>Freshwater Pearl &amp; Crystal Wedding Necklace and Earrings Set 4061S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/freshwater-pearl-crystal-wedding-necklace-and-earrings-set-4061s.jpg?v=1601094103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This <span>glistening Pearl Wedding Necklace &amp; Earrings set has a crystal studded abstract motif. The adj. 15" - 18" necklace is 1 1/2" h at the center. The 1 1/2" h dangle earrings complete our freshwater pearl set.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308245852261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07032018-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308239429733</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/freshwater-pearls-in-cz-leaves-neck-set-3041s"/>
+    <title>Freshwater Pearl &amp; Crystal Wedding Necklace &amp; Earrings Set 4060S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/freshwater-pearl-crystal-wedding-necklace-earrings-set-4060s.jpg?v=1601094101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sweet Bridal Romance. This Freshwater Pearl and Crystal Wedding Necklace and Earrings set adds breathtaking couture to your wedding gown. Our adj. 15" - 17" Necklace is 1 5/8" h at the center &amp; the matching delicate dangle earrings are 2" h.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308239429733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07032018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308229959781</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ravishing-rose-gold-freshwater-pearl-and-cz-statement-necklace-and-earrings-set-4430s-i-rg"/>
+    <title>Ravishing Rose Gold Freshwater Pearl and CZ Statement Necklace and Earrings Set 4430S-I-RG</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ravishing-rose-gold-freshwater-pearl-and-cz-statement-necklace-and-earrings-set-4430s-i-rg.jpg?v=1601094100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Make a wedding day statement in this ravishing necklace and earrings set with lustrous freshwater pearls and CZ pears. The rose gold necklace is 16" plus a 1" extender and plunges 1 1/2" h at the center. The matching drop earrings are 1" h.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308229959781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>07032018-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1310791237733</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-freshwater-pearl-necklace-pn107"/>
+    <title>White Freshwater Pearl Necklace PN107</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn107.jpg?v=1601094152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>6-7mm cultured freshwater pearl necklace. The shortest one is 17 inch and longest one is 19 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1310791237733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07092018-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110788353</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-freshwater-pearls-bracelet-with-magnetic-closure-bf073"/>
+    <title>Silver Freshwater Pearls Bracelet with Magnetic Closure BF073</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-freshwater-pearls-bracelet-with-magnetic-closure-bf073.jpg?v=1601091876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7.5 inch freshwater pearls bracelet with magnetic clasp</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110788353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33827N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110636801</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-freshwater-pearl-station-necklace-s008"/>
+    <title>White Freshwater Pearl Station Necklace S008</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-station-necklace-s008.jpeg?v=1601091870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7mm cultured freshwater pearls in 36 inches. The pearls are petite in shape with very good luster. The chain is rhodium over copper.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110636801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33819N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110631681</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-freshwater-pearls-bracelet-with-magnetic-closure-bf013"/>
+    <title>White Freshwater Pearls Bracelet with Magnetic Closure BF013</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearls-bracelet-with-magnetic-closure-bf013.jpg?v=1601091867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7.5 inch freshwater pearls bracelet with magnetic clasp</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110631681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33817N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110630977</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-pastels-freshwater-pearls-bracelet-with-magnetic-closure-bf017"/>
+    <title>Peach Pastels Freshwater Pearls Bracelet with Magnetic Closure BF017</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-pastels-freshwater-pearls-bracelet-with-magnetic-closure-bf017.jpg?v=1601091866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7.5 inch freshwater pearls bracelet with magnetic clasp</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110630977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33816N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110630209</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-freshwater-pearls-bracelet-with-magnetic-closure-bf017"/>
+    <title>Peacock Freshwater Pearls Bracelet with Magnetic Closure BF015</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-freshwater-pearls-bracelet-with-magnetic-closure-bf015.jpg?v=1601091864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7.5 inch freshwater pearls bracelet with magnetic clasp</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110630209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33815N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110477825</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/twin-pearls-white-freshwater-pearl-earrings-es0050"/>
+    <title>Twin Pearls White Freshwater Pearl Earrings ES0050</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/twin-pearls-white-freshwater-pearl-earrings-es0050.jpg?v=1601091861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This trendy earring stud is made of freshwater cultured pearls and sterling silver back and post. The bigger pearls are 11mm and the smaller pearls are 8mm. The pearls are in button shape with very good luster.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110477825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33818N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110473345</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-freshwater-pearl-earrings-ed020"/>
+    <title>White Freshwater Pearl Earrings ED020</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-earrings-ed020.jpg?v=1601091860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7mm cultured freshwater pearl and sterling silver. The pearls are the best luster and flawless with natural white color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110473345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33817N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110470977</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-freshwater-pearl-earrings-ed021"/>
+    <title>Peacock Freshwater Pearl Earrings ED021</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-freshwater-pearl-earrings-ed021.jpg?v=1601091858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7mm cultured freshwater pearl and sterling silver. The pearls are the best luster and flawless with natural peacock color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110470977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33816N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110468353</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-freshwater-pearl-earrings-ed028"/>
+    <title>Pink Freshwater Pearl Earrings ED028</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-freshwater-pearl-earrings-ed028.jpg?v=1601091857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7mm cultured freshwater pearl and sterling silver. The pearls are the best luster and flawless with natural pink color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110468353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33815N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110466177</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-freshwater-pearl-earrings-ed027"/>
+    <title>Peach Freshwater Pearl Earrings ED027</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-freshwater-pearl-earrings-ed027.jpg?v=1601091856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>7mm cultured freshwater pearl and sterling silver. The pearls are the best luster and flawless with natural peach color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110466177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>33814N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110419969</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/freshwater-pearl-coin-earrings-set-ef001"/>
+    <title>Freshwater Pearl Coin Earrings Set EF001</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/freshwater-pearl-coin-earrings-set-ef001.jpg?v=1601091854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>14mm white freshwater coin pearl with sterling silver French hook.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110419969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>33813N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4109958529</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-and-earring-set-pn077"/>
+    <title>Ivory Freshwater Pearl Necklace PN038</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-freshwater-pearl-necklace-pn038.jpg?v=1601091846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8mm cultured freshwater pearl necklace. The shortest one is 24.5 inches and longest one is 27.5 inches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4109958529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>33809N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4109895553</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-peace-freshwater-pearl-necklace-and-earring-set-f149"/>
+    <title>Blue Peace Orchid Freshwater Pearl Necklace and Earring Set F115</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-peace-orchid-freshwater-pearl-necklace-and-earring-set-f115.jpg?v=1601091834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by cultured freshwater pearls and crystals with 18 inches plus 2 inches chain extension. The price includes one pair of earrings. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4109895553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33804N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

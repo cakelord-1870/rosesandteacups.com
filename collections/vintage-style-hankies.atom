@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/vintage-style-hankies.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-28T16:58:29-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4359497023577</id>
+    <published>2019-11-23T11:13:04-06:00</published>
+    <updated>2019-11-23T11:13:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-christmas-holiday-hankie"/>
+    <title>Poinsettia Christmas Holiday Hankie</title>
+    <s:type>Victorian Hankies</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-christmas-holiday-hankie.jpg?v=1601095081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Victorian Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettia Christmas Holiday Hankie is the perfect holiday gift for your purse or pocket.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4359497023577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>112319J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148113711193</id>
+    <published>2019-08-05T17:59:40-05:00</published>
+    <updated>2019-08-05T17:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blessings-vintage-style-cotton-hankie-1"/>
+    <title>Blessings Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blessings-vintage-style-cotton-hankie.jpg?v=1601094924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148113711193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>012318N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148101652569</id>
+    <published>2019-08-05T17:38:27-05:00</published>
+    <updated>2019-08-05T17:38:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daughter-hankie-with-pretty-pink-roses"/>
+    <title>Daughter Hankie with Pretty Pink Roses - Limited!</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daughter-hankie-with-pretty-pink-roses-limited.jpg?v=1601094923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Daughter Hankie with Pretty Pink Roses has lovely rosy border. Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148101652569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>6903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148094738521</id>
+    <published>2019-08-05T17:22:32-05:00</published>
+    <updated>2019-08-05T17:22:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/basket-of-pansies-and-daisies-scalloped-hankie"/>
+    <title>Basket of Pansies and Daisies Scalloped Hankie</title>
+    <s:type>Victorian Hankies</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/basket-of-pansies-and-daisies-scalloped-hankie.jpg?v=1601094922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Victorian Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basket of Pansies and Daisies Scalloped Hankie is so lovely with the basket adorned with a pink bow.  Adorable to use or give as a gift. </p>
+<p><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. Measures: 13 inch square</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148094738521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0805191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148061151321</id>
+    <published>2019-08-05T16:34:06-05:00</published>
+    <updated>2019-08-05T16:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-bride-scalloped-pink-roses-hankie"/>
+    <title>Beautiful Bride Scalloped Pink Roses Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-bride-scalloped-pink-roses-hankie.jpg?v=1601094921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Bride Scalloped Pink Roses Hankie is perfect for bridal events such as a gift or favor. Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148061151321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>6905</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1348025417829</id>
+    <published>2018-09-17T17:39:57-05:00</published>
+    <updated>2018-09-17T17:39:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-daffodils-and-forget-me-nots-hankie"/>
+    <title>Yellow Daffodils and Forget Me Nots Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Yellow_Daffodils_and_Forget_Me_Not_hanky_hankie_handkerchief.gif?v=1561401349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sunny Daffodils accented with pastel aqua Forget Me Nots hankie. Lovely Handkerchief!  </span><span>All Cotton Batiste Fabric - Hankies Measures 13" square.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1348025417829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>091718-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/413321396264</id>
+    <published>2018-01-23T12:20:41-06:00</published>
+    <updated>2018-01-23T12:20:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-christening-bonnet"/>
+    <title>Hankie Christening Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hankie-christening-bonnet.jpg?v=1582071376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a beautifully embroidered handkerchief, this is the perfect gift for your favorite newborn. Gift box, with poem shown.<br> <br> <em><strong>Poem Text</strong></em><br> I am a little bonnet<br> As you can plainly see.<br> But could you guess a handkerchief<br> Is what I use to be?<br> <br> Wear me home from the hospital<br> And again on Christening Day.<br> Then safely keep me tucked away<br> Until your Wedding Day.<br> <br> For good fortune all brides<br> Must wear something old<br> So just clip a couple of stitches<br> And a wedding hanky will unfold.<br> <br> If perhaps it is a boy<br> On the day he is to wed<br> Won't his bride be proud to use<br> The bonnet worn upon his head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/413321396264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0120201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8019209153</id>
+    <published>2016-09-21T16:30:00-05:00</published>
+    <updated>2016-09-21T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-blue-gingham-hankie-dress-favor-card-white-envelope"/>
+    <title>Floral Blue Gingham Hankie Dress Favor Card White Envelope</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-blue-gingham-hankie-dress-favor-card-white-envelope.jpg?v=1601092618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our hanky favor cards feature a beautiful handkerchief folded to create a darling hankie dress hung on a tiny metal clothes hanger. Each features an Especially For You gift tag and is adorned with a cute satin bow and pretty little button. The hankie card is wrapped in cello and includes a white envelope for gifting.  A fantastic favor for bridal showers and weddings. Perfect to place in the mail to put a smile on anyone's face when received. Once unfolded the recipient will have a gift they can keep forever. </p>
+<p>Hankie: 100% Batiste Cotton 13x13 </p>
+<p>Tag says:  Especially for You</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8019209153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>092116-1J</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10320317185</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tulips-round-vintage-style-cotton-hankie"/>
+    <title>Pink Tulips Round Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/round_vintage_style_hankie_with_pink_tulips.gif?v=1561400589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10320317185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>10172017-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10320311361</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-bouquets-vintage-style-cotton-hankie"/>
+    <title>Tulip Bouquets Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip_bouquets_vintage_style_hanky.gif?v=1561401201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tulip</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10320311361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>10172017-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10320291905</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-tussie-mussie-vintage-style-cotton-hankie"/>
+    <title>Rose Tussie Mussie Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose_tussie_mussie_vintage_style_hanky.gif?v=1561400746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10320291905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>10172017-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10320268545</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-daffodil-flowers-vintage-style-cotton-hankie"/>
+    <title>Blue Daffodil Flowers Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue_daffodil_vintage_style_hanky.gif?v=1561399456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10320268545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>10172017-14N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703285697</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-hearts-and-red-roses-valentine-vintage-style-cotton-hankie"/>
+    <title>Pink Hearts and Red Roses Valentine Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-pink-hearts-and-red-roses-valentine-vintage-style-cotton-hankie-1.gif?v=1561400548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703285697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22780N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703281345</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-hearts-and-streamers-valentine-vintage-style-cotton-hankie"/>
+    <title>Floral Hearts and Streamers Valentine Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-floral-hearts-and-streamers-valentine-vintage-style-cotton-hankie-1.gif?v=1561399900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703281345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22779N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703275969</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fancy-valentine-vintage-style-cotton-hankie"/>
+    <title>Fancy Valentine Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-fancy-valentine-vintage-style-cotton-hankie-1.gif?v=1561399875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703275969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22778N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703271681</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/delicate-bouquet-valentine-vintage-style-cotton-hankie"/>
+    <title>Delicate Bouquet Valentine Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-delicate-bouquet-valentine-vintage-style-cotton-hankie-1.gif?v=1561399790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703271681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22777N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703265281</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cheerful-valentine-vintage-style-cotton-hankie"/>
+    <title>Cheerful Valentine Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-cheerful-valentine-vintage-style-cotton-hankie-1.gif?v=1561399656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703265281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22776N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703246017</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-and-daisies-vintage-style-cotton-hankie"/>
+    <title>Roses and Daisies Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-roses-and-daisies-vintage-style-cotton-hankie-1.gif?v=1561400754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703246017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22773N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703217025</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-floral-wreaths-vintage-style-cotton-hankie"/>
+    <title>Pink Floral Wreaths Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-pink-floral-wreaths-vintage-style-cotton-hankie-1.gif?v=1561400547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703217025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22772N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703211009</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/festive-layer-cakes-vintage-style-cotton-hankie"/>
+    <title>Festive Layer Cakes Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-festive-layer-cakes-vintage-style-cotton-hankie-1.gif?v=1561399881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703211009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22771N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703203201</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sophisticated-graphite-vintage-style-cotton-hankie"/>
+    <title>Sophisticated Graphite Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-sophisticated-graphite-vintage-style-cotton-hankie-1.gif?v=1561401041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703203201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22770N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703183297</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-shasta-daisies-vintage-style-cotton-hankie"/>
+    <title>White Shasta Daisies Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-white-shasta-daisies-vintage-style-cotton-hankie-1.gif?v=1561401321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703183297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22768N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703149441</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crocus-vintage-style-cotton-hankie"/>
+    <title>Crocus Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-crocus-vintage-style-cotton-hankie-1.gif?v=1561399771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703149441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22763N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3703142593</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/birthday-vintage-style-cotton-hankie"/>
+    <title>Birthday Vintage Style Cotton Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-hankies-birthday-vintage-style-cotton-hankie-1.gif?v=1561399435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3703142593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>22762N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

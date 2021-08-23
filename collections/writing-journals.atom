@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/writing-journals.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-28T13:45:42-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4169588473945</id>
+    <published>2019-09-28T13:45:42-05:00</published>
+    <updated>2019-09-28T13:45:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-can-do-all-things-through-him-hardcover-journal-only-2-available"/>
+    <title>I Can Do All Things Through Him Hardcover Journal - Only 1 Left!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-can-do-all-things-through-him-hardcover-journal-only-1-left.jpg?v=1601095013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our I Can Do All Things Through Him Hardcover Journal  reads <span>"I can do all this through Him who gives me strength. Phil. 4:13" </span><span>Pretty inspirational journal is the perfect place to jot down your thoughts, prayers, important notes, and more.</span><br><br>
+<ul>
+<li>Wirebound</li>
+<li>Hardcover</li>
+<li>192 Lined Pages</li>
+<li>Bible Verse at Bottom of Each Page</li>
+<li>Presentation Page for Gift Giving</li>
+<li>6" (W) x 8 1/4" (H)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4169588473945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4169575759961</id>
+    <published>2019-09-28T09:55:14-05:00</published>
+    <updated>2019-09-28T09:55:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-think-ill-just-be-happy-today-softcover-lined-journal-limited-supply"/>
+    <title>I Think I&apos;ll Just Be Happy Today Softcover Lined Journal - Limited Supply!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-think-ill-just-be-happy-today-softcover-lined-journal-limited-supply.jpg?v=1601095009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our beautiful I Think I'll Just Be Happy Today Softcover Lined Journal is perfect for daily reflection and meditation!</span><br>
+<ul>
+<li>128 Lined Pages</li>
+<li>Different Inspirational<span> </span>Message<span> </span>on Each Page</li>
+<li>Soft Cover</li>
+<li>8.5" Tall x 6" Wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4169575759961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0928191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1307856044133</id>
+    <published>2018-07-03T06:08:20-05:00</published>
+    <updated>2018-07-03T06:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-tea-cups-notebook"/>
+    <title>Carol Wilson Stacked Tea Cups Notebook - Limited Supply!</title>
+    <s:type>notebook</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stacked-tea-cups-notebook-limited-supply.jpeg?v=1601094095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>notebook<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet Carol Wilson tea themed notebook features 224 lined pages.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1307856044133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07032018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8275742145</id>
+    <published>2016-10-18T17:57:00-05:00</published>
+    <updated>2016-10-18T17:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brooch-embellished-hardcover-journal-bird"/>
+    <title>Brooch Embellished Hardcover Journal - Bird - Only 1 Left!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brooch-embellished-hardcover-journal-bird-only-1-left.jpg?v=1582071331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>104 full-color lined sheets per linen-texture embossed journal</p>
+<p>Size: 6" x 81 ⁄2"</p>
+<p>Magnetic closure</p>
+<p>(Brooches are not removable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8275742145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1319887667301</id>
+    <published>2015-06-27T17:16:00-05:00</published>
+    <updated>2015-06-27T17:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-images-spiral-notebook-prayer-journal"/>
+    <title>Victorian Images Spiral Notebook Prayer Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-images-spiral-notebook-prayer-journal.jpg?v=1601094238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>80 Lined Pages 5.47 x 8.5  Some of our Victorian images are combined to create a colorful journal for your special thoughts and prayers.  These are fabulous for gifts and favors, as well!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1319887667301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>07272018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1319885209701</id>
+    <published>2015-06-27T17:16:00-05:00</published>
+    <updated>2015-06-27T17:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-images-spiral-notebook-journal"/>
+    <title>Victorian Images Spiral Notebook Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-images-spiral-notebook-journal.jpg?v=1601094236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>80 Lined Pages 5.47 x 8.5  Some of our Victorian images are combined to create a colorful journal for your special thoughts.  These are fabulous for gifts and favors, as well!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1319885209701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>07272018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1376986753</id>
+    <published>2015-06-27T17:16:00-05:00</published>
+    <updated>2015-06-27T17:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-spiral-notebook-journal"/>
+    <title>Tea Time Spiral Notebook Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-spiral-notebook-journal.jpg?v=1601088552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>80 Lined Pages 5.47 x 8.5  Some of our favorite tea party images are combined to create a colorful journal for your tea time thoughts.  These are fabulous for gifts and favors, as well!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1376986753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7570</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1376898625</id>
+    <published>2015-06-27T17:11:00-05:00</published>
+    <updated>2015-06-27T17:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-country-roses-spiral-notebook-journal"/>
+    <title>Old Country Roses Spiral Notebook Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-spiral-notebook-journal.jpg?v=1601088551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Old Country Roses Tea Notebook Perfect for you, a friend, a group, an event!<br></span>80 Lined Pages 5.47 x 8.5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1376898625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5566018369</id>
+    <published>2015-06-27T11:31:00-05:00</published>
+    <updated>2015-06-27T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppy-rose-hardcover-writing-journal"/>
+    <title>Poppy Rose Hardcover Writing Journal</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppy-rose-hardcover-writing-journal.jpg?v=1601092146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Journal size: 5" x 7"  96 lined pages.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5566018369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34388N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5565982721</id>
+    <published>2015-06-27T11:31:00-05:00</published>
+    <updated>2015-06-27T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flutter-butterfly-hardcover-writing-journal"/>
+    <title>Flutter Butterfly Hardcover Writing Journal</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flutter-butterfly-hardcover-writing-journal.jpg?v=1601092145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Journal size: 5" x 7"  96 lined pages.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5565982721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34387N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1374549249</id>
+    <published>2015-06-27T11:31:00-05:00</published>
+    <updated>2015-06-27T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-hardcover-writing-journal"/>
+    <title>Vegetable Garden Hardcover Writing Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-hardcover-writing-journal.jpg?v=1601088550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Journal size: 8.75" x 5.75". 160 lined pages. Includes Designer Pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1374549249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1374529857</id>
+    <published>2015-06-27T11:31:00-05:00</published>
+    <updated>2015-06-27T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cottage-in-bloom-writing-journal"/>
+    <title>Cottage in Bloom Writing Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cottage-in-bloom-writing-journal.jpg?v=1601088545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Journal size: 8.75" x 5.75". 160 lined pages. With designer pen and Ribbon Closure.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1374529857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>9477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

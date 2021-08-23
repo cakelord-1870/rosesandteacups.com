@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/silver-teaware.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-11T17:39:07-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1188893761</id>
+    <published>2021-06-11T17:39:07-05:00</published>
+    <updated>2021-06-11T17:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sandwich-tong"/>
+    <title>Sandwich Tong - Only 1 Left!</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sandwich-tong-only-1-left.jpg?v=1623456751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nickel-plated zinc alloy sandwich tong, rectangular style with elaborate etching - about 8 3/4" long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1188893761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4369583079513</id>
+    <published>2019-11-30T21:13:22-06:00</published>
+    <updated>2019-11-30T21:13:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-9-cup-victorian-style-silver-teapot-only-1-available"/>
+    <title>9 Cup Victorian Style Silver Teapot</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/9-cup-victorian-style-silver-teapot.jpg?v=1582072453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            169.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This teapot is a classic high tea style teapot in silver plate. The pot rests on a fancy stand and is easily lifted for pouring. There is an elaborate crest design engraved on both sides of the pot. It has a generous 9 cup capacity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4369583079513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.98</s:price>
+      <s:sku>4380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1183006785</id>
+    <published>2015-06-11T22:16:00-05:00</published>
+    <updated>2015-06-11T22:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cake-tong"/>
+    <title>Cake Tong - 1 Left!</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cake-tong-1-left.jpg?v=1623456746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nickel-plated zinc alloy cake tong, rectangular style with elaborate etching - about 8 3/4" long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1183006785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/decorated-sugar-cubes.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-11T22:25:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506137025</id>
+    <published>2015-07-11T22:25:00-05:00</published>
+    <updated>2015-07-11T22:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-valentines-day"/>
+    <title>48 Decorated Sugar Cubes - Valentines Day</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-valentines-day.jpg?v=1601089705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506137025</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>7558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506121473</id>
+    <published>2015-07-11T22:23:18-05:00</published>
+    <updated>2015-07-11T22:23:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-easter"/>
+    <title>48 Decorated Sugar Cubes - Easter</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-easter.jpg?v=1601089704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506121473</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506112065</id>
+    <published>2015-07-11T22:22:13-05:00</published>
+    <updated>2015-07-11T22:22:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-usa"/>
+    <title>48 Decorated Sugar Cubes - USA</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-usa.jpg?v=1601089703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506112065</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506105793</id>
+    <published>2015-07-11T22:21:29-05:00</published>
+    <updated>2015-07-11T22:21:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-beach"/>
+    <title>48 Decorated Sugar Cubes - Beach</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-beach.jpg?v=1601089702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506105793</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506094721</id>
+    <published>2015-07-11T22:20:20-05:00</published>
+    <updated>2015-07-11T22:20:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-summer"/>
+    <title>48 Decorated Sugar Cubes - Summer</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-summer.jpg?v=1601089701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506094721</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506083393</id>
+    <published>2015-07-11T22:19:01-05:00</published>
+    <updated>2015-07-11T22:19:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-spring"/>
+    <title>48 Decorated Sugar Cubes - Spring</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-spring.jpg?v=1601089700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506083393</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506072513</id>
+    <published>2015-07-11T22:17:48-05:00</published>
+    <updated>2015-07-11T22:17:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-fall-leaves"/>
+    <title>48 Decorated Sugar Cubes - Fall Leaves</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-fall-leaves.jpg?v=1601089699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506072513</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506051009</id>
+    <published>2015-07-11T22:15:15-05:00</published>
+    <updated>2015-07-11T22:15:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-winter"/>
+    <title>48 Decorated Sugar Cubes - Winter</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-winter.jpg?v=1601089697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506051009</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>5496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506046273</id>
+    <published>2015-07-11T22:14:37-05:00</published>
+    <updated>2015-07-11T22:14:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-christmas"/>
+    <title>48 Decorated Sugar Cubes - Christmas</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-christmas.jpg?v=1601089696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506046273</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>5495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506032513</id>
+    <published>2015-07-11T22:12:00-05:00</published>
+    <updated>2015-07-11T22:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-thanksgiving"/>
+    <title>48 Decorated Sugar Cubes - Thanksgiving</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-thanksgiving.jpg?v=1601089695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506032513</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>5494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506025537</id>
+    <published>2015-07-11T22:12:00-05:00</published>
+    <updated>2015-07-11T22:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-mothers-day"/>
+    <title>48 Decorated Sugar Cubes - Mothers Day</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-mothers-day.jpg?v=1601089694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506025537</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506018433</id>
+    <published>2015-07-11T22:11:23-05:00</published>
+    <updated>2015-07-11T22:11:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-teapot"/>
+    <title>48 Decorated Sugar Cubes - Teapot</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-teapot.jpg?v=1601089693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506018433</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7454081537</id>
+    <published>2015-07-11T22:11:00-05:00</published>
+    <updated>2015-07-11T22:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-halloween"/>
+    <title>48 Decorated Sugar Cubes - Halloween</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-halloween.jpg?v=1601092548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Halloween Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7454081537</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>08162016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506013697</id>
+    <published>2015-07-11T22:10:49-05:00</published>
+    <updated>2015-07-11T22:10:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-baby-girl"/>
+    <title>48 Decorated Sugar Cubes- Baby Girl</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-baby-girl.jpg?v=1601089692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506013697</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505999937</id>
+    <published>2015-07-11T22:09:17-05:00</published>
+    <updated>2015-07-11T22:09:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-baby-boy"/>
+    <title>48 Decorated Sugar Cubes - Baby Boy</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-baby-boy.jpg?v=1601089691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505999937</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505990145</id>
+    <published>2015-07-11T22:08:03-05:00</published>
+    <updated>2015-07-11T22:08:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-pastel-floral"/>
+    <title>48 Decorated Sugar Cubes - Pastel Floral</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-pastel-floral.jpg?v=1601089689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505990145</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505983169</id>
+    <published>2015-07-11T22:07:10-05:00</published>
+    <updated>2015-07-11T22:07:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-baby-shower"/>
+    <title>48 Decorated Sugar Cubes - Baby Shower</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-baby-shower.jpg?v=1601089688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505983169</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505977217</id>
+    <published>2015-07-11T22:06:24-05:00</published>
+    <updated>2015-07-11T22:06:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-wedding"/>
+    <title>48 Decorated Sugar Cubes - Wedding</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-wedding.jpg?v=1601089687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505977217</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505972033</id>
+    <published>2015-07-11T22:05:46-05:00</published>
+    <updated>2015-07-11T22:05:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-rosebud"/>
+    <title>48 Decorated Sugar Cubes - Rosebud</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-rosebud.jpg?v=1601089686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505972033</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>4480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505507457</id>
+    <published>2015-07-11T20:06:00-05:00</published>
+    <updated>2015-07-11T20:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-valentines-day"/>
+    <title>15 Decorated Sugar Cubes - Valentines Day</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-valentines-day.jpg?v=1601089666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505507457</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>7557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505501057</id>
+    <published>2015-07-11T20:04:00-05:00</published>
+    <updated>2015-07-11T20:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-monogrammed"/>
+    <title>15 Decorated Sugar Cubes - Monogrammed</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-monogrammed.jpg?v=1601089665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505501057</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>7026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505496833</id>
+    <published>2015-07-11T20:03:04-05:00</published>
+    <updated>2015-07-11T20:03:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-usa"/>
+    <title>15 Decorated Sugar Cubes - USA</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-usa.jpg?v=1601089663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505496833</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505497921</id>
+    <published>2015-07-11T20:03:00-05:00</published>
+    <updated>2015-07-11T20:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-easter"/>
+    <title>15 Decorated Sugar Cubes - Easter</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-easter.jpg?v=1601089664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505497921</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505494849</id>
+    <published>2015-07-11T20:02:31-05:00</published>
+    <updated>2015-07-11T20:02:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-beach"/>
+    <title>15 Decorated Sugar Cubes - Beach</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-beach.jpg?v=1601089662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505494849</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505494273</id>
+    <published>2015-07-11T20:02:07-05:00</published>
+    <updated>2015-07-11T20:02:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-summer"/>
+    <title>15 Decorated Sugar Cubes - Summer</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-summer.jpg?v=1601089661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505494273</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

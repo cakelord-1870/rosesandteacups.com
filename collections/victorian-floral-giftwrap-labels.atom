@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-floral-giftwrap-labels.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-12-31T17:06:04-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1940063322201</id>
+    <published>2018-12-31T17:06:04-06:00</published>
+    <updated>2018-12-31T17:06:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/quilt-gift-labels"/>
+    <title>8 Quilt Gift Labels - Limited Supply!</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-quilt-gift-labels-limited-supply.jpg?v=1601094575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our 8 Quilt Gift Labels are perfect for just about any occasion, these dainty, decorative labels--reminiscent of familiar quilt patterns--depict floral wreaths, geometric designs, animals, quaint buildings and more.  With space for address or brief message, they will perk up even the simplest packages.  Just peel and apply!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens &amp; Tea Stationery</s:tag>
+    <s:tag>quilt labels</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1940063322201</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859426625</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-gift-bag"/>
+    <title>Lilacs Gift Bag</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-gift-bag.jpg?v=1601092933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8.25"h x 9.25"w x 4" </span><br><span>Comes with Gift Tag</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859426625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>02152017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3998653057</id>
+    <published>2016-01-29T13:38:00-06:00</published>
+    <updated>2016-01-29T13:38:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-rose-cottage-gift-bag-with-hang-tag"/>
+    <title>Tea Rose Cottage Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-rose-cottage-gift-bag-with-hang-tag-1.gif?v=1561401143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You'll love the gorgeous Tea Graphics and Paris style Roses on this paper gift bag with hang tag.</span></p>
+<p><span>8.25"h x 9.25"w x 4"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3998653057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33510N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343425665</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thanksgiving-gift-bag-with-hang-tag"/>
+    <title>Thanksgiving Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thanksgiving-gift-bag-with-hang-tag.jpg?v=1601092769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343425665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>10282016-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343417537</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angel-gift-bag-with-hang-tag"/>
+    <title>Angel Gift Bag with Hang Tag Includes Wearable Angel Pin</title>
+    <s:type>gift</s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angel-gift-bag-with-hang-tag-includes-wearable-angel-pin.jpg?v=1601092765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong>gift<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Beautiful Christmas Angel Gift Bag with Wearable Angel Pin is perfect for your gifts plus it includes a small adorable and wearable angel pin. Jewel colors vary. </span></p>
+<p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343417537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>10282016-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755926081</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lets-have-tea-tea-tin-gift-set"/>
+    <title>Let&apos;s Have Tea Tea Tin Gift Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lets-have-tea-tea-tin-gift-set.jpg?v=1601091736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely garden tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favors or gifts.   </span><span>Fresh Flowers Tote Bag </span><span> Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</span><span>  Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755926081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22850N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755916289</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lets-have-tea-gift-bag-with-hang-tag"/>
+    <title>Let&apos;s Have Tea Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lets-have-tea-gift-bag-with-hang-tag.jpg?v=1601091734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755916289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22848N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755912641</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cup-of-tea-gift-bag-with-hang-tag"/>
+    <title>Cup of Tea Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cup-of-tea-gift-bag-with-hang-tag.jpg?v=1601091733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.  Photo does not show gift bag but the bag matches the tea tin shown.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755912641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22847N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755904577</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-gift-bag-with-hang-tag-1"/>
+    <title>Tea Time Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-gift-bag-with-hang-tag.jpg?v=1601091732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.  Photo does not show gift bag but the bag matches the tea tin shown.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755904577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22846N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755888513</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-gift-bag-with-hang-tag"/>
+    <title>Tea Party Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-party-gift-bag-with-hang-tag.jpg?v=1601091731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755888513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22845N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755886785</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/time-for-tea-gift-bag-with-hang-tag"/>
+    <title>Time for Tea Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/time-for-tea-gift-bag-with-hang-tag.jpg?v=1601091730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Time for Tea Gift Bag with matching Hang Tag</span></p>
+<p><span>Bag measures 5.5 x 3.25 x 8.5.  Bag is display behind our note card and tin in image. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755886785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22844N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755885825</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-tea-gift-bag-with-hang-tag"/>
+    <title>Garden Tea Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-tea-gift-bag-with-hang-tag.jpg?v=1601091729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755885825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22842N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755884673</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/my-favorite-things-gift-bag-with-hang-tag"/>
+    <title>My Favorite Things Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-favorite-things-gift-bag-with-hang-tag.jpg?v=1601091727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755884673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22841N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3755879105</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/my-favorite-teapot-gift-bag"/>
+    <title>My Favorite Teapot Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-favorite-teapot-gift-bag-with-hang-tag.jpg?v=1601091726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3755879105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>22840N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750621761</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/time-for-tea-tea-tin-gift-bag-set"/>
+    <title>Time for Tea Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/time-for-tea-tea-tin-gift-bag-set.jpg?v=1601091714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span> Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750621761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22826N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750616257</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-tea-tea-tin-gift-bag-set"/>
+    <title>Garden Tea Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-tea-tea-tin-gift-bag-set.jpg?v=1601091711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely garden tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span>Food Safe and perfect for tea or candy tea party favors or gifts.  Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750616257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22825N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750614529</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-party-tea-tin-gift-bag-set"/>
+    <title>Tea Party Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-party-tea-tin-gift-bag-set.jpg?v=1601091708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span> Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750614529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22824N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750609665</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/my-favorite-teapot-tea-tin-gift-bag-set"/>
+    <title>My Favorite Teapot Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-favorite-teapot-tea-tin-gift-bag-set.jpg?v=1601091706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span>  Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750609665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22823N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750602241</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cup-of-tea-tin-with-6-tea-bags-in-matching-envelopes-and-gift-bag"/>
+    <title>Cup of Tea Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cup-of-tea-tea-tin-gift-bag-set.jpg?v=1601091704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span>  Comes filled with 6 matching tea envelopes with assorted teas.  Also includes Matching Gift Bag with Gift Tag and Matching Note Card!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750602241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22822N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750581057</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-tea-tin-with-6-tea-bags-in-matching-envelopes"/>
+    <title>Tea Time Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-tea-tin-gift-bag-set.jpg?v=1601091703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift. </span>Comes filled with 6 matching tea envelopes with assorted teas.  Also includes Matching Gift Bag with Gift Tag and Matching Note Card!  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750581057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22821N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3750580865</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-tea-cup-tea-tin-with-6-tea-bags-in-matching-envelopes"/>
+    <title>My Favorite Things Tea Tin Gift Bag Set</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-favorite-things-tea-tin-gift-bag-set.jpg?v=1601091701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span> Comes filled with 6 matching tea envelopes with assorted teas.  Includes matching gift bag and hang tag plus matching note card.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3750580865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>22820N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2467494465</id>
+    <published>2015-11-11T15:43:00-06:00</published>
+    <updated>2015-11-11T15:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-tea-time-gift-bag"/>
+    <title>Holiday Christmas Tea Time Gift Bag</title>
+    <s:type>Giftwrap Bags Tags and Labels</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Holiday-Christmas-Tea-Time-Gift-Bag_c6422814-92b9-4e23-953d-3aee018226f5.jpg?v=1629331915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Giftwrap Bags Tags and Labels<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holiday Christmas Tea Time Large Gift Bag <br><br>8.25"h x 9.25"w x 4" <br>Comes with Gift Tag</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2467494465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>5081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1940094582873</id>
+    <published>2015-07-11T18:52:00-05:00</published>
+    <updated>2015-07-11T18:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angels-and-cherubs-punch-out-gift-boxes-with-matching-gift-tags-perfect-for-valentines-day"/>
+    <title>Angels and Cherubs Punch Out Gift Boxes with Matching Gift Tags - Perfect for Valentines Day! Limited Amount Available!</title>
+    <s:type>Giftwrap Bags Tags and Labels</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angels-and-cherubs-punch-out-gift-boxes-with-matching-gift-tags-perfect-for-valentines-day-limited-amount-available.jpg?v=1601094576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Giftwrap Bags Tags and Labels<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Angels and Cherubs Punch Out Gift Boxes with Matching Gift Tags with make 9 lovely gift boxes! Bring cherubic charm to any gift-giving occasion with these delightful gift boxes decorated with angel and cherub designs reproduced from rare Victorian-era chromo-lithographs. Included are 3 nesting boxes (largest is 3 1/4" square x 1 1/4"). Two of the designs are lavishly accented with gold; the third is a striking allover pattern.  No scissors are necessary. Just punch out, fold along pre-scored lines, glue and you have the ideal container for small gifts and mementos, from candy to jewelry. Nine matching gift tags included. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1940094582873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505409601</id>
+    <published>2015-07-11T18:52:00-05:00</published>
+    <updated>2015-07-11T18:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paisley-gift-wrap-pack"/>
+    <title>Paisley Gift Wrap Pack</title>
+    <s:type>Giftwrap Bags Tags and Labels</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paisley-gift-wrap-pack.jpg?v=1601089628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Giftwrap Bags Tags and Labels<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our gift wrap packs come with 2 Crisp 18" x 24" Sheets of Wrapping Paper (No Staples!) with 2 Matching Gift Cards. Enough for several gifts.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505409601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505400577</id>
+    <published>2015-07-11T18:52:00-05:00</published>
+    <updated>2015-07-11T18:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-time-children-gift-labels-and-stickers"/>
+    <title>54 Old-Time Children Gift Labels and Stickers - Limited Supply!</title>
+    <s:type>Giftwrap Bags Tags and Labels</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/54-old-time-children-gift-labels-and-stickers-limited-supply.jpg?v=1601089620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Giftwrap Bags Tags and Labels<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The angelic faces in this delightful collection of 54 peel-and-apply designs will add a touch of Victorian charm to any number of flat surfaces.  They'll also make gift-giving and special occasions particularly enjoyable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505400577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

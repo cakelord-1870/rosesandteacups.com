@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/sales-specials.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T13:22:49-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6598000181337</id>
+    <published>2021-06-22T13:22:49-05:00</published>
+    <updated>2021-06-22T13:22:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchanted-garden-address-book"/>
+    <title>Enchanted Garden Address Book</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchanted-garden-address-book.jpg?v=1624453462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Roses, Butterflies and Pretty Floral pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6598000181337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268749697</id>
+    <published>2021-06-22T13:15:16-05:00</published>
+    <updated>2021-06-22T13:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-address-book"/>
+    <title>Vintage Garden Address Book - Just 1 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-address-book-just-1-available.jpg?v=1624407151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268749697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268131201</id>
+    <published>2021-06-22T13:10:02-05:00</published>
+    <updated>2021-06-22T13:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-note-cards"/>
+    <title>Vintage Garden Note Cards - Only 1 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-note-cards-only-1-left.jpg?v=1624407142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace</p>
+<p>8 Note Cards with Pink Foil and 2 Layer Embossing</p>
+<p>Pink Envelopes</p>
+<p>Approx 4x5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268131201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268278657</id>
+    <published>2021-06-22T13:08:15-05:00</published>
+    <updated>2021-06-22T13:08:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-memo-pad-with-pen"/>
+    <title>Vintage Garden Memo Pad with Pen - Just 2 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-memo-pad-with-pen-just-2-available.jpg?v=1624407146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll fine gorgeous Pink Florals, Butterflies and Lace and even Pink Foil on this Memo Pad and Pen Set.</p>
+<p>65 Sheets <span>Approx 5.3x5.5 inches</span></p>
+<p>Coordinating Pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268278657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367364353</id>
+    <published>2021-06-22T12:26:06-05:00</published>
+    <updated>2021-06-22T12:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-ceramic-memo-and-pen-set"/>
+    <title>Tulip Ceramic Memo and Pen Set - Only 2 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-ceramic-memo-and-pen-set-only-2-left.jpg?v=1601088516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Ceramic Memo Set Sheet size: 3" x 4", 75 printed sheets Includes Designer pen and ceramic holder.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367364353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342302093413</id>
+    <published>2021-06-17T12:53:38-05:00</published>
+    <updated>2021-06-17T12:53:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-porcelain-teapot-in-gift-box"/>
+    <title>Poppyseed Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-porcelain-teapot-in-gift-box.jpg?v=1601094288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppyseed Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342302093413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09051018-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3554088705</id>
+    <published>2021-06-07T14:24:08-05:00</published>
+    <updated>2021-06-07T14:24:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pansies-and-butterflies-wicker-style"/>
+    <title>Pansies and Butterflies Childrens Tin Teaset FREE tea! Little Girls 15pc Tea Set in a Purple Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-purple-wicker-style-basket.jpg?v=1601091655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Child size Pansies and Butterflies 15 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3554088705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>112015-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756785037401</id>
+    <published>2020-11-28T08:54:05-06:00</published>
+    <updated>2020-11-28T08:54:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-spoon-jewelry-elephant-pendant-necklace"/>
+    <title>Sterling Silver Spoon Jewelry Elephant Pendant Necklace</title>
+    <s:type>Silver Spoon Creature Necklaces</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-spoon-jewelry-elephant-pendant-necklace_1f538ab1-cf0b-4a89-980c-0ce80495f801.jpg?v=1607127140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Creature Necklaces<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<p data-mce-fragment="1">The ears of this gorgeous elephant have been created from the handles of two antique spoons, and the trunk was formed from a different spoon handle. Our goal was to bring the elegance of the past into a classically beautiful piece of modern jewelry. </p>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Chain Length: 30"</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pendant: 2" x 1 3/4" Sterling Silver</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Chain &amp; Findings: Sterling Silver</span></li>
+</ul>
+<p><span>***We know that the shipping for this item will be higher due to our shipping price being based on subtotal so we have adjusted the price of this item lower to help with this cost</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756785037401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>1128201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756662485081</id>
+    <published>2020-11-27T22:19:08-06:00</published>
+    <updated>2020-11-27T22:19:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-enameled-teapot-necklace"/>
+    <title>Blue Enameled Teapot Necklace</title>
+    <s:type>tea jewelry</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-enameled-teapot-necklace.jpg?v=1606568610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>tea jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Isn't this amazing!  We found this enameled teapot necklace and couldn't resist!  A very special gift or a statement necklace for you!  14k Gold over Copper.</p>
+<ul class="wt-text-body-01">
+<li>
+<div>Handmade decorated</div>
+</li>
+<li>Necklace length: 79.5 Centimeters; Pendant height: 2.3 Centimeters; Pendant width: 2.3 Centimeters</li>
+<li>
+<div>Materials: Copper, Gold</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756662485081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>1127201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743144636505</id>
+    <published>2020-10-27T18:15:33-05:00</published>
+    <updated>2020-10-27T18:15:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/unicorn-childrens-tin-teaset-free-tea-19pc-tea-set-for-little-girls-in-a-white-wicker-style-basket"/>
+    <title>Unicorn Childrens Tin Teaset FREE Tea! 19pc Tea Set for Little Girls in a White Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/unicorn-childrens-tin-teaset-free-tea-19pc-tea-set-for-little-girls-in-a-white-wicker-style-basket.jpg?v=1603890216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 19 piece lovely children's tin tea set has adorable pink florals on a pink and blue background .  The perfect tea set for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. This set also has 4 spoons with holder!  FREE tea included with all children tea sets! </p>
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743144636505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743142178905</id>
+    <published>2020-10-27T18:03:20-05:00</published>
+    <updated>2020-10-27T18:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/princess-childrens-tin-teaset-free-tea-little-girls-19pc-tea-set-in-a-pink-wicker-style-basket"/>
+    <title>Princess Childrens Tin Teaset FREE tea! Little Girls 19pc Tea Set in a Pink Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/princess-childrens-tin-teaset-free-tea-little-girls-19pc-tea-set-in-a-pink-wicker-style-basket.jpg?v=1603890215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unicorns, Butterflies, Castles and a Princess all on one childs tea set!!  Child size 19 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates, 4 napkins plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743142178905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743141359705</id>
+    <published>2020-10-27T18:01:37-05:00</published>
+    <updated>2020-10-27T18:01:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daisies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-pink-wicker-style-basket"/>
+    <title>Daisies and Butterflies Childrens Tin Teaset FREE tea! Little Girls 15pc Tea Set in a Pink Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daisies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-pink-wicker-style-basket.jpg?v=1603890214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Child size Daisies and Butterflies 15 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743141359705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312875991129</id>
+    <published>2020-01-23T11:53:03-06:00</published>
+    <updated>2020-01-23T11:53:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/faith-victorian-teddy-bear-1"/>
+    <title>Faith Victorian Teddy Bear - Only 1 Available!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/faith-victorian-teddy-bear-only-1-available.jpg?v=1582072438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faith Victorian Teddy Bear<br> Approx 9” has white pearl earrings and bracelets, clothes do not come off, clothing: tulle, organza, lace, embellished with satin roses, pearls and rhinestones<br> Bear and clothing are both made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312875991129</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>9438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4386970828889</id>
+    <published>2019-12-13T13:54:06-06:00</published>
+    <updated>2019-12-13T13:54:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/large-silver-pleated-teapot-charm-pendant-includes-free-chain-only-3-available"/>
+    <title>Large Silver Pleated Teapot Charm Pendant Includes Free Chain - Only 2 Available!</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/large-silver-pleated-teapot-charm-pendant-includes-free-chain-only-2-available.jpg?v=1601095155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Pleated Teapot Charm Pendant is a stunner!!! Includes free chain for easy gifting!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4386970828889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4386969092185</id>
+    <published>2019-12-13T13:51:08-06:00</published>
+    <updated>2019-12-13T13:51:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/opal-white-porcelain-teapot-charm-pendant-includes-free-chain-one-of-a-kind"/>
+    <title>Opal White Porcelain Teapot Charm Pendant Includes Free Chain - Only 2 Available!</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/opal-white-porcelain-teapot-charm-pendant-includes-free-chain-only-2-available.jpg?v=1582072471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Opal White Porcelain Teapot Charm Pendant is a stunner!!! Includes free chain for easy gifting!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4386969092185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4386964897881</id>
+    <published>2019-12-13T13:45:52-06:00</published>
+    <updated>2019-12-13T13:45:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-vermeille-mystic-blue-swarovski-crystal-teapot-charm-pendant-includes-free-chain"/>
+    <title>Gold Vermeille Mystic Blue Swarovski Crystal Teapot Charm Pendant Includes Free Chain - One of a Kind!</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-vermeille-mystic-blue-swarovski-crystal-teapot-charm-pendant-includes-free-chain-one-of-a-kind.jpg?v=1601095154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Vermeille Mystic Blue Swarovski Crystal Teapot Charm Pendant is a stunner!!! Includes free chain for easy gifting!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4386964897881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4386963292249</id>
+    <published>2019-12-13T13:28:30-06:00</published>
+    <updated>2019-12-13T13:28:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-vermeille-light-amethyst-swarovski-crystal-teapot-charm-pendant-includes-free-chain"/>
+    <title>Gold Vermeille Light Amethyst Swarovski Crystal Teapot Charm Pendant Includes Free Chain</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-vermeille-light-amethyst-swarovski-crystal-teapot-charm-pendant-includes-free-chain.jpg?v=1601095153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Vermeille Light Amethyst Swarovski Crystal Teapot Charm Pendant is a stunner!!! Includes free chain for easy gifting!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4386963292249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377545736281</id>
+    <published>2019-12-06T11:40:59-06:00</published>
+    <updated>2019-12-06T11:40:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/biltmore-girls-porcelain-tea-set"/>
+    <title>Biltmore Girls Porcelain Tea Set - Only One Set Available!</title>
+    <s:type>Vanderbilt Collection</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/biltmore-girls-porcelain-tea-set-only-one-set-available.jpg?v=1582071471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Vanderbilt Collection<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>True royalty!  This wonderful tea set is an exquisite set for both play and display.  So dainty! </span></p>
+<p><span> 4 3/4"H X 9"W X 7"D</span><br><span>8 Pieces</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377545736281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>3064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377524011097</id>
+    <published>2019-12-06T11:16:32-06:00</published>
+    <updated>2019-12-06T11:16:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/golden-nugget-rose-lapel-pin"/>
+    <title>Golden Nugget Rose Lapel Pin - One of a Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/golden-nugget-rose-lapel-pin-one-of-a-kind.jpg?v=1601095151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Golden Nugget Rose Lapel Pin - Hand twirled ribbon with hand beading and shiny ribbon make this pretty lapel something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377524011097</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6721</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377515065433</id>
+    <published>2019-12-06T11:07:20-06:00</published>
+    <updated>2019-12-06T11:07:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/calypso-rose-ribbon-necklace"/>
+    <title>Calypso Rose Ribbon Necklace</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/calypso-rose-ribbon-necklace.jpg?v=1601095150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Calypso Rose Beaded Ribbon Necklace - - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377515065433</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6860</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377508151385</id>
+    <published>2019-12-06T10:59:17-06:00</published>
+    <updated>2019-12-06T10:59:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/warm-sunshine-rose-necklace"/>
+    <title>Warm Sunshine Ribbon Rose Necklace - One of a Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/warm-sunshine-ribbon-rose-necklace-one-of-a-kind.jpg?v=1601095148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Warm Sunshine Rose Beaded Ribbon Necklace - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377508151385</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377497895001</id>
+    <published>2019-12-06T10:46:41-06:00</published>
+    <updated>2019-12-06T10:46:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind"/>
+    <title>Coming Up Roses Hand Bead Ribbon Bracelet - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind.jpg?v=1601095146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coming Up Roses Hand Bead Ribbon Bracelet - Hand twirled ribbon with hand beaded roses and flowers.  This piece has beautiful floral and foliage beads along with luscious rich rose colored ribbons. Has stretch button closure and soft backing. This is something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377497895001</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377483608153</id>
+    <published>2019-12-06T10:29:34-06:00</published>
+    <updated>2019-12-06T10:29:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/avalon-rose-ribbon-necklace"/>
+    <title>Avalon Rose Ribbon Necklace - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/avalon-rose-ribbon-necklace-one-of-kind.jpg?v=1601095145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Avalon Rose Beaded Ribbon Necklace - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377483608153</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376569249881</id>
+    <published>2019-12-05T17:18:06-06:00</published>
+    <updated>2019-12-05T17:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-christmas-envelope-scented-sachet-angel-limited"/>
+    <title>Set of 3 Christmas Envelope Scented Sachet - Angel - Limited Sets!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-christmas-envelope-scented-sachet-angel-limited-sets.jpg?v=1601095143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Christmas Angel Individually Wrapped Large Christmas Cinnamon Stick Scent Envelope Sachets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376569249881</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

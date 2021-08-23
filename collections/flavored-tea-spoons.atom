@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/flavored-tea-spoons.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-10T10:40:13-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6593169031257</id>
+    <published>2021-06-10T10:40:13-05:00</published>
+    <updated>2021-06-10T10:40:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/30-individually-wrapped-blueberry-and-honey-naturally-flavored-tea-spoon"/>
+    <title>30 Individually Wrapped Blueberry and Honey Naturally Flavored Tea Spoon Suckers</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/30-individually-wrapped-blueberry-and-honey-naturally-flavored-tea-spoon-suckers.jpg?v=1623370319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>30 Individually Wrapped Blueberry and Honey Naturally Flavored Tea Spoon Suckers are oh so yummy!!  Perfect for tea parties as flavoring, favors and added table pretties!  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6593169031257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>0610211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4326358745177</id>
+    <published>2019-11-02T09:35:28-05:00</published>
+    <updated>2019-11-02T09:35:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/you-are-my-cup-of-tea-lollipop-party-favor"/>
+    <title>You Are My Cup of Tea Lollipop Party Gift Favor</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/you-are-my-cup-of-tea-lollipop-party-gift-favor.jpg?v=1601095070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="yiv1772676359MsoNormal">Gorgeous tea party gift favor includes teapot or teacup hard candy sucker. On the back side there is a slit in the teacup and inserted wrapped tea envelope containing yummy tea.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4326358745177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.49</s:price>
+      <s:sku>1102191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1863556431961</id>
+    <published>2018-11-20T17:58:19-06:00</published>
+    <updated>2018-11-20T17:58:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-red-rose-tea-cup-favor-with-tea-and-lemon-honey-spoon-only-4-available"/>
+    <title>Holiday Red Rose Tea Cup Favor with Tea and Lemon Honey Spoon - Only 4 Available!</title>
+    <s:type>Tea Cup Favors</s:type>
+    <s:vendor>Darice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-red-rose-tea-cup-favor-with-tea-and-lemon-honey-spoon-only-4-available.jpg?v=1601094544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darice<br>
+        <strong>Type: </strong>Tea Cup Favors<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Teacup Favor with Tea and Honey Spoon make a perfect gift!  Send them a cup of beautiful!  Contains porcelain teacup and saucer, flavored tea, and lemon honey spoon all wrapped up in a lovely bow.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1863556431961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>112018-3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135138305</id>
+    <published>2015-06-08T18:09:00-05:00</published>
+    <updated>2015-06-08T18:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/50-individually-wrapped-cranberry-honey-naturally-flavored-tea-spoons"/>
+    <title>50 Individually Wrapped Cranberry Honey Naturally Flavored Tea Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-individually-wrapped-cranberry-honey-naturally-flavored-tea-spoons.jpg?v=1601088190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Cranberry Honey Naturally Flavored Tea Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135138305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>9334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135099265</id>
+    <published>2015-06-08T18:06:00-05:00</published>
+    <updated>2015-06-08T18:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/50-individually-wrapped-pomegranate-honey-naturally-flavored-tea-spoons"/>
+    <title>50 Individually Wrapped Pomegranate Honey Naturally Flavored Tea Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-individually-wrapped-pomegranate-honey-naturally-flavored-tea-spoons.jpg?v=1601088187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Pomegranate Honey Naturally Flavored Tea Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135099265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>9331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135086849</id>
+    <published>2015-06-08T18:05:00-05:00</published>
+    <updated>2015-06-08T18:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/50-orange-blossom-honey-flavored-teaspoons"/>
+    <title>50 Orange Blossom Honey Flavored Teaspoons Party Suckers</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-orange-blossom-honey-flavored-teaspoons-party-suckers.jpg?v=1623370309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Orange Blossom Honey Naturally Flavored Tea Spoons Suckers are oh so yummy!!!  <span data-mce-fragment="1">Perfect for tea parties as flavoring, favors and added table pretties!  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135086849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>9335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135070209</id>
+    <published>2015-06-08T18:04:00-05:00</published>
+    <updated>2015-06-08T18:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/50-lavender-honey-spoons"/>
+    <title>50 Lavender Honey Flavored Teaspoons are yummy tea party favors!</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-lavender-honey-flavored-teaspoons-are-yummy-tea-party-favors.jpg?v=1601088185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Lavender Honey Naturally Flavored Tea Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135070209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>9333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135063297</id>
+    <published>2015-06-08T18:03:00-05:00</published>
+    <updated>2015-06-08T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/honey-flavored-tea-spoons-8"/>
+    <title>6 Pack of Clover Honey Flavored Tea Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-pack-of-clover-honey-flavored-tea-spoons.png?v=1607436965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Natural Clover Honey Flavored Tea Spoons Gift Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135063297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>13252</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1135037825</id>
+    <published>2015-06-08T18:01:00-05:00</published>
+    <updated>2015-06-08T18:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/honey-flavored-tea-spoons-50"/>
+    <title>50 Individually Wrapped Clover Honey Flavored Tea Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-individually-wrapped-clover-honey-flavored-tea-spoons.jpg?v=1601088183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Clover Honey Naturally Flavored Tea Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1135037825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>1365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1134989377</id>
+    <published>2015-06-08T17:57:00-05:00</published>
+    <updated>2015-06-08T17:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/honey-and-lemon-tea-spoons"/>
+    <title>50 Honey and Lemon Tea Spoons individually wrapped teaspoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/50-honey-and-lemon-tea-spoons-individually-wrapped-teaspoons.jpg?v=1601088181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 Individually Wrapped Honey Lemon Naturally Flavored Tea Spoons</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1134989377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>1370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1134983809</id>
+    <published>2015-06-08T17:57:00-05:00</published>
+    <updated>2015-06-08T17:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/honey-and-lemon-tea-spoons-8"/>
+    <title>6 Pack of Honey and Lemon Naturally Flavored Tea Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-pack-of-honey-and-lemon-naturally-flavored-tea-spoons.png?v=1607436964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All natural Honey and Lemon Flavored Tea Spoons Gift Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1134983809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1134963457</id>
+    <published>2015-06-08T17:54:00-05:00</published>
+    <updated>2015-06-08T17:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-teapot-lollipops-assorted"/>
+    <title>24 Teapot Lollipops / Suckers in Assorted Flavors</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-teapot-lollipops-suckers-in-assorted-flavors.jpg?v=1601088179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24 Teapot lollipops naturally flavored suckers on a wooden ball stick in assorted flavors</p>
+<p>•Individually Wrapped</p>
+<p>•Hand Poured</p>
+<p>•Made Fresh in USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1134963457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>9343</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1134951425</id>
+    <published>2015-06-08T17:53:00-05:00</published>
+    <updated>2015-06-08T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-teacup-lollipops-assorted"/>
+    <title>24 Teacup Lollipops / Suckers Assorted Flavored Spoons</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-teacup-lollipops-suckers-assorted-flavored-spoons.jpg?v=1601088178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>24 Tea Cup lollipops naturally flavored suckers on a wooden ball stick in assorted flavors</p>
+<ul>
+<li>Individually Wrapped</li>
+<li>Hand Poured</li>
+<li>Made Fresh in USA</li>
+</ul>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1134951425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>9342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/heirloom-baby-outfits.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-17T11:33:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557259137</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kaitlyn-collection-blue"/>
+    <title>Kaitlyn Collection Blue</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kaitlyn-collection-blue.jpg?v=1601091030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            202.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This designer outfit features soft baby blue 100% cotton Dotted Swiss fabric from Switzerland.</p>
+<p>The dress has a smock-like front and a button opening in the back.</p>
+<p>French cotton laces are used throughout all garments.</p>
+<p>Three-quarter length raglan sleeves are edged in lace and gathered with silk ribbon, making the sleeves adjustable.</p>
+<p>The slip is a cotton batiste edged in lace with an embroidered ribbon motif at the bottom. Tiny snaps at one shoulder make for easy on/off of baby.</p>
+<p>The bonnet uses laces and Lily of the Valley embroidered Swiss entredeux. </p>
+<p>Ribbon ties of silk and Mother-of-pearl buttons from specialty<br>shop in New Orleans, LA.</p>
+<p>Sizes 3, 6, 9, 12 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557259137</id>
+      <title>3 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557259137</id>
+      <title>6 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557259137</id>
+      <title>9 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557259137</id>
+      <title>12 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557223169</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-3-piece-sweet-sydney-christening-dress-ensemble"/>
+    <title>Kaitlyn Collection Pink</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kaitlyn-collection-pink.jpg?v=1601091020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            202.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable designer collection features a soft rosy pink 100% cotton batiste dress, slip and bonnet. The dress is embelished with embroidered tiny rosebuds down front and bottom and an embroidered motif at the neckline and bottom front.</p>
+<p>There is a button opening down back.</p>
+<p>The dress has short sleeves with lace inserts and silk ribbon ties, making the sleeves adjustable. (Love that!)</p>
+<p>French cotton laces are used throughout garments.</p>
+<p>The slip has a ruffled bottom and one shoulder opening with tiny snaps. (The slip can be used as a little summer dress!)</p>
+<p>The bonnet repeats the embroidered motif and uses Swiss entredeux and lace.</p>
+<p>Silk ribbon ties on the and mother-of-pearl buttons on the bonnet are from a specialty shop in New Orleans, LA.</p>
+<p>Sizes 3, 6 ,9,12 months.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557223169</id>
+      <title>3 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557223169</id>
+      <title>6 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557223169</id>
+      <title>9 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557223169</id>
+      <title>12 mo</title>
+      <s:price currency="USD">202.99</s:price>
+      <s:sku>6221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/porcelain-mixing-bowls.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-04-26T17:42:15-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/752345350245</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterflies-and-hydrangeas-porcelain-mixing-bowls-set-of-3"/>
+    <title>Butterflies and Hydrangeas Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterflies-and-hydrangeas-porcelain-mixing-bowls-set-of-3.jpg?v=1601093997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752345350245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752344072293</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-porcelain-mixing-bowls-set-of-3"/>
+    <title>Vintage Rose Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage-Rose-Porcelain-Mixing-Bowls-Set-of-3_08db4c47-43b5-4dc1-a465-f64f6d11e224.jpg?v=1628899933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752344072293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752343122021</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosebud-porcelain-mixing-bowls-set-of-3"/>
+    <title>Rosebud Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosebud-porcelain-mixing-bowls-set-of-3.jpg?v=1601093993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752343122021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752341024869</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-rose-porcelain-mixing-bowls-set-of-3"/>
+    <title>Shabby Rose Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-rose-porcelain-mixing-bowls-set-of-3.jpg?v=1601093991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752341024869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752337584229</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/secret-garden-porcelain-mixing-bowls-set-of-3"/>
+    <title>Secret Garden Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/secret-garden-porcelain-mixing-bowls-set-of-3.jpg?v=1601093989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752337584229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

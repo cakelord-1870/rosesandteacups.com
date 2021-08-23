@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-purses.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-06-11T11:43:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6515826753</id>
+    <published>2016-06-11T11:43:00-05:00</published>
+    <updated>2016-06-11T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearls-and-flowers-zip-clutch-bag"/>
+    <title>Lace Zip Clutch Bag Large</title>
+    <s:type>Lace Clutch Purse</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lace-zip-clutch-bag-large.jpg?v=1601092405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Lace Clutch Purse<br>
+        <strong>Price: </strong>
+            21.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lace zip clutch bag large. Measures 6.5 x 8.5 inches. Available in Cream,  and Pink </span></p>
+<p><span>Please allow extra time for these extraordinary handcrafted items.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6515826753</id>
+      <title>Pink - Only 6 left</title>
+      <s:price currency="USD">21.28</s:price>
+      <s:sku>06072016-99N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520722625</id>
+    <published>2015-07-13T22:25:00-05:00</published>
+    <updated>2015-07-13T22:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-bridal-reticule-purse-1"/>
+    <title>Pink Bridal Reticule Purse</title>
+    <s:type>Victorian Beaded Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-bridal-reticule-purse.jpg?v=1601090239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Beaded Purses<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our pink drawstring bridal reticule wedding purse of pink silk dupioni features pink floral embroidery on the bottom of the bag and a dainty pink rose embroidered on the pink satin lining. The top is edged in beautiful Venice lace.<br> ***Other available colors are:<br> White, Ivory, ecru, soft ice blue, soft lilac.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AHA</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>Pink</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>1468</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>Soft Lilac</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>3793</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>Ice Blue</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>3794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>Ecru</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>3795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>Ivory</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>3796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520722625</id>
+      <title>White</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>3797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520691905</id>
+    <published>2015-07-13T22:19:00-05:00</published>
+    <updated>2015-07-13T22:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-silk-drawsting-purse"/>
+    <title>Black Silk Drawsting Purse</title>
+    <s:type>Victorian Beaded Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-silk-drawsting-purse.jpg?v=1601090236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Beaded Purses<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Silk Dupioni Drawstring Reticule Purse Edged in Folded Pleated Grossgrain Ribbon Drawstring is 5/8" matching Silk Ribbon 16" Circle when opened up and lying flat</p>
+<p>Your choice of lining: Red Christmas Tartan Plaid<br> Royal Blue Green Plaid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PSS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520691905</id>
+      <title>Blue</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>4017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520691905</id>
+      <title>Red</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>4020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520632257</id>
+    <published>2015-07-13T22:05:00-05:00</published>
+    <updated>2015-07-13T22:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-silk-dupioni-evening-purse"/>
+    <title>Black Silk Dupioni Zipper Evening Purse</title>
+    <s:type>Victorian Beaded Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-silk-dupioni-zipper-evening-purse.jpg?v=1601090233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Beaded Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Silk Dupioni Evening Purse Edged in Black/Gold Piping 4 inch Black Tassel 9" x 6 1/2" Lined Inner Pocket for Cell Phone, ipod, etc. Front features Folded Grossgrain Plaid Ribbon and Tiny Rosebud</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Purses Shaws &amp; Scraves</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520632257</id>
+      <title>Red Plaid</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>4016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520632257</id>
+      <title>Blue Plaid</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>4019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/322109997096</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-poinsettia-black-reticule-purse"/>
+    <title>Christmas Poinsettia Black Reticule Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-poinsettia-black-reticule-purse.jpg?v=1601093811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Silk Purse lined with Christmas plaid taffeta.  Black drawstring and tassel.  Fashioned in the Victorian style with a bright poinsettia embroidery pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/322109997096</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>120817-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/322094530600</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/art-deco-black-reticule-purse"/>
+    <title>Art Deco Black Reticule Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/art-deco-black-reticule-purse.jpg?v=1601093809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Silk Purse lined with Pink Satin.  Black drawstring and tassel.  Fashioned in the style of the early 1900's with an art deco embroidery pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/322094530600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>120817N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519117441</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copper-and-chocolate-evening-bag"/>
+    <title>Copper and Chocolate Evening bag</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/copper-and-chocolate-evening-bag.jpg?v=1601090193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.4;"><span>Perfect for fall! Our Copper and Chocolate Evening Bag is embellished with chocolate brown embroidery and hand beaded copper glass beads. It features a copper zipper pull with chocolate brown tassel and is lined in chocolate brown taffeta and inside pocket. (6-1/2" x 9")</span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519117441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>6512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519100993</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-moire-taffeta-handbag"/>
+    <title>Taupe Moire Taffeta Handbag</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-moire-taffeta-handbag.jpg?v=1601090190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            73.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>French Silk Rose Embroidered Ribbon is what makes this creation so striking! Edged with ecru lace and hand beaded with tiny pearls and pink beads, this purse is 9 1/2 inches in length at its longest and 7 inches wide.</p>
+<p>Elegantly tasseled, this one-of-a-kind creation features a deep back pocket and a top zipper closure with ribbon pull.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519100993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">73.99</s:price>
+      <s:sku>1337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519089729</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-black-velvet-reticule-purse"/>
+    <title>Beaded Black Velvet Reticule Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-black-velvet-reticule-purse.jpg?v=1601090187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This stunning black crushed velvet drawstring purse features taupe silk dupioni lining, 2 1/2 inch drop beading, and embroidered roses on both inside and outside of purse bottom.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519089729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>1336</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519069761</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-silk-dupioni-zippered-purse"/>
+    <title>Lavender Silk Dupioni Zippered Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-silk-dupioni-zippered-purse.jpg?v=1601090183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>9 inches long from top of bag to bottom</span><br><span>7 inches wide when lying flat</span></p>
+<p>Our Lavender Silk Dupioni zippered purse features hand shaped ribbon and hand beaded Czech glass beads over a lace applique. This wonderfully vintage look purse is fully lined with satin and edged with a fabulous beaded fringe and tassels. A back pocket trimmed in tiny flowers adds the final touch to this one of a kind accessory. Look as Victorian as you please with an ipod or cell phone tucked neatly away!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519069761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>1334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519056513</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turquoise-and-brown-victorian-zippered-beaded-tapestry-reticule-handbag"/>
+    <title>Turquoise and Brown Victorian Zippered Beaded Tapestry Reticule Handbag</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turquoise-and-brown-victorian-zippered-beaded-tapestry-reticule-handbag.jpg?v=1601090181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A perfection of paisley, this Victorian zippered reticule handbag features an open pocket on one side and beaded metallic trim on the other. Either side may be considered the "front!" An abundance of tassels and beaded fringe transforms the wearer to a time of Victorian splendor!</p>
+<p><span>8 inches long from top to bottom</span><br><span>8 1/2 inches wide at bottom </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519056513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>1333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519047745</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/williamsburg-royal-blue-black-rose-reticule"/>
+    <title>Williamsburg Royal Blue Black Rose Reticule</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/williamsburg-royal-blue-black-rose-reticule.jpg?v=1601090180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This lovely drawstring purse features black piping at each panel section and black tassels at each side of the front panel. Black Venetian lace accents the top, and a black tassel accents the bottom. This reticule is fully lined in silver satin.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519047745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519040321</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-silk-dupioni-drawstring-reticule-with-1920s-art-deco-embroidered-design"/>
+    <title>Black silk dupioni drawstring Reticule with 1920&apos;s Art Deco embroidered design</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-silk-dupioni-drawstring-reticule-with-1920s-art-deco-embroidered-design.jpg?v=1601090177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This unique drawstring purse features black beading and braided trim near the top and black Venetian lace at the top edge. Black beading and a tassel accent the bottom. There are black tassels at each side of the front panel with black piping at each panel section. This lovely reticule is fully lined with silver satin.</p>
+<p>10 1/2" long and 9" wide when opened and lying flat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519040321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519034881</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-black-rose-on-red-silk-dupioni"/>
+    <title>Victorian Black Rose on Red Silk Dupioni</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-black-rose-on-red-silk-dupioni.jpg?v=1601090173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This drawstring reticule handbag features black piping at all four sections, side tassels, and black lace at the top edge. Black tassel and red beaded fringe accent the bottom.</p>
+<p>The purse is fully lined in red satin.</p>
+<p>9" long and 8 1/2 " wide when opened and lying flat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519034881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519029185</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-foxtrot-reticule-drawstring-purse"/>
+    <title>Blue Foxtrot Reticule Drawstring Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-foxtrot-reticule-drawstring-purse.jpg?v=1601090172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From an original 1917 pattern</p>
+<p>"Duck waddle, chicken scratch, bunny bag, foxtrot!"</p>
+<p>These were just some of the dances that were all the rage from 1910-1920. Surely this reticule would have been dangling from the wrist of a lady as she foxtrotted across the floor!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519029185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519020225</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-foxtrot-reticule-drawstring-purse"/>
+    <title>Taupe Foxtrot Reticule Drawstring Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-foxtrot-reticule-drawstring-purse.jpg?v=1601090170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>From an original 1917 pattern</p>
+<p>"Duck waddle, chicken scratch, bunny bag, foxtrot!"</p>
+<p>These were just some of the dances that were all the rage from 1910-1920. Surely this reticule would have been dangling from the wrist of a lady as she foxtrotted across the floor!</p>
+<p>Shown in taupe silk dupioni with black embroidery at all four corners--front and back. Fully lined with black satin.<br>8" long and 9" wide when drawstring is pulled</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519020225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519013121</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/striped-taffeta-drawstring-purse"/>
+    <title>Striped Taffeta Drawstring Purse</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/striped-taffeta-drawstring-purse.jpg?v=1601090167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Burnt red, green, tan and gold stripes on gorgeous gold taffeta create a one-of-a-kind look for this drawstring reticule. The purse features a burnt red floral medallion embroidered on its front panel, gold piping at each four-panel sections and a multi-colored 4" tassel at the bottom.</span><br><br><span>It is fully lined in gold satin and measures 8" long and 9-1/2" wide when opened and lying flat.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519013121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519009409</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-beaded-circular-gold-rose-reticule"/>
+    <title>Victorian Beaded Circular Gold Rose Reticule</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-beaded-circular-gold-rose-reticule.jpg?v=1601090163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant beaded reticule purse features diamond and black dot shapes on silk rayon fabric, a circular 4" bottom with embroidered black rose, and embellishments of <br>braided trim with black and gold drop beading.</p>
+<p>Trimmed with gorgeous 1-3/4" Venetian rose black lace around the top edge, this stunning accessory includes a surprise gold rose embroidered on the inside black satin lining.</p>
+<p>(9-1/2" from top of lace to center bottom. 18" circle when opened)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519009409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>1258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1519008897</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dainty-pink-rose-reticule-on-crushed-velvet"/>
+    <title>Dainty Pink Rose Reticule on Crushed Velvet</title>
+    <s:type>Victorian Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dainty-pink-rose-reticule-on-crushed-velvet.jpg?v=1601090161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Victorian Purses<br>
+        <strong>Price: </strong>
+            70.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Dainty Pink Rose drawstring reticule has one pink rose embroidered on the outside bottom and a "surprise" pink rose embroidered on inside.</p>
+<p>The top is edged with black lace, and just below is black French embroidered pink rose ribbon. This sweet little drawstring handbag is fully lined in pink taffeta and measures 7-1/2" from top edge to bottom center.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1519008897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.99</s:price>
+      <s:sku>1257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

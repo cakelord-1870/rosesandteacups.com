@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/thank-you-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-08-25T11:24:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/7596360641</id>
+    <published>2016-08-25T11:24:00-05:00</published>
+    <updated>2016-08-25T11:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/birds-in-teacups-dimensional-greeting-card"/>
+    <title>Birds in Teacups Dimensional Thank You Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/birds-in-teacups-dimensional-thank-you-greeting-card.jpg?v=1601092553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EMBELLISHED DIMENSIONAL GIFT CARD<span> </span><br><em>Layered card with gems and gold foil details<br>Blank interior <br><br></em><em>Card size: 3-1⁄2" x 5"</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7596360641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>082516J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9452067521</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-teapot-thank-you-greeting-card"/>
+    <title>Embroidered Linen Teapot Thank You Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-teapot-thank-you-greeting-card.jpg?v=1601093173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Precious for framing!  A panel of embroidered linen with a sweet rosy teapot covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>A warm and </span><span>special thanks to you!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9452067521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>05162017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542409729</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-floral-basket-thank-you-greeting-card"/>
+    <title>Embroidered Linen Floral Basket Thank You Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-floral-basket-thank-you-greeting-card.jpg?v=1601091651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Precious for framing!  A panel of embroidered linen with a sweet basket of flowers covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>A warm and special thanks to you!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542409729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22502N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542405057</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-pink-roses-thank-you-greeting-card"/>
+    <title>Embroidered Linen Pink Roses Thank You Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-pink-roses-thank-you-greeting-card.jpg?v=1601091650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Precious for framing!  A panel of embroidered linen with pink roses covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Heartfelt thanks to a</span><br><span>wonderful you!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542405057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22501N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7356984769</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-wedding-thank-you-notes"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Wedding Thank You Notes</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-wedding-thank-you-notes.jpg?v=1601092537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Wedding Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7356984769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>08102016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537996161</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-thank-you-for-gift-card"/>
+    <title>Carol Wilson Thank You For Baby Gift Note Cards</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-thank-you-for-baby-gift-note-cards.jpg?v=1601091626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Carol Wilson Thank You For Baby Gift Note Cards are perfect for baby shower and new baby arrival gift thank yous. There are 10 lovely embossed blank on the inside cards and 10 embossed envelopes.  Each card has cute little embossed raised baby booties in pastel colors and adorned in gold foil touches.  </span></p>
+<p>Embossed Baby Booties Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts with cards m<span>easuring </span><span>7 3/4" Opened - Approx 4" Tall x 5" Wide Closed </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537996161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22466N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537994945</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-daisies-and-butterflies-thank-you-notes"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Daisies and Butterflies Thank You Notes</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-daisies-and-butterflies-thank-you-notes.jpg?v=1601091625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Daisies and Butterflies Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537994945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22465N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537992257</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-kittens-thank-you-cards"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Kittens Thank You Cards</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-kittens-thank-you-cards.jpg?v=1601091623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Kittens Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537992257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22464N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537990593</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-hydrangeas-thank-you-cards"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Lilacs and Butterflies Thank You Cards</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Carols-Rose-Garden-Lilacs-and-Butterflies-Thank-You-Cards_d3fc0723-c9f8-4790-9cf7-ee776a25c24f.jpg?v=1628813545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Lilacs and Butterflies Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537990593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22463N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537987457</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-roses-thank-you-cards"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Apricot Roses and Lace Thank You Notes</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-apricot-roses-and-lace-thank-you-notes.jpg?v=1601091621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Apricot Roses and Lace Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537987457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22461N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537982785</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-teacups-thank-you-cards"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Teacups Thank You Cards</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-teacups-thank-you-cards.jpg?v=1601091620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Tea Cups Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537982785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22460N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1537469377</id>
+    <published>2015-07-15T12:46:00-05:00</published>
+    <updated>2015-07-15T12:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-little-thank-you-card-set-of-6"/>
+    <title>Sweet Little Thank You Card  Set of 6</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Dayspring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-little-thank-you-card-set-of-6.jpg?v=1601090678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dayspring<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Includes Envelopes ~ 3 1/2 x 4 1/2 </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1537469377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1354564673</id>
+    <published>2015-06-25T16:52:00-05:00</published>
+    <updated>2015-06-25T16:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-rose-thank-you-tea-card"/>
+    <title>Kimberly Shaw Rose Thank You Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-rose-thank-you-tea-card.jpg?v=1582071071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A charming teacup card with a vase of garden flowers to send your heart-felt thanks. Inside reads, "Thanks a bunch". Tea inside: Raspbery Herbal, a mixture of rosehips, hibiscus and raspberry leaves from Harney &amp; Sons Fine Teas. Card size is 4 1/4" x 5 1/2" and include a white envelope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1354564673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>327KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1354118081</id>
+    <published>2015-06-25T16:01:00-05:00</published>
+    <updated>2015-06-25T16:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-pink-green-thank-you-tea-card"/>
+    <title>Kimberly Shaw Pink &amp; Green Thank You Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-pink-green-thank-you-tea-card.jpg?v=1582071067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sweet pink and green teacup to extend your heart-felt thanks.</p>
+<p>Outside reads: "Thank You", while the inside is blank to share a personal note.</p>
+<p>Tea inside: Organic Green Tea with Citrus &amp; Ginkgo from Harney &amp; Sons Fine Teas.</p>
+<p>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1354118081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>312KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

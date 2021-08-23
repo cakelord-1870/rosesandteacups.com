@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/paris.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-11-28T09:37:05-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/300508119080</id>
+    <published>2017-11-28T09:37:05-06:00</published>
+    <updated>2017-11-28T09:37:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor"/>
+    <title>Posh Fancy Cat In Paris Purse Notepad Perfect Party Favor</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor.png?v=1617235951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Miss Kitty sits upon her plush pillow all dressed up for Paris! Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/300508119080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>112817-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144043969</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-matchbook-notepad-w-pen"/>
+    <title>Paris Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-paris-matchbook-notepad-w-pen-1.gif?v=1561400483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Paris Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144043969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

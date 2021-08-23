@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christmas-pillow-cases-usa-made.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-02T11:20:15-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371436929113</id>
+    <published>2019-12-02T11:20:15-06:00</published>
+    <updated>2019-12-02T11:20:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy-1"/>
+    <title>Postcard Merry Christmas Tea Cup (Teacup) Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-teacup-cozy.png?v=1601095104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371436929113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9784643585</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-accent-pillow"/>
+    <title>Christmas Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cups-accent-pillow.jpg?v=1601093219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9784643585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>06292017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624984257</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia and Aqua Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases.jpg?v=1601091676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624984257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22613N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624975041</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-poinsettia-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-christmas-pillow-cases.jpg?v=1601091675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624975041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22612N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612199553</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-holly-on-white-christmas-pillow-cases"/>
+    <title>Set of 2 Holly on White Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-holly-on-white-christmas-pillow-cases.jpg?v=1601091673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612199553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22611N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612194049</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-holly-on-burgundy-christmas-pillow-cases"/>
+    <title>Set of 2 Holly on Burgundy Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-holly-on-burgundy-christmas-pillow-cases.jpg?v=1601091672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612194049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22610N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3612158593</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-french-christmas-pillow-cases"/>
+    <title>Set of 2 French Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-french-christmas-pillow-cases.jpg?v=1601091671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3612158593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22609N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598025345</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-snowman-flannel-pillow-cases"/>
+    <title>Set of 2 Snowman Flannel Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-snowman-flannel-pillow-cases.jpg?v=1601091667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 </p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598025345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22601N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598012609</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-merry-christmas-turquoise-holly-pillow-cases"/>
+    <title>Set of 2 Merry Christmas Turquoise Holly Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-merry-christmas-turquoise-holly-pillow-cases.jpg?v=1601091666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598012609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22601N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3598009345</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-merry-christmas-holly-pillow-cases"/>
+    <title>Set of 2 Merry Christmas Holly Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-merry-christmas-holly-pillow-cases.jpg?v=1601091664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3598009345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22600N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1830313099353</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy"/>
+    <title>Postcard Merry Christmas Tea Cup Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-cozy.png?v=1601094491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1830313099353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1775479881817</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-accent-pillow-with-swarovski-crystals-peace"/>
+    <title>Christmas Accent Pillow with Swarovski Crystals - Peace</title>
+    <s:type>Accent Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-accent-pillow-with-swarovski-crystals-peace.png?v=1601094414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Accent Pillow<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 16 x 16</p>
+<p>"Love-Joy-Peace-Noel Christmas accent pillows with over 20 Swarovski crystals on each pillow.  Holly print framing each pillow on front and on back.  Has zipper opening on back for easy pillow insert.</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1775479881817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>11012018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1775474868313</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-accent-pillow-with-swarovski-crystals-noel"/>
+    <title>Christmas Accent Pillow with Swarovski Crystals - Noel</title>
+    <s:type>Accent Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-accent-pillow-with-swarovski-crystals-noel.png?v=1601094411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Accent Pillow<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 16 x 16</p>
+<p>"Love-Joy-Peace-Noel Christmas accent pillows with over 20 Swarovski crystals on each pillow.  Holly print framing each pillow on front and on back.  Has zipper opening on back for easy pillow insert.</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1775474868313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>11012018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1775460221017</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-accent-pillow-with-swarovski-crystals-joy"/>
+    <title>Christmas Accent Pillow with Swarovski Crystals - Joy</title>
+    <s:type>Accent Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-accent-pillow-with-swarovski-crystals-joy.png?v=1601094409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Accent Pillow<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 16 x 16</p>
+<p>"Love-Joy-Peace-Noel Christmas accent pillows with over 20 Swarovski crystals on each pillow.  Holly print framing each pillow on front and on back.  Has zipper opening on back for easy pillow insert.</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1775460221017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>11012018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1775402614873</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-accent-pillow-with-swarovski-crystals-love"/>
+    <title>Christmas Accent Pillow with Swarovski Crystals - Love</title>
+    <s:type>Accent Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-accent-pillow-with-swarovski-crystals-love.png?v=1601094407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Accent Pillow<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 16 x 16</p>
+<p>"Love-Joy-Peace-Noel Christmas accent pillows with over 20 Swarovski crystals on each pillow.  Holly print framing each pillow on front and on back.  Has zipper opening on back for easy pillow insert.</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1775402614873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>11012018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

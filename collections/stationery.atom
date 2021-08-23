@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T10:18:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6609294327897</id>
+    <published>2021-07-08T10:30:30-05:00</published>
+    <updated>2021-07-08T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sea-shells-note-card-portfolio-1"/>
+    <title>Carol Wilson Sea Side Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sea-side-note-card-portfolio.jpg?v=1625835812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sea Side Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6609294327897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268749697</id>
+    <published>2021-06-22T13:15:16-05:00</published>
+    <updated>2021-06-22T13:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-address-book"/>
+    <title>Vintage Garden Address Book - Just 1 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-address-book-just-1-available.jpg?v=1624407151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268749697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268131201</id>
+    <published>2021-06-22T13:10:02-05:00</published>
+    <updated>2021-06-22T13:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-note-cards"/>
+    <title>Vintage Garden Note Cards - Only 1 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-note-cards-only-1-left.jpg?v=1624407142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace</p>
+<p>8 Note Cards with Pink Foil and 2 Layer Embossing</p>
+<p>Pink Envelopes</p>
+<p>Approx 4x5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268131201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268278657</id>
+    <published>2021-06-22T13:08:15-05:00</published>
+    <updated>2021-06-22T13:08:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-memo-pad-with-pen"/>
+    <title>Vintage Garden Memo Pad with Pen - Just 2 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-memo-pad-with-pen-just-2-available.jpg?v=1624407146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll fine gorgeous Pink Florals, Butterflies and Lace and even Pink Foil on this Memo Pad and Pen Set.</p>
+<p>65 Sheets <span>Approx 5.3x5.5 inches</span></p>
+<p>Coordinating Pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268278657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1366911745</id>
+    <published>2021-06-22T12:28:35-05:00</published>
+    <updated>2021-06-22T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-magnetic-shopping-list-pad-with-pen"/>
+    <title>Tulip Magnetic Shopping List Pad with Pen - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-magnetic-shopping-list-pad-with-pen-very-limited.jpg?v=1624407157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Magnetic List Pad with Pen 8.5 x 3.5  75 pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1366911745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367364353</id>
+    <published>2021-06-22T12:26:06-05:00</published>
+    <updated>2021-06-22T12:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-ceramic-memo-and-pen-set"/>
+    <title>Tulip Ceramic Memo and Pen Set - Only 2 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-ceramic-memo-and-pen-set-only-2-left.jpg?v=1601088516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Ceramic Memo Set Sheet size: 3" x 4", 75 printed sheets Includes Designer pen and ceramic holder.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367364353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1480272705</id>
+    <published>2021-06-14T12:25:09-05:00</published>
+    <updated>2021-06-14T12:25:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-time-mini-floral-victorian-stickers-small-sticker-book"/>
+    <title>73 Old Time Mini Floral Victorian Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/73-old-time-mini-floral-victorian-stickers.jpg?v=1601089107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">73 Full-color old time mini floral sticker booklet. Floral displays add special meaning to even the most common occasions. This lovely sticker collection depicting old-fashioned miniature flower arrangements recalls tender moments from days gone by. Seventy-three pee and apply illustrations depict full-color bouquets and single blossoms, many accompanied by brief massage proclaiming "Forget Me Not", "Yours Forever", and other heartfelt sentiments. Perfect for enhancing notes, Valentines, letters, and small package, these charming ornamental will lend a delicate touch whenever they are needed. Acid free inks, paper, and adhesives.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1480272705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479134529</id>
+    <published>2021-06-14T12:23:24-05:00</published>
+    <updated>2021-06-14T12:23:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/make-your-own-ice-cream-sundae-girls-tea-party-sticker-activity-set"/>
+    <title>45 Old Time Roses Victorian Floral Small Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/45-old-time-roses-victorian-floral-small-stickers.jpg?v=1601089096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Add a lovely, nostalgic touch to stationery, gift packages, tiles, mirrors, and a host of other flat surfaces with the help of this lovely sticker collection of old-fashioned roses.</span><br><span>Selected from rare turn-of-the-century archives, 45 full-color illustrations display the queen of flowers in all its splendor — as full-blown, lush single blossoms, in dainty bouquets, as nosegays, and more. Simply peel and apply to delight the eyes and arouse the senses.</span></p>
+<p><span>Stickers are in booklet. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479134529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>91</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1497755841</id>
+    <published>2021-06-14T12:20:45-05:00</published>
+    <updated>2021-06-14T12:20:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tiffany-bookmark"/>
+    <title>12 Tiffany Stained Glass Bookmarks in Booklet</title>
+    <s:type>Bookmarks</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tiffany-stained-glass-bookmarks-in-booklet.jpg?v=1601089426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Bookmarks<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a touch of elegance to any reading material with these Tiffany-inspired bookmarks. Twelve glorious designs, based on the stylish stained glass creations of Louis Comfort Tiffany, include details from a window of trellised trumpet vines, a floral skylight, sulphur-crested cockatoos, a peacock window, a domestic panel with parrots and hibiscus, and seven other magnificent motifs. </p>
+<p>Stained glass enthusiasts , admirers of Tiffany's art, and bibliophiles will treasure these captivating decorative accents. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>VSI</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497755841</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5326012161</id>
+    <published>2021-06-14T09:46:39-05:00</published>
+    <updated>2021-06-14T09:46:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-kittens-victorian-stickers"/>
+    <title>Lovely Kittens Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-kittens-victorian-2-sheets-of-stickers.png?v=1601091992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely Kittens Victorian Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p>
+<p>2 Sheets of Stickers  3.75 x 7.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5326012161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34035N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481040257</id>
+    <published>2021-06-14T09:40:47-05:00</published>
+    <updated>2021-06-14T09:40:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/violets-and-purple-flowers-victorian-stickers"/>
+    <title>Violets and Purple Flowers Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/violets-and-purple-flowers-victorian-2-sheets-of-stickers.jpg?v=1601089129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Violets and Purple Flowers Victorian 2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481040257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>8738</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6563251322969</id>
+    <published>2021-04-19T13:20:35-05:00</published>
+    <updated>2021-04-19T13:20:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Hummingbird Embossed Mini Purse Notepad Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-hummingbird-embossed-mini-purse-notepad-note-pad.jpg?v=1621901513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepad with lovely hummingbirds afloat among bleeding heart flowers with embossment and beautiful foil trimming. Perfect for your purse or tea party favors and gifts! These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6563251322969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>041921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562157494361</id>
+    <published>2021-04-16T17:00:05-05:00</published>
+    <updated>2021-04-16T17:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-market-bouquet-note-card-portfolio"/>
+    <title>Carol Wilson Market Bouquet Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-market-bouquet-note-card-portfolio.jpg?v=1618664683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Market Bouquet Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562157494361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>051221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562125873241</id>
+    <published>2021-04-16T15:50:24-05:00</published>
+    <updated>2021-04-16T15:50:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-peonies-note-card-portfolio"/>
+    <title>Carol Wilson Peonies Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-peonies-note-card-portfolio.jpg?v=1618664681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Peonies Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562125873241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562114633817</id>
+    <published>2021-04-16T15:27:11-05:00</published>
+    <updated>2021-04-16T15:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sunflowers-note-card-portfolio"/>
+    <title>Carol Wilson Sunflowers Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sunflowers-note-card-portfolio.jpg?v=1618664679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sunflowers Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing along with metallic highlights on portfolio which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562114633817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562087993433</id>
+    <published>2021-04-16T14:39:20-05:00</published>
+    <updated>2021-04-16T14:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mother-pink-roses-hankie-greeting-gift-card-1"/>
+    <title>Mother Pink Roses Hankie Greeting Gift Card - Only 5 Left!</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-pink-roses-hankie-greeting-gift-card-only-5-left.jpg?v=1618664678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lovely Mother Pink Roses Hankie Greeting Gift Card includes a full size usable hankie easily removed from a matching greeting card.  The card reads For You and the hanky reads Mother.  The card has a place on the back to write To and From along with space for a special note.  This item also include an envelope for mailing enclosed in clear cellophane.  This is a greeting card and gift all in one with her receiving a thoughtful greeting from you along with a gift she can keep always. </p>
+<p><span>Hankie measures 13' square ~ 100% Cotton Batiste Comes with white mailing envelope and cello sleeved.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562087993433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041621-6</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521099201</id>
+    <published>2020-11-20T14:20:37-06:00</published>
+    <updated>2020-11-20T14:20:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Holiday Wreaths Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1601090326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521099201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4748825100377</id>
+    <published>2020-11-11T15:04:51-06:00</published>
+    <updated>2020-11-11T15:04:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card-1"/>
+    <title>Christmas Wishes Kimberly Shaw Tea in a Tea Cup Christmas Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card_868e5a06-1dea-4d39-ada1-5a79d6a56371.jpg?v=1605128694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Outside text: "Wishing you a Merry Christmas and a Happy New Year".</span></p>
+<p><span>Inside reads: "<strong>Wishing you and your family a Merry Christmas and a Happy New Year</strong>".</span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong>, a blend of ceylon tea spiced with citrus, almond, clove and cinnamon flavors from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4748825100377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>111220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726511992921</id>
+    <published>2020-09-25T18:53:02-05:00</published>
+    <updated>2020-09-25T18:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-cardinal-and-holly-berry-porcelain-teacups-and-saucers-set-of-6-tea-cups-and-6-saucers-cheap-price-elegant-look"/>
+    <title>Holiday Christmas Cardinal and Holly Berry Porcelain Teacups and Saucers Set of 6 Tea Cups and 6 Saucers Cheap Price Elegant Look!</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Holiday-Christmas-Cardinal-and-Holly-Berry-Porcelain-Teacups-and-Saucers-Set-of-6-Tea-Cups-and-6-Saucers-Cheap-Price-Elegant-Look_f9a365f2-09fb-4c71-a893-9de8114ab11a.jpg?v=1629245827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Holiday Christmas Cardinal Poinsettia and Holly Berry Porcelain Teacups and Saucers cheap priced perfect for events, parties and gifts Amazing holiday themed teacups and saucers with beautiful red cardinals and holly berries. Notice the delicate scalloped design on both teacup and saucer. Cheap price but elegant look 6 tea cups and 6 saucers. Inexpensive teacups with a classy expensive look at a cheap price. Full size teacups hold approximately 6 ounces are dishwasher safe and FDA approved.</p>
+<p>.</p>
+<p>Need matching teapot?  We've got you!  Click here to view our lovely collection of <a title="Discount Teapots" href="https://rosesandteacups.com/collections/discount-tea-cups-cheap-teacups" target="_blank">teapots</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726511992921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09252010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726511140953</id>
+    <published>2020-09-25T18:46:03-05:00</published>
+    <updated>2020-09-25T18:46:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-cardinal-and-holly-berry-porcelain-teacups-and-saucers-case-of-24-tea-cups-and-24-saucers-cheap-price-elegant-look"/>
+    <title>Holiday Christmas Cardinal and Holly Berry Porcelain Teacups and Saucers Case of 24 Tea Cups and 24 Saucers Cheap Price Elegant Look!</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-christmas-cardinal-and-holly-berry-porcelain-teacups-and-saucers-case-of-24-tea-cups-and-24-saucers-cheap-price-elegant-look.jpg?v=1601095211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            136.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Case of 24 Holiday Christmas Cardinal Poinsettia and Holly Berry Porcelain Teacups and Saucers cheap priced perfect for events, parties and gifts Amazing holiday themed teacups and saucers with beautiful red cardinals and holly berries. Notice the delicate scalloped design on both teacup and saucer. Cheap price but elegant look 24 tea cups and 24 saucers. Inexpensive teacups with a classy expensive look at a cheap price. Full size teacups hold approximately 6 ounces are dishwasher safe and FDA approved.</p>
+<p>.</p>
+<p>Need matching teapot?  We've got you!  Click here to view our lovely collection of <a title="Discount Teapots" href="https://rosesandteacups.com/collections/discount-tea-cups-cheap-teacups" target="_blank">teapots</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726511140953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">136.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1491609729</id>
+    <published>2020-07-18T15:13:57-05:00</published>
+    <updated>2020-07-18T15:13:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heritage-lace-victorian-rose-13-x-54-lace-table-runner"/>
+    <title>Heritage Lace Victorian Rose 13 x 54 Lace Table Runner</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heritage-lace-victorian-rose-13-x-54-lace-table-runner.jpg?v=1601089221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delicate Victorian Rose 13 x 54 Lace Table Runner with rose pattern along edge and in center. Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491609729</id>
+      <title>Ecru</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491609729</id>
+      <title>White</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4669200367705</id>
+    <published>2020-06-28T11:15:17-05:00</published>
+    <updated>2020-06-28T11:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-lady-with-fan-any-occasion-hankie-card"/>
+    <title>Victorian Lady with Fan Any Occasion Hankie Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Victorian-Lady-with-Fan-Any-Occasion-Hankie-Card_838eef6f-9509-4d95-810d-cd5775580593.jpg?v=1629331969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lovely hankie card has a elegant Victorian lady holding a fan and is wearing a real sweet floral hanky! Great for any occasion.  5x8 card comes in a clear sleeve and includes envelope. Hanky is 12 x 12.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4669200367705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>030921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4652489539673</id>
+    <published>2020-06-06T12:50:26-05:00</published>
+    <updated>2020-06-06T12:50:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/woman-of-god-bookmark-pen-gift-set"/>
+    <title>Woman of God Bookmark Pen Gift Set</title>
+    <s:type>Christian Gifts</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Woman-of-God-Bookmark-Pen-Gift-Set_4c5d2fd7-2630-4ef2-b874-883ce7f7841d.jpg?v=1629159172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Woman of God Bookmark Pen Gift Set includes a thinner, sleeker profile click pen with inspirational scripture bookmark. The gift box has been re-designed to fit more easily in a purse or tote.
+<p><br>Gift Set includes:</p>
+<ul>
+<li>Click pen is 5-1/2" in length and has black ink.</li>
+<li>Bookmark measures 1-1/2" x 5-7/8"</li>
+<li>Packaged together in a Wrapped &amp; Ready acrylic box.</li>
+</ul>
+<p><br><em>We are his workmanship created in Christ Jesus.</em><span> </span>Ephesians 2:10 KJV</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4652489539673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0606201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506098630745</id>
+    <published>2020-03-11T13:26:30-05:00</published>
+    <updated>2020-03-11T13:26:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/basket-full-of-pansies-and-roses-hankie-gift-card-with-tea-included"/>
+    <title>Basket Full of Pansies and Roses Hankie Gift Card with Tea Included</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/basket-full-of-pansies-and-roses-hankie-gift-card-with-tea-included.jpg?v=1584018363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Basket Full of Pansies and Roses Hankie Gift Card with Tea Included is a fantastic 3 in 1 tea gift greeting card. Gifting your loved one and friends with a beautiful greeting card along with a pretty scalloped edge 100% cotton handkerchief and a matching wrapped yummy tea to enjoy later.  Includes envelope for convenient mailing. Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506098630745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>03022032PanRos</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

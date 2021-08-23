@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/holiday-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-10T12:29:22-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130438160473</id>
+    <published>2019-07-10T12:29:22-05:00</published>
+    <updated>2019-07-10T12:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-tree-with-cardinal-matchbook-style-note-pad-and-pen-set"/>
+    <title>Holiday Christmas Tree with Cardinal Matchbook Style Note Pad and Pen Set</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-christmas-tree-with-cardinal-matchbook-style-note-pad-and-pen-set.jpg?v=1601094875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holiday Christmas Tree with Cardinal Matchbook Style Note Pad and Pen Set</p>
+<p><span>Size: 4" x 5".  75 printed pages.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130438160473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>0710192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762672312409</id>
+    <published>2018-10-29T17:59:52-05:00</published>
+    <updated>2018-10-29T17:59:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-with-cardinals-and-wreath-magnetic-list-pad"/>
+    <title>Red Truck Hauling Christmas Tree with Cardinals and Wreath Magnetic List Pad</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_with_Cardinals_and_Wreath_Magnetic_List_Pad.gif?v=1561400682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Truck Hauling Christmas Tree with Cardinals and Wreath Magnetic List Pad</p>
+<p>Size: 8.75" x 3.75". 75 printed sheets. With designer pen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762672312409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1104201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762659795033</id>
+    <published>2018-10-29T17:56:19-05:00</published>
+    <updated>2018-10-29T17:56:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-with-cardinals-and-wreath-note-block-and-pen-set"/>
+    <title>Red Truck Hauling Christmas Tree with Cardinals and Wreath Note Block and Pen Set</title>
+    <s:type>note block</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_with_Cardinals_and_Wreath_Note_Block_and_Pen_Set.gif?v=1561400683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>note block<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Truck Hauling Christmas Tree with Cardinals and Wreath Note Block and Pen Set</p>
+<p>Block size: 3" x 3" x 3". 580 sheets. With designer pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762659795033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-JS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762630729817</id>
+    <published>2018-10-29T17:44:35-05:00</published>
+    <updated>2018-10-29T17:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-note-pad-and-pen-set"/>
+    <title>Red Truck Hauling Christmas Tree with Red Cardinals Note Pad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_Note_Pad_and_Pen_Set.gif?v=1561400683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Red Truck Hauling Christmas Tree Pictured with Red Cardinals Note Pad and Pen Set.  The Red Truck theme is so popular and in trend this holiday.  Adorned with red ribbon and wreath gift tag. Perfect for gift giving this season. </span></p>
+<p><span>Size: 4.37" x 5.37"</span></p>
+<p><span> 75 printed sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762630729817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>102918-JS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363994673253</id>
+    <published>2018-10-26T17:32:06-05:00</published>
+    <updated>2018-10-26T17:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/charming-christmas-holiday-susie-in-bells-hankie-gift-card"/>
+    <title>Charming Christmas Holiday Susie in Bells Hankie Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Charming_Christmas_Holiday_Susie_in_Bells_Hankie_Gift_Card.gif?v=1561399652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Charming Christmas Holiday Susie Hankie Gift Card. Adorable Susie Card is decked out in her fur trimmed Coat &amp; Hat with Christmas Holiday Bells Hanky peaking out from her coat.</span><br><br><span>Holiday Cards have a "TO &amp; FROM" frame on the back of the card to personalize. Cards are mail-able and include an envelope.</span><br><br><span>Card Measures 5" x 10". Hankie Measures 13" x 13" Square Hankie All Cotton Batiste Fabric</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363994673253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102618-HJ1</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/29260873729</id>
+    <published>2017-11-02T13:13:39-05:00</published>
+    <updated>2017-11-02T13:13:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fancy-ornaments-dimensional-christmas-holiday-greeting-cards"/>
+    <title>Fancy Ornaments Dimensional Christmas Holiday Greeting Cards</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fancy-ornaments-dimensional-christmas-holiday-greeting-cards.png?v=1601093701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send love and holiday greetings in shimmering style with our dimensional Christmas cards. Includes 12 cards with interior greetings and tasteful helpings of gems, gold foil, and glitter.</p>
+<ul>
+<li>Interior Message: "...and a Happy New Year!"</li>
+<li>Layered</li>
+<li>Gold Foil Accents</li>
+<li>Card Size: 5" x 7"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/29260873729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>110217-J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/29254582273</id>
+    <published>2017-11-02T13:03:56-05:00</published>
+    <updated>2017-11-02T13:03:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-journey-dimensional-christmas-holiday-greeting-cards"/>
+    <title>Christmas Journey Dimensional Christmas Holiday Greeting Cards Set of 12 - 1 Left!</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-journey-dimensional-christmas-holiday-greeting-cards-set-of-12-1-left.png?v=1601093699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send love and holiday greetings in shimmering style with our dimensional beautiful Christmas cards. Includes 12 cards with interior greetings and tasteful helpings of gems, gold foil, and glitter.</p>
+<ul>
+<li>Interior Message: "Wishing you a Warm Holiday Season!"</li>
+<li>Layered</li>
+<li>Gem</li>
+<li>Gold Foil Accents</li>
+<li>Card Size: 5" x 7"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/29254582273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>110217-J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10333614849</id>
+    <published>2017-10-20T16:02:35-05:00</published>
+    <updated>2017-10-20T16:02:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-old-fashioned-christmas-cards"/>
+    <title>24 Old Fashioned Christmas Cards</title>
+    <s:type>Pens &amp; Romantic Desk Accessories Stamp Dispenser Business Card Holder</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-old-fashioned-christmas-cards.jpg?v=1601093373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Pens &amp; Romantic Desk Accessories Stamp Dispenser Business Card Holder<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Old-fashioned holiday charm abounds with these collectibles and their colorful portraits of ruddy-cheeked children and Santas. Reproduced directly from rare originals, the images of twinkling stars, shiny toys, and candle-decked trees first appeared in the years between 1900 and 1930. Featured artists include John Winsch and Ellen Clapsaddle, along with creations from the famous house of Raphael Tuck &amp; Sons of London. A joy to send or keep, these nostalgic cards kindle a warm glow of seasonal cheer. Format: Cards Pages: 6 Dimensions: 8 1/4 x 11</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas 2010</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10333614849</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>5079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8424477633</id>
+    <published>2016-11-09T10:51:00-06:00</published>
+    <updated>2016-11-09T10:51:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/trimming-the-tree-hankie-christmas-greeting-card"/>
+    <title>Trimming The Tree Hankie Christmas Greeting Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/trimming-the-tree-hankie-christmas-greeting-card.jpg?v=1601092798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely Trimming The Tree Hankie (hanky) Christmas Greeting Card has mother trimming the tree in her beautiful hankie dress with help from the little ones. Greeting: "May you find a winter wonderland of beauty to behold, may the season bring all the Happiness a heart could ever hold.........This beautiful card is 5" x 8" and arrives in a clear sleeve, an envelope is also included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8424477633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>110915-1J</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8313576001</id>
+    <published>2016-10-24T12:14:00-05:00</published>
+    <updated>2016-10-24T12:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-angel-hankie-gift-card"/>
+    <title>Christmas Angel Hankie Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Christmas-Angel-Hankie-Gift-Card_ff08606d-48a9-4553-9cf9-163eb0e851e5.jpg?v=1629159144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely Christmas Angel Hankie Gift Card is the perfect holiday card and gift.  Your friend or loved one will receive not only a beautiful card for the holiday season but also a keepsake gift.  This lovely angel stands before a candle lit tree in her sweet pink poinsettia hanky dress.  The is card is blank inside and includes white envelope.  Presented in clear cello adorned with tulle bow. Hankie can be removed for use.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8313576001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102416J3</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1910451521</id>
+    <published>2016-09-05T12:04:00-05:00</published>
+    <updated>2016-09-05T12:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cw-chickdee-mini-port"/>
+    <title>Carol Wilson Chickadee Mini Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-chickadee-mini-portfolio.jpg?v=1601091119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Chickadee Mini Portfolio includes 10 embossed cards and 10 envelopes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1910451521</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1307853684837</id>
+    <published>2016-09-01T09:45:00-05:00</published>
+    <updated>2016-09-01T09:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-christmas-presents-note-card-portfolio"/>
+    <title>Carol Wilson Christmas Presents Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-christmas-presents-note-card-portfolio.jpg?v=1601094092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Gold Ribbon Wreath Christmas Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1307853684837</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14732j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1910481601</id>
+    <published>2016-09-01T09:45:00-05:00</published>
+    <updated>2016-09-01T09:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cw-gold-ribbon-wreath"/>
+    <title>Carol Wilson Gold Ribbon Wreath</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-gold-ribbon-wreath.jpg?v=1601091120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Gold Ribbon Wreath Christmas Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1910481601</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144039617</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-matchbook-notepad-w-pen"/>
+    <title>Home for the Holidays Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-home-for-the-holidays-matchbook-notepad-w-pen-1.gif?v=1561400111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Home for the Holidays Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144039617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142835905</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-note-block-w-pen"/>
+    <title>Home for the Holidays Note Block w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-note-block-w-pen-1.gif?v=1561400111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Home for the Holidays Note Block w Pen</p>
+<p><span>Block size: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142835905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142813057</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-die-cut-notepad-w-pen"/>
+    <title>Home for the Holidays Magnetic List Gift Set</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-list-pad-w-pen-1.gif?v=1561400110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Home for the Holidays Gift Set includes a Magnetic List Pad, Bluebird Notepad and a Designer Pen.<span> Magnetic List Pad: 8.5" x 3.5", Die Cut Notepad: 4.5" x 4.5". 75 printed sheets each. <br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142813057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>07262016-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1352801419365</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-candles-embroidered-linen-christmas-greeting-card"/>
+    <title>Christmas Poinsettias &amp; Candles Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-poinsettias-candles-embroidered-linen-christmas-greeting-card.jpg?v=1601094342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> This holiday embroidered linen card features several flickering candles in the middle of Christmas poinsettias, alongside green holly and red berries. Embroidered throughout this card is beautiful gold metallic thread.</span></p>
+<p><span>The inside greeting of this card reads:  Hoping you feel all the warmth and wonder of this beautiful season.  Merry Christmas!</span></p>
+<li class="">Featuring exclusive embroidery artwork</li>
+<li class="">Includes envelope and seal </li>
+<li class="">Dimensions: 4 1/4" W x 5 1/2 ” H</li>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1352801419365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>09262018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1352800698469</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silent-night-carolers-embroidered-linen-christmas-greeting-card"/>
+    <title>Silent Night Carolers Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silent-night-carolers-embroidered-linen-christmas-greeting-card.jpg?v=1601094341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> This matchless, enchanting Christmas card would brighten up anybody's holiday season! The charming Christmas Carolers with the words… Silent night holy night… Above them. The beautiful, soft and gentle white snow falling is just one more delightful charm, added to this fun greeting card. </span></p>
+<p><span>The inside greeting of this card reads: May the Spirit of Christmas fill</span><br><span>your heart with light and hope.</span></p>
+<li class="">Featuring exclusive embroidery artwork</li>
+<li class="">Includes envelope and seal </li>
+<li class="">Dimensions: 4 1/4" W x 5 1/2 ” H</li>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1352800698469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>09262018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1352799682661</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-deer-embroidered-linen-christmas-greeting-card"/>
+    <title>2 Deer Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-deer-embroidered-linen-christmas-greeting-card.jpg?v=1601094339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This card displays a beautiful winter scene, featuring deer and trees for a wonderful seasons greetings.  This will peek your emotions of waking up on cold mornings and looking out the window to a lovely wintery and Christmasy feeling! </span></p>
+<p><span>The inside greeting of this card reads:  </span><span>Wishing you a Merry Christmas </span><span>filled with wonderful memories!</span> </p>
+<li class="">Featuring exclusive embroidery artwork</li>
+<li class="">Includes envelope and seal </li>
+<li class="">Dimensions: 4 1/4" W x 5 1/2 ” H</li>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1352799682661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>09262018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1352797585509</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-bird-embroidered-linen-greeting-card"/>
+    <title>Christmas Bird Embroidered Linen Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-bird-embroidered-linen-greeting-card.jpg?v=1601094338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This sweet embroidered linen card features a winter bird perched on a holiday branch of holly and berries! The words...Christmas Greetings...are embroidered in beautiful gold metallic thread.</span></p>
+<p>The inside greeting of this card reads:  Wishing you this holiday, the precious joy of sharing and the special warmth of friendship.  Merry Christmas!</p>
+<p> </p>
+<li class="">Featuring exclusive embroidery artwork</li>
+<li class="">Includes envelope and seal </li>
+<li class="">Dimensions: 4 1/4" W x 5 1/2 ” H</li>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1352797585509</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>09262018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2467494465</id>
+    <published>2015-11-11T15:43:00-06:00</published>
+    <updated>2015-11-11T15:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-tea-time-gift-bag"/>
+    <title>Holiday Christmas Tea Time Gift Bag</title>
+    <s:type>Giftwrap Bags Tags and Labels</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Holiday-Christmas-Tea-Time-Gift-Bag_c6422814-92b9-4e23-953d-3aee018226f5.jpg?v=1629331915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Giftwrap Bags Tags and Labels<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Holiday Christmas Tea Time Large Gift Bag <br><br>8.25"h x 9.25"w x 4" <br>Comes with Gift Tag</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2467494465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>5081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/wedding-guest-books-and-pens.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-11T22:40:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506565185</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sea-shell-wedding-guest-book-and-pen-set"/>
+    <title>Sea Shell Wedding Guest Book and Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sea-shell-wedding-guest-book-and-pen-set.jpg?v=1601089728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set is covered in ivory satin. Both the 8" x 6" guest book and 3.75" pen set are decorated with ivory sheer ribbon, scattered pearls and a cluster of seashells with pearls. The pen is gold with black ink.The guest book has 55 two-sided pages for signatures -- the front and back of each page has the header "Guests" and 9 blank lines. This book fits 990 signature lines total.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506565185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>8516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506440513</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-guest-book"/>
+    <title>Taupe Rose Guest Book</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-guest-book.jpg?v=1601089719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 8.5" x 6" guest book has a taupe satin cover. The front is decorated with a darker taupe sash and a ivory rose. Beads attached to wires extend outward from the rose. A rhinestone and pearl decoration in the center of the rose completes the design.</span><br><span>This guest book holds 55 pages for a total of 990 signatures.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506440513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506411649</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-pen-set"/>
+    <title>Taupe Rose Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-pen-set.jpg?v=1601089716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink and a 3.75" x 3.75" taupe satin pen base The base is decorated with a darker taupe sash and a ivory rose. A rhinestone and pearl decoration in the center of the rose completes the design. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506411649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>8506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506377153</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-guest-book"/>
+    <title>Chic and Shabby Guest Book</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-guest-book.jpg?v=1601089714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Family and friends will find this elegant guest book covered in cream satin as they arrive at the reception.  To give this guest book its unique look, a hand crafted flower with a pearl/rhinestones ornament decorates the cover.  Below the hand crafted paper flower is gathered with a cream shantung fabric sash and a pearl spray accent.  The guest book is 8.5" long and contains 55 pages for 990 signatures.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506377153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506307457</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-bridal-pen-set"/>
+    <title>Chic and Shabby Bridal Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-bridal-pen-set.jpg?v=1601089708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink attached to a cream satin covered base and a cream shantung fabric sash.  The hand crafted paper flower decoration with pearl/rhinestone ornament in the center and pearl spray accent will not go unnoticed as guests enter the reception.  The base measures 3.75".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506307457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>8501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

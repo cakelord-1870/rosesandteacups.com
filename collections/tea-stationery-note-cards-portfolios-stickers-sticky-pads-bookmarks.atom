@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-stationery-note-cards-portfolios-stickers-sticky-pads-bookmarks.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-11-11T15:04:51-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4748825100377</id>
+    <published>2020-11-11T15:04:51-06:00</published>
+    <updated>2020-11-11T15:04:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card-1"/>
+    <title>Christmas Wishes Kimberly Shaw Tea in a Tea Cup Christmas Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card_868e5a06-1dea-4d39-ada1-5a79d6a56371.jpg?v=1605128694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Outside text: "Wishing you a Merry Christmas and a Happy New Year".</span></p>
+<p><span>Inside reads: "<strong>Wishing you and your family a Merry Christmas and a Happy New Year</strong>".</span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong>, a blend of ceylon tea spiced with citrus, almond, clove and cinnamon flavors from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4748825100377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>111220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130484789337</id>
+    <published>2019-07-10T15:19:40-05:00</published>
+    <updated>2019-07-10T15:19:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-licious-sticky-note-pad-party-favor"/>
+    <title>Old Country Roses Tea-Licious Sticky Note Pad Party Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-tea-licious-sticky-note-pad-party-favor.jpg?v=1601094877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The World's Most Tea-Licious Sticky Note Pads! Our Old Country Roses Sticky Pad makes a great tea party favor or perfect for your desk use.  Each 3 x 3, 50-page Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130484789337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>4096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122963877977</id>
+    <published>2019-06-29T10:33:36-05:00</published>
+    <updated>2019-06-29T10:33:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-bookmarks-autumn-tea"/>
+    <title>10 Bookmarks - Autumn Tea</title>
+    <s:type>Bookmarks</s:type>
+    <s:vendor>Iprint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-bookmarks-autumn-tea.jpg?v=1601094860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iprint<br>
+        <strong>Type: </strong>Bookmarks<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10 Quantity Bookmarks<br> Our Bookmark Designs are created from special graphics which we have commissioned and/or purchased a license to use! They make wonderful gifts and favors, are easy to mail, and are very inexpensive!</p>
+<p>Bookmarks are made from 14pt card stock with a clear UV coating. They are 2 inches by 6.5 inches in size.</p>
+<p><span>Personalized Text on Back on orders of 50 or more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens &amp; Tea Stationery</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122963877977</id>
+      <title>Default</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>06292019N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344488734821</id>
+    <published>2018-09-11T09:21:52-05:00</published>
+    <updated>2018-09-11T09:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-pill-box"/>
+    <title>Sweet Violets and Hummingbird Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pill-box-sv-2.gif?v=1561401094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Beautiful Sweet Violets and Hummingbird Heart Shaped Pill Box has 2 sections.</span></p>
+<p><span>Box size: 2.5" x 2.375" x 0.875". Metal case with epoxy cover.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344488734821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>09112018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1307856044133</id>
+    <published>2018-07-03T06:08:20-05:00</published>
+    <updated>2018-07-03T06:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-tea-cups-notebook"/>
+    <title>Carol Wilson Stacked Tea Cups Notebook - Limited Supply!</title>
+    <s:type>notebook</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stacked-tea-cups-notebook-limited-supply.jpeg?v=1601094095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>notebook<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet Carol Wilson tea themed notebook features 224 lined pages.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1307856044133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07032018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1350865601</id>
+    <published>2018-01-08T15:57:18-06:00</published>
+    <updated>2018-01-08T15:57:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/falling-in-love-with-hydrangea-ceramic-desk-set"/>
+    <title>Falling in Love with Hydrangea Ceramic Desk Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/falling-in-love-with-hydrangea-ceramic-desk-set.jpg?v=1601088474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Falling in Love with Hydrangeas</span><br><span>Folded Note Cards, Die Cut Pad Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1350865601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/294469042216</id>
+    <published>2017-11-22T10:28:06-06:00</published>
+    <updated>2017-11-22T10:28:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-paper-block"/>
+    <title>Holiday Tea Time Paper Block - Very Limited Supply</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-time-paper-block-very-limited-supply.jpg?v=1582071370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">#24040 Holiday Tea Time Paper Block with Designer Pen Block size: 3" x 3" x 3" 580 sheets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHR</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/294469042216</id>
+      <title>Default</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6731891393</id>
+    <published>2016-06-25T18:23:00-05:00</published>
+    <updated>2016-06-25T18:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-tea-cup-blank-greeting-card"/>
+    <title>Purple Tea Cup Blank Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-tea-cup-blank-greeting-card.jpg?v=1601092434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This high quality, glossy greeting card with coordinating envelope is perfect for so many occasions!  There is plenty of room to personalize your card with Happy Birthday, Thank You, or other special greetings.  These can also be used for Tea Party Invitations!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6731891393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>062616N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7983365569</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/1-sheet-of-62-1-inch-round-gold-trimmed-pastel-tea-cup-and-teapot-stickers"/>
+    <title>1 Sheet of 62 1-inch Round Gold Trimmed Pastel Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-sheet-of-62-1-inch-round-gold-trimmed-pastel-tea-cup-and-teapot-stickers.jpg?v=1601092617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> So adorable!  These pastel tea cups and teapots are exclusive to Roses and Teacups, and we know you'll love them!  You'll receive an 8.5 x 11 sheet of 1-inch pastel, gold-trimmed tea cup and teapot stickers.  They are easy to reposition if needed.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7983365569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>09172016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7021574913</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sheet-of-63-1-inch-round-christmas-tea-cup-and-teapot-stickers"/>
+    <title>1 Sheet of 62 1-inch Round Christmas Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-sheet-of-62-1-inch-round-christmas-tea-cup-and-teapot-stickers.png?v=1601092508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> So adorable!  These holiday tea cups and teapots are exclusive to Roses and Teacups, and we know you'll love them!  You'll receive an 8.5 x 11 sheet of 1-inch Christmas tea cup and teapot stickers.  They are easy to reposition if needed.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7021574913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07182016-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481246145</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sheet-of-62-1-inch-round-tea-cup-and-teapot-stickers"/>
+    <title>Sheet of 62 1-inch Round Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sheet-of-62-1-inch-round-tea-cup-and-teapot-stickers.jpg?v=1601089142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Sheet of 62 1-inch Round Tea Cup and Teapot Stickers Gorgeous images of tea cups and teapots!  Use as envelope seals or place card decorations!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481246145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8747</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5277567937</id>
+    <published>2016-02-27T18:34:00-06:00</published>
+    <updated>2016-02-27T18:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tea-time-tea-cup-coasters"/>
+    <title>12 Tea Time Tea Cup Coasters</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tea-time-tea-cup-coasters.jpg?v=1601091964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>One side has pink tea cups and flowers; the other has purple.  2 layers of cotton candy colored paper filler are layered between 52pt paper stock for optimal absorption.  </span></span>
+<ul>
+<li>3.5" x 3.5" with 3/8" rounded corners</li>
+<li>Pink Tea Cups on one side and Purple Tea Cups on the other.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5277567937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34000N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344484048997</id>
+    <published>2016-01-29T13:42:00-06:00</published>
+    <updated>2016-01-29T13:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-die-cut-sticky-notes-pad"/>
+    <title>Sweet Violets Die Cut Sticky Notes Pad</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sticky-notepad-sv-2.gif?v=1561401096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pad size: 4" x 4.75". 75 printed self adhesive sheets. Tea Cup and Violets graphics.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344484048997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>09112018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3998672385</id>
+    <published>2016-01-29T13:42:00-06:00</published>
+    <updated>2016-01-29T13:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-rose-cottage-die-cut-sticky-notes-pad"/>
+    <title>Tea Rose Cottage Die Cut Sticky Notes Pad</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-rose-cottage-die-cut-sticky-notes-pad-1.gif?v=1561401143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pad size: 4" x 4.75". 75 printed self adhesive sheets. Tea Cup and Rose graphics.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3998672385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33511N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3998653057</id>
+    <published>2016-01-29T13:38:00-06:00</published>
+    <updated>2016-01-29T13:38:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-rose-cottage-gift-bag-with-hang-tag"/>
+    <title>Tea Rose Cottage Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-rose-cottage-gift-bag-with-hang-tag-1.gif?v=1561401143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You'll love the gorgeous Tea Graphics and Paris style Roses on this paper gift bag with hang tag.</span></p>
+<p><span>8.25"h x 9.25"w x 4"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3998653057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33510N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7017479489</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-and-teapots-holiday-greeting-cards-set-of-10"/>
+    <title>10 Christmas Tea Cups and Teapots Holiday Greeting Cards</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-christmas-tea-cups-and-teapots-holiday-greeting-cards.jpg?v=1601092499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Have a Tea-Lightful Holiday Season!  These Roses and Teacups exclusives are so cheerful!  You'll receive 5 glossy Tea Cup Cards and 5 glossy Teapot Cards all with coordinating Envelopes.  Check out the matching <a href="https://roses-and-teacups.com/collections/bookmarks">Bookmarks</a>, as well!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7017479489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>07192016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3537982785</id>
+    <published>2015-11-16T11:39:00-06:00</published>
+    <updated>2015-11-16T11:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-carols-rose-garden-teacups-thank-you-cards"/>
+    <title>Carol Wilson Carol&apos;s Rose Garden Teacups Thank You Cards</title>
+    <s:type>Carol Wilson Thank You Cards</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-carols-rose-garden-teacups-thank-you-cards.jpg?v=1601091620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Thank You Cards<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">8 <span>4 x 5.5 </span>Die Cut and Embossed Boxed Tea Cups Thank You Notes with Envelopes featuring the amazing graphics of Carol Wilson Fine Arts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3537982785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>22460N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556071681</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pink"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pink</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pink-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556071681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556067777</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-burgundy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Burgundy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-burgundy-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556067777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556062145</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-yellow"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Yellow</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-yellow-1.gif?v=1561400522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556062145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556053249</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-blue"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Blue</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-blue-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556053249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556026305</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pansy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pansy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pansy-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556026305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556009217</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-letterhead-and-envelopes"/>
+    <title>Teapot Letterhead and Envelopes</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-letterhead-and-envelopes.jpg?v=1601090973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot 8 1/2 x 11 Stationery</span><br><span>25 Sheets with 25 Matching Envelopes </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556009217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556008001</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-letterhead-and-envelopes"/>
+    <title>Tea Cup Letterhead and Envelopes</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-letterhead-and-envelopes.jpg?v=1601090971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teacup 8 1/2 x 11 Stationery</span><br><span>25 Sheets with 25 Matching Envelopes </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556008001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541334529</id>
+    <published>2015-07-15T21:50:00-05:00</published>
+    <updated>2015-07-15T21:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ks-baby-shower-invitation"/>
+    <title>Kimberly Shaw Baby Shower Tea Invitation</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-baby-shower-tea-invitation.jpg?v=1601090749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99 - 117.00
+            <a href="https://rosesandteacups.com/products/ks-baby-shower-invitation">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>One Card</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>Set of 36</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>5413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>Set of 12</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>5414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

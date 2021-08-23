@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/note-blocks.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-01-26T18:33:51-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446957043801</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/faith-hope-love-sunflower-pansies-and-butterflies-note-block-pen-set"/>
+    <title>Faith Hope Love Sunflower Pansies and Butterflies Note Block Pen Set</title>
+    <s:type>note block</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/faith-hope-love-sunflower-pansies-and-butterflies-note-block-pen-set.jpg?v=1580216567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>note block<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Faith Hope Love Sunflower Pansies and Butterflies Note Block Pen Set is a great addition to any desk or home for quick and pretty notes. Has inspiring scriptures saying: "Faith in a Baby in a Baby who brings love, light and life. Hope in His everlasting peace. Love in the embrace of family and friends.</span></p>
+<p><span>Block size: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446957043801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>0127202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2052310073433</id>
+    <published>2019-04-02T11:47:45-05:00</published>
+    <updated>2019-04-02T11:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pansy-note-block-and-designer-pen-set"/>
+    <title>Pretty Pansy Note Block and Designer Pen Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pansy-note-block-and-designer-pen-set.jpg?v=1582071410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Pansy Note Block and Designer Pen Set includes 580 sheets all wrapped up with a grosgrain box perfect for gift giving and the office.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2052310073433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>040219-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142835905</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-note-block-w-pen"/>
+    <title>Home for the Holidays Note Block w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-note-block-w-pen-1.gif?v=1561400111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Home for the Holidays Note Block w Pen</p>
+<p><span>Block size: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142835905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147002753</id>
+    <published>2015-12-07T10:28:00-06:00</published>
+    <updated>2015-12-07T10:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-note-block-w-pen"/>
+    <title>Purrfect Sunny Day Cat Note Block w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-purrfect-sunny-day-cat-note-block-w-pen-only-1-left-1.gif?v=1561400646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Purrfect Sunny Day Cat Note Block w Pen<br>Block size: 3" x 3" x 3". 580 sheets. With designer pen.<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147002753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-22N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1388573761</id>
+    <published>2015-06-29T12:39:00-05:00</published>
+    <updated>2015-06-29T12:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cottage-in-bloom-paper-note-block"/>
+    <title>Cottage in Bloom Paper Note Block</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cottage-in-bloom-paper-note-block.jpg?v=1582071085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3x3x3  580 pages  Includes designer pen and ribbon accent.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1388573761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>9478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1368305153</id>
+    <published>2015-06-26T17:55:00-05:00</published>
+    <updated>2015-06-26T17:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-paper-note-block-with-designer-pen"/>
+    <title>Chocolate Paper Note Block with Designer Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-paper-note-block-with-designer-pen.jpg?v=1582071080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3 x 3 x 3 580 Pages of chocolates, strawberries and wine!  Includes Designer Pen and ribbon accent.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1368305153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367807297</id>
+    <published>2015-06-26T17:07:00-05:00</published>
+    <updated>2015-06-26T17:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-paper-note-block-with-designer-pen"/>
+    <title>Vegetable Garden Paper Note Block with Designer Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-paper-note-block-with-designer-pen.jpg?v=1582071078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vegetable Garden Paper Note Block with Designer Pen</span></p>
+<p><span>3x3x3  580 Sheets  Includes designer pen and ribbon accent.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367807297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367635841</id>
+    <published>2015-06-26T16:49:00-05:00</published>
+    <updated>2015-06-26T16:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-allure-paper-note-block-and-pen"/>
+    <title>Lavender Allure Paper Note Block and Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-allure-paper-note-block-and-pen.jpg?v=1582071076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="text"><span color="#660066" size="2;"><span>P</span></span><span color="#660066" size="2;"><span>aper block </span></span><span color="#660066" size="2;"><span>size: </span></span><span color="#660066" size="2;"><span>3</span></span><span color="#660066" size="2;"><span>" x </span></span><span color="#660066" size="2;"><span>3</span></span><span color="#660066" size="2;"><span>"</span></span><span color="#660066" size="2;"><span> x 3". 580 </span></span><span color="#660066" size="2;"><span>sheets.</span></span><span color="#660066" size="2;"><span></span></span></span><br><span class="text"><span color="#660066" size="2;"><span></span></span><span color="#660066" size="2;"><span>Included</span></span><span color="#660066" size="2;"><span>:</span></span><span color="#660066" size="2;"><span> a </span></span><span color="#660066" size="2;"><span>stylus touch </span></span><span color="#660066" size="2;"><span>pen</span></span><span color="#660066" size="2;"><span>, </span></span><span color="#660066" size="2;"><span>tie</span></span><span color="#660066" size="2;"><span>s</span></span><span color="#660066" size="2;"><span> with decorative ribbon</span></span><span color="#660066" size="2;"><span>.</span></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367635841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>8896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521104833</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/skates-note-block-with-pen"/>
+    <title>Skates Note Block with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/skates-note-block-with-pen.jpg?v=1582071181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>3 x 3 x 3 580 Sheets</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521104833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>8886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521008129</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-paper-block-with-designer-pen-block"/>
+    <title>Christmas Tree Note Block with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tree-note-block-with-pen.jpg?v=1582071176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3" x 3" x 3" 580 sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521008129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>8879</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520987009</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-note-block-with-pen"/>
+    <title>Winter Wonderland Note Block with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-note-block-with-pen.jpg?v=1582071175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3 x 3 x 3 580 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520987009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>8885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144166273</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-poppies-sticky-notes-pad"/>
+    <title>Poppies Note Block w Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-poppies-note-block-w-pen-1.gif?v=1561400600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poppies Note Block w Pen S<span>ize: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144166273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344485654629</id>
+    <published>2015-06-24T12:37:00-05:00</published>
+    <updated>2015-06-24T12:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-paper-note-block-and-pen"/>
+    <title>Sweet Violets Paper Note Block and Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paper-block-set-sv-2.gif?v=1561401097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea Cups and Violets on every side of this 3" x 3" x 3" paper block.  580 Sheets.  Includes designer pen and decorative ribbon.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344485654629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>09112018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

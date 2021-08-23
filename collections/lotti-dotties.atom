@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/lotti-dotties.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-11-01T17:29:37-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325492064345</id>
+    <published>2019-11-01T17:29:37-05:00</published>
+    <updated>2019-11-01T17:29:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-emeralds-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available"/>
+    <title>Sparkling Emeralds Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-emeralds-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkling Emeralds Lotti Dottie Adjustable Interchangeable Magnetic Woven Braceletet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325492064345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325451300953</id>
+    <published>2019-11-01T16:39:07-05:00</published>
+    <updated>2019-11-01T16:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/completed-lotti-dottie-woven-br-1"/>
+    <title>Opal Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/opal-enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Opal Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325451300953</id>
+      <title>Default</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325428101209</id>
+    <published>2019-11-01T16:12:31-05:00</published>
+    <updated>2019-11-01T16:12:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available"/>
+    <title>Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325428101209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325393924185</id>
+    <published>2019-11-01T15:32:58-05:00</published>
+    <updated>2019-11-01T15:32:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dotties-adjustable-woven-bracelet"/>
+    <title>Sparkling Pink Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1582071441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkling Pink Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325393924185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325378031705</id>
+    <published>2019-11-01T15:13:51-05:00</published>
+    <updated>2019-11-01T15:13:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-pink-lotti-dottie-interchangable-earrings"/>
+    <title>Sparkling Pink Lotti Dottie Interchangeable Earrings - Only 1 Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-lotti-dottie-interchangeable-earrings-only-1-available.jpg?v=1601095057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparkling Pink Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low low price by purchasing new lotti dotties one at a time! Lotti Dotties jewelry pieces make wonderful gifts!</p>
+<p>You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (sold separately)  and pop in new ones for a brand new look! Make your own jewelry in seconds!</p>
+<p>Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325378031705</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>7314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325370888281</id>
+    <published>2019-11-01T15:04:57-05:00</published>
+    <updated>2019-11-01T15:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dottie-interchangable-earrings-only-one-available"/>
+    <title>Enchantress Lotti Dottie Interchangable Earrings - Only One Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchantress-lotti-dottie-interchangable-earrings-only-one-available.jpg?v=1601095056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enchantress Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low price by purchasing new lotti dotties one at a time!</p>
+<p>Lotti Dotties jewelry pieces make wonderful gifts! You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (purchased separately) and pop in new ones for a brand new look! Make your own jewelry in seconds! Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotti Dottie</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325370888281</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>7310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325469257817</id>
+    <published>2019-11-01T12:04:58-05:00</published>
+    <updated>2019-11-01T12:04:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mystic-crystal-filigree-lotti-dotti-interchangeable-magnetic-earrings-only-1-available"/>
+    <title>Mystic Crystal Filigree Lotti Dotti Interchangeable Magnetic Earrings - Only 1 Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mystic-crystal-filigree-lotti-dotti-interchangeable-magnetic-earrings-only-1-available.jpg?v=1601095063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mystic Crystal Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low price by purchasing new lotti dotties one at a time!</p>
+<p>Lotti Dotties jewelry pieces make wonderful gifts! You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (purchased separately) and pop in new ones for a brand new look! Make your own jewelry in seconds! Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325469257817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530307009</id>
+    <published>2015-07-14T21:55:00-05:00</published>
+    <updated>2015-07-14T21:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lotti-dotties-adjustable-woven-bracelet"/>
+    <title>Lotti Dotties Adjustable Blank Interchangeable Woven Bracelet For Magnetic Jewelry</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lotti-dotties-adjustable-blank-interchangeable-woven-bracelet-for-magnetic-jewelry.jpg?v=1601090530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lotti Dotties Adjustable Blank Interchangeable Woven Bracelet For Magnetic Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530307009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/quilted-placemats.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-09T21:12:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/9778393857</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppies-quilted-placemat-and-matching-napkin"/>
+    <title>Poppies Quilted Placemat and Matching Napkin</title>
+    <s:type>Quilted Placemats</s:type>
+    <s:vendor>Great Finds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppies-quilted-placemat-and-matching-napkin.jpg?v=1601093213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Finds<br>
+        <strong>Type: </strong>Quilted Placemats<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Set of 4 Quilted Placemats with matching Napkins</span></p>
+<p><span>100% Cotton Placemat is 4 x 18</span><br><span>Napkin is 18 x 18</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9778393857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>06282017-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9778384129</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-on-brown-quilted-placemat-and-matching-napkin"/>
+    <title>Roses on Brown Quilted Placemat and Matching Napkin</title>
+    <s:type>Quilted Placemats</s:type>
+    <s:vendor>Great Finds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-on-brown-quilted-placemat-and-matching-napkin.jpg?v=1601093211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Finds<br>
+        <strong>Type: </strong>Quilted Placemats<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Set of 4 Quilted Placemats with matching Napkins</span></p>
+<p><span>100% Cotton Placemat is 4 x 18</span><br><span>Napkin is 18 x 18</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9778384129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>06282017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1491718593</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holly-quilted-placemat-and-matching-napkin"/>
+    <title>Holly Quilted Placemat and Matching Napkin</title>
+    <s:type>Quilted Placemats</s:type>
+    <s:vendor>Great Finds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holly-quilted-placemat-and-matching-napkin.jpg?v=1601089228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Finds<br>
+        <strong>Type: </strong>Quilted Placemats<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Set of 4 Quilted Placemats with matching Napkins</span></p>
+<p><span>100% Cotton Placemat is 4 x 18</span><br><span>Napkin is 18 x 18</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491718593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>7392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

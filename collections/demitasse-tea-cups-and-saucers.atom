@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/demitasse-tea-cups-and-saucers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-21T16:43:39-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482619572313</id>
+    <published>2020-02-21T16:43:39-06:00</published>
+    <updated>2020-02-21T16:43:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-rose-garden-demi-porcelain-teacups-one-of-a-kind-2"/>
+    <title>Set of 4 Rose Garden Demi Porcelain Teacups - One of a Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-rose-garden-demi-porcelain-teacups-one-of-a-kind.jpg?v=1582376694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 4 Rose Garden Demi Porcelain Teacups has lovely rose chintz pattern surrounding cup and saucer completely. Holds approximately 3 onces perfect for lattes or a childs tea party.  Is not boxed decoratively.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Little Victorian Ladies</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482619572313</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122664542297</id>
+    <published>2019-06-28T15:10:35-05:00</published>
+    <updated>2019-06-28T15:10:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-blue-rose-demi-tasse-teacups-and-saucers"/>
+    <title>Set of 6 Childrens Blue Rose Demi Tasse Porcelain Teacups and Saucers - Limited Supply</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-childrens-blue-rose-demi-tasse-porcelain-teacups-and-saucers-limited-supply.jpg?v=1582071425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of Children's 6 Blue Rose Porcelain Demi Tasse Teacups and Saucers are approximately 3oz. A great size for little hands or to be given as party favors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Little Victorian Ladies</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122664542297</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>5685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122627383385</id>
+    <published>2019-06-28T12:11:54-05:00</published>
+    <updated>2019-06-28T12:11:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-girls-princess-roses-and-lilacs-demi-teacup-and-saucer-only-one"/>
+    <title>Little Girl&apos;s Princess Roses and Lilacs Demi Teacup and Saucer - Only One!</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-girls-princess-roses-and-lilacs-demi-teacup-and-saucer-only-one.jpg?v=1582071423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Little Girls Princess Roses and Lilacs Demi  Porcelain Teacup and Saucer is a available to just one lucky little lady. This cute little set has a lovely chintz pattern surrounding the cup and on saucer as well. Trimmed in 14k gold and is perfect for little hands holding approximately 3 -4 ounces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122627383385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0628296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15970304001</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-snow-people"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Snow People</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-snow-people.jpg?v=1601093623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15970304001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-26N-373-126SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15965782017</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-peony"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Peony</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-peony.jpg?v=1601093622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15965782017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-25N-373-118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15960309761</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-magnolia"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Magnolia</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-magnolia.jpg?v=1601093621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15960309761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-24N-373-160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15954968577</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-lily-of-the-valley"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Lily of the Valley</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-lily-of-the-valley.jpg?v=1601093620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15954968577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-23N-373-157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15949103105</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-white-rose-spray"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer White Rose Spray</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-white-rose-spray.jpg?v=1601093619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15949103105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-22N-373-225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15943237633</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-summer-rose"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Summer Rose</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-summer-rose.jpg?v=1601093618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15943237633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-21N-373-185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15942287361</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-lavender"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Lavender</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-lavender.jpg?v=1601093617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15942287361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-20N-373-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

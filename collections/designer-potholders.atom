@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/designer-potholders.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-08T12:02:44-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128436330585</id>
+    <published>2019-07-08T12:02:44-05:00</published>
+    <updated>2019-07-08T12:02:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-cardinal-in-a-winter-garden-potholder"/>
+    <title>Holiday Cardinal in a Winter Garden Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-cardinal-in-a-winter-garden-potholder_7208a27f-0d5f-465a-b832-601ce62ab34e.jpg?v=1601094865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholder</s:tag>
+    <s:tag>tea potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128436330585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34548N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1945653051481</id>
+    <published>2019-01-04T09:36:06-06:00</published>
+    <updated>2019-01-04T09:36:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vase-of-peonies-with-butterfly-potholder"/>
+    <title>Vase of Peonies with Butterfly Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vase-of-peonies-with-butterfly-potholder.jpg?v=1601094595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful soft pink peonies sitting in a water filled vase with a curious little butterfly decorate with well made thick potholder. Heat proof silver cloth backing. Machine washable. Size 7 1/2" x 7 1/2"  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1945653051481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>010419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10165343361</id>
+    <published>2017-09-14T15:25:42-05:00</published>
+    <updated>2017-09-14T15:25:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-cardinal-and-pine-potholder"/>
+    <title>Holiday Cardinal and Pine Potholder - 3 Left!</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>MDW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-cardinal-and-pine-potholder-3-left.jpg?v=1601093304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MDW<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Well this is what Nancy is giving her lady friends for Christmas!  These are extra long for good protection and have a solid color on the reverse side.  Quilted on the inside.  Cotton.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10165343361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>09142017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1324712820837</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-of-a-cat-potholder"/>
+    <title>Love of a Cat Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/love-of-a-cat-potholder.jpg?v=1601094259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholders</s:tag>
+    <s:tag>tea cup potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:tag>teapot potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1324712820837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>08062018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5686038593</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/good-times-potholder"/>
+    <title>Good Times Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/good-times-potholder.jpg?v=1601092287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholder</s:tag>
+    <s:tag>tea potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5686038593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34546N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5686034625</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hummingbird-potholder"/>
+    <title>Hummingbird Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbird-potholder.jpg?v=1601092285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholder</s:tag>
+    <s:tag>tea potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5686034625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34545Nej17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5686031041</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-on-books-potholder"/>
+    <title>Tea Cup on Books Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-on-books-potholder.jpg?v=1601092284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholder</s:tag>
+    <s:tag>tea potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5686031041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34544N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5686013825</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumblebee-teapot-potholder"/>
+    <title>Bumblebee Teapot Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumblebee-teapot-potholder.jpg?v=1601092281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholders</s:tag>
+    <s:tag>tea cup potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:tag>teapot potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5686013825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34541N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5686011777</id>
+    <published>2016-04-09T14:32:00-05:00</published>
+    <updated>2016-04-09T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bluebird-on-tea-cup-potholder"/>
+    <title>Bluebird on Tea Cup Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bluebird-on-tea-cup-potholder.jpg?v=1601092280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholders</s:tag>
+    <s:tag>tea cup potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:tag>teapot potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5686011777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34540N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

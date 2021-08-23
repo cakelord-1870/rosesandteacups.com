@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T10:18:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771990044761</id>
+    <published>2021-01-06T19:06:20-06:00</published>
+    <updated>2021-01-06T19:06:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-spring-swan-porcelain-teapot"/>
+    <title>Lovely Spring Swan Porcelain Teapot</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-spring-swan-porcelain-teapot.jpg?v=1610024597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">No ugly ducklings here. Enjoy your tea in this beautifully embossed porcelain swan shape teapot. Our swan is 6 1/2" high and holds 20 ounces. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771990044761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0106217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771985490009</id>
+    <published>2021-01-06T18:55:32-06:00</published>
+    <updated>2021-01-06T18:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Majestic Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771985490009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771982868569</id>
+    <published>2021-01-06T18:49:58-06:00</published>
+    <updated>2021-01-06T18:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Pretty Pink Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft blush pink and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771982868569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771980181593</id>
+    <published>2021-01-06T18:43:52-06:00</published>
+    <updated>2021-01-06T18:43:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771980181593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771976937561</id>
+    <published>2021-01-06T18:36:54-06:00</published>
+    <updated>2021-01-06T18:36:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Blue Victorian Cameo Lace and Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameos, roses, bows and beads in soft blue and white create a nightlight dripping in romantic luxury for your home.  Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771976937561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771971399769</id>
+    <published>2021-01-06T18:25:21-06:00</published>
+    <updated>2021-01-06T18:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind"/>
+    <title>Romantic Ivory Cameo Lace and Fringe Large Lampshade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind.jpg?v=1610024592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Romantic Ivory Cameo Lace and Fringe Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771971399769</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764246573145</id>
+    <published>2020-12-16T18:33:59-06:00</published>
+    <updated>2020-12-16T18:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-keshi-freshwater-pearl-necklace-earring-set"/>
+    <title>Peacock Keshi Freshwater Pearl Necklace Earring Set</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-keshi-freshwater-pearl-necklace-earring-set.jpg?v=1608210220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This necklace and earring are made by peacock color keshi pearls, cultured freshwater white pearls and white crystals. The neckalce is in 17 inch with 2.5 inch extension. The matching earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764246573145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1216204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764243951705</id>
+    <published>2020-12-16T18:32:04-06:00</published>
+    <updated>2020-12-16T18:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/keshi-queen-freshwater-pearl-necklace"/>
+    <title>Keshi Queen Freshwater Pearl Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/keshi-queen-freshwater-pearl-necklace.jpg?v=1608210219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant looking necklace and earring are made by AAA+ quality white keshi pearls and red &amp;l ight blue crystals in 17 inch with 2.5 inch extension. All white keshi pearls are very good luster and flawless. Earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764243951705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1216203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763704328281</id>
+    <published>2020-12-15T12:50:33-06:00</published>
+    <updated>2020-12-15T12:50:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-oval-coin-pearl-and-silver-chain-necklace"/>
+    <title>White Oval Coin Pearl and Silver Chain Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-oval-coin-pearl-and-silver-chain-necklace.jpg?v=1608123792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This unique oval shape coin pearl is made by genuine coin pearls. The length is 40 inch. The size of the pearl is 10-11mm by 15-16mm. The chain is silver plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763704328281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>121520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763701968985</id>
+    <published>2020-12-15T12:42:09-06:00</published>
+    <updated>2020-12-15T12:42:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-pn112"/>
+    <title>White Freshwater Pearl Necklace PN112</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn112.jpg?v=1608123791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7mm 85 inch cultured freshwater white pearl necklace with very good luster and hand knotted.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763701968985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1215201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763687485529</id>
+    <published>2020-12-15T11:54:53-06:00</published>
+    <updated>2020-12-15T11:54:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunny-spring-pearl-necklace-and-earring-set"/>
+    <title>Sunny Spring Pearl Necklace and Earring Set F147</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunny-spring-pearl-necklace-and-earring-set-f147.jpg?v=1608123789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made with freshwater cultured keshi pearls and crystals. The length is 18 inch with 2 inch extension. Price includes one pair of earrings. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763687485529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>F147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4762108788825</id>
+    <published>2020-12-11T09:58:24-06:00</published>
+    <updated>2020-12-11T09:58:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tree-broken-china-jewelry-pendant-with-sterling-necklace-included-one-of-a-kind"/>
+    <title>Christmas Tree Broken China Jewelry Pendant with Sterling Necklace Included! One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tree-broken-china-jewelry-pendant-with-sterling-necklace-included-one-of-a-kind.jpg?v=1607778258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beautiful broken china and recycled into a Pendant or Charm with a sweet Christmas Tree. A lead free custom made frame surrounds this vintage piece of china with small signature scallops. Hand polished. A sterling silver split ring was added. Just add to a charm bracelet or add your favorite chain for a great necklace with a connection to the past. Our Mothers, Grandmothers and Great-Grandmothers actually used these beautiful pieces of gorgeous china. Now is your chance to own an affordable heirloom quality piece of jewelry. Measures 3\/4" x 1 1\/4".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4762108788825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1211201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756796899417</id>
+    <published>2020-11-28T09:24:50-06:00</published>
+    <updated>2020-11-28T09:24:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-hummingbird-silver-spoon-necklace"/>
+    <title>Hummingbird Sterling Silver Spoon Necklace</title>
+    <s:type>Silver Spoon Creature Necklaces</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbird-sterling-silver-spoon-necklace_0d1eb4f7-d4a5-45e5-9c69-15c78607e00f.jpg?v=1607127148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Creature Necklaces<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The finely detailed wings of this gorgeous hummingbird were cut from the ends of rose-adorned demitasse spoon patterns from the 1800s and its body was shaped from the bowl of a small teaspoon. The resulting product is a substantial piece that is a must-have for any hummingbird lover.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Length: 18-20" A</span><span data-mce-fragment="1">djustable</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pendant: 2" x 1 7/8", Sterling Silver</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Chain &amp; Findings: 925 Sterling Silver</span></li>
+</ul>
+<p><span data-mce-fragment="1">***We know that the shipping for this item will be higher due to our shipping price being based on subtotal so we have adjusted the price of this item lower to help with this cost.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756796899417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>1128202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756785037401</id>
+    <published>2020-11-28T08:54:05-06:00</published>
+    <updated>2020-11-28T08:54:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sterling-silver-spoon-jewelry-elephant-pendant-necklace"/>
+    <title>Sterling Silver Spoon Jewelry Elephant Pendant Necklace</title>
+    <s:type>Silver Spoon Creature Necklaces</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sterling-silver-spoon-jewelry-elephant-pendant-necklace_1f538ab1-cf0b-4a89-980c-0ce80495f801.jpg?v=1607127140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Creature Necklaces<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<p data-mce-fragment="1">The ears of this gorgeous elephant have been created from the handles of two antique spoons, and the trunk was formed from a different spoon handle. Our goal was to bring the elegance of the past into a classically beautiful piece of modern jewelry. </p>
+</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Chain Length: 30"</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pendant: 2" x 1 3/4" Sterling Silver</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Chain &amp; Findings: Sterling Silver</span></li>
+</ul>
+<p><span>***We know that the shipping for this item will be higher due to our shipping price being based on subtotal so we have adjusted the price of this item lower to help with this cost</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756785037401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>1128201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756662485081</id>
+    <published>2020-11-27T22:19:08-06:00</published>
+    <updated>2020-11-27T22:19:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-enameled-teapot-necklace"/>
+    <title>Blue Enameled Teapot Necklace</title>
+    <s:type>tea jewelry</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-enameled-teapot-necklace.jpg?v=1606568610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>tea jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Isn't this amazing!  We found this enameled teapot necklace and couldn't resist!  A very special gift or a statement necklace for you!  14k Gold over Copper.</p>
+<ul class="wt-text-body-01">
+<li>
+<div>Handmade decorated</div>
+</li>
+<li>Necklace length: 79.5 Centimeters; Pendant height: 2.3 Centimeters; Pendant width: 2.3 Centimeters</li>
+<li>
+<div>Materials: Copper, Gold</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756662485081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>1127201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4738578382937</id>
+    <published>2020-10-16T09:44:27-05:00</published>
+    <updated>2020-10-16T09:44:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fairy-tale-pink-lampwork-rose-bead-and-tea-cup-bracelet"/>
+    <title>Fairy Tale Pink Lampwork Rose Bead and Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fairy-tale-pink-lampwork-rose-bead-and-tea-cup-bracelet.jpg?v=1602939797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fairy tale of a tea bracelet with pretty pink rose porcelain teacups and glass faceted beads on a sterling silver rolo chain and teapot/spoon toggle closure.  Very sweet! 7 1/2"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4738578382937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>100620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4727714512985</id>
+    <published>2020-09-28T13:32:54-05:00</published>
+    <updated>2020-09-28T13:32:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-rose-spoon-ring-limited-supply"/>
+    <title>Royal Rose Flatware Silver Spoon Ring - Limited Supply!!</title>
+    <s:type>Silver Spoon Rings</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-rose-flatware-silver-spoon-ring-limited-supply.jpg?v=1601384578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Rings<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Rose Silver Spoon Ring is made from actual 1939 Vintage Silver Flatware the delicate romantic floral motif trails from the tip to mid-handle of each piece in the setting. The original pattern debuted in 1939 and even inspired a bridal gown design. Mirror and oxidized finish.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SSP</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4727714512985</id>
+      <title>8</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4727714512985</id>
+      <title>7</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670688886873</id>
+    <published>2020-06-30T17:20:39-05:00</published>
+    <updated>2020-06-30T17:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable"/>
+    <title>Sparkling Black Stardust Necklace Earrings Set - Just 2 Avaialable!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable.jpg?v=1601095201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This piece is just stunning. Black with a sprinkle of white creates a dressy look, and the oval shapes are reminiscent of cameos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670688886873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670677418073</id>
+    <published>2020-06-30T16:43:22-05:00</published>
+    <updated>2020-06-30T16:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Hematite Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Ultra chic hematite adds a classic look to any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670677418073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670676729945</id>
+    <published>2020-06-30T16:40:21-05:00</published>
+    <updated>2020-06-30T16:40:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-topaz-crystal-and-bead-stretch-bracelet"/>
+    <title>Sparkling Topaz Crystal and Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-topaz-crystal-and-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Light and dark topaz coloring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670676729945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670675583065</id>
+    <published>2020-06-30T16:36:56-05:00</published>
+    <updated>2020-06-30T16:36:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available"/>
+    <title>Sparkling Purple Crystal and Silver Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Shades of Lavender and Violet for those who love purples!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670675583065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670674010201</id>
+    <published>2020-06-30T16:31:00-05:00</published>
+    <updated>2020-06-30T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-ruby-crystal-and-silver-bead-stretch-bracelet-just-1-available"/>
+    <title>Sparkling Ruby Red Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-ruby-red-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1601095192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670674010201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670673715289</id>
+    <published>2020-06-30T16:29:05-05:00</published>
+    <updated>2020-06-30T16:29:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Pink Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Go Pink!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670673715289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

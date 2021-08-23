@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-towels.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-28T17:00:30-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768736510041</id>
+    <published>2020-12-28T17:00:30-06:00</published>
+    <updated>2020-12-28T17:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack"/>
+    <title>Carol Wilson Fine Arts Tea Towel Tea Cup Stack</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack.jpg?v=1609247024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Tea Cup Stack 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768736510041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734576729</id>
+    <published>2020-12-28T16:56:53-06:00</published>
+    <updated>2020-12-28T16:56:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea"/>
+    <title>Carol Wilson Fine Arts Tea Towel Blue Hydrangea</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea.jpg?v=1609247022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Blue Hydrangea 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734576729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734478425</id>
+    <published>2020-12-28T16:55:55-06:00</published>
+    <updated>2020-12-28T16:55:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-pansy-teacup"/>
+    <title>Carol Wilson Fine Arts Tea Towel Pansy Teacup</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-pansy-teacup.jpg?v=1609247021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Pansy Teacup 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734478425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358401851481</id>
+    <published>2019-11-22T18:01:14-06:00</published>
+    <updated>2019-11-22T18:01:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lake-bike-14-x-22-linen-guest-towels"/>
+    <title>Lake Bike 14 x 22 Linen Guest Towels</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lake-bike-14-x-22-linen-guest-towels.jpg?v=1601095080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lake Bike Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358401851481</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358386516057</id>
+    <published>2019-11-22T17:39:59-06:00</published>
+    <updated>2019-11-22T17:39:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/14-x-22-linen-guest-towels"/>
+    <title>Set of 2 14 x 22 Linen Guest Towels Daffodils - Only 3 Set Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-14-x-22-linen-guest-towels-daffodils-only-3-set-available.jpg?v=1601095078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 14 x 22 Linen Guest Towels  Dafffodil</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358386516057</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358214418521</id>
+    <published>2019-11-22T15:39:41-06:00</published>
+    <updated>2019-11-22T15:39:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-bouquet-guest-towels-set-of-2"/>
+    <title>Rose Bouquet Guest Towels Set of 2</title>
+    <s:type>Linens and Lace</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-bouquet-guest-towels-set-of-2.jpg?v=1601095077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Linens and Lace<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose Bouquet Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens and Lace</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358214418521</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6937</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4356598956121</id>
+    <published>2019-11-21T11:35:24-06:00</published>
+    <updated>2019-11-21T11:35:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-bird-on-stacked-tea-cups-set-of-2-cotton-tea-towels"/>
+    <title>Hummingbirds and Tiffany Blue Teacup Tea Towels Set of 2</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbirds-and-tiffany-blue-teacup-tea-towels-set-of-2.jpg?v=1601095074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hummingbirds and Tiffany Blue Teacup Tea Towels has an adorable of nest of babies hummingbirds being cared for by their mother. This set contains two 24” x 36” cotton flour sack towels packaged in clear cellophane and tied with ribbon. They are soft, lint free, highly absorbent and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4356598956121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>08062018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1861911478361</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available"/>
+    <title>Happiness is Homemade Kitchen Oven Dress Towel - Only One Available!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available.jpg?v=1601094538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1861911478361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>112018-J6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363993886821</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spice-up-your-life-kitchen-oven-dress-towel"/>
+    <title>Spice Up Your Life Kitchen Oven Dress Towel</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spice-up-your-life-kitchen-oven-dress-towel.jpg?v=1601094391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable. Ribbon color can vary. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363993886821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>102618-TJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/467615940648</id>
+    <published>2018-03-07T12:16:29-06:00</published>
+    <updated>2018-03-07T12:16:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-bird-nest-guest-towel-hostess-napkins"/>
+    <title>Spring Bird Nest Guest Towel Hostess Napkins</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-bird-nest-guest-towel-hostess-napkins.jpg?v=1601093909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Bird Nest Guest Towel Hostess Napkins feature lovely birds caring for their nest of blue eggs.  </p>
+<p><span>Folded size: 4.4 x 7.9" / 11 x 20 cm Triple ply paper. Contains 15</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467615940648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135349697</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bon-appetit-embroidered-kitchen-tea-towel"/>
+    <title>White Bon Appetit Embroidered Kitchen Tea Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-bon-appetit-embroidered-kitchen-tea-towel.jpg?v=1601091336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!"  White kitchen drying towels. 100% cotton 20x26</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135349697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>22382N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135318209</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eiffel-tower-embroidered-guest-hand-towel"/>
+    <title>Eiffel Tower Embroidered Guest Hand Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/eiffel-tower-embroidered-guest-hand-towel.jpg?v=1601091333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit" Eiffel Tower/Fleur de lis print 100% cotton accent towel with 3" ruffle. 16x25 includes ruffle. </p>
+<p>Choose from Plain - "Bon Appetit!" for the kitchen, or "Le bain" for the powder room.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126087041</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Le bain" embroidered decorative cotton guest towel 15x22</p>
+<p>Choose Red or Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22331N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22332N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125478401</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bonne-nuit-good-night-boudoir-pillow"/>
+    <title>Fall Linen Guest Towels Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-linen-guest-towels-set-of-2.jpg?v=1601091244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Embroidered on hemstitched oatmeal colored 100% linen. 14x22</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125478401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22330N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8874675009</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/china-teapot-embroidered-tea-towel"/>
+    <title>China Teapot Embroidered Tea Towel - Only 1 Left</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Pamela Brown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/china-teapot-embroidered-tea-towel-only-1-left.jpg?v=1601092938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pamela Brown<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ Cotton / Linen Blend ~ Hemstitched 19 x 27</span><br><span>Adorable Shower or Housewarming Gift!</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8874675009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02182017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556643777</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-7-vintage-china-days-of-the-week-tea-towels"/>
+    <title>Set of 7 Vintage China Days of the Week Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-7-vintage-china-days-of-the-week-tea-towels.jpg?v=1601090984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p>
+<p><span>Choose Red, Green, Yellow, Purple or Blue</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556643777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556229697</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bride-and-groom-embroidered-tea-towels"/>
+    <title>Bride and Groom Embroidered Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bride-and-groom-embroidered-tea-towels.jpg?v=1601090975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18    </span>Fabrics may vary according to availability</p>
+<p><span><span>Please write Names and Date in Comments Box at Checkout! Need different colors? Give us a call! 866-998-2877</span></span></p>
+<p><span><span>Hand crafted so please allow up to 3 weeks for seamstress to make and then ship. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556229697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548995905</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-teapot-and-teacup-embroidered-tea-towels"/>
+    <title>Lavender Teapot and Teacup Embroidered Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-teapot-and-teacup-embroidered-tea-towels.jpg?v=1601090838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548995905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1674</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548984513</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-and-vines-embroidered-tea-towels"/>
+    <title>Roses and Vines Embroidered Tea Towels Set of 2</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-and-vines-embroidered-tea-towels-set-of-2.jpg?v=1601090837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548984513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548972737</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-and-pink-rose-embroidered-tea-towels"/>
+    <title>Set of 7 Victorian Lady Days of the Week Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-7-victorian-lady-days-of-the-week-tea-towels.jpg?v=1601090829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p>
+<p><span>Choose Red, Green, Yellow, Purple or Blue</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548972737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>2833</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548954561</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-love-tea-embroidered-and-appliqueed-tea-towels"/>
+    <title>I Love Tea Embroidered and Appliqueed Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-love-tea-embroidered-and-appliqueed-tea-towels.jpg?v=1601090827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548954561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548938561</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/green-tea-time-embroidered-and-appliqueed-tea-towels"/>
+    <title>Green Tea Time Embroidered and Appliqueed Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/green-tea-time-embroidered-and-appliqueed-tea-towels.jpg?v=1601090826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548938561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>719</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548928961</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-tea-time-embroidered-and-appliqueed-tea-towels"/>
+    <title>Blue Tea Time Embroidered and Appliqueed Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-tea-time-embroidered-and-appliqueed-tea-towels.jpg?v=1601090825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548928961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548920577</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-time-embroidered-and-appliqueed-tea-towels"/>
+    <title>Pink Tea Time Embroidered and Appliqueed Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-time-embroidered-and-appliqueed-tea-towels.jpg?v=1601090823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548920577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

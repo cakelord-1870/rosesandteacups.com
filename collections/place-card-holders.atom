@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/place-card-holders.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-03-30T18:36:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/10278233921</id>
+    <published>2017-03-30T18:36:00-05:00</published>
+    <updated>2017-03-30T18:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-tea-cup-and-teapot-place-card-holders"/>
+    <title>Set of 6 Tea Cup and Teapot Place Card Holders</title>
+    <s:type>place card holders</s:type>
+    <s:vendor>Kate Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-tea-cup-and-teapot-place-card-holders.jpg?v=1601093342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Aspen<br>
+        <strong>Type: </strong>place card holders<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><li>White teapot- and teacup-shaped place card holders with gold foil details. Included place cards feature a pink floral design on a white background.</li>
+<li>Metal spiral stem holds place cards securely in place.</li>
+<li>Each set of 6 includes 3 teacup and 3 teapot shapes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10278233921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>10082017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432483777</id>
+    <published>2015-07-03T23:48:00-05:00</published>
+    <updated>2015-07-03T23:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wedding-bell-place-card-holders-set-of-12"/>
+    <title>Wedding Bell Place Card Holders Set of 12</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wedding-bell-place-card-holders-set-of-12.jpg?v=1601088791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 2-inch Wedding Bell Place Card Holders feature silver metal bells with a heart shaped top to hold a table seating card. Ring at the reception for a Bride and Groom Kiss! A perfect keepsake: Use them to hold a photo after the wedding!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432483777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432361601</id>
+    <published>2015-07-03T22:48:00-05:00</published>
+    <updated>2015-07-03T22:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-12-place-card-holders-white-wedding-belles-1"/>
+    <title>Set of 12 Place Card Holders - White Wedding Bells</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-12-place-card-holders-white-wedding-bells.jpg?v=1601088788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 12 Place Card Holders - White Wedding Belles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432361601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432354497</id>
+    <published>2015-07-03T22:41:00-05:00</published>
+    <updated>2015-07-03T22:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-12-place-card-holders-white-wedding-belles"/>
+    <title>Set of 12 Place Card Holders - White Butterfly</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-12-place-card-holders-white-butterfly.jpg?v=1601088781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 12 Place Card Holders - White Butterfly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432354497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432353601</id>
+    <published>2015-07-03T22:39:00-05:00</published>
+    <updated>2015-07-03T22:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-12-place-card-holders-gold-wedding-bells"/>
+    <title>Set of 12 Place Card Holders - Gold Wedding Bells</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-12-place-card-holders-gold-wedding-bells.jpg?v=1601088780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 12 Place Card Holders - Gold Wedding Bells</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432353601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432353089</id>
+    <published>2015-07-03T22:38:00-05:00</published>
+    <updated>2015-07-03T22:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-12-place-card-holders-gold-love-birds"/>
+    <title>Set of 12 Place Card Holders - Gold Love Birds</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-12-place-card-holders-gold-love-birds.jpg?v=1601088779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 12 Place Card Holders - Gold Love Birds</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432353089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432352705</id>
+    <published>2015-07-03T22:37:00-05:00</published>
+    <updated>2015-07-03T22:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-12-place-card-holders-white-love-birds"/>
+    <title>Set of 12 Place Card Holders - White Love Birds</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-12-place-card-holders-white-love-birds.jpg?v=1601088778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 12 Place Card Holders - White Love Birds</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432352705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

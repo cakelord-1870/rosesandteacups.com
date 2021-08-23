@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/garden-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T12:13:28-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367849665</id>
+    <published>2021-06-22T12:13:28-05:00</published>
+    <updated>2021-06-22T12:13:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-ceramic-desk-set"/>
+    <title>Vegetable Garden Ceramic Desk Set - Only 4 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-ceramic-desk-set-only-4-left.jpg?v=1624407167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Folded Note Cards, Die Cut notepad and Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367849665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446970380377</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-peonies-and-succulents-notepad-and-pen-set"/>
+    <title>Garden Peonies and Succulents Notepad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-peonies-and-succulents-notepad-and-pen-set.jpg?v=1580216568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Garden Peonies and Succulents Notepad and Pen Set is perfect for party favors, gift giving and for personal use to jot down those important messages and notes. Each sheet has a lovely saying: Heaven is a little closer in the garden. Has gift tag and matching pens all wrapped up in a organza ribbon. </p>
+<p><span>Size: 4.37" x 5.37"</span></p>
+<p><span> 75 printed sheets</span></p>
+<p><span> With designer pen</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446970380377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0127203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446950195289</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-heart-shaped-pill-box"/>
+    <title>Sunflowers Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-heart-shaped-pill-box.jpg?v=1580216566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Heart Shaped Pill Box has lovely say: Love is the embrace of family and friends.  This feminine pretty little pill box is perfect for carrying your meds in your purse.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446950195289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0127201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442712440921</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen"/>
+    <title>Give Thanks Sunflower Garden Magnetic Shopping List To Do Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen.jpg?v=1579957331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give Thanks Sunflowers Pansies &amp; Butterflies Magnetic Shopping List To Do Pad includes Pen and Gift Tag  wrapped in an organza ribbon. Beautiful Floral Magnetic Shopping List Pads perfect for those to do lists! Make </span><span>any </span><span>list a lovely addition to the kitchen or desk using the magnet to place on metal surfaces!  Our feminine pretty shopping list notepads come in a variety of lovely colors with floral and animal graphics.  Sweet as hostess gifts and favors, as well! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442712440921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0124203</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442586710105</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad"/>
+    <title>Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad.jpg?v=1579957329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad has Scripture saying "Give Thanks with a Grateful Heart" Notepad includes 75 die cut sheets and measures a nice size of 4" x 4.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442586710105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0124201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342927831141</id>
+    <published>2018-09-07T11:29:45-05:00</published>
+    <updated>2018-09-07T11:29:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen"/>
+    <title>Bathing Birds with Poppies and Dragonflies Note Pad Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen.png?v=1601094307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bathing Birds with Poppies and Dragonflies Note Pad Pen has 75 sheets of printed paper and includes lovely pen for all your note taking needs. </p>
+<p>Measures: 4.37" X 5.37"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342927831141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>090718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5999083969</id>
+    <published>2015-09-11T14:04:00-05:00</published>
+    <updated>2015-09-11T14:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/coffee-pot-birdhouse"/>
+    <title>Tea Pot Birdhouse</title>
+    <s:type>Garden</s:type>
+    <s:vendor>Esschert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-pot-birdhouse.jpg?v=1601092328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Esschert<br>
+        <strong>Type: </strong>Garden<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Everybody loves a good tea party! The birds will especially love this one! Simply hang this dainty tea pot bird feeder and watch as the birds indulge!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5999083969</id>
+      <title>Pink and White Peonies</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>34692N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5999083969</id>
+      <title>Pink and Burgandy</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>34692N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5999083969</id>
+      <title>Blue</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>34692N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5999083969</id>
+      <title>Pink and Yellow Roses</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>34692N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1374549249</id>
+    <published>2015-06-27T11:31:00-05:00</published>
+    <updated>2015-06-27T11:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-hardcover-writing-journal"/>
+    <title>Vegetable Garden Hardcover Writing Journal</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-hardcover-writing-journal.jpg?v=1601088550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Journal size: 8.75" x 5.75". 160 lined pages. Includes Designer Pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1374549249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1368037121</id>
+    <published>2015-06-26T17:32:00-05:00</published>
+    <updated>2015-06-26T17:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-in-bloom-gift-set-in-metal-holder"/>
+    <title>Garden in Bloom Gift Set in Metal Holder - Only 3 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-in-bloom-gift-set-in-metal-holder-only-3-available.jpg?v=1624407181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Garden in Bloom Gift Set in Metal Holder</span></p>
+<p><span>8.5 x 8.75 x 2.25</span><br><span>2 Pads and 1 Pen</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1368037121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5806</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367867905</id>
+    <published>2015-06-26T17:14:00-05:00</published>
+    <updated>2015-06-26T17:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-memo-set"/>
+    <title>Vegetable Garden Memo Set - Only 1 Set Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vegetable-Garden-Memo-Set-Only-1-Set-Left_3cc903fa-c19f-424f-a81f-0cc2ba08bd2d.jpg?v=1629159104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vegetable Garden Memo Set</span></p>
+<p><span>120 Sheets 3 x 3</span><br><span>(Can be refilled with any 3x3 Pad)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367867905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5815</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367807297</id>
+    <published>2015-06-26T17:07:00-05:00</published>
+    <updated>2015-06-26T17:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-paper-note-block-with-designer-pen"/>
+    <title>Vegetable Garden Paper Note Block with Designer Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-paper-note-block-with-designer-pen.jpg?v=1582071078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vegetable Garden Paper Note Block with Designer Pen</span></p>
+<p><span>3x3x3  580 Sheets  Includes designer pen and ribbon accent.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367807297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367755649</id>
+    <published>2015-06-26T17:02:00-05:00</published>
+    <updated>2015-06-26T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-die-cut-sticky-notes-pad"/>
+    <title>Vegetable Garden Die Cut Sticky Notes Pad - Just 1 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-die-cut-sticky-notes-pad-just-1-left.jpg?v=1624407162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Vegetable Garden Sticky Notes Pad</span><br><span>3.5 x 4   75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367755649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

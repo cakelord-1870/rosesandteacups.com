@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/carol-wilson-stationery-rose-garden.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-08T10:30:30-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6609294327897</id>
+    <published>2021-07-08T10:30:30-05:00</published>
+    <updated>2021-07-08T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sea-shells-note-card-portfolio-1"/>
+    <title>Carol Wilson Sea Side Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sea-side-note-card-portfolio.jpg?v=1625835812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sea Side Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6609294327897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6563251322969</id>
+    <published>2021-04-19T13:20:35-05:00</published>
+    <updated>2021-04-19T13:20:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Hummingbird Embossed Mini Purse Notepad Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-hummingbird-embossed-mini-purse-notepad-note-pad.jpg?v=1621901513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepad with lovely hummingbirds afloat among bleeding heart flowers with embossment and beautiful foil trimming. Perfect for your purse or tea party favors and gifts! These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6563251322969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>041921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562157494361</id>
+    <published>2021-04-16T17:00:05-05:00</published>
+    <updated>2021-04-16T17:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-market-bouquet-note-card-portfolio"/>
+    <title>Carol Wilson Market Bouquet Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-market-bouquet-note-card-portfolio.jpg?v=1618664683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Market Bouquet Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562157494361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>051221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562125873241</id>
+    <published>2021-04-16T15:50:24-05:00</published>
+    <updated>2021-04-16T15:50:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-peonies-note-card-portfolio"/>
+    <title>Carol Wilson Peonies Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-peonies-note-card-portfolio.jpg?v=1618664681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Peonies Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562125873241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562114633817</id>
+    <published>2021-04-16T15:27:11-05:00</published>
+    <updated>2021-04-16T15:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sunflowers-note-card-portfolio"/>
+    <title>Carol Wilson Sunflowers Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sunflowers-note-card-portfolio.jpg?v=1618664679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sunflowers Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing along with metallic highlights on portfolio which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562114633817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768736510041</id>
+    <published>2020-12-28T17:00:30-06:00</published>
+    <updated>2020-12-28T17:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack"/>
+    <title>Carol Wilson Fine Arts Tea Towel Tea Cup Stack</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack.jpg?v=1609247024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Tea Cup Stack 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768736510041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734576729</id>
+    <published>2020-12-28T16:56:53-06:00</published>
+    <updated>2020-12-28T16:56:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea"/>
+    <title>Carol Wilson Fine Arts Tea Towel Blue Hydrangea</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea.jpg?v=1609247022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Blue Hydrangea 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734576729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734478425</id>
+    <published>2020-12-28T16:55:55-06:00</published>
+    <updated>2020-12-28T16:55:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-pansy-teacup"/>
+    <title>Carol Wilson Fine Arts Tea Towel Pansy Teacup</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-pansy-teacup.jpg?v=1609247021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Pansy Teacup 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734478425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521099201</id>
+    <published>2020-11-20T14:20:37-06:00</published>
+    <updated>2020-11-20T14:20:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Holiday Wreaths Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1601090326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521099201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4192511233</id>
+    <published>2020-02-24T17:20:50-06:00</published>
+    <updated>2020-02-24T17:20:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-note-card-portfolio"/>
+    <title>Carol Wilson Pansies and Warbler Note Card Portfolio - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pansies-and-warbler-note-card-portfolio-very-limited.jpg?v=1601091932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Pansies and Warbler Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4192511233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>339603N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482540372057</id>
+    <published>2020-02-21T13:25:23-06:00</published>
+    <updated>2020-02-21T13:25:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-original-carol-wilson-rose-ribbon-heart-embossed-card"/>
+    <title>Rare Original Carol Wilson Rose Ribbon Heart Embossed Card</title>
+    <s:type>Carol Wilson</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-original-carol-wilson-rose-ribbon-heart-embossed-card.jpg?v=1582376690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Original Carol Wilson Rose Ribbon Heart Embossed Blank Greeting Card includes Envelope Arrives in cellophane sleeve.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carol Wilson</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482540372057</id>
+      <title>Default</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4478977507417</id>
+    <published>2020-02-18T17:51:17-06:00</published>
+    <updated>2020-02-18T17:51:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-floral-heart-note-card-portfolio-1"/>
+    <title>Carol Wilson Floral Heart Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-floral-heart-note-card-portfolio.jpg?v=1582072500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Floral Heart Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4478977507417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>339607N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4478974001241</id>
+    <published>2020-02-18T17:31:02-06:00</published>
+    <updated>2020-02-18T17:31:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-classic-butterfly-note-card-portfolio-1"/>
+    <title>Carol Wilson Classic Butterflies and Roses Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-classic-butterflies-and-roses-note-card-portfolio.jpg?v=1582072489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Classic Butterflies and Roses Note Card Portfolio features soft open roses and beautiful butterfly graphics, lacy die cutting, gold foiling and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with our new magnetic closure.  They make marvelous gifts! Selected from the beloved Carol's Rose Garden collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4478974001241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>5055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477365190745</id>
+    <published>2020-02-17T12:16:25-06:00</published>
+    <updated>2020-02-17T12:16:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-stem-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Long Stem Rose Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-long-stem-rose-mini-embossed-purse-notepad.png?v=1582071482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477365190745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477363421273</id>
+    <published>2020-02-17T12:13:40-06:00</published>
+    <updated>2020-02-17T12:13:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad"/>
+    <title>Carol Wilson Teacups (Tea Cups) Mini Embossed Purse Pad Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad.jpg?v=1582071481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477363421273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477359358041</id>
+    <published>2020-02-17T12:09:10-06:00</published>
+    <updated>2020-02-17T12:09:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Rose Picket Fence Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad.png?v=1582071480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477359358041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477354672217</id>
+    <published>2020-02-17T12:04:17-06:00</published>
+    <updated>2020-02-17T12:04:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-pretty-pink-roses-mini-purse-notepad"/>
+    <title>Carol Wilson Pretty Pink Roses Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pretty-pink-roses-mini-embossed-purse-notepad.jpg?v=1582071479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477354672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477347299417</id>
+    <published>2020-02-17T11:57:40-06:00</published>
+    <updated>2020-02-17T11:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Soft Hydrangeas Embossed Mini Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad.png?v=1582071478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477347299417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477327671385</id>
+    <published>2020-02-17T11:36:39-06:00</published>
+    <updated>2020-02-17T11:36:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-set-purse-note-pad-stationery"/>
+    <title>Embossed Tea Set Purse Note Pad Stationery by Carol Wilson</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embossed-tea-set-purse-note-pad-stationery-by-carol-wilson.jpg?v=1582071477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477327671385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22475N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371563053145</id>
+    <published>2019-12-02T11:11:59-06:00</published>
+    <updated>2019-12-02T11:11:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-cards-8-cards-with-9-envelopes-2"/>
+    <title>Original Carol Wilson Boxed Green Poinsettia 5 x 7 Christmas Holiday Cards 8 Cards with 9 Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-holiday-cards-8-cards-with-9-envelopes.jpg?v=1601095109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Original Carol Wilson Cards - RARE!  8 Cards with 9 Envelopes Inside: "May Joy Surround You Throughout the New Year"</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371563053145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4103778893913</id>
+    <published>2019-09-20T13:06:39-05:00</published>
+    <updated>2019-09-20T13:06:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/caroline-wildfloral-gift-boxed-set-of-6-fine-porcleain-demi-tea-cups-with-saucers"/>
+    <title>Caroline Butterflies and Floral Girls Size Porcelain Teacups and Saucers</title>
+    <s:type>Girls&apos; Porcelain Demi Tea Cup and Saucer Sets in Gift Box</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/caroline-butterflies-and-floral-girls-size-porcelain-teacups-and-saucers.jpg?v=1601094997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Demi Tea Cup and Saucer Sets in Gift Box<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caroline Butterflies and Floral Gift Boxed Set of 6 Fine Porcelain Demi Tea Cups with Saucers. These childrens teacups have lovely pansies, butterflies, and pretty floral design.  Notice the elegant embossed textured border and scalloped rim all the while trimmed in 14K gold.  Dainty and sweet! </p>
+<p>FDA approved food safe.  Do not microwave due to metal trim.  Stores in round box for safe keeping. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4103778893913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>5687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111950651481</id>
+    <published>2019-06-12T15:21:56-05:00</published>
+    <updated>2019-06-12T15:21:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-wedding-ring-quilt-note-card-portfolio"/>
+    <title>Carol Wilson Wedding Ring Quilt Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-wedding-ring-quilt-note-card-portfolio.jpg?v=1601094813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Wedding Ring Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111950651481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0616201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111948193881</id>
+    <published>2019-06-12T15:17:45-05:00</published>
+    <updated>2019-06-12T15:17:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fan-quilt-note-card-portfolio"/>
+    <title>Carol Wilson Fan Quilt Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fan-quilt-note-card-portfolio.jpg?v=1582071421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Fan Quilt Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111948193881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0616202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111945211993</id>
+    <published>2019-06-12T15:08:43-05:00</published>
+    <updated>2019-06-12T15:08:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-charlottes-butterflies-note-card-portfolio"/>
+    <title>Carol Wilson Charlottes Butterflies Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-charlottes-butterflies-note-card-portfolio.jpg?v=1601094812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Charlottes Butterflies Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111945211993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0603201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

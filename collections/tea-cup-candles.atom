@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-cup-candles.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-21T11:29:08-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482433679449</id>
+    <published>2020-02-21T11:29:08-06:00</published>
+    <updated>2020-02-21T11:29:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-floral-and-butterflies-tea-cup-candle"/>
+    <title>Lovely Lavender Floral and Butterflies Tea Cup Candle - 2 Gifts in 1!!</title>
+    <s:type>Tea Cup Candles</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-floral-and-butterflies-tea-cup-candle-2-gifts-in-1.jpg?v=1582376684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Candles<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our full-size Floral Porcelain Tea Cup Candles come Gift Wrapped and ready to give!</span><br><span>They are very lightly scented with a floral blend and the soy wax burns beautifully. When the candle is gone, a quick wash up allows you to enjoy the tea cup for your tea or coffee!  Just 3 Available!!!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482433679449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122652811353</id>
+    <published>2019-06-28T14:12:30-05:00</published>
+    <updated>2019-06-28T14:12:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosy-pink-heart-teacup-candle-only-4-available"/>
+    <title>Rosy Pink Heart Teacup Candle - Only 4 Available!</title>
+    <s:type>Tea Cup Candles</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosy-pink-heart-teacup-candle-only-4-available.jpg?v=1601094853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Candles<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our beautiful Rosy Pink Heart Teacup Candle is so lovely and has a light rose scent. We used a soft pink full size heart shaped teacup that has 14k trimming. Wax is soy based and wick is lead free. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122652811353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>06281911</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5614796609</id>
+    <published>2019-06-19T14:36:37-05:00</published>
+    <updated>2019-06-19T14:36:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-glass-tea-light-candle-bridal-wedding-favors-1"/>
+    <title>Cameo Frosted Lace Glass Tea Light Candle Bridal Wedding Favors Set of 8</title>
+    <s:type>Bridal Favors</s:type>
+    <s:vendor>Kate Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-frosted-lace-glass-tea-light-candle-bridal-wedding-favors-set-of-8.jpg?v=1601092172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Aspen<br>
+        <strong>Type: </strong>Bridal Favors<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><li>Frosted glass tea light holder with white, and mint green resin cameo charm and rose pink ribbon</li>
+<li>Tealight candle included</li>
+<li>Each measures 2.6" h x 2.2" in diameter</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5614796609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>34426N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518480769</id>
+    <published>2015-07-13T13:00:00-05:00</published>
+    <updated>2015-07-13T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/timeless-rose-tea-cup-candle"/>
+    <title>Timeless Rose Tea Cup Candle</title>
+    <s:type>Tea Cup Candles</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/timeless-rose-tea-cup-candle.jpg?v=1601090080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Candles<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our full-size Floral Porcelain Tea Cup Candles come Gift Wrapped and ready to give!</span><br><span>They are very lightly scented with a floral blend and the soy wax burns beautifully. When the candle is gone, a quick wash up allows you to enjoy the tea cup for your tea or coffee!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518480769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518469057</id>
+    <published>2015-07-13T13:00:00-05:00</published>
+    <updated>2015-07-13T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ribbon-remembrance-tea-cup-candle"/>
+    <title>Pink Ribbon Breast Cancer Awareness Tea Cup Candle - 1 Left!</title>
+    <s:type>Tea Cup Candles</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ribbon-breast-cancer-awareness-tea-cup-candle-1-left.jpg?v=1601090077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Candles<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our full-size Floral Porcelain Tea Cup Candles come Gift Wrapped and ready to give!</span><br><span>They are very lightly scented with a floral blend and the soy wax burns beautifully. When the candle is gone, a quick wash up allows you to enjoy the tea cup for your tea or coffee!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518469057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518556737</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-gold-tea-light-tea-cup-candle-bridal-wedding-favors"/>
+    <title>24 Gold Tea Light Tea Cup Candle Bridal Wedding Favors</title>
+    <s:type>Bridal Favors</s:type>
+    <s:vendor>Kate Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-gold-tea-light-tea-cup-candle-bridal-wedding-favors.jpg?v=1601090081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Aspen<br>
+        <strong>Type: </strong>Bridal Favors<br>
+        <strong>Price: </strong>
+            131.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty porcelain and a glistening golden glow come together in these tealightful little favors. Place these Classic Gold Teacups Tealight Holders on guest tables at your elegant bridal shower or wedding for a softly flickering ambiance you and your loved ones will be entranced by. Features and facts:</p>
+<ul>
+<li>Intricately designed porcelain teacup-shaped tealight holder with gold accents</li>
+<li>Measures 2" high and 2 1/4" diameter</li>
+<li>Tealight is included</li>
+<li>Sold in set of four</li>
+<li>Gift packaging includes decorative hang tag attached with gold and natural baker's twine; tag is held together with gold metal grommet and features printed muslin and cardstock</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518556737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">131.16</s:price>
+      <s:sku>874N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1491800833</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-tea-light-tea-cup-candle-bridal-wedding-favors"/>
+    <title>24 Silver Tea Light Tea Cup Candle Bridal Wedding Favors</title>
+    <s:type>Bridal Favors</s:type>
+    <s:vendor>Kate Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-silver-tea-light-tea-cup-candle-bridal-wedding-favors.jpg?v=1601089232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Aspen<br>
+        <strong>Type: </strong>Bridal Favors<br>
+        <strong>Price: </strong>
+            131.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This truly beautiful favor is a miniature version of the finest china. Your guests will by delighted by these favors, down to the artistically beautiful detail of these little porcelain teacups. Simply ideal for tea parties and other elegant events. Features and facts:</span></p>
+<ul>
+<li>Porcelain teacup tea light holder with silvery floral pattern sits atop an attached saucer</li>
+<li>Tea light is included</li>
+<li>Favor measures approximately 2" h x 3" in diameter</li>
+<li>Clear display gift box is accented with a white-organza ribbon and bow and teapot-shaped tag</li>
+<li>Gift box measures 3 1/2" x 2"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491800833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">131.16</s:price>
+      <s:sku>903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-beaded-purses.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-06-28T13:48:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1493039361</id>
+    <published>2015-06-28T13:48:00-05:00</published>
+    <updated>2015-06-28T13:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-satin-clutch-purse-with-austrian-rhinestones"/>
+    <title>Black Satin Clutch Purse with Austrian Rhinestones</title>
+    <s:type>Purses</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-satin-clutch-purse-with-austrian-rhinestones.jpg?v=1601089255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            169.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our black satin clutch purse with optional chain measures 7 1/2 x 4 x 13/4 inches. Austrian Crystals are layered over the black satin for dazzling effect.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1493039361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.60</s:price>
+      <s:sku>4897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1493004417</id>
+    <published>2015-06-28T13:48:00-05:00</published>
+    <updated>2015-06-28T13:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brown-and-rust-hand-beaded-victorian-purse"/>
+    <title>Brown and Rust Hand Beaded Victorian Purse</title>
+    <s:type>Purses</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brown-and-rust-hand-beaded-victorian-purse.jpg?v=1601089253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Antique Style Metal Clasp</span><br><span>6 1/2 x 6 x 2 3/4 Removable 46 inch chain</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1493004417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>2413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1492930113</id>
+    <published>2015-06-28T13:48:00-05:00</published>
+    <updated>2015-06-28T13:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-flower-purse-with-detachable-chain"/>
+    <title>White Flower Purse with detachable Chain</title>
+    <s:type>Purses</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-flower-purse-with-detachable-chain.jpg?v=1601089248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This white satin purse is perfect for carrying your wedding day essentials. It is shaped like a flower and touched off with a silver rhinestone decoration. The purse has a metal snap closure. You can carry the purse as a clutch purse or use the detachable silver chain as a handle. This purse measures 7" tall (or 12.75" if you include the silver chain handle). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1492930113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>8605</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

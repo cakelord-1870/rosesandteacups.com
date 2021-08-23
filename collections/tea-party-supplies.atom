@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-party-supplies.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-06-11T15:16:39-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111084888153</id>
+    <published>2019-06-11T15:16:39-05:00</published>
+    <updated>2019-06-11T15:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-ct-time-for-sweets-cocktail-napkins-limited-supply"/>
+    <title>20 Count Time For Sweets Cocktail Napkins - Only 1 Set Available!</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-count-time-for-sweets-cocktail-napkins-only-1-set-available.jpg?v=1609459927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top Quality 20 Count Time For Sweets Cocktail Napkins perfect for tea parties and showers!</p>
+<p>Folds out to 10x10</p>
+<p>3ply</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111084888153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399637057</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tea-party-tea-cup-place-cards"/>
+    <title>12 Tea Party Tea Cup Place Cards</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tea-party-tea-cup-place-cards.jpg?v=1601088608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Paper. 6 1/2" x 2 3/4"  Simple assembly required to creat stand up tea cup place cards for your tea party table.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399637057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7589</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399593153</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tea-party-teapot-invitations"/>
+    <title>12 Tea Party Tea Cup Blowers</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tea-party-tea-cup-blowers.jpg?v=1601088607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Take a deep breath and blow!  Add to the tea party fun with our 6 inch paper tea cup blowers.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399593153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7592</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399579009</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tea-party-paper-fans"/>
+    <title>12 Tea Party Paper Teapot Fans</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tea-party-paper-teapot-fans.jpg?v=1601088606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Adhere the 5 1/2" x 6 3/4" paper fan onto the 8" plastic handle for an elegant tea party teapot fan!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399579009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>7587</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399545601</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/8-tea-party-paper-cups"/>
+    <title>8 Tea Party Paper Cups</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-tea-party-paper-cups.jpg?v=1601088604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 Tea Party paper cups with assorted pink and purple tea cups on a green polka dot background.  Cups hold 9 oz each.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399545601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399515265</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/16-tea-party-paper-napkins"/>
+    <title>16 Tea Party Paper Napkins</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/16-tea-party-paper-napkins.jpg?v=1601088603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>13 inch folded paper napkins with teapots and roses in pink, purple and green.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399515265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399489089</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/8-tea-cup-tea-party-paper-dessert-plates"/>
+    <title>8 Tea Cup Tea Party Paper Dessert Plates</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-tea-cup-tea-party-paper-dessert-plates.jpg?v=1601088602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>7 inch dessert plates with festive tea cups in pink, purple and green.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399489089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7591</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399479297</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-party-paper-plates"/>
+    <title>8 Teapot Tea Party Paper Plates</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-teapot-tea-party-paper-plates.jpg?v=1601088598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>9 inch meal plates with festive teapots in pink, purple and green.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399479297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1399477697</id>
+    <published>2015-06-30T17:02:00-05:00</published>
+    <updated>2015-06-30T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-party-tablecloth"/>
+    <title>Tea Party Plastic Tablecloth</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>OTC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-party-plastic-tablecloth.jpg?v=1601088597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OTC<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Plastic. 54" x 108"  Images include tea cups, teapots and tea spoons on white background.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1399477697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/hanging-sachets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-08T17:10:28-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128882597977</id>
+    <published>2019-07-08T17:10:28-05:00</published>
+    <updated>2019-07-08T17:10:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-floral-and-stripes-hanging-sachets-set-of-4-very-limited"/>
+    <title>Love Floral and Stripes Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/love-floral-and-stripes-hanging-sachets-set-of-4.jpg?v=1601094873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip one of these into your closet, car or gym bag to surround yourself with the fresh scents of our fragrance sachets. Think about it. It just make scents.</p>
+<ul>
+<li>set of 4</li>
+<li>embellished with coordinating ribbon bow and tear drop gem</li>
+<li>sachet size: 5" x 6"</li>
+<li>french vanilla fragrance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128882597977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128880959577</id>
+    <published>2019-07-08T17:06:50-05:00</published>
+    <updated>2019-07-08T17:06:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-dress-hanging-sachets-set-of-4"/>
+    <title>Paris Dress Hanging Sachets Set of 4 - Very Limited!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paris-dress-hanging-sachets-set-of-4-very-limited.jpg?v=1601094872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip one of these into your closet, car or gym bag to surround yourself with the fresh scents of our fragrance sachets. Think about it. It just make scents.</p>
+<ul>
+<li>set of 4</li>
+<li>embellished with coordinating ribbon bow and tear drop gem</li>
+<li>sachet size: 5" x 6"</li>
+<li>cashmere noir fragrance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128880959577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128868900953</id>
+    <published>2019-07-08T16:41:27-05:00</published>
+    <updated>2019-07-08T16:41:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-floral-indigo-leaf-hanging-sachets-set-of-4"/>
+    <title>Pink Floral Indigo Leaf Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-floral-indigo-leaf-hanging-sachets-set-of-4.jpg?v=1601094871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip one of these into your closet, car or gym bag to surround yourself with the fresh scents of our fragrance sachets. Think about it. It just make scents.</p>
+<ul>
+<li>set of 4</li>
+<li>embellished with coordinating ribbon bow and tear drop gem</li>
+<li>sachet size: 5" x 6"</li>
+<li>fresh cut flowers fragrance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128868900953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128867229785</id>
+    <published>2019-07-08T16:38:28-05:00</published>
+    <updated>2019-07-08T16:38:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sand-dollar-fronds-hanging-sachets-set-of-4"/>
+    <title>Sand Dollar Fronds Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sand-dollar-fronds-hanging-sachets-set-of-4.jpg?v=1601094870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip one of these into your closet, car or gym bag to surround yourself with the fresh scents of our fragrance sachets. Think about it. It just make scents.</p>
+<ul>
+<li>set of 4</li>
+<li>embellished with coordinating ribbon bow and tear drop gem</li>
+<li>sachet size: 5" x 6"</li>
+<li>ocean breeze fragrance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128867229785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708194</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128863461465</id>
+    <published>2019-07-08T16:31:43-05:00</published>
+    <updated>2019-07-08T16:31:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/seaside-blooms-hanging-sachets-set-of-4"/>
+    <title>Seaside Blooms Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/seaside-blooms-hanging-sachets-set-of-4.jpg?v=1601094869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Hanging Sachets in Seaside Blooms Fragrance<br>Gift Wrapped with Bow and Teardrop Gem</p>
+<p>5 x 6 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128863461465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>06132018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128858775641</id>
+    <published>2019-07-08T16:15:17-05:00</published>
+    <updated>2019-07-08T16:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feel-beautiful-today-hanging-sachets-set-of-4"/>
+    <title>Feel Beautiful Today Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feel-beautiful-today-hanging-sachets-set-of-4.jpg?v=1601094868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slip one of these into your closet, car or gym bag to surround yourself with the fresh scents of our fragrance sachets. Think about it. It just make scents.</p>
+<ul>
+<li>set of 4</li>
+<li>embellished with coordinating ribbon bow and tear drop gem</li>
+<li>sachet size: 5" x 6"</li>
+<li>rose fragrance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128858775641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490959339560</id>
+    <published>2016-04-01T16:17:00-05:00</published>
+    <updated>2016-04-01T16:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/do-what-you-love-hanging-sachets"/>
+    <title>Do What You Love Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/do-what-you-love-hanging-sachets-set-of-4.jpg?v=1601093931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Hanging Sachets in Jasmine Fragrance<br>Gift Wrapped with Bow and Teardrop Gem</p>
+<p>5 x 6 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490959339560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>032218-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490958454824</id>
+    <published>2016-04-01T16:17:00-05:00</published>
+    <updated>2016-04-01T16:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bicycle-hanging-sachets"/>
+    <title>Bicycle Hanging Sachets</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bicycle-hanging-sachets.jpg?v=1601093929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Hanging Sachets in Summer Romance Fragrance<br>Gift Wrapped with Bow and Teardrop Gem</p>
+<p>5 x 6 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490958454824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>032218-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490957766696</id>
+    <published>2016-04-01T16:17:00-05:00</published>
+    <updated>2016-04-01T16:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-hanging-sachets"/>
+    <title>Floral Hanging Sachets</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-hanging-sachets.jpg?v=1601093928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Hanging Sachets in Jasmine Fragrance<br>Gift Wrapped with Bow and Teardrop Gem</p>
+<p>5 x 6 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490957766696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>032218-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

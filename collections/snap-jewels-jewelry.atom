@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/snap-jewels-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-07-25T14:50:41-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343289294949</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fan-snap-jewel-spoon-bracelet-with-6-jewels-1"/>
+    <title>Fan Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fan-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343289294949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07252018N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343277564005</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-fan-necklace-and-earring-set-with-3-sets-of-jewels"/>
+    <title>Snap Jewel Fan Necklace and Earring Set with 3 Sets of Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-fan-necklace-and-earring-set-with-3-sets-of-jewels.jpg?v=1601094319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace and earrings feature central snaps for your jewels.  Comes with your choice of Snap Jewels color plus 2 other sets of jewels to change your look as you wish!  Total of 9 Jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Pink</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Lavender</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Blue Flower</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Clear AB</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Green</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343275728997</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-vintage-necklace-and-earring-set-with-jewels"/>
+    <title>Snap Jewel Vintage Necklace and Earring Set with 3 Sets of Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-vintage-necklace-and-earring-set-with-3-sets-of-jewels.jpg?v=1601094316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace and earrings feature central snaps for your jewels.  Comes with your choice of Snap Jewels color plus 2 other sets of jewels to change your look as you wish!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Pink</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Lavender</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Blue Flower</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Clear AB</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Green</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343274483813</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-tassel-necklace-with-6-jewels"/>
+    <title>Snap Jewel Tassel Necklace with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-tassel-necklace-with-6-jewels.jpg?v=1601094313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace features a tassel and a central snap for your jewels.  Comes with the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343274483813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09082018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343265865829</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>Small Flower Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343265865829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09082018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318930022501</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flowers-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>Flowers Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flowers-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318930022501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07252018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318928711781</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fan-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>3 Assorted Snap Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-assorted-snap-jewels.jpg?v=1601094215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Want even MORE fun for your Snap Jewelry?  Add 3 more Snap Jewels to your collection from our huge assortment.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318928711781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>09082018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1759934337</id>
+    <published>2015-08-05T19:33:00-05:00</published>
+    <updated>2015-08-05T19:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-snap-jewel"/>
+    <title>Cameo Snap Jewel</title>
+    <s:type>Snap Jewels Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-snap-jewel.jpg?v=1601091105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewels Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elegant Cameo Snap Jewel for your snap jewelry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1759934337</id>
+      <title>Default</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530419137</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/marcasite-floral-bracelet"/>
+    <title>Snap Jewels Marcasite Floral Bracelet</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewels-marcasite-floral-bracelet.jpg?v=1601090578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Floral accents create a romantic look on this marcasite snap jewelry bracelet.  Use with any of our snap jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530419137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530417665</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewels-marcasite-elegance-bracelet"/>
+    <title>Snap Jewels Marcasite Elegance Bracelet</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewels-marcasite-elegance-bracelet.jpg?v=1601090576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The elegant look of marcasite in a classic style.  Use with any of our snap jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530417665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530416769</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stretch-ring-for-snap-jewels"/>
+    <title>Stretch Ring for Snap Jewels</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stretch-ring-for-snap-jewels.jpg?v=1601090575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A zillion rings in one plus a perfect fit.  Use with any of our snap jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530416769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530416257</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-heart-pendant-with-black-crystal-beads"/>
+    <title>Black Heart Pendant with Black Crystal Beads</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-heart-pendant-with-black-crystal-beads.jpg?v=1601090573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A gorgeous heart pendant with snap for exchangeable jewels.  Includes black crystal bead necklace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530416257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>9318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530409153</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/engraved-heart-snap-jewel"/>
+    <title>Engraved Heart Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/engraved-heart-snap-jewel.jpg?v=1601090568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elegant silver heart with floral scrolling.  Use with any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530409153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9313</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530408065</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-seahorse-snap-jewel"/>
+    <title>Blue Seahorse Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-seahorse-snap-jewel.jpg?v=1601090566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So sweet!  This silvery seahorse on blue snaps into your snap jewelry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530408065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530404545</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dancing-elephant-snap-jewel"/>
+    <title>Dancing Elephant Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dancing-elephant-snap-jewel.jpg?v=1601090564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Twinkly and fun, this crystal studded elephant snaps into any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530404545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530403649</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turtle-snap-jewel"/>
+    <title>Turtle Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turtle-snap-jewel.jpg?v=1601090563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkly turtle meets snap jewelry.  Perfect for any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530403649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530400641</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/green-frog-snap-jewel"/>
+    <title>Green Frog Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/green-frog-snap-jewel.jpg?v=1601090562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frog fans will appreciate this sparkling crystal frog snap jewel.  Use with any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530400641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530397121</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-gecko-snap-jewel"/>
+    <title>Gold Gecko Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-gecko-snap-jewel.jpg?v=1601090560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add a whimsical gold gecko to any of our snap jewelry pieces with this gold on blue snap jewel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530397121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530395585</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-ginger-snap-jewel"/>
+    <title>Crystal Ginger Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-ginger-snap-jewel.jpg?v=1601090559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add a gorgeous golden brown peach to any of our snap jewelry pieces with this crystal ginger snap jewel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530395585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530393473</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-sea-snap-jewel"/>
+    <title>Red Sea Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-sea-snap-jewel.jpg?v=1601090557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rich red in a floral setting makes this crystal snap jewel the perfect accessory for your jewel toned attire.  Use with any of our snap jewelry.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530393473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9303</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530391745</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-pink-ribbon-snap-jewel"/>
+    <title>Crystal Pink Ribbon Breast Cancer Awareness Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-pink-ribbon-breast-cancer-awareness-snap-jewel.jpg?v=1601090556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our crystal pink ribbon remembrance snap jewel adds a touch of support to any of our snap jewelry pieces!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530391745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530387841</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-cross-snap-jewel"/>
+    <title>Crystal Cross Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-cross-snap-jewel.jpg?v=1601090554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Crystal cross snap jewel snaps into any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530387841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530385921</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-green-snap-jewel"/>
+    <title>Royal Green Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-green-snap-jewel.jpg?v=1601090553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For the Irish or green fancier.  Sparkling green snap jewel fits any of our snap jewelry pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530385921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530384193</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-diamond-snap-jewel"/>
+    <title>Royal Diamond Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-diamond-snap-jewel.jpg?v=1601090552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkles and nothing but sparkles make this snap jewel perfect for any snap jewelry item and will go with anything!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530384193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530378113</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tahiti-snap-jewel"/>
+    <title>Pink Tahiti Snap Jewel</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tahiti-snap-jewel.jpg?v=1601090549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So pink.  So feminine.  Add romantic sparkle to our snap jewelry pieces with this pink snap jewel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530378113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>9295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

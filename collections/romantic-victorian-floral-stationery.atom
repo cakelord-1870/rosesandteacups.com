@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/romantic-victorian-floral-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T13:10:02-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268131201</id>
+    <published>2021-06-22T13:10:02-05:00</published>
+    <updated>2021-06-22T13:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-note-cards"/>
+    <title>Vintage Garden Note Cards - Only 1 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-note-cards-only-1-left.jpg?v=1624407142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace</p>
+<p>8 Note Cards with Pink Foil and 2 Layer Embossing</p>
+<p>Pink Envelopes</p>
+<p>Approx 4x5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268131201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1388775361</id>
+    <published>2015-06-29T13:10:00-05:00</published>
+    <updated>2015-06-29T13:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cottage-in-bloom-die-cut-note-cards-and-envelopes"/>
+    <title>Cottage in Bloom Die Cut Note Cards and Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cottage-in-bloom-die-cut-note-cards-and-envelopes.jpg?v=1601088567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.5" x 6.25".  Includes 10 folded note cards and 10 matching envelopes.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1388775361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1368388161</id>
+    <published>2015-06-26T18:05:00-05:00</published>
+    <updated>2015-06-26T18:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-note-cards-and-envelopes"/>
+    <title>Chocolate Note Cards and Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-note-cards-and-envelopes.jpg?v=1601088539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Card 1: Friendship, Chocolate, Love forever...</span><br><span>Card 2: Anything Testes Better Dipped in Chocolate.</span><br><span>Card 3: A Little too Much Chocolate is Just About Right...</span><br><span>Card 4: A Day without Chocolate is a Day without Sunshine.</span></p>
+<p>3.75 x 7.75 20 Folded Note Cards 5 each of 4 Styles with 20 Matching Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1368388161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>4230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520994241</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-note-cards-10-cards-w-envelopes"/>
+    <title>Winter Wonderland Note Cards 10 Cards w Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-note-cards-10-cards-w-envelopes.jpg?v=1601090285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.5 x 6.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520994241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

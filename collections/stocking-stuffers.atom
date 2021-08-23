@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/stocking-stuffers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-06-24T13:01:50-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666489241689</id>
+    <published>2020-06-24T13:01:50-05:00</published>
+    <updated>2020-06-24T13:01:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Jewel Tones Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1593090135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The bold look of jewel tone crystals can be worn with any bright color! Stack with another jewel tone plus a single row clear crystal bracelet for added drama!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666489241689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477327671385</id>
+    <published>2020-02-17T11:36:39-06:00</published>
+    <updated>2020-02-17T11:36:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-set-purse-note-pad-stationery"/>
+    <title>Embossed Tea Set Purse Note Pad Stationery by Carol Wilson</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embossed-tea-set-purse-note-pad-stationery-by-carol-wilson.jpg?v=1582071477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477327671385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22475N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4359497023577</id>
+    <published>2019-11-23T11:13:04-06:00</published>
+    <updated>2019-11-23T11:13:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-christmas-holiday-hankie"/>
+    <title>Poinsettia Christmas Holiday Hankie</title>
+    <s:type>Victorian Hankies</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-christmas-holiday-hankie.jpg?v=1601095081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Victorian Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettia Christmas Holiday Hankie is the perfect holiday gift for your purse or pocket.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4359497023577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>112319J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2110519083097</id>
+    <published>2019-06-10T14:47:40-05:00</published>
+    <updated>2019-06-10T14:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-nativity-envelope-sachets-limited-supply"/>
+    <title>Set of 3 Nativity Envelope Sachets - Limited Supply!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-nativity-envelope-sachets-limited-supply.jpg?v=1601094795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Nativity Individually Wrapped Large Christmas Cinnamon Stick Scent Envelope Sachets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2110519083097</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1820874309721</id>
+    <published>2018-11-09T15:05:33-06:00</published>
+    <updated>2018-11-09T15:05:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-holiday-teacups-with-snowbird-gift-boxed-spice-mug-mats"/>
+    <title>Set of 4 Gift Boxed Stacked Holiday Teacups with Snowbird Gift Boxed Spice Mug Mats</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-gift-boxed-stacked-holiday-teacups-with-snowbird-gift-boxed-spice-mug-mats.jpg?v=1601094485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Stacked Holiday Teacups with Snowbird Gift Boxed Spice Mug Mats arrived in box wrapped in organza ribbon.  <span>Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1820874309721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>110918-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257437249</id>
+    <published>2017-07-15T10:47:47-05:00</published>
+    <updated>2017-07-15T10:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-holly-tissue-pack-cover"/>
+    <title>Winter Holly and Cardinal Tissue Pack Cover - Only 4 Left!</title>
+    <s:type>tissue pack covers</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-holly-and-cardinal-tissue-pack-cover-only-4-left.jpg?v=1601093336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>tissue pack covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Winter Holly and Cardinal Fabric Tissue Pack Cover. How sweet are these!  USA Handcrafted, they fit your tissue packs perfectly to keep tissues clean, safe and snug to the last one!  Adorable as favors, stocking stuffers, friendship and hostess gifts.  Perfect for your purse!  Patterns will vary slightly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257437249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>10042017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9895975425</id>
+    <published>2017-07-15T10:47:47-05:00</published>
+    <updated>2017-07-15T10:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bird-tissue-pack-cover"/>
+    <title>Yellow Bird Tissue Pack Cover - Only 2 Available!</title>
+    <s:type>tissue pack covers</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-bird-tissue-pack-cover-only-2-available.jpg?v=1601093244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>tissue pack covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>How sweet are these!  USA Handcrafted, they fit your tissue packs perfectly to keep tissues clean, safe and snug to the last one!  Adorable as favors, stocking stuffers, friendship and hostess gifts.  Perfect for your purse!  Patterns will vary slightly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9895975425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07152017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142809985</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-compact-mirror"/>
+    <title>Home for the Holidays Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-compact-mirror-1.gif?v=1561400110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Home for the Holidays Compact Mirror size: 3.5" x 2.63" x 0.5".  Magnetic Closure.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142809985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>07262016-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3656269569</id>
+    <published>2015-12-07T10:47:00-06:00</published>
+    <updated>2015-12-07T10:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-bluebirds-compact-mirror"/>
+    <title>Winter Bluebirds Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-bluebirds-compact-mirror.jpg?v=1601091678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Winter Bluebirds Compact Mirror</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3656269569</id>
+      <title>Default</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>8889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3538502465</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-be-still-and-know-that-i-am-god-bookmark-and-pen"/>
+    <title>Wonders of His Love Bookmark and Pen</title>
+    <s:type>Christian Gifts &amp; Favors</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Wonders-of-His-Love-Bookmark-and-Pen_a061ce21-a694-4d7c-992e-88998bee1e94.jpg?v=1628986315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts &amp; Favors<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wonders of His Love<span> Top Quality Ball Point Pen with Cap plus bookmark in Gift Wrapped Set.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3538502465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>8932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1494327105</id>
+    <published>2015-07-10T14:51:00-05:00</published>
+    <updated>2015-07-10T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-holiday-hurdy-gurdies"/>
+    <title>Set of 4 Holiday Hurdy Gurdies</title>
+    <s:type>Hurdy Gurdies</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-holiday-hurdy-gurdies.jpg?v=1601089294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Hurdy Gurdies<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Vintage Christmas Images grace these adorable wind-up boxes. Songs include: Toyland, Silent Night, Jingle Bells and What Child is This. 2x1x1</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1494327105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

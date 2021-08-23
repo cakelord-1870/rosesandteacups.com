@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-rose-garden-collection.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-11-10T10:21:53-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/280914657320</id>
+    <published>2017-11-10T10:21:53-06:00</published>
+    <updated>2017-11-10T10:21:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/live-simply-bird-decorative-pocket-note-pad"/>
+    <title>Live Simply Bird Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/live-simply-bird-decorative-pocket-note-pad.png?v=1601093744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280914657320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-5JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363963329</id>
+    <published>2015-06-26T11:51:00-05:00</published>
+    <updated>2015-06-26T11:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-mouse-notepad-and-pen"/>
+    <title>Tea and Rose Garden Mouse Notepad and Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-and-rose-garden-mouse-notepad-and-pen.jpg?v=1601088506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tea &amp; Roses Mouse Notepad Size: 6.75" x 6.75". 65 printed sheets. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363963329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>5681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363884033</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-sticky-notes-pad"/>
+    <title>Tea and Rose Garden Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Tea-and-Rose-Garden-Sticky-Notes-Pad_e7bd002d-f430-48c7-bb5c-fd9e8539e7ad.jpg?v=1629418283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363884033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

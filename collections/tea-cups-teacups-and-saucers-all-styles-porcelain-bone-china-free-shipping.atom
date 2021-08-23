@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-cups-teacups-and-saucers-all-styles-porcelain-bone-china-free-shipping.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-13T15:42:51-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1249040641</id>
+    <published>2021-06-13T15:42:51-05:00</published>
+    <updated>2021-06-13T15:42:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-peacock-blue-bird-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers"/>
+    <title>2 Peacock Blue Bird Porcelain Tea Cups and Saucers (2 Teacups and 2 Saucers) - Only 1 Set Left!</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-peacock-blue-bird-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers-only-1-set-left.jpg?v=1623629524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 oz Cup and Saucer Set, Fine Porcelain. 24K Gold Trimmed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1249040641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>7459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077769817</id>
+    <published>2021-04-16T14:23:12-05:00</published>
+    <updated>2021-04-16T14:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-summertime-rose-bone-china-made-in-england-mother-teacup-and-saucer-only-3-sets-available"/>
+    <title>Mother Teacup and Saucer Rare Royal Patrician Summertime Rose Bone China Made in England  - Only 3 Sets Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-teacup-and-saucer-rare-royal-patrician-summertime-rose-bone-china-made-in-england-only-3-sets-available.jpg?v=1618664677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">MOTHER - Imported from England tea cup and saucer</span></li>
+<li><span class="a-list-item">Imported English fine bone china</span></li>
+<li><span class="a-list-item">Summertime Rose Design - pink and red roses</span></li>
+<li><span class="a-list-item">Trimmed in 18 carat, not suitable for microwave</span></li>
+<li><span class="a-list-item">Condition: New</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077769817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556344320089</id>
+    <published>2021-04-06T15:01:25-05:00</published>
+    <updated>2021-04-06T15:01:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/the-most-beautiful-yellow-roses-porcelain-teacup-and-saucer"/>
+    <title>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/The-Most-Beautiful-Yellow-Roses-Fine-Bone-China-Teacup-and-Saucer_82c9b3f4-181e-4cec-aef0-7945de96a78f.jpg?v=1629331974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer (Tea Cup) is truly a work of art both inside and outside this amazing set!  A beautiful bouquet of soft pink, blush and yellow roses pattern with delightful butterflies a flutter that is surely to please oneself or to give as an amazing gift to be treasured. </span></p>
+<p><span>Holds approximately 8oz. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556344320089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0406216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742727532633</id>
+    <published>2020-10-26T14:59:29-05:00</published>
+    <updated>2020-10-26T14:59:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-teacup-and-saucer-peony"/>
+    <title>Gift Boxed Porcelain Teacup and Saucer - Peony</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-teacup-and-saucer-peony.jpg?v=1603757531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742727532633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1026201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482630910041</id>
+    <published>2020-02-21T17:34:15-06:00</published>
+    <updated>2020-02-21T17:34:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elegant-white-embossed-footed-porcelain-teacup-and-saucer-very-limited"/>
+    <title>Elegant White Embossed Footed Porcelain Teacup and Saucer - Very Limited!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegant-white-embossed-footed-porcelain-teacup-and-saucer-very-limited.jpg?v=1582376696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elegant White Embossed Footed Teacup and Saucer  
+Dishwasher and Microwave Safe Holds 4 ounces and the sSaucer is 6 inches wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482630910041</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388678139993</id>
+    <published>2019-12-14T21:03:37-06:00</published>
+    <updated>2019-12-14T21:03:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/empire-peony-bone-china-tea-cup-and-saucer-set-of-4"/>
+    <title>Empire Peony Bone China Tea Cup and Saucer Set of 4</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/empire-peony-bone-china-tea-cup-and-saucer-set-of-4.jpg?v=1601095168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8 ounces Tea Cup.  6 inch Saucer, Fine Bone China.  Set of 4</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388678139993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>10292017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388596023385</id>
+    <published>2019-12-14T20:29:41-06:00</published>
+    <updated>2019-12-14T20:29:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-poppy-bone-china-tea-cup-and-saucer-set-of-4"/>
+    <title>Red Poppy Bone China Teacup and Saucer Set of 4</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-poppy-bone-china-teacup-and-saucer-set-of-4.jpg?v=1601095163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Red Poppy Bone China Teacups and Saucer full size holds approximately 8 ounces  6 inch saucer, fine bone china.  Set of 4</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388596023385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>10292017-4J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388550803545</id>
+    <published>2019-12-14T20:10:52-06:00</published>
+    <updated>2019-12-14T20:10:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-thistle-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Thistle Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-thistle-teacups-and-saucers-set-of-2.jpg?v=1601095162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Wild Violet Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388550803545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J5TH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388541825113</id>
+    <published>2019-12-14T20:06:59-06:00</published>
+    <updated>2019-12-14T20:06:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-lily-of-the-valley-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Lily of the Valley Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-lily-of-the-valley-teacups-and-saucers-set-of-2.jpg?v=1601095161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Wild Violet Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388541825113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J5LOV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388533960793</id>
+    <published>2019-12-14T20:03:56-06:00</published>
+    <updated>2019-12-14T20:03:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-york-english-bone-china-wild-violet-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Wild Violet Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-wild-violet-teacups-and-saucers-set-of-2.jpg?v=1601095160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Wild Violet Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388533960793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J5WV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388527112281</id>
+    <published>2019-12-14T20:00:48-06:00</published>
+    <updated>2019-12-14T20:00:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-autumn-poppy-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Autumn Poppy Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-autumn-poppy-teacups-and-saucers-set-of-2.jpg?v=1601095159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Autumn Poppy Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388527112281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J5P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287574638681</id>
+    <published>2019-10-18T13:25:03-05:00</published>
+    <updated>2019-10-18T13:25:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-tea-cups-teacups-and-saucers-set-of-4"/>
+    <title>Snowman Chintz Tea Cups (Teacups) and Saucers Set of 4</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-tea-cups-teacups-and-saucers-set-of-4.jpg?v=1601095029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>6 ounce Scallop Edge Tea Cup Saucer. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p><strong><a href="https://rosesandteacups.com/products/snowman-teapot" title="Snowman Porcelain Teapot">Matching Teapot Available!</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287574638681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>10282017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287504318553</id>
+    <published>2019-10-18T12:14:56-05:00</published>
+    <updated>2019-10-18T12:14:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-tea-cups-teacups-and-saucers-set-of-2"/>
+    <title>Snowman Chintz Porcelain Tea Cups (Teacups) and Saucers Set of 2</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-tea-cups-teacups-and-saucers-set-of-2.jpg?v=1601095026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>6 ounce Scallop Edge Teacup and Saucer. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p><strong><a href="https://rosesandteacups.com/products/snowman-teapot" title="Snowman Porcelain Teapot">Matching Teapot Available!</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287504318553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11022017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122689085529</id>
+    <published>2019-06-28T16:27:52-05:00</published>
+    <updated>2019-06-28T16:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-2-available"/>
+    <title>White Roses and Lilacs Chintz Porcelain Teacup and Saucer - Only 4 Available</title>
+    <s:type>Porcelain Teacups</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-4-available.jpg?v=1601094856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Porcelain Teacups<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful white roses and lovely purple lilac chintz pattern wrap both cup and saucer. This is a full size teacup holding approximately 6 ounces. Trimmed in 14k gold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122689085529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0627194J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122627383385</id>
+    <published>2019-06-28T12:11:54-05:00</published>
+    <updated>2019-06-28T12:11:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-girls-princess-roses-and-lilacs-demi-teacup-and-saucer-only-one"/>
+    <title>Little Girl&apos;s Princess Roses and Lilacs Demi Teacup and Saucer - Only One!</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-girls-princess-roses-and-lilacs-demi-teacup-and-saucer-only-one.jpg?v=1582071423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Little Girls Princess Roses and Lilacs Demi  Porcelain Teacup and Saucer is a available to just one lucky little lady. This cute little set has a lovely chintz pattern surrounding the cup and on saucer as well. Trimmed in 14k gold and is perfect for little hands holding approximately 3 -4 ounces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122627383385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0628296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2121996206169</id>
+    <published>2019-06-27T20:05:22-05:00</published>
+    <updated>2019-06-27T20:05:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-2-available"/>
+    <title>Yellow Roses and Lilacs Chintz Porcelain Teacup and Saucer - Only 1 Available</title>
+    <s:type>Porcelain Teacups</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-1-available.jpg?v=1601094843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Porcelain Teacups<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful yellow roses and lovely purple lilac chintz pattern wrap both cup and saucer. This is a full size teacup holding approximately 6 ounces. Trimmed in 14k gold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2121996206169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0627194J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111011815513</id>
+    <published>2019-06-11T13:04:42-05:00</published>
+    <updated>2019-06-11T13:04:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available"/>
+    <title>Love Flourish Scrolling Heart Teacup and Saucer - Only 1 Available!</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available_d7e9093e-0ad7-4186-a345-291e307f7fe5.jpg?v=1601094805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Flourish Hand-painted Ceramic Teacup and Saucer</p>
+<p>Hand-wash only</p>
+<p>FDA approved.</p>
+<p>2 1/2"H X 3 1/4" Opening.</p>
+<p>Holds 7 oz. Saucer: 5 3/4"Diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111011815513</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349258969189</id>
+    <published>2018-09-19T11:59:44-05:00</published>
+    <updated>2018-09-19T11:59:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-bone-china-tea-cup-teacup-and-saucer"/>
+    <title>Pansy Bone China Tea Cup (Teacup) and Saucer</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-bone-china-tea-cup-teacup-and-saucer.jpg?v=1601094328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pansy Bone China Teacup (Tea Cup) holds approximately 8oz. Swirl design and is trimmed in 14K gold. Has matching teapot. Dishwasher not recommended due to gold trim</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349258969189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>091918-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1325570195557</id>
+    <published>2018-08-08T14:43:05-05:00</published>
+    <updated>2018-08-08T14:43:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bone-china-embossed-teacups-saucers"/>
+    <title>Set of 6 White Bone China Bulk Embossed Teacups &amp; Saucers</title>
+    <s:type>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-white-bone-china-bulk-embossed-teacups-saucers.jpg?v=1601094266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our White Bone China Embossed Teacups &amp; Saucers are perfect for all events such as tea parties, wedding and bridal events, birthday parties and more!  Includes 6 teacups with 6 matching saucers.  Each teacup holds approximately 6 ounces.  24K gold trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1325570195557</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1325566460005</id>
+    <published>2018-08-08T14:26:04-05:00</published>
+    <updated>2018-08-08T14:26:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bone-china-embossed-teacups-saucers-case-of-24-has-free-shipping"/>
+    <title>White Bone China Embossed Bulk Teacups &amp; Saucers - Case of 24</title>
+    <s:type>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-bone-china-embossed-bulk-teacups-saucers-case-of-24.jpg?v=1601094265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)<br>
+        <strong>Price: </strong>
+            156.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our White Bone China Embossed Teacups &amp; Saucers are perfect for all events such as tea parties, wedding and bridal events, birthday parties and more!  Each hold approximately 6 ounces and are 24K gold trimmed.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1325566460005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">156.99</s:price>
+      <s:sku>080818-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323309138021</id>
+    <published>2018-08-03T16:12:42-05:00</published>
+    <updated>2018-08-03T16:12:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-rose-dot-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Rose Dot Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-rose-dot-teacups-and-saucers-set-of-2.jpg?v=1601094249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Rose Dot Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323309138021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323307270245</id>
+    <published>2018-08-03T16:06:31-05:00</published>
+    <updated>2018-08-03T16:06:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-blue-forget-me-not-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Blue Forget Me Not Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-blue-forget-me-not-teacups-and-saucers-set-of-2.jpg?v=1601094247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">York English Bone China Blue Forget Me Not Teacups and Saucers Set of 2 <span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323307270245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J5BFN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323301503077</id>
+    <published>2018-08-03T15:55:40-05:00</published>
+    <updated>2018-08-03T15:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-english-bone-china-yellow-peace-rose-teacups-and-saucers-set-of-2"/>
+    <title>York English Bone China Yellow Peace Rose Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-english-bone-china-yellow-peace-rose-teacups-and-saucers-set-of-2.jpg?v=1601094246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></p>
+<p><span>York English Bone China Yellow Peace Rose Teacups and Saucers Set of 2</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323301503077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323299111013</id>
+    <published>2018-08-03T15:46:47-05:00</published>
+    <updated>2018-08-03T15:46:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-summertime-pink-english-bone-china-teacups-and-saucers-set-of-2"/>
+    <title>York Summertime Pink English Bone China Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-summertime-pink-english-bone-china-teacups-and-saucers-set-of-2.jpg?v=1601094245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>English Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323299111013</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323295637605</id>
+    <published>2018-08-03T15:32:38-05:00</published>
+    <updated>2018-08-03T15:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/york-summertime-blue-english-bone-china-teacups-and-saucers-set-of-2"/>
+    <title>York Summertime Blue English Bone China Teacups and Saucers Set of 2</title>
+    <s:type>English Tea Cups</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/york-summertime-blue-english-bone-china-teacups-and-saucers-set-of-2.jpg?v=1601094244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fine Bone China Teacups and Saucers Made in England by Adderley.  Holds approximately 6 ounces. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323295637605</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>080318-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

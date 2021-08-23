@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-hats.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-03T12:43:04-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372908343385</id>
+    <published>2019-12-03T12:43:04-06:00</published>
+    <updated>2019-12-03T12:43:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1601095121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372908343385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372901920857</id>
+    <published>2019-12-03T08:34:30-06:00</published>
+    <updated>2019-12-03T08:34:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1582071455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372901920857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063750987865</id>
+    <published>2019-04-15T17:06:23-05:00</published>
+    <updated>2019-04-15T17:06:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-ivory-victorian-touring-hat-with-pink-crown-16012"/>
+    <title>Ladies Ivory Victorian Touring Hat with Pink Crown #16012</title>
+    <s:type>Pink Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-ivory-victorian-touring-hat-with-pink-crown-16012.jpg?v=1601094749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Pink Victorian Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Ivory Victorian Touring Hat with Pink Crown. This is our classic Touring hat that has a pink satin pleated top with pink and Ivory roses, pearl accents and Ivory feather. Finished off with an Ivory English netting bow and train down the back.</span></p>
+<p><span>This amazingly elegant hat is hand made just for you at the time of your order.  This process includes hand dyed materials and is hand assembled which may take 7-10 days.  This is not a big box store hat but one that is made with great skill and talent.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063750987865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>5562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504742209</id>
+    <published>2015-07-11T15:16:00-05:00</published>
+    <updated>2015-07-11T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-victorian-hat-16017"/>
+    <title>Pink Victorian Hat  #16016</title>
+    <s:type>Pink Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-victorian-hat-16016.jpg?v=1601089543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Pink Victorian Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies Ivory Victorian Touring Hat with Antique Pink. This is our classic Touring hat that has a Ivory crochet over antique pink satin with antique pink flowers, antique pink chiffon and antique pink feather. Finished off with an Ivory English netting bow and train down the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504742209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>5565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504635521</id>
+    <published>2015-07-11T15:16:00-05:00</published>
+    <updated>2015-07-11T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-victorian-hat-1033"/>
+    <title>Pink Victorian Hat  #1033</title>
+    <s:type>Pink Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-victorian-hat-1033.jpg?v=1601089536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Pink Victorian Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies White Victorian Touring Hat with Pink. This is a white hat with pink crown, white ruffled lace around the brim, pink and white roses, ostrich feathers, white bird and Finished off with a white English netting bow on the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504635521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>800N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504602817</id>
+    <published>2015-07-11T15:16:00-05:00</published>
+    <updated>2015-07-11T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-victorian-hat-1216lpw"/>
+    <title>Pink Victorian Hat  #1216PKW</title>
+    <s:type>Pink Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-victorian-hat-1216pkw.jpg?v=1601089533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Pink Victorian Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies White Victorian Touring Hat with Pink &amp; White Stripe  Bow. This is a white hat with pink satin crown, white ruffled lace around the brim, pink and white roses, pink &amp; white stripe bow, ostrich feathers and Finished off with a white English netting bow on the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504602817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>8088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1470424577</id>
+    <published>2015-07-08T19:54:00-05:00</published>
+    <updated>2015-07-08T19:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girls-victorian-tea-party-hat-234"/>
+    <title>Children or Small Ladies Victorian Tea Party Hat #234</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/children-or-small-ladies-victorian-tea-party-hat-234.jpg?v=1601089088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Girl's Designer Victorian Tea Party Hat Pink Children's or Small adult Victorian hat. This hat is a smaller version of our Ladies Victorian Touring hat. Inside size of hat is 21". It has a pleated pink satin top with petite pink bouquet flowers in front with a light pink feather and a ribbon/satin bow on side. Finished off with an English pink netting bow on back.</span></p>
+<p><a href="https://rosesandteacups.com/pages/policies" target="_blank" title="Crafted for you by hand" rel="noopener noreferrer"><span></span></a><a href="https://rosesandteacups.com/pages/policies" class="fancyboximg" title="Shipping and Policies"><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></a></p>
+<p><span>This hat is made just for you at the time of the order.  There are several steps involved in creating your hat that do require extra time such as hand dyeing and drying your embellishments plus the hand assembly.  These are made in the USA by a very talented artist that has carried on the creative talents of her mother.  This is not a hat that sits getting dusty on a shelf!  This is something special made just for you or your loved one as a gift she'll never forget! The turn around time for this process is usually 1-2 weeks but she is usually very quick.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1470424577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/easter-tea-gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-03-11T14:24:15-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506142670937</id>
+    <published>2020-03-11T14:24:15-05:00</published>
+    <updated>2020-03-11T14:24:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Madame Bunny Teapot and Teacup Soap Party Favors Set of 4</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-4.jpg?v=1584018364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations features our lovely Madame Bunny pattern. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 8 soaps with 2 in each favor. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506142670937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-SJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506015891545</id>
+    <published>2020-03-11T11:46:15-05:00</published>
+    <updated>2020-03-11T11:46:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-floral-crosses-victorian-2-sheets-of-stickers-perfect-for-easter"/>
+    <title>Floral Crosses Victorian 2 Sheets of Stickers Perfect for Easter</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-crosses-victorian-2-sheets-of-stickers-perfect-for-easter.jpg?v=1601095181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers  3.75 x 7.75.  Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506015891545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34036N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506011435097</id>
+    <published>2020-03-11T11:39:31-05:00</published>
+    <updated>2020-03-11T11:39:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-party-with-bunnies-and-spring-theme-2-sheets-of-stickers"/>
+    <title>Easter Party with Bunnies and Spring Theme 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-party-with-bunnies-and-spring-theme-2-sheets-of-stickers.jpg?v=1584018360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easter Party with Bunnies and Spring Theme Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p>
+<p>2 Sheets of Stickers  3.75 x 7.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506011435097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34036N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4500280967257</id>
+    <published>2020-03-06T09:45:54-06:00</published>
+    <updated>2020-03-06T09:45:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-chick-broken-china-porcelain-charm-include-necklace-one-of-a-kind"/>
+    <title>Easter Chick Broken China Porcelain Charm Includes Necklace - One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-chick-broken-china-porcelain-charm-includes-necklace-one-of-a-kind.png?v=1583586100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Easter Chick Broken China Porcelain Charm and with Necklace is made <span>Vintage China with a Sweet Fluffy Easter Chick. Includes a 30" ball chain necklace. A custom made frame surrounds this vintage piece of china with small signature scallops. A soft pink crystal dangles at the bottom. Measures 1 1/4" x 2"(not counting crystal).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4500280967257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>0306201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054729891929</id>
+    <published>2019-04-04T13:54:15-05:00</published>
+    <updated>2019-04-04T13:54:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-bunny-pillow"/>
+    <title>Shabby Bunny Pillow</title>
+    <s:type>shabby bunny pillows</s:type>
+    <s:vendor>Chubby Bunny Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-bunny-pillow.jpg?v=1601094737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chubby Bunny Cottage<br>
+        <strong>Type: </strong>shabby bunny pillows<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Shabby bunny pillow is a gray &amp; white stripe with dark pink roses. it has a white organza ribbon bow with a bouquet of tiny dark pink roses &amp; some white pearls. it has a white tail. this is so adorable. measures 8″ wide x 10 ” tall. one of a kind. </span> USA Handmade</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054729891929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>03032017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2012953870425</id>
+    <published>2019-03-01T10:10:46-06:00</published>
+    <updated>2019-03-01T10:10:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-bunnykins-chintz-broken-china-heart-pendant"/>
+    <title>Vintage Bunnykins Chintz Broken China Heart Pendant</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-bunnykins-chintz-broken-china-heart-pendant.png?v=1601094719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> </span><span>This beautiful pendant was made from shabby or broken Royal Doulton Bunnykins china and recycled into a wearable piece of art with a beautiful chintz pattern.  A lead-free custom-made frame surrounds this vintage piece of china with my small signature scallops.   An ornate matte silver metal piece adorns the top and a Swarovski Crystal dangles from the bottom.  It hangs from a sterling silver split ring that is ready to add your favorite chain  or slip it on a charm bracelet for a great connection to the past. Our Mothers, Grandmothers and Great-Grandmothers actually used these beautiful pieces of gorgeous china.  Now is your chance to own an affordable heirloom quality piece of jewelry.   Measures 1" x 2 1/4".</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2012953870425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997336543321</id>
+    <published>2019-02-18T14:41:50-06:00</published>
+    <updated>2019-02-18T14:41:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-and-tulips-sticky-note-pad"/>
+    <title>Bumble Bee and Tulips Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-sticky-note-pad.jpg?v=1582071407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble and Tulips Sticky Note Pad is perfect for Spring! </p>
+<table border="0" cellspacing="0" cellpadding="0" width="374" height="601">
+<tbody>
+<tr>
+<td height="35" width="200" colspan="5" valign="top">
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>Pad size: 4" x 4.75". </span></span></p>
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>75 printed self adhesive sheets.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997336543321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0218198-J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997296992345</id>
+    <published>2019-02-18T14:19:44-06:00</published>
+    <updated>2019-02-18T14:19:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set"/>
+    <title>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set.jpg?v=1583192238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</p>
+<p>Measures: <span>4.37" x 5.37"</span></p>
+<p><span>75 printed sheets. </span></p>
+<p><span>With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997296992345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0218197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994925932633</id>
+    <published>2019-02-15T19:03:29-06:00</published>
+    <updated>2019-02-15T19:03:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-heart-shaped-pill-box"/>
+    <title>Bumble Bees and Tulips Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Bumble_Bees_and_Tulips_Heart_Shaped_Pill_Box.gif?v=1561399515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bees and Tulips Heart Shaped Pill Box</p>
+<table border="0" cellspacing="0" cellpadding="0" width="480" height="541">
+<tbody>
+<tr>
+<td height="35" colspan="7" valign="top" style="width: 540.243px;"><span face="Arial" color="000000" style="font-family: Arial;"><span>Box size: 2.5" x 2.375" x 0.875". Metal case with epoxy cover.</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994925932633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>021519-7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994914332761</id>
+    <published>2019-02-15T18:36:25-06:00</published>
+    <updated>2019-02-15T18:36:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-compact-mirror"/>
+    <title>Bumble Bees and Tulips Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bees-and-tulips-compact-mirror.jpg?v=1601094697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bees and Tulips Compact Mirror is <span>Metal case with faux leather cover.</span></p>
+<p><span>Mirror size: 2.25" x 3.75" x 0.38"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994914332761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>021519-3J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1993037185113</id>
+    <published>2019-02-14T09:17:16-06:00</published>
+    <updated>2019-02-14T09:17:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-little-bunny-resting-in-the-roses-broken-china-pendant"/>
+    <title>Sweet Little Bunny Resting in the Roses Broken China Pendant</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-little-bunny-resting-in-the-roses-broken-china-pendant.jpg?v=1601094690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A sweet little bunny resting in the roses decorates this porcelain broken china heart shaped pendant. Slip it on your favorite chain as a pendant for a necklace.   The china has been encased in a custom made  (lead free frame).  A unique piece of jewelry with a wonderful connection to the past.  Pendant Measures 1 1/4” x 1 1/4".</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1993037185113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1525586433</id>
+    <published>2018-08-03T13:22:58-05:00</published>
+    <updated>2018-08-03T13:22:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-spoon-jewelry-bunny-pendant-necklace"/>
+    <title>Silver Spoon Jewelry Bunny Pendant Necklace - 1 Left</title>
+    <s:type>Silver Spoon Creature Necklaces</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Silver-Spoon-Jewelry-Bunny-Pendant-Necklace-1-Left_97106163-82d4-4b0d-9541-c0b7bb89537c.jpg?v=1628986309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Creature Necklaces<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Length: 16-18" adjustable</span></li>
+<li><span>Pendant: 2" x 1 3/8"</span></li>
+<li><span>silver plate</span></li>
+<li><span>Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1525586433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>8868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/300796444712</id>
+    <published>2017-11-28T12:40:51-06:00</published>
+    <updated>2017-11-28T12:40:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-ladybug-hand-painted-raised-ceramic-cookie-jar"/>
+    <title>Sweet Ladybug Hand Painted Raised Ceramic Cookie Jar</title>
+    <s:type>Custom Ceramic Teaware</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-ladybug-hand-painted-raised-ceramic-cookie-jar.jpg?v=1601093804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Custom Ceramic Teaware<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lovely Ladybug hand painted raised ceramic cookie jar.</span><br><span>10"H. Opening is 5 1/2"H X 4"W X 3 1/4"D.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/300796444712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>112817-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8917245761</id>
+    <published>2016-06-05T12:18:00-05:00</published>
+    <updated>2016-06-05T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-bunny-hankie-card"/>
+    <title>Spring Bunny Hankie Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-bunny-hankie-card.jpg?v=1601093017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Bunny Hankie Card.  A darling old-fashioned girl holds a bunny in her arms.  So cute!  5 x 8 card comes in a clear sleeve and includes envelope.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8917245761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>02272017N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5292175809</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-lyric-lovebirds-and-flowers-mini-art"/>
+    <title>Susan Rios Lyric Lovebirds and Flowers Mini Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-lyric-lovebirds-and-flowers-mini-art.jpg?v=1601091971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From the Artist: 
+<div id="tab-contents" class="col7">
+<div id="description" class="markdown description col7">
+<div id="description-text">"Lyric Love" is a print made from an original painting I did. The print is adhered to illustration board, and hangs from satin ribbons. It's 4.75" tall x 4.75" wide. Soft pink blossoms surround two little bluebirds ~ a very sweet and romantic little print.<br>Tie the ribbons in a pretty bow, and hang this lovely print anywhere. It makes a very special gift card, and would be beautiful for a birthday, Mother's Day, or special friend gift. It would be beautiful tied on a package too. A dusting of fine iridescent glitter makes it sparkle! Comes in a clear cello bag."  USA MADE</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5292175809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34007N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5292167873</id>
+    <published>2016-02-29T10:27:00-06:00</published>
+    <updated>2016-02-29T10:27:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/susan-rios-easter-tea-mini-art"/>
+    <title>Susan Rios Easter Tea Mini Art</title>
+    <s:type>Susan Rios Minis</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/susan-rios-easter-tea-mini-art.jpg?v=1601091969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios Minis<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>From the Artist:  "This is a little print from a painting I did. I take the print, which measures approx. 6.25"x 5", adhere it to illustration board, and pink satin ribbons come out from the top so it can be tied in a pretty bow and hung on the wall. It can also be hung around a wine bottle, or tied on a package as a gift tag, put in an envelope and sent as a special gift card, or even set on a pretty easel. It's also dusted with a little glitter for some fun sparkle. However you choose to use it, this cheery little Easter image will make you smile!"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5292167873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34005N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4206711297</id>
+    <published>2016-02-16T12:00:00-06:00</published>
+    <updated>2016-02-16T12:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-bunny-in-pink-or-purple"/>
+    <title>Easter Bunny in Pink or Purple Perfect for Baskets! Limited!</title>
+    <s:type>Easter Bunny</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-bunny-in-pink-or-purple-perfect-for-baskets-limited.jpg?v=1601091952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Easter Bunny<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little 10 inch standing bunnies are all lacy in their sweet dresses and hair bows.  So girly!  Bunnies do not have actual legs. Perfect for baskets or decorating. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4206711297</id>
+      <title>Purple - Only 2 Left!</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33700N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8926181121</id>
+    <published>2015-07-15T10:53:00-05:00</published>
+    <updated>2015-07-15T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-lace-bunny-17-inches"/>
+    <title>Lavender Lace Bunny 17 inches</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-lace-bunny-17-inches.jpg?v=1601093040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dressed in lovely lavender, this bunny is just waiting to be loved!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8926181121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>02282017-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505497921</id>
+    <published>2015-07-11T20:03:00-05:00</published>
+    <updated>2015-07-11T20:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-easter"/>
+    <title>15 Decorated Sugar Cubes - Easter</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-easter.jpg?v=1601089664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505497921</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1498215873</id>
+    <published>2015-07-11T00:12:00-05:00</published>
+    <updated>2015-07-11T00:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-imperial-white-teacup-favors"/>
+    <title>4 Imperial White Tea Cup (Teacup) Favors - Perfect Party Favors</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-imperial-white-tea-cup-teacup-favors-perfect-party-favors.jpg?v=1582071142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            38.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Imperial White Teacup Party Favors are sure to make your event a success. It is a 3 in 1 hit as these decorate your table, can be used at your event and the given as a favor to guests - Includes 4 teacups, 4 spoons, 4 teabags in cello with bow.Imperial White Teacup Perfect for Bridal Shower Gifts Wedding Events Baby Shower Favors<br>Choose your spoon and ribbon color to match your event!</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Smoke Blue</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7541N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Mauve</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7542N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Pink</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7543N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7544N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Old Willow</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7545N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Mint</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7546N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Lavender</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>7548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1498215873</id>
+      <title>Red</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>03302017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1480963521</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunnies-in-tea-cups-victorian-stickers"/>
+    <title>24 Bunnies in Tea Cups Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-bunnies-in-tea-cups-victorian-2-sheets-of-stickers.jpg?v=1601089121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1480963521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>8729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4221791617</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunny-rabbit-egg-dish"/>
+    <title>Bunny Rabbit Egg Dish</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bunny-rabbit-egg-dish.jpg?v=1601091956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handwash only/FDA approved.</span><br><span>Hand-painted solid white dish with 6 egg slots and a small bunny sitting in the center of the dish. Individual white gift boxed.</span><br><br><span>4 3/4"H X 6 3/4"W X 6 3/4"D and 1 3/4" Opening.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4221791617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>33801N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4221714433</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunny-rabbit-relish-and-candy-dish"/>
+    <title>Bunny Rabbit Relish and Candy Dish</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bunny-rabbit-relish-and-candy-dish.jpg?v=1601091955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handwash only/FDA approved.</span><br><span>Hand-painted ceramic solid white relish dish with 3 bowls that connect and a small bunny sitting in the center of the dish. Individually white gift boxed.</span><br><br><span>5 1/2"H X 9"W X 9"D X 4" Opening.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4221714433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33800N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4221272705</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunny-rabbit-shaped-teapot"/>
+    <title>Bunny Rabbit Shaped Teapot</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bunny-rabbit-shaped-teapot.jpg?v=1601091954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for use during Easter dinner or great for any occasion where you'd like to create a cute, charming atmosphere. This bunny shaped teapot is 7 inches in height and holds 16 oz.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4221272705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432339329</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rabbit-shaped-napkin-rings-set-of-4"/>
+    <title>Rabbit Shaped Napkin Rings Set of 4</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Rabbit-Shaped-Napkin-Rings-Set-of-4_6adf177b-caba-4bde-ad2b-a82e9f331706.jpg?v=1629245580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for use during Easter dinner or great for any occasion where you'd like to create a cute, charming atmosphere. This bunny shaped napkin ring is absolutely delightful. It measures 3 1/2" and is dishwasher safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432339329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

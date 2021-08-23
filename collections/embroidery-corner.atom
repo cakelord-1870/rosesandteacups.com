@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/embroidery-corner.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-05-20T23:08:06-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627193561177</id>
+    <published>2020-05-20T23:08:06-05:00</published>
+    <updated>2020-05-20T23:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-it-to-god-embroidered-pillow"/>
+    <title>Give It To God Embroidered Pillow</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-it-to-god-embroidered-pillow.jpg?v=1590066185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give It To God Go To Sleep Embroidered Pillow has rich royal blue thread that says it all.</p>
+<p>Pillow measures: 21 x 11 Made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627193561177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>0520205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844408647769</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chickadee-teacup-embroidered-christmas-pillow"/>
+    <title>Chickadee Teacup Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chickadee-teacup-embroidered-christmas-pillow.png?v=1601094499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Chickadee &amp; Christmas Tea"</div>
+<div>Intricately embroidered Chickadee in Christmas Tea cup with roses and pine cones. Teacup embroidered in soft seafoam green on ivory moire' taffeta background. Seafoam green moire' taffeta trim.  Ivory backing with zippered opening.  16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844408647769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>11142018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844404060249</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-deer-embroidered-christmas-pillow"/>
+    <title>Midnight Deer Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-deer-embroidered-christmas-pillow.png?v=1601094497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Midnight Deer Whitework scene embroidered on midnight blue moire' taffeta with Swarovski crystals with zippered back opening.</div>
+<div>16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844404060249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>11142018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844394066009</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-embroidered-merry-christmas-pillow"/>
+    <title>Country Embroidered Merry Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-embroidered-merry-christmas-pillow.png?v=1601094494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Embroidered "Merry Christmas"  on gray/white pillow ticking with forest-deer-cardinal scene on back and large red piping edging. Zippered back opening. 100% cotton. 16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844394066009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11142018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1801089122393</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals"/>
+    <title>Burgundy Embroidered Merry Christmas Pillow with Swarovski Crystals</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals.png?v=1601094463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Burgundy Embroidered Merry Christmas Victorian Script Pillow with Swarovski crystals on elegant ivory moire' taffeta f<span class="">ront &amp; back.  Trimmed in burgundy moire' with roped satin piping.  Zipper opening in back.  16x16 </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1801089122393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11062018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624984257</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia and Aqua Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-and-aqua-christmas-pillow-cases.jpg?v=1601091676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624984257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22613N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3624975041</id>
+    <published>2015-11-27T09:24:00-06:00</published>
+    <updated>2015-11-27T09:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-embroidered-poinsettia-christmas-pillow-cases"/>
+    <title>Set of 2 Embroidered or Plain Poinsettia Christmas Pillow Cases</title>
+    <s:type>Christmas Pillow Cases</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-embroidered-or-plain-poinsettia-christmas-pillow-cases.jpg?v=1601091675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Christmas Pillow Cases<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Cotton Standard/Queen Pillow Cases Set of 2 with Embroidery or Plain</p>
+<p>USA Made by Nannette Stewart Originals!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3624975041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>22612N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135349697</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bon-appetit-embroidered-kitchen-tea-towel"/>
+    <title>White Bon Appetit Embroidered Kitchen Tea Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-bon-appetit-embroidered-kitchen-tea-towel.jpg?v=1601091336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!"  White kitchen drying towels. 100% cotton 20x26</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135349697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>22382N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135338497</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bon-appetit-embroidered-waffle-weave-drying-towel"/>
+    <title>Bon Appetit Embroidered Waffle Weave Drying Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bon-appetit-embroidered-waffle-weave-drying-towel.jpg?v=1601091335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!" White kichen drying towels waffle weave 100% cotton. 16x20</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135338497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22381N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135318209</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eiffel-tower-embroidered-guest-hand-towel"/>
+    <title>Eiffel Tower Embroidered Guest Hand Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/eiffel-tower-embroidered-guest-hand-towel.jpg?v=1601091333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit" Eiffel Tower/Fleur de lis print 100% cotton accent towel with 3" ruffle. 16x25 includes ruffle. </p>
+<p>Choose from Plain - "Bon Appetit!" for the kitchen, or "Le bain" for the powder room.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126223873</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-lavender-linen-guest-towel"/>
+    <title>Embroidered Lavender Linen Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-lavender-linen-guest-towel.jpg?v=1601091309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% White Cotton Linen  14 x 22<br>Choose from 2 Lovely Lavender Embroidery Styles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126223873</id>
+      <title>Single Color</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22350N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126223873</id>
+      <title>2 Color</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22351N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126218753</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-on-white-embroidered-guest-towel-with-lace"/>
+    <title>Blue on White Embroidered Guest Towel with Lace</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-on-white-embroidered-guest-towel-with-lace.jpg?v=1601091305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Le bain" (the bath) and medallion embroidered in Royal Blue on 100% white linen with 2" French cotton lace edging.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126218753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22343N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126199553</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-embroidered-guest-towel"/>
+    <title>Paris Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paris-embroidered-guest-towel.jpg?v=1601091303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Paris" embroidered on either 100% linen in oatmeal or white. 14x22</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126199553</id>
+      <title>White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22340N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126199553</id>
+      <title>Oatmeal</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22341N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126096321</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Chic and Shabby Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative "Le bain" (the bath) embroidered on Shabby Roses 100% pure linen in four color ways.  Blue on natural; taupe on natural; lavender on natural; pink floral and green stripe on natural. Generous 20 x 25</p>
+<p> </p>
+<p>Choose ruffle or plain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Pink</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Lavender</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Taupe</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126087041</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Le bain" embroidered decorative cotton guest towel 15x22</p>
+<p>Choose Red or Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22331N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22332N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125746369</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-monsieur-french-script-embroidered-pillow-cases-set-of-2"/>
+    <title>Madame Monsieur French Script Embroidered Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-monsieur-french-script-embroidered-pillow-cases-set-of-2.jpg?v=1601091269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            53.99 - 57.99
+            <a href="https://rosesandteacups.com/products/madame-monsieur-french-script-embroidered-pillow-cases-set-of-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Madame/Monseiur" with black, grey and white script on light grey background<br>Standard/Queen 20 x 30 or King 20 x 40.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125746369</id>
+      <title>King</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>22281N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125746369</id>
+      <title>Standard/Queen</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>22284N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125723137</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaux-reves-eiffel-tower-embroidered-pillow-cases-set-of-2"/>
+    <title>Beaux Reves Eiffel Tower Embroidered Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaux-reves-eiffel-tower-embroidered-pillow-cases-set-of-2.jpg?v=1601091266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99 - 57.99
+            <a href="https://rosesandteacups.com/products/beaux-reves-eiffel-tower-embroidered-pillow-cases-set-of-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Beaux Reves (Sweet Dreams) Eiffel Tower Pillow Cases</span></div>
+<div>Standard/Queen 20x30 or King 20x40.  <br> </div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125723137</id>
+      <title>Standard/Queen</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>22279N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125723137</id>
+      <title>King</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>22280N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125680577</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bride-groom-custom-embroidered-pillow-cases"/>
+    <title>Bride Groom Custom Embroidered Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bride-groom-custom-embroidered-pillow-cases-set-of-2.jpg?v=1601091264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            54.99 - 59.99
+            <a href="https://rosesandteacups.com/products/bride-groom-custom-embroidered-pillow-cases">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span size="2" face="Arial" style="font-family: Arial; font-size: small;">CUSTOM EMBROIDERED PILLOWCASES:</span></div>
+<div>Standard/Queen 20x30 or King 20x40.  </div>
+<div>Great gifts for Weddings, Birthdays, Anniversaries, friend, college students or a "just because" gift.<br>Choose from:  Bride/Groom  His/Hers  Mr./Mrs.  Madame/Monsieur</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125680577</id>
+      <title>Standard/Queen</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>22277N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125680577</id>
+      <title>King</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22278N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125514433</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-lavender-sachet"/>
+    <title>Embroidered Lavender Sachet</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-lavender-sachet.jpg?v=1601091246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Custom Embroidered Lavender 6" Hemstitched Sachet of 100% white linen filled with calming French Lavender buds.  Perfect for your boudoir drawers or under your pillow just before bed.</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125514433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22256N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125339073</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-royal-alphabet-monogrammed-custom-embroidered-pillow-cases"/>
+    <title>Vintage Royal Alphabet Monogrammed Custom Embroidered Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-royal-alphabet-monogrammed-custom-embroidered-pillow-cases-set-of-2.jpg?v=1601091238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99 - 69.99
+            <a href="https://rosesandteacups.com/products/vintage-royal-alphabet-monogrammed-custom-embroidered-pillow-cases">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handmade with French Seams using Quilting Quality 100% "Kona"</span></p>
+<p><span>Choose White or Ivory</span></p>
+<p><span>Wash in Cool to Cold-Dryer or Line Dry-Press on Cotton Setting</span></p>
+<p><span>Choose Standard/Queen or King</span></p>
+<p><span>Your Choice of Monogram Letter</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125339073</id>
+      <title>Standard/Queen / White</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22236N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125339073</id>
+      <title>Standard/Queen / Ivory</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22236N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125339073</id>
+      <title>King / White</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>22236N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125339073</id>
+      <title>King / Ivory</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>22236N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125301441</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-and-monsieur-embroidered-standard-pillow-case"/>
+    <title>Madame and Monsieur Embroidered Pillow Cases</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-and-monsieur-embroidered-pillow-cases.jpg?v=1601091237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            79.99 - 87.99
+            <a href="https://rosesandteacups.com/products/madame-and-monsieur-embroidered-standard-pillow-case">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handmade with French Seams using Quilting Quality 100% "Kona"</span></p>
+<p><span>Choose White or Ivory</span></p>
+<p><span>Wash in Cool to Cold-Dryer or Line Dry-Press on Cotton Setting</span></p>
+<p><span>Choose Standard/Queen or King</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125301441</id>
+      <title>Standard/Queen / White</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>22235N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125301441</id>
+      <title>Standard/Queen / Ivory</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>22235N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125301441</id>
+      <title>King / White</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>22235N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125301441</id>
+      <title>King / Ivory</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>22235N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125258241</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/always-kiss-me-goodnight-embroidered-pillow-shams-and-pillows"/>
+    <title>Always Kiss Me Goodnight Embroidered Standard Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/always-kiss-me-goodnight-embroidered-standard-pillow-cases-set-of-2.jpg?v=1601091233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% White Cotton Hemstitched Pillow Cases with Embroidery</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125258241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>22234N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8874675009</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/china-teapot-embroidered-tea-towel"/>
+    <title>China Teapot Embroidered Tea Towel - Only 1 Left</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Pamela Brown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/china-teapot-embroidered-tea-towel-only-1-left.jpg?v=1601092938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pamela Brown<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ Cotton / Linen Blend ~ Hemstitched 19 x 27</span><br><span>Adorable Shower or Housewarming Gift!</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8874675009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02182017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556229697</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bride-and-groom-embroidered-tea-towels"/>
+    <title>Bride and Groom Embroidered Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bride-and-groom-embroidered-tea-towels.jpg?v=1601090975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18    </span>Fabrics may vary according to availability</p>
+<p><span><span>Please write Names and Date in Comments Box at Checkout! Need different colors? Give us a call! 866-998-2877</span></span></p>
+<p><span><span>Hand crafted so please allow up to 3 weeks for seamstress to make and then ship. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556229697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1448</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548995905</id>
+    <published>2015-07-16T13:47:00-05:00</published>
+    <updated>2015-07-16T13:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-teapot-and-teacup-embroidered-tea-towels"/>
+    <title>Lavender Teapot and Teacup Embroidered Tea Towels</title>
+    <s:type>Embroidered Tea Towels</s:type>
+    <s:vendor>Laurie S</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-teapot-and-teacup-embroidered-tea-towels.jpg?v=1601090838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laurie S<br>
+        <strong>Type: </strong>Embroidered Tea Towels<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High Quality ~ 100% Cotton ~ Lint Free ~ 18x18</span><br><span>Adorable Shower or Housewarming Gift!!</span></p>
+<p><span>Fabrics may vary according to availability.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548995905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1674</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

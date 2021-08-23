@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/home-collections.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-06T13:27:07-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556313485401</id>
+    <published>2021-04-06T13:27:07-05:00</published>
+    <updated>2021-04-06T13:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-teapot-in-gift-box"/>
+    <title>Elegance Purple Roses and Poppies Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegance-purple-roses-and-poppies-porcelain-teapot-in-gift-box.jpg?v=1624752716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Purple Rose Elegance Porcelain Teapot in Gift Box has lavender and white roses along with few pretty poppies in a scrolling pattern on both sides. Pattern completely surrounding the teapot and matching gift box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34oz</span>  Also has matching gift boxed teacups,<a href="https://rosesandteacups.com/collections/tea-for-one" title="Lavender and Rose Porcelain Tea For One in Matching Gift Box" target="_blank"> tea for one</a> and mugs: <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556313485401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0406211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544322363481</id>
+    <published>2021-03-12T12:10:29-06:00</published>
+    <updated>2021-03-12T12:10:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-tea-for-one-gift-boxed"/>
+    <title>Porcelain Tea for One Gift Box - Purple Rose Elegance</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-gift-box-purple-rose-elegance.jpg?v=1618618312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Rose Elegance Porcelain Tea for One Gift Boxed adorable combination of lidded teapot and tea cup in matching gift box adorned with satin bow. <span>Perfect for Mother's Day, birthday gift, events, and don't forget to gift yourself! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544322363481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>032221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4657028169817</id>
+    <published>2020-06-12T10:08:38-05:00</published>
+    <updated>2020-06-12T10:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gilded-cherub-opulence-lace-square-pillow"/>
+    <title>Gilded Cherub Opulence Lace Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gilded-cherub-opulence-lace-square-pillow-one-of-a-kind.jpg?v=1601095184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our 17 x 17 Square Gilded Cherub Opulence Lace Pillow are lined with an elegant jacquard in antique gold and soft ivory. They are trimmed to perfection with embroidered and hand beaded lace, custom dyed florals and a sweet gilded cherub.  USA MADE</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4657028169817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.99</s:price>
+      <s:sku>061220-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1530417665</id>
+    <published>2015-07-14T22:23:00-05:00</published>
+    <updated>2015-07-14T22:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewels-marcasite-elegance-bracelet"/>
+    <title>Snap Jewels Marcasite Elegance Bracelet</title>
+    <s:type>Snap Jewelry</s:type>
+    <s:vendor>Snap Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewels-marcasite-elegance-bracelet.jpg?v=1601090576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snap Jewelry<br>
+        <strong>Type: </strong>Snap Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The elegant look of marcasite in a classic style.  Use with any of our snap jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1530417665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9320</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/girls-tea-party-favors.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-19T11:43:45-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4479651184729</id>
+    <published>2020-02-19T11:43:45-06:00</published>
+    <updated>2020-02-19T11:43:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hangin-dunkin-monkey-tea-infuser"/>
+    <title>Hangin&apos; Dunkin Monkey Tea Infuser</title>
+    <s:type>Infuser</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hangin-dunkin-monkey-tea-infuser.jpg?v=1582203709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Infuser<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">This guy makes me smile!  Hangin' Dunkin Monkey Tea Infuser hangs onto the cup rim to steep a more distinct and flavorful cup of loose leaf tea with a touch of fun.</span></p>
+<p><span style="font-size: 1.4em;">Made from stainless steel; includes infuser and drip tray; compact for easy storage; measures 3-inches x 2.25-inches</span></p>
+<p><span style="font-size: 1.4em;">Easy to open, fill and empty; use spring tabs to open, fill halfway with loose tea, hang onto the cup rim, and pour in hot water</span></p>
+<p><span style="font-size: 1.4em;">Steep 3-minutes to release the tea's essential oils for maximum aroma and flavor, or until desired strength is achieved; great for mulling spices, too</span></p>
+<p><span style="font-size: 1.4em;">Fun for kids of all ages; reusable and more economical than using store-bought or disposable tea bags; rinse or hand wash in warm, soapy water</span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4479651184729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>0219201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504774465</id>
+    <published>2015-07-11T16:13:00-05:00</published>
+    <updated>2015-07-11T16:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-favor-strawberry"/>
+    <title>Porcelain Teapot Favor - Strawberry</title>
+    <s:type>Mini Teapot Favors</s:type>
+    <s:vendor>Art Gifts, Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-favor-strawberry.jpg?v=1601089552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Art Gifts, Inc<br>
+        <strong>Type: </strong>Mini Teapot Favors<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porcelain Teapot Favor Miniature Porcelain Teapot Favor with Hinged Lid and Tiny Treasure Inside</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504774465</id>
+      <title>Default</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>9364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504772993</id>
+    <published>2015-07-11T16:12:00-05:00</published>
+    <updated>2015-07-11T16:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-favor-bumblebee"/>
+    <title>Porcelain Teapot Favor - Bumblebee</title>
+    <s:type>Mini Teapot Favors</s:type>
+    <s:vendor>Art Gifts, Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-favor-bumblebee.jpg?v=1601089551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Art Gifts, Inc<br>
+        <strong>Type: </strong>Mini Teapot Favors<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porcelain Teapot Favor Miniature Porcelain Teapot Favor with Hinged Lid and Tiny Treasure Inside</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504772993</id>
+      <title>Default</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>9363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504762049</id>
+    <published>2015-07-11T16:07:00-05:00</published>
+    <updated>2015-07-11T16:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-favor-grapes"/>
+    <title>Porcelain Teapot Favor - Grapes</title>
+    <s:type>Mini Teapot Favors</s:type>
+    <s:vendor>Art Gifts, Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-favor-grapes.jpg?v=1601089548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Art Gifts, Inc<br>
+        <strong>Type: </strong>Mini Teapot Favors<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porcelain Teapot Favor Miniature Porcelain Teapot Favor with Hinged Lid and Tiny Treasure Inside</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504762049</id>
+      <title>Default</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>9362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504493057</id>
+    <published>2015-07-11T14:58:00-05:00</published>
+    <updated>2015-07-11T14:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-bisque-boxes"/>
+    <title>12 Bisque Porcelain Floral Party Favor Boxes - $2 Per Favor!!</title>
+    <s:type>Wedding &amp; Personalized Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-Bisque-Porcelain-Floral-Party-Favor-Boxes-2-Per-Favor_33c76b14-518b-4370-9db1-8eddc11b619f.jpg?v=1629504736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Wedding &amp; Personalized Favors<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These darling 2 inch favor boxes will charm your guests and transform your tabletop into a sweet garden!</p>
+<p>Note: Bisque porcelain is a type of unglazed, white porcelain with a matte appearance and texture to the touch.</p>
+<ul>
+<li>2".</li>
+<li>Individually gift-boxed.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504493057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>2677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

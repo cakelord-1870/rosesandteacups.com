@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/blank-greeting-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-08-25T11:59:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/7596828481</id>
+    <published>2016-08-25T11:59:00-05:00</published>
+    <updated>2016-08-25T11:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-teapot-dimensional-gift-card"/>
+    <title>Yellow Teapot Dimensional Gift Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-teapot-dimensional-gift-card.jpg?v=1601092556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EMBELLISHED DIMENSIONAL GIFT CARD <br><em>Layered card with gems and iridescent glitter details<br>Blank interior <br><br></em><em>Card size: 3-1⁄2" x 5"</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7596828481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>082516J10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7596403969</id>
+    <published>2016-08-25T11:29:00-05:00</published>
+    <updated>2016-08-25T11:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teacup-rose-dimensional-greeting-card"/>
+    <title>Teacup Rose Dimensional Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teacup-rose-dimensional-greeting-card.jpg?v=1601092554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EMBELLISHED DIMENSIONAL GIFT CARD<span> </span><br><em>Layered card with gem, gold foil details and iridescent glitter details<br>Blank interior</em><span> </span><br><br><em>Card size: 3-1⁄2" x 5"</em></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7596403969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>082516J6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6731891393</id>
+    <published>2016-06-25T18:23:00-05:00</published>
+    <updated>2016-06-25T18:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-tea-cup-blank-greeting-card"/>
+    <title>Purple Tea Cup Blank Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-tea-cup-blank-greeting-card.jpg?v=1601092434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This high quality, glossy greeting card with coordinating envelope is perfect for so many occasions!  There is plenty of room to personalize your card with Happy Birthday, Thank You, or other special greetings.  These can also be used for Tea Party Invitations!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6731891393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>062616N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6724558209</id>
+    <published>2016-06-25T18:23:00-05:00</published>
+    <updated>2016-06-25T18:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-cup-blank-greeting-card"/>
+    <title>Pink Tea Cup Blank Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-cup-blank-greeting-card.jpg?v=1601092429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This high quality, glossy greeting card with coordinating envelope is perfect for so many occasions!  There is plenty of room to personalize your card with Happy Birthday, Thank You, or other special greetings.  These can also be used for Tea Party Invitations!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6724558209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>062516-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1537479809</id>
+    <published>2015-07-15T12:46:00-05:00</published>
+    <updated>2015-07-15T12:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-shoe-die-cut-note-card-set-of-6"/>
+    <title>Victorian Red Shoe Die Cut Note Card Set of 6</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Dayspring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-shoe-die-cut-note-card-set-of-6.jpg?v=1601090679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dayspring<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Includes Envelopes ~ 3 1/2 x 4 1/2 </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1537479809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>3650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1537431681</id>
+    <published>2015-07-15T12:46:00-05:00</published>
+    <updated>2015-07-15T12:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-and-teacup-die-cut-note-card-set-of-6-includes-envelopes-3-1-2-x-4-1-2-we-must-have-hope-faith-and-lunch-together-sometime-soon"/>
+    <title>Teapot and Teacup Die Cut Note Card Set of 6 /</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Dayspring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-and-teacup-die-cut-note-card-set-of-6.jpg?v=1601090675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dayspring<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Includes Envelopes 3 1/2 x 4 1/2 "We must have Hope, Faith, and Lunch together sometime soon!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1537431681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/746583162981</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-mothers-day-tea-card"/>
+    <title>Kimberly Shaw Mother&apos;s Day Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-mothers-day-tea-card.jpg?v=1601093975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>A teacup card for your mother with a delicious tea bag tucked in.</span></p>
+<p><span>Outside text: "Happy Mother's Day"</span></p>
+<p><span>Inside reads: "<strong>For all the caring and thoughtful things, you have done for me, I'm wishing you a wonderful day, with a relaxing cup of tea. Happy Mother's Day</strong>."</span></p>
+<p><span>Tea inside: <strong>Japanese Sencha</strong>, a nourishing green tea hand-picked in spring from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2 " and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/746583162981</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>338KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673847297</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-bird-of-paradise-tea-card"/>
+    <title>Kimberly Shaw Bird of Paradise Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-bird-of-paradise-tea-card.jpg?v=1601092600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>Meant to impress, this teacup greeting card comes with its own delicious tea bag.<br></span></p>
+<p><span><strong>Blank inside</strong> for a personal note or greeting.<br></span></p>
+<p><span>Tea inside: <strong>Hot</strong> <span><strong>Cinnamon Spice</strong>, a spicy black tea with cinnamon, orange peal, and cloves from Harney &amp; Sons Fine Teas.</span></span></p>
+<p><span>Card size is 4 1/4" x 5 1/2 " and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673847297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>347KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1354414593</id>
+    <published>2015-06-25T16:37:00-05:00</published>
+    <updated>2015-06-25T16:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-camellia-tea-card"/>
+    <title>Kimberly Shaw Camellia Tea Card - Blank Inside</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-camellia-tea-card-blank-inside.jpg?v=1626394328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flowering Camellias shrubs are a relative of the tea plant, and a classic winter garden favorite. Blank inside for a personal note or greeting. Tea inside: Japanese Sencha, a classic Assam tea laced with Ceylon from Harney &amp; Sons Fine Tea. Card size is 4 1/4" x 5 1/2 " and includes a white envelope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1354414593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>394KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

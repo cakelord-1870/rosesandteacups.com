@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-party-cookies.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-11-28T12:40:51-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/300796444712</id>
+    <published>2017-11-28T12:40:51-06:00</published>
+    <updated>2017-11-28T12:40:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-ladybug-hand-painted-raised-ceramic-cookie-jar"/>
+    <title>Sweet Ladybug Hand Painted Raised Ceramic Cookie Jar</title>
+    <s:type>Custom Ceramic Teaware</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-ladybug-hand-painted-raised-ceramic-cookie-jar.jpg?v=1601093804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Custom Ceramic Teaware<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lovely Ladybug hand painted raised ceramic cookie jar.</span><br><span>10"H. Opening is 5 1/2"H X 4"W X 3 1/4"D.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/300796444712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>112817-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1469422785</id>
+    <published>2015-07-08T18:18:00-05:00</published>
+    <updated>2015-07-08T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-silicone-tea-cups-cupcake-molds"/>
+    <title>Set of 4 Silicone Tea Cups Cupcake Molds</title>
+    <s:type>Cupcake Molds</s:type>
+    <s:vendor>Shindigz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-silicone-tea-cups-cupcake-molds.jpg?v=1601089042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shindigz<br>
+        <strong>Type: </strong>Cupcake Molds<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bake and serve your cupcakes right in these tea cup-shaped silicone molds and add a new level of elegance to your tea table!</p>
+<p>Each pack contains 4 reusable, food-safe silicone baking cups, complete with saucers.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1469422785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7696</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1468958401</id>
+    <published>2015-07-08T17:36:00-05:00</published>
+    <updated>2015-07-08T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wedding-cake-and-dove-cookie-cutters"/>
+    <title>Wedding Cake and Dove Cookie Cutters</title>
+    <s:type>Cookie Cutters</s:type>
+    <s:vendor>Ann Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wedding-cake-and-dove-cookie-cutters.jpg?v=1601089030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Clark<br>
+        <strong>Type: </strong>Cookie Cutters<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This charming duo includes a wedding cake cookie cutter and a dove.</span><br><span>Each cookie cutter comes with a recipe for cookies and frosting. Have fun!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1468958401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1468936129</id>
+    <published>2015-07-08T17:36:00-05:00</published>
+    <updated>2015-07-08T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-cookie-cutters"/>
+    <title>Christmas Cookie Cutters</title>
+    <s:type>Cookie Cutters</s:type>
+    <s:vendor>Ann Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-cookie-cutters.jpg?v=1601089029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Clark<br>
+        <strong>Type: </strong>Cookie Cutters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cookies for Christmas!</span><br><span>6 Holiday Cookie Cutters in a sweet Christmas Gift Set</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1468936129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1468934209</id>
+    <published>2015-07-08T17:36:00-05:00</published>
+    <updated>2015-07-08T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-and-teapot-cookie-cutters"/>
+    <title>Tea Cup and Teapot Cookie Cutters</title>
+    <s:type>Cookie Cutters</s:type>
+    <s:vendor>Ann Clark</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-and-teapot-cookie-cutters.jpg?v=1601089025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Clark<br>
+        <strong>Type: </strong>Cookie Cutters<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set of teapot and tea cup cookie cutters is perfect for tea party fun!</span><br><span>Each cookie cutter comes with a recipe for cookies and frosting. Have fun!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1468934209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

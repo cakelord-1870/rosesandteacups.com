@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/lilacs-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-02-15T13:31:00-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344487358565</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-round-compact-mirror"/>
+    <title>Sweet Violets Compact Mirror</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirror-sv-2.gif?v=1561401095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Violets Compact Mirror Size:  2 5/8 x 2 5/8 x 3/8</p>
+<p>Metal case compact mirror with epoxy cover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344487358565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>09112018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859534145</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-square-compact-mirror"/>
+    <title>Lilacs Square Compact Mirror</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-square-compact-mirror.jpg?v=1601092934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lilacs Compact Mirror Size:  2 5/8 x 2 5/8 x 3/8</p>
+<p>Metal case compact mirror with epoxy cover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859534145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>02152017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859426625</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-gift-bag"/>
+    <title>Lilacs Gift Bag</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-gift-bag.jpg?v=1601092933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8.25"h x 9.25"w x 4" </span><br><span>Comes with Gift Tag</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859426625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>02152017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859389057</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-compact-mirror"/>
+    <title>Lilacs Round Compact Mirror</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-round-compact-mirror.jpg?v=1601092931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lilacs Compact Mirror Size:  2 5/8 x 2 5/8 x 3/8</p>
+<p>Metal case compact mirror with epoxy cover.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859389057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>02152017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859368833</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-note-block"/>
+    <title>Lilacs Note Block</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-note-block.jpg?v=1582071343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lilacs Sticky Notes Pad size: 3.5" x 4". 75 printed self adhesive sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859368833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>03022017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

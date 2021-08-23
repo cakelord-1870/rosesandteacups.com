@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-accessories.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-11T17:39:07-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1188893761</id>
+    <published>2021-06-11T17:39:07-05:00</published>
+    <updated>2021-06-11T17:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sandwich-tong"/>
+    <title>Sandwich Tong - Only 1 Left!</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sandwich-tong-only-1-left.jpg?v=1623456751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nickel-plated zinc alloy sandwich tong, rectangular style with elaborate etching - about 8 3/4" long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1188893761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4479651184729</id>
+    <published>2020-02-19T11:43:45-06:00</published>
+    <updated>2020-02-19T11:43:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hangin-dunkin-monkey-tea-infuser"/>
+    <title>Hangin&apos; Dunkin Monkey Tea Infuser</title>
+    <s:type>Infuser</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hangin-dunkin-monkey-tea-infuser.jpg?v=1582203709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Infuser<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">This guy makes me smile!  Hangin' Dunkin Monkey Tea Infuser hangs onto the cup rim to steep a more distinct and flavorful cup of loose leaf tea with a touch of fun.</span></p>
+<p><span style="font-size: 1.4em;">Made from stainless steel; includes infuser and drip tray; compact for easy storage; measures 3-inches x 2.25-inches</span></p>
+<p><span style="font-size: 1.4em;">Easy to open, fill and empty; use spring tabs to open, fill halfway with loose tea, hang onto the cup rim, and pour in hot water</span></p>
+<p><span style="font-size: 1.4em;">Steep 3-minutes to release the tea's essential oils for maximum aroma and flavor, or until desired strength is achieved; great for mulling spices, too</span></p>
+<p><span style="font-size: 1.4em;">Fun for kids of all ages; reusable and more economical than using store-bought or disposable tea bags; rinse or hand wash in warm, soapy water</span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4479651184729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>0219201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120528101465</id>
+    <published>2019-06-25T16:52:48-05:00</published>
+    <updated>2019-06-25T16:52:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jam-and-condiment-server-1"/>
+    <title>Jam and Condiment Server - Limited Stock!</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jam-and-condiment-server-limited-stock.jpg?v=1601094838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 Bowl Jam and Condiment Server set complete with spoons - made of nickel-plated zinc . The tempered glass ramekin bowls are 4" in diameter at the top, 1 3/4" diameter on their bottom and are about 1 3/4" deep. The spoons are 4 3/4" long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120528101465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>4384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111051694169</id>
+    <published>2019-06-11T14:17:12-05:00</published>
+    <updated>2019-06-11T14:17:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-sandy-clough-set-of-2-porcelain-caddies-only-3-sets-available"/>
+    <title>Rare Sandy Clough Set of 2 Porcelain Caddies - Only 3 Sets Available!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-sandy-clough-set-of-2-porcelain-caddies-only-3-sets-available.jpg?v=1601094807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sandy Clough Set of 2 Porcelain Caddies</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111051694169</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/12199460865</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-summer-rose"/>
+    <title>2 Porcelain Tea Bag Caddies - Summer Rose - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-summer-rose-hand-decorated-in-usa.jpg?v=1601093598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/12199460865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10262017N-832-185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349479681</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-bouquet-of-flowers"/>
+    <title>2 Porcelain Tea Bag Caddies - Lilac Bouquet - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-lilac-bouquet-hand-decorated-in-usa.jpg?v=1601093590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349479681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-20N-832-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349474369</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-victorian-bouquet"/>
+    <title>2 Porcelain Tea Bag Caddies - Victorian Bouquet - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-victorian-bouquet-hand-decorated-in-usa.jpg?v=1601093588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349474369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-19N-832-102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349438337</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-pansy-1"/>
+    <title>2 Porcelain Tea Bag Caddies - Pansy - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-pansy-hand-decorated-in-usa_59b3782d-6e0e-4088-a3dd-41aed348b69a.jpg?v=1601093586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349438337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-18N-832-166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349427841</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-pansy"/>
+    <title>2 Porcelain Tea Bag Caddies - Pansy - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-pansy-hand-decorated-in-usa.jpg?v=1601093585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349427841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-17N-832-166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349412225</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-wisteria-and-roses"/>
+    <title>2 Porcelain Tea Bag Caddies - Wisteria and Roses -Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-wisteria-and-roses-hand-decorated-in-usa.jpg?v=1601093584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349412225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-16N-832-219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349400769</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-yellow-rose"/>
+    <title>2 Porcelain Tea Bag Caddies - Yellow Rose - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-yellow-rose-hand-decorated-in-usa.jpg?v=1601093583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349400769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-15N-832-193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349355969</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-claremont"/>
+    <title>2 Porcelain Tea Bag Caddies - Claremont - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-claremont-hand-decorated-in-usa.jpg?v=1601093582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349355969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-14N-832-127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349342849</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-hydrangea"/>
+    <title>2 Porcelain Tea Bag Caddies - Hydrangea - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-hydrangea-hand-decorated-in-usa.jpg?v=1601093581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349342849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-13N-832-146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349334849</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-lilac-spray"/>
+    <title>2 Porcelain Tea Bag Caddies - Lilac Spray - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-lilac-spray-hand-decorated-in-usa.jpg?v=1601093580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349334849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-13N-832-158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349324161</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-lilac"/>
+    <title>2 Porcelain Tea Bag Caddies - Lilac - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-lilac-hand-decorated-in-usa.jpg?v=1601093579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349324161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-12N-832-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349313665</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-elizabeth-rose"/>
+    <title>2 Porcelain Tea Bag Caddies - Elizabeth Rose - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-elizabeth-rose-hand-decorated-in-usa.jpg?v=1601093578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349313665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-11N-832-138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349310465</id>
+    <published>2017-10-24T12:29:03-05:00</published>
+    <updated>2017-10-24T12:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies-1"/>
+    <title>2 Porcelain Tea Bag Caddies - Pansy Bouquet - Hand Decorated in USA</title>
+    <s:type>tea bag caddies</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-porcelain-tea-bag-caddies-pansy-bouquet-hand-decorated-in-usa.jpg?v=1601093577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea bag caddies<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 sweet porcelain tea bag caddies.  A pretty place to rest your tea bags and keep your saucer clean and dry!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349310465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10242017-10N-832-231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10302982849</id>
+    <published>2017-10-13T14:45:15-05:00</published>
+    <updated>2017-10-13T14:45:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jam-servers-stainless-steel-and-glass"/>
+    <title>Jam Servers Stainless Steel and Glass</title>
+    <s:type>Jam Server</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jam-servers-stainless-steel-and-glass.jpg?v=1601093347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Jam Server<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Large Jam Server with glass jars. Measurements: Tray - 11 1/2", Jars —3 1/2" diameter by 2 1/2”" tall and the Spoons are —5 1/4"” long. Stainless Steel/Glass</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10302982849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>10132017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4222138241</id>
+    <published>2015-09-30T14:26:00-05:00</published>
+    <updated>2015-09-30T14:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/grace-porcelain-handle-cake-server"/>
+    <title>Grace Porcelain Handle Cake Server</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grace-porcelain-handle-cake-server.jpg?v=1601091958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">11.2 inch Porcelain Handle Grace Cake Server in Gift Box</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4222138241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33805N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2147085633</id>
+    <published>2015-09-30T14:26:00-05:00</published>
+    <updated>2015-09-30T14:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-handle-blue-bird-cake-server"/>
+    <title>Porcelain Handle Blue Bird Cake Server</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-handle-blue-bird-cake-server.jpg?v=1601091365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">11.2 inch Porcelain Handle Blue Bird Cake Server in Gift Box</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2147085633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>2040J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1742527809</id>
+    <published>2015-08-04T15:05:00-05:00</published>
+    <updated>2015-08-04T15:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/precious-rose-cream-and-sugar"/>
+    <title>Precious Rose Cream and Sugar</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/precious-rose-cream-and-sugar.jpg?v=1601091104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Precious Rose Cream and Sugar</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Little Victorian Ladies</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1742527809</id>
+      <title>Default</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510962049</id>
+    <published>2015-07-12T12:24:00-05:00</published>
+    <updated>2015-07-12T12:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-porcelain-tea-bag-caddies"/>
+    <title>2 Porcelain Tea Bag Caddies - Hand Decorated in USA</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-Porcelain-Tea-Bag-Caddies-Hand-Decorated-in-USA_b023d7e7-866d-4770-bbb8-289e227549d4.jpg?v=1628727354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Porcelain Tea Bag Caddies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Bouquet of Pansies</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Wisteria Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Hydrangea</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Sweet Pea</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Aurora</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Hummingbird</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Magnolia</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Rhapsody Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>378</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>White Rose Spray</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>381</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Grapes and Roses</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Elizabeth Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Yellow Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Doves and Roses</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Claremont</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Classic Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Ivy &amp; Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Bouquet of Flowers</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Musical Note</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Olympia Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Butterflies</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Blackberries</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Daisies And Violets</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Peach Blossom</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Pink Rose Spray</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Pink Toile</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Wisteria</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Lilac Boquet</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Pansy</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Forget Me Not</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510962049</id>
+      <title>Iris</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1189071809</id>
+    <published>2015-06-12T12:37:00-05:00</published>
+    <updated>2015-06-12T12:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/almightea-red-tea-bag"/>
+    <title>Almigh&apos;Tea Red Tea Bag</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Supreme Housewares</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/almightea-red-tea-bag.jpg?v=1601088222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme Housewares<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dimension: 7 1/5" L x 1 3/5" W x 3/5" H Material: Silicone Care and Clean: Hand Wash Only Includes: 1-pc Tea Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1189071809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1183006785</id>
+    <published>2015-06-11T22:16:00-05:00</published>
+    <updated>2015-06-11T22:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cake-tong"/>
+    <title>Cake Tong - 1 Left!</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cake-tong-1-left.jpg?v=1623456746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nickel-plated zinc alloy cake tong, rectangular style with elaborate etching - about 8 3/4" long.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1183006785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

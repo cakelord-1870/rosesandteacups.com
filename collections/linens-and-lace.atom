@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/linens-and-lace.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-28T17:00:30-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768736510041</id>
+    <published>2020-12-28T17:00:30-06:00</published>
+    <updated>2020-12-28T17:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack"/>
+    <title>Carol Wilson Fine Arts Tea Towel Tea Cup Stack</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack.jpg?v=1609247024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Tea Cup Stack 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768736510041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734576729</id>
+    <published>2020-12-28T16:56:53-06:00</published>
+    <updated>2020-12-28T16:56:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea"/>
+    <title>Carol Wilson Fine Arts Tea Towel Blue Hydrangea</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea.jpg?v=1609247022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Blue Hydrangea 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734576729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734478425</id>
+    <published>2020-12-28T16:55:55-06:00</published>
+    <updated>2020-12-28T16:55:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-pansy-teacup"/>
+    <title>Carol Wilson Fine Arts Tea Towel Pansy Teacup</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-pansy-teacup.jpg?v=1609247021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Pansy Teacup 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734478425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1491609729</id>
+    <published>2020-07-18T15:13:57-05:00</published>
+    <updated>2020-07-18T15:13:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heritage-lace-victorian-rose-13-x-54-lace-table-runner"/>
+    <title>Heritage Lace Victorian Rose 13 x 54 Lace Table Runner</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heritage-lace-victorian-rose-13-x-54-lace-table-runner.jpg?v=1601089221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delicate Victorian Rose 13 x 54 Lace Table Runner with rose pattern along edge and in center. Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491609729</id>
+      <title>Ecru</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1491609729</id>
+      <title>White</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8898521409</id>
+    <published>2020-01-17T12:59:36-06:00</published>
+    <updated>2020-01-17T12:59:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-lace-table-topper-sage"/>
+    <title>Beaded Lace Small Table Topper Sage - Only 1 Available</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-lace-small-table-topper-sage-only-1-available.jpg?v=1601092968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Gorgeous 18 inch table topper features embroidered fabric, beading and lace.  Sure to add elegance to any decor!</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2"></span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8898521409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>02222017-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388436148313</id>
+    <published>2019-12-14T19:24:19-06:00</published>
+    <updated>2019-12-14T19:24:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/redoute-rose-bone-china-napkin-rings-set-of-6"/>
+    <title>Redoute Rose Bone China Napkin Rings Made in England Set of 6</title>
+    <s:type>napkin rings</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/redoute-rose-bone-china-napkin-rings-made-in-england-set-of-6.png?v=1601095157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>napkin rings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Redoute Rose Bone China Napkin Rings Set of 6 are made in England by Roy Kirkham</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388436148313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1214191J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358401851481</id>
+    <published>2019-11-22T18:01:14-06:00</published>
+    <updated>2019-11-22T18:01:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lake-bike-14-x-22-linen-guest-towels"/>
+    <title>Lake Bike 14 x 22 Linen Guest Towels</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lake-bike-14-x-22-linen-guest-towels.jpg?v=1601095080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lake Bike Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358401851481</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358386516057</id>
+    <published>2019-11-22T17:39:59-06:00</published>
+    <updated>2019-11-22T17:39:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/14-x-22-linen-guest-towels"/>
+    <title>Set of 2 14 x 22 Linen Guest Towels Daffodils - Only 3 Set Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-14-x-22-linen-guest-towels-daffodils-only-3-set-available.jpg?v=1601095078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 14 x 22 Linen Guest Towels  Dafffodil</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358386516057</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358214418521</id>
+    <published>2019-11-22T15:39:41-06:00</published>
+    <updated>2019-11-22T15:39:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-bouquet-guest-towels-set-of-2"/>
+    <title>Rose Bouquet Guest Towels Set of 2</title>
+    <s:type>Linens and Lace</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-bouquet-guest-towels-set-of-2.jpg?v=1601095077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Linens and Lace<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose Bouquet Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens and Lace</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358214418521</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6937</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4356598956121</id>
+    <published>2019-11-21T11:35:24-06:00</published>
+    <updated>2019-11-21T11:35:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-bird-on-stacked-tea-cups-set-of-2-cotton-tea-towels"/>
+    <title>Hummingbirds and Tiffany Blue Teacup Tea Towels Set of 2</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbirds-and-tiffany-blue-teacup-tea-towels-set-of-2.jpg?v=1601095074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hummingbirds and Tiffany Blue Teacup Tea Towels has an adorable of nest of babies hummingbirds being cared for by their mother. This set contains two 24” x 36” cotton flour sack towels packaged in clear cellophane and tied with ribbon. They are soft, lint free, highly absorbent and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4356598956121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>08062018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169850921049</id>
+    <published>2019-09-02T11:09:02-05:00</published>
+    <updated>2019-09-02T11:09:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-beaded-gold-thread-lace-doily-1"/>
+    <title>Pink Beaded Gold Thread Lace Doily - 3 Available!</title>
+    <s:type>Lace Doilies &amp; Accents</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-beaded-gold-thread-lace-doily-3-available.png?v=1611015119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Lace Doilies &amp; Accents<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous pink beaded lace doily is 12.5 inches in diameter and USA MADE.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169850921049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>12112018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128436330585</id>
+    <published>2019-07-08T12:02:44-05:00</published>
+    <updated>2019-07-08T12:02:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-cardinal-in-a-winter-garden-potholder"/>
+    <title>Holiday Cardinal in a Winter Garden Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-cardinal-in-a-winter-garden-potholder_7208a27f-0d5f-465a-b832-601ce62ab34e.jpg?v=1601094865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Heat proof silver cloth backing. Machine washable. Size 8 1/2" x 8 1/2  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>designer potholder</s:tag>
+    <s:tag>tea potholder</s:tag>
+    <s:tag>tea themed potholder</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128436330585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34548N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111084888153</id>
+    <published>2019-06-11T15:16:39-05:00</published>
+    <updated>2019-06-11T15:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-ct-time-for-sweets-cocktail-napkins-limited-supply"/>
+    <title>20 Count Time For Sweets Cocktail Napkins - Only 1 Set Available!</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-count-time-for-sweets-cocktail-napkins-only-1-set-available.jpg?v=1609459927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top Quality 20 Count Time For Sweets Cocktail Napkins perfect for tea parties and showers!</p>
+<p>Folds out to 10x10</p>
+<p>3ply</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111084888153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101347516505</id>
+    <published>2019-05-29T12:22:41-05:00</published>
+    <updated>2019-05-29T12:22:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweetbriar-lace-table-runner-16x72"/>
+    <title>Sweetbriar Lace Table Runner 16X72</title>
+    <s:type>Lace Doilies &amp; Accents</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweetbriar-lace-table-runner-16x72.jpg?v=1601094773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Lace Doilies &amp; Accents<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A dainty linen becomes an heirloom as teas and luncheons and years of memories spent around the dressed table render it all the more precious. Be certain to admire the subtle rose blossoming amid the flourishing lace trim.</span><br><br><span>16 x 72". </span><br><span>Polyester. </span><br><span>Wash cold. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101347516505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0529197J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1991788429401</id>
+    <published>2019-02-13T09:02:41-06:00</published>
+    <updated>2019-02-13T09:02:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/darling-doilies-and-lace-handbag-only-one-available"/>
+    <title>Darling Doilies and Lace Handbag - Only One Available!</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/darling-doilies-and-lace-handbag-only-one-available.jpg?v=1601094687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Darling Doilies and Lace Hangbag is a perfect addition to your Spring wardrobe. Purse is lined and has pockets inside. Made just for you! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1991788429401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959361118297</id>
+    <published>2019-01-14T12:38:39-06:00</published>
+    <updated>2019-01-14T12:38:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/14x36-white-tea-rose-lacetable-runner"/>
+    <title>14X36 White Tea Rose Lace Table Runner</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/14x36-white-tea-rose-lace-table-runner.jpg?v=1601094622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heritage Lace Tea Rose 14 x 36 Table Runner White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959361118297</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5369</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959325794393</id>
+    <published>2019-01-14T12:15:52-06:00</published>
+    <updated>2019-01-14T12:15:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/19-lace-victorian-rose-doily-ecru"/>
+    <title>19&quot; Round Victorian Rose Lace Doily Ecru</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/19-round-victorian-rose-lace-doily-ecru.jpg?v=1601094621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heritage Lace Victorian Rose 19-inch Round Doily Ecru</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959325794393</id>
+      <title>Default</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5368</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959323238489</id>
+    <published>2019-01-14T12:14:07-06:00</published>
+    <updated>2019-01-14T12:14:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/19-lace-victorian-rose-doily-white"/>
+    <title>19&quot; Round Victorian Rose Lace Doily White</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/19-round-victorian-rose-lace-doily-white.jpg?v=1601094620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heritage Lace Victorian Rose 19-inch Round Doily White</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Décor</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959323238489</id>
+      <title>Default</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5367</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1945653051481</id>
+    <published>2019-01-04T09:36:06-06:00</published>
+    <updated>2019-01-04T09:36:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vase-of-peonies-with-butterfly-potholder"/>
+    <title>Vase of Peonies with Butterfly Potholder</title>
+    <s:type>Designer Potholders</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vase-of-peonies-with-butterfly-potholder.jpg?v=1601094595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Designer Potholders<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful soft pink peonies sitting in a water filled vase with a curious little butterfly decorate with well made thick potholder. Heat proof silver cloth backing. Machine washable. Size 7 1/2" x 7 1/2"  USA Made</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1945653051481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>010419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1785097060441</id>
+    <published>2018-11-03T17:07:11-05:00</published>
+    <updated>2018-11-03T17:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-blue-jays-coordinating-napkins-set-of-4-18x18"/>
+    <title>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-blue-jays-coordinating-christmas-tree-napkins-set-of-4-18x18.png?v=1601094431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</p>
+<p>Reversible.</p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1785097060441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11032018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1861911478361</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available"/>
+    <title>Happiness is Homemade Kitchen Oven Dress Towel - Only One Available!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available.jpg?v=1601094538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1861911478361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>112018-J6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363993886821</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spice-up-your-life-kitchen-oven-dress-towel"/>
+    <title>Spice Up Your Life Kitchen Oven Dress Towel</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spice-up-your-life-kitchen-oven-dress-towel.jpg?v=1601094391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable. Ribbon color can vary. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363993886821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>102618-TJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306799571045</id>
+    <published>2018-06-29T13:17:33-05:00</published>
+    <updated>2018-06-29T13:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-christmas-tea-cups-tea-towels"/>
+    <title>Stacked Christmas Tea Cups Tea Towels</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-christmas-tea-cups-tea-towels.jpg?v=1601094091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set contains two 24" x 36" 100% cotton flour sack towels. They are soft, lint free, highly absorbent, and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine Washable. Packaged and tied with ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306799571045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>06302018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/467615940648</id>
+    <published>2018-03-07T12:16:29-06:00</published>
+    <updated>2018-03-07T12:16:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-bird-nest-guest-towel-hostess-napkins"/>
+    <title>Spring Bird Nest Guest Towel Hostess Napkins</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-bird-nest-guest-towel-hostess-napkins.jpg?v=1601093909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Bird Nest Guest Towel Hostess Napkins feature lovely birds caring for their nest of blue eggs.  </p>
+<p><span>Folded size: 4.4 x 7.9" / 11 x 20 cm Triple ply paper. Contains 15</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467615940648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

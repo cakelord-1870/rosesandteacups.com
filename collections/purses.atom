@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/purses.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-19T13:20:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6563251322969</id>
+    <published>2021-04-19T13:20:35-05:00</published>
+    <updated>2021-04-19T13:20:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Hummingbird Embossed Mini Purse Notepad Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-hummingbird-embossed-mini-purse-notepad-note-pad.jpg?v=1621901513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepad with lovely hummingbirds afloat among bleeding heart flowers with embossment and beautiful foil trimming. Perfect for your purse or tea party favors and gifts! These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6563251322969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>041921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4772895162457</id>
+    <published>2021-01-08T13:40:28-06:00</published>
+    <updated>2021-01-08T13:40:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue and Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1610197443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4772895162457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726503637081</id>
+    <published>2020-09-25T18:05:47-05:00</published>
+    <updated>2020-09-25T18:05:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Burgundy Lace Tassel Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available.jpg?v=1601095206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet! Pink lace, lovely soft tassels, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726503637081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726502195289</id>
+    <published>2020-09-25T18:02:14-05:00</published>
+    <updated>2020-09-25T18:02:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726502195289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726500753497</id>
+    <published>2020-09-25T17:56:00-05:00</published>
+    <updated>2020-09-25T17:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-pink-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Pink lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726500753497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4672166920281</id>
+    <published>2020-07-02T14:33:20-05:00</published>
+    <updated>2020-07-02T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets"/>
+    <title>Victorian Hat Purse Rose Shoe Umbrella Party Favor Magnets</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets.jpg?v=1593781543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful gifts or perfect party favors. Fine strokes of gold embellish prominent pieces of a Victorian lady's life. As English roses accentuate, so will these magnets upon you refrigerator or magnetic board.</span><br><br><span>These small decorations charmingly secure pictures of loved ones and notes.</span><br><br><span>A charming gift for friends.</span><br><br>
+<ul class="bullet_list">
+<li>Hat, 3". Rose, 2 1/4". Purse, 2". Shoe, 2 3/8". Umbrella, 3 1/4". Teapot, 2 1/2".</li>
+<li>Polyresin and resin.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4672166920281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>5030857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477365190745</id>
+    <published>2020-02-17T12:16:25-06:00</published>
+    <updated>2020-02-17T12:16:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-stem-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Long Stem Rose Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-long-stem-rose-mini-embossed-purse-notepad.png?v=1582071482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477365190745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477363421273</id>
+    <published>2020-02-17T12:13:40-06:00</published>
+    <updated>2020-02-17T12:13:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad"/>
+    <title>Carol Wilson Teacups (Tea Cups) Mini Embossed Purse Pad Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad.jpg?v=1582071481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477363421273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477359358041</id>
+    <published>2020-02-17T12:09:10-06:00</published>
+    <updated>2020-02-17T12:09:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Rose Picket Fence Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad.png?v=1582071480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477359358041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477354672217</id>
+    <published>2020-02-17T12:04:17-06:00</published>
+    <updated>2020-02-17T12:04:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-pretty-pink-roses-mini-purse-notepad"/>
+    <title>Carol Wilson Pretty Pink Roses Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pretty-pink-roses-mini-embossed-purse-notepad.jpg?v=1582071479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477354672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477347299417</id>
+    <published>2020-02-17T11:57:40-06:00</published>
+    <updated>2020-02-17T11:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Soft Hydrangeas Embossed Mini Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad.png?v=1582071478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477347299417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477327671385</id>
+    <published>2020-02-17T11:36:39-06:00</published>
+    <updated>2020-02-17T11:36:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-set-purse-note-pad-stationery"/>
+    <title>Embossed Tea Set Purse Note Pad Stationery by Carol Wilson</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embossed-tea-set-purse-note-pad-stationery-by-carol-wilson.jpg?v=1582071477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477327671385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22475N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054707675225</id>
+    <published>2019-04-04T12:59:36-05:00</published>
+    <updated>2019-04-04T12:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy"/>
+    <title>Hydrangea and Butterflies Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy.jpg?v=1601094730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea and Butterfles Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054707675225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054704037977</id>
+    <published>2019-04-04T12:33:20-05:00</published>
+    <updated>2019-04-04T12:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy"/>
+    <title>Pretty Pink Roses and Floral Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy.jpg?v=1601094728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty in Pink Floral Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054704037977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2012965011545</id>
+    <published>2019-03-01T10:25:01-06:00</published>
+    <updated>2019-03-01T10:25:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lace-teacups-and-teapots-on-yellow-handbag"/>
+    <title>Lace Teacups and Teapots on Yellow Handbag</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lace-teacups-and-teapots-on-yellow-handbag.jpg?v=1601094721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace Doily Purse Handmade in the USA. Tote Bag with lace. This cute tote has 6 pockets inside and 2 small pockets . 12" x 9" x 5" Lined with a coordinating fabric as show. . Magnetic Catch Closure. 100% Cotton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2012965011545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1999710912601</id>
+    <published>2019-02-19T19:57:47-06:00</published>
+    <updated>2019-02-19T19:57:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-lace-purse-sachet-lavender-limited-supply"/>
+    <title>Victorian Lace Purse Sachet Lavender - Limited Supply!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-lace-purse-sachet-lavender-limited-supply.jpeg?v=1601094706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant purse sachet! Lovely lace, florals, beading and sparkles add that special touch of romantic beauty to your home! USA MADE. Colors limited!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1999710912601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>921919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1999682633817</id>
+    <published>2019-02-19T19:57:47-06:00</published>
+    <updated>2019-02-19T19:57:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-lace-purse-sachet-limited-supply"/>
+    <title>Victorian Lace Purse Sachet Peach - Limited Supply!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-lace-purse-sachet-peach-limited-supply.jpeg?v=1601094704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant purse sachet! Lovely lace, florals, beading and sparkles add that special touch of romantic beauty to your home! USA MADE. Colors limited!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1999682633817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>921919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1991788429401</id>
+    <published>2019-02-13T09:02:41-06:00</published>
+    <updated>2019-02-13T09:02:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/darling-doilies-and-lace-handbag-only-one-available"/>
+    <title>Darling Doilies and Lace Handbag - Only One Available!</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/darling-doilies-and-lace-handbag-only-one-available.jpg?v=1601094687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Darling Doilies and Lace Hangbag is a perfect addition to your Spring wardrobe. Purse is lined and has pockets inside. Made just for you! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1991788429401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1991740883033</id>
+    <published>2019-02-13T08:34:44-06:00</published>
+    <updated>2019-02-13T08:34:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-delft-teacups-handbag-only-one-available"/>
+    <title>Blue Delft Teacups Handbag - Only One Available!</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-delft-teacups-handbag-only-one-available.jpg?v=1601094686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Delft Teacups Handbag is an amazing handbag with a pattern displaying an array of lovely teacups in blue and white. </p>
+<p>Strap 12”</p>
+<p>2 Pockets Inside</p>
+<p>Velcro Closure on Flap</p>
+<p>9” Wide x 7” Tall x 4” Depth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1991740883033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012319-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973936619609</id>
+    <published>2019-01-28T18:31:02-06:00</published>
+    <updated>2019-01-28T18:31:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-pattern-teapot-shaped-purse"/>
+    <title>Peacock Pattern Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-pattern-teapot-shaped-purse.jpg?v=1601094657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot Shaped Purse Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the pink teapot purse there is a removable hard fabric covered insert  that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973936619609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973931212889</id>
+    <published>2019-01-28T18:26:39-06:00</published>
+    <updated>2019-01-28T18:26:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-teapot-shaped-purse"/>
+    <title>Vintage Rose Tea Party Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-tea-party-teapot-shaped-purse.jpg?v=1601094656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vintage Rose Tea Party Teapot Shaped Purse has beautiful roses and a lovely tea theme pattern. Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the teapot purse there is a removable hard fabric covered insert that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973931212889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969512808537</id>
+    <published>2019-01-24T12:44:07-06:00</published>
+    <updated>2019-01-24T12:44:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/solitary-ivory-rose-clutch-purse"/>
+    <title>Solitary Ivory Rose Clutch Purse</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/solitary-ivory-rose-clutch-purse.jpg?v=1601094642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleek and sophisticated, our 9 x 5 x 2 inch Solitary Rose Satin Clutch Purse is subtley feminine and obviously elegant.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pur</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969512808537</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969476501593</id>
+    <published>2019-01-24T12:07:11-06:00</published>
+    <updated>2019-01-24T12:07:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bed-of-roses-satin-clutch-purse"/>
+    <title>Bed of Roses Satin Clutch Purse</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bed-of-roses-satin-clutch-purse.jpg?v=1601094638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Life may not be a bed of roses, but there's no reason why your purse shouldn't be one, and satin roses, at that! Our Bed of Roses clutch purses measure 9x6x3</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Purses 2010</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969476501593</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1966846509145</id>
+    <published>2019-01-21T17:58:15-06:00</published>
+    <updated>2019-01-21T17:58:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/limited-print-pink-tea-set-teapot-shaped-purse-only-2-available"/>
+    <title>Pink Tea Time Teapot Shaped Purse - Only 2 Available!</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-time-teapot-shaped-purse-only-2-available.jpg?v=1601094630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teapot Shaped Purse Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the pink teapot purse there is a removable hard fabric covered insert  that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1966846509145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012119-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1860522672217</id>
+    <published>2018-11-19T20:48:34-06:00</published>
+    <updated>2018-11-19T20:48:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/friendly-teacups-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind"/>
+    <title>Friendly Teacups Tea Wallet Fabric Tea Bag and Sweetener Envelope for the Purse - One of a Kind!</title>
+    <s:type>Tea Wallets</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/friendly-teacups-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind.jpg?v=1582071399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Wallets<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our adorable tea wallets hold six t-sacs pre-filled with loose tea or six tea bags. </p>
+<ul>
+<li>High quality cotton fabric</li>
+<li>Made in New Hampshire</li>
+<li>Six slots for tea, plus four slots for sweeteners</li>
+<li>Your tea is held securely in the wallet with a strong snap</li>
+<li>Measures 3"x5" when folded closed</li>
+<li>The attractive and tidy replacement for that plastic zip-lock baggie in the bottom of your bag!</li>
+<li>EVERY tea lover needs one, every tea lover wants one!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1860522672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>02012017-9N10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

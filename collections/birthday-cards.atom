@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/birthday-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-23T11:25:19-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4158575050841</id>
+    <published>2019-09-23T11:25:19-05:00</published>
+    <updated>2019-09-23T11:25:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/for-my-sister-kimberly-shaw-greeting-card-with-tea-included"/>
+    <title>For My Sister Kimberly Shaw Greeting Card with Tea Included</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/for-my-sister-kimberly-shaw-greeting-card-with-tea-included.jpg?v=1601095004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A greeting card with a gift of tea for your sister to enjoy.</span></p>
+<p><span>Outside text: "For My Sister"</span></p>
+<p><span>Inside reads: <strong>"I'm so lucky to have a wonderful sister who is also a terrific friend"</strong></span></p>
+<p><span>Tea inside: <strong>Jasmine</strong>, a fragrant green tea from Harney &amp; Sons</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4158575050841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>391KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2171760771161</id>
+    <published>2019-09-04T09:13:42-05:00</published>
+    <updated>2019-09-04T09:13:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card"/>
+    <title>Kimberly Shaw Poinsettia Teacup Christmas Music Sheet Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card.png?v=1601094969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A classic poinsettia teacup delivers a warm Holiday tea in a traditional Christmas musical setting. The front music sheet is a hand-drawn illustration of Handel's, "Messiah," duet chorus Part 1, No.12 - For unto us a child is born.<br></span></p>
+<p><span>The inside reads, <strong>"With Christmas carols ringing true, This gift of tea I send to you."<br></strong></span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong> a blend of Ceylon black tea, citrus, almond, clove, and cinnamon from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and comes with a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2171760771161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>343KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2167854202969</id>
+    <published>2019-08-30T14:38:30-05:00</published>
+    <updated>2019-08-30T14:38:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-yellow-rose-happy-birthday-gift-tea-card"/>
+    <title>Kimberly Shaw Yellow Rose Happy Birthday Gift Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-yellow-rose-happy-birthday-gift-tea-card.png?v=1601094957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Yellow roses are a symbol for friendship, making this birthday tea card a lovely choice when sending a birthday greeting, especially when it come with a gift of tea!<br></span></p>
+<p><span>The inside message reads, "<strong>A gift of tea to wish you a Happy Birthday.</strong>"<br></span></p>
+<p><span>Tucked in the rim of the teacup is a fruity <strong>Lemon Herbal</strong> tea from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size measures 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2167854202969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>380KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542297729</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-happy-birthday-yellow-roses-greeting-card"/>
+    <title>Embroidered Linen Happy Birthday Yellow Roses Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-happy-birthday-yellow-roses-greeting-card.jpg?v=1601091647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with yellow roses covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>May this day and</span><br><span>everyday be full of happiness.</span><br><br><span>Happy Birthday!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542297729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22498N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542271873</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-happy-birthday-rose-wreath-greeting-card"/>
+    <title>Embroidered Linen Happy Birthday Rose Wreath Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-happy-birthday-rose-wreath-greeting-card.jpg?v=1601091646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen edged in pink roses covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>May this year be your best ever!</span><br><br><span>Happy Birthday</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542271873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22497NJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542241921</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-happy-birthday-peach-roses-greeting-card"/>
+    <title>Embroidered Linen Valentines Day Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-valentines-day-greeting-card.jpg?v=1601091645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with bunnies and hearts covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>For My Valentine</span></p>
+<p>I Love You!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542241921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>011717-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542232705</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-happy-birthday-forget-me-nots-basket-greeting-card"/>
+    <title>Embroidered Linen Happy Birthday Forget Me Nots Basket Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-happy-birthday-forget-me-nots-basket-greeting-card.jpg?v=1601091644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Sending a birthday note</span><br><span>full of</span><br><span>best wishes for you.</span><br><br><span>Happy Birthday!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542232705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22496N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542217921</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-cardinals-embroidered-linen-christmas-greeting-card"/>
+    <title>Pretty Purple Pansies in Teacup Embroidered Birthday Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-purple-pansies-in-teacup-embroidered-birthday-card.jpg?v=1621987946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Purple Pansies in teacup embroidered birthday card. Perfect birthday greeting card that is also a gift worth keeping. Adorable for framing!  A panel of embroidered linen covers the front of the card.</p>
+<p>Inside:</p>
+<p><span mce-data-marked="1">Wishing you only the best on your special day!</span><br><br><span>Happy Birthday</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542217921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22495N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7674011009</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-special-birthday-tea-card"/>
+    <title>Kimberly Shaw Special Birthday Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-special-birthday-tea-card.jpg?v=1601092608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>Everyone's birthday is special, but what makes it perfect is a card from you acknowledging the event.</span></p>
+<p><span>A yellow ribbon decorated with flowers begins your greeting with "<strong>Happy Birthday</strong>"</span></p>
+<p><span>The inside reads, "<strong>For You on Your Special Day. Happy Birthday.</strong>"</span></p>
+<p><span>Tea inside is <span><span><strong>Orange Pekoe</strong>, a classic Assam and Ceylon blend from Harney &amp; Sons Fine Teas.</span></span></span></p>
+<p><span>Card size measures 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7674011009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>381KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673989249</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-happy-birthday-tea-card"/>
+    <title>Kimberly Shaw Happy Birthday Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-happy-birthday-tea-card.jpg?v=1601092607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>In all the festive birthday colors, "<strong>Happy Birthday</strong>" is inscribed on a pink scroll in front of a floral teacup. <br></span></p>
+<p><span>The inside message reads, "<strong>Wishing You a Very Happy Birthday.</strong>"<br></span></p>
+<p><span>Tucked in the rim of the teacup is<span> <strong>Paris Tea</strong>, a fruity black tea with bergamont, from Harney &amp; Sons Fine Tea. </span><br></span></p>
+<p><span>Card size measures 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673989249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>333KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673935041</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-cheery-birthday-tea-card"/>
+    <title>Kimberly Shaw Cheery Birthday Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-cheery-birthday-tea-card.jpg?v=1601092605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div>
+<div>
+<p><span>Pink Cherry blossoms cover this sweet teacup, with a cherry fruit tag that expresses your wishes for a "<strong>Happy Birthday</strong>."<br></span></p>
+<p><span>The inside greeting reads: "<strong>Wishing you a bright and cheery birthday."</strong></span></p>
+<p><span>Tea inside is a very fruity <strong>Raspberry Tea</strong>, which brews to a pink hue, from Harney &amp; Sons Fine Teas</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and comes with a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673935041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>328KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673913729</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-birthday-tea-tea-card"/>
+    <title>Kimberly Shaw Birthday Tea Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-birthday-tea-tea-card.jpg?v=1601092604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>A teal teacup with gold accents and a "<strong>Happy Birthday</strong>" greeting. Amatching plate with a pink center rose wraps around to the back of the card.<br></span></p>
+<p><span>Inside reads, "<strong>A Gift of Tea From Me. Happy Birthday</strong>".</span></p>
+<p><span>Tucked inside the rim of the teacup is a <strong>Refreshing Peppermint</strong> <strong>tea</strong>from Harney &amp; Sons Fine teas. <br></span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673913729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>348KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673894017</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-birthday-letter-tea-card"/>
+    <title>Kimberly Shaw Birthday Letter Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-birthday-letter-tea-card.jpg?v=1601092603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>A Swallow is sent to carry your Birthday greeting. The added bonus is a delicious tea for your recipient to enjoy.<br></span></p>
+<p><span>Inside reads, "<strong>Sending You Happy Birthday Wishes</strong>".</span></p>
+<p><span>Tucked inside the rim of the teacup is a fragrant <strong>Jasmine</strong> <strong>Green tea,</strong>from Harney &amp; Sons Fine teas. <br></span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673894017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>365KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673769089</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-best-birthday-wishes-tea-card"/>
+    <title>Kimberly Shaw Best Birthday Wishes Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-best-birthday-wishes-tea-card.jpg?v=1601092598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>An Aladdin style Tea Pot inscribed with "<strong>Birthday Wishes</strong>" begins the greeting. In front are three stacked teacups to represent three birthday wishes. <br></span></p>
+<p><span>The inside message reads, "<strong>May all your birthday wishes come true.</strong>"<br></span></p>
+<p><span>Tucked in the rim of the tea pot is a fruity <strong>Earl Grey</strong> tea from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size measures 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673769089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>311KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1354497921</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-blue-willow-birthday-tea-card"/>
+    <title>Kimberly Shaw Blue Willow Birthday Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-blue-willow-birthday-tea-card.jpg?v=1582071069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic Blue Willow teapot birthday card with a delicious teabag included for your friend to enjoy. Inside reads, "Happy Birthday to a True-Blue Friend". Tea Inside: Jasmine, a refreshing green tea with fragrant jasmine from Harney and Sons Fine Teas. Card size is 4 1/4"x5 1/2" and includes a white envelope.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1354497921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>396KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266747649</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-teapot-quilt-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Teapot Quilt Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-teapot-quilt-birthday-greeting-card.jpg?v=1601088450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Teapot Quilt Birthday Card with Envelope</span></p>
+<p>Inside Message: Warmest Wishes For The Best Birthday Ever! Happy Birthday.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266747649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>6958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266724801</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-flowers-in-teapot-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Flowers in Teapot Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Stationery-Flowers-in-Teapot-Birthday-Greeting-Card_3e55d4eb-2629-4601-8af7-5fc9fa8c9744.jpg?v=1629159099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Flowers in Teapot Birthday Card with Envelope</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Inside Message: Wishing Someone Very Special A Beautiful Day! Happy Birthday!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266724801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>7618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266704257</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-teacup-cake-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Teacup Cake Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-teacup-cake-birthday-greeting-card.jpg?v=1601088447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Teacup Cupcake Birthday Card with Envelope</span></p>
+<p><span>Inside Message: No One Can Hold A Candle To You! Have A Great Birthday!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266704257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>7620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266678657</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-stacked-tea-cups-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Stacked Tea Cups Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-stacked-tea-cups-birthday-greeting-card.jpg?v=1601088446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery Stacked Teacups Birthday Card with Envelope</span></p>
+<p><span>Inside of card reads:</span><br><span>"Wishing you a birthday filled with warmth, love and sunshine."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266678657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>6959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

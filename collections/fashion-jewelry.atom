@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/fashion-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-16T18:33:59-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764246573145</id>
+    <published>2020-12-16T18:33:59-06:00</published>
+    <updated>2020-12-16T18:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-keshi-freshwater-pearl-necklace-earring-set"/>
+    <title>Peacock Keshi Freshwater Pearl Necklace Earring Set</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-keshi-freshwater-pearl-necklace-earring-set.jpg?v=1608210220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This necklace and earring are made by peacock color keshi pearls, cultured freshwater white pearls and white crystals. The neckalce is in 17 inch with 2.5 inch extension. The matching earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764246573145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1216204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764243951705</id>
+    <published>2020-12-16T18:32:04-06:00</published>
+    <updated>2020-12-16T18:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/keshi-queen-freshwater-pearl-necklace"/>
+    <title>Keshi Queen Freshwater Pearl Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/keshi-queen-freshwater-pearl-necklace.jpg?v=1608210219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant looking necklace and earring are made by AAA+ quality white keshi pearls and red &amp;l ight blue crystals in 17 inch with 2.5 inch extension. All white keshi pearls are very good luster and flawless. Earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764243951705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1216203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763701968985</id>
+    <published>2020-12-15T12:42:09-06:00</published>
+    <updated>2020-12-15T12:42:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-pn112"/>
+    <title>White Freshwater Pearl Necklace PN112</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn112.jpg?v=1608123791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7mm 85 inch cultured freshwater white pearl necklace with very good luster and hand knotted.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763701968985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1215201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670678728793</id>
+    <published>2020-06-30T16:48:28-05:00</published>
+    <updated>2020-06-30T16:48:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-4-row-black-and-clear-crystal-with-silver-bead-stretch"/>
+    <title>Sparkling 4-Row Black and Clear Crystal with Silver Bead Stretch - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-4-row-black-and-clear-crystal-with-silver-bead-stretch-hurry-just-1-available.jpg?v=1601095199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A classic look of hematite and diamonds! This 4-row stretch bracelet can be worn with any ensemble from denim to dressy!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670678728793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670677418073</id>
+    <published>2020-06-30T16:43:22-05:00</published>
+    <updated>2020-06-30T16:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Hematite Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Ultra chic hematite adds a classic look to any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670677418073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670676729945</id>
+    <published>2020-06-30T16:40:21-05:00</published>
+    <updated>2020-06-30T16:40:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-topaz-crystal-and-bead-stretch-bracelet"/>
+    <title>Sparkling Topaz Crystal and Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-topaz-crystal-and-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Light and dark topaz coloring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670676729945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670675583065</id>
+    <published>2020-06-30T16:36:56-05:00</published>
+    <updated>2020-06-30T16:36:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available"/>
+    <title>Sparkling Purple Crystal and Silver Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Shades of Lavender and Violet for those who love purples!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670675583065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670674010201</id>
+    <published>2020-06-30T16:31:00-05:00</published>
+    <updated>2020-06-30T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-ruby-crystal-and-silver-bead-stretch-bracelet-just-1-available"/>
+    <title>Sparkling Ruby Red Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-ruby-red-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1601095192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670674010201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670673715289</id>
+    <published>2020-06-30T16:29:05-05:00</published>
+    <updated>2020-06-30T16:29:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Pink Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Go Pink!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670673715289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666489241689</id>
+    <published>2020-06-24T13:01:50-05:00</published>
+    <updated>2020-06-24T13:01:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Jewel Tones Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1593090135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The bold look of jewel tone crystals can be worn with any bright color! Stack with another jewel tone plus a single row clear crystal bracelet for added drama!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666489241689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666483212377</id>
+    <published>2020-06-24T12:51:18-05:00</published>
+    <updated>2020-06-24T12:51:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-clear-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Clear Crystal and Silver Bead Stretch Bracelet - Only 2 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-clear-crystal-and-silver-bead-stretch-bracelet-only-2-available.jpg?v=1601095187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Expensive feel and look at a lower price than you would expect for such a long lasting statement piece of quality jewelry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666483212377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0624202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325492064345</id>
+    <published>2019-11-01T17:29:37-05:00</published>
+    <updated>2019-11-01T17:29:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-emeralds-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available"/>
+    <title>Sparkling Emeralds Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-emeralds-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkling Emeralds Lotti Dottie Adjustable Interchangeable Magnetic Woven Braceletet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325492064345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325451300953</id>
+    <published>2019-11-01T16:39:07-05:00</published>
+    <updated>2019-11-01T16:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/completed-lotti-dottie-woven-br-1"/>
+    <title>Opal Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/opal-enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Opal Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325451300953</id>
+      <title>Default</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325442551897</id>
+    <published>2019-11-01T16:30:03-05:00</published>
+    <updated>2019-11-01T16:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/completed-lotti-dottie-woven-br"/>
+    <title>Completed Lotti Dottie Woven Br</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/completed-lotti-dottie-woven-br.jpg?v=1601095060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Completed Lotti Dottie Woven Br</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325442551897</id>
+      <title>Default</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>7337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325428101209</id>
+    <published>2019-11-01T16:12:31-05:00</published>
+    <updated>2019-11-01T16:12:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available"/>
+    <title>Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchantress-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1601095058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enchantress Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325428101209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325393924185</id>
+    <published>2019-11-01T15:32:58-05:00</published>
+    <updated>2019-11-01T15:32:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dotties-adjustable-woven-bracelet"/>
+    <title>Sparkling Pink Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet - Only 1 Available!</title>
+    <s:type>The Good Bead</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-lotti-dottie-adjustable-interchangeable-magnetic-woven-bracelet-only-1-available.jpg?v=1582071441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>The Good Bead<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sparkling Pink Lotti Dottie Adjustable Interchangeable Magnetic Woven Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325393924185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>7294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325378031705</id>
+    <published>2019-11-01T15:13:51-05:00</published>
+    <updated>2019-11-01T15:13:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-pink-lotti-dottie-interchangable-earrings"/>
+    <title>Sparkling Pink Lotti Dottie Interchangeable Earrings - Only 1 Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-lotti-dottie-interchangeable-earrings-only-1-available.jpg?v=1601095057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparkling Pink Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low low price by purchasing new lotti dotties one at a time! Lotti Dotties jewelry pieces make wonderful gifts!</p>
+<p>You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (sold separately)  and pop in new ones for a brand new look! Make your own jewelry in seconds!</p>
+<p>Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325378031705</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>7314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325370888281</id>
+    <published>2019-11-01T15:04:57-05:00</published>
+    <updated>2019-11-01T15:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchantress-lotti-dottie-interchangable-earrings-only-one-available"/>
+    <title>Enchantress Lotti Dottie Interchangable Earrings - Only One Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchantress-lotti-dottie-interchangable-earrings-only-one-available.jpg?v=1601095056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enchantress Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low price by purchasing new lotti dotties one at a time!</p>
+<p>Lotti Dotties jewelry pieces make wonderful gifts! You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (purchased separately) and pop in new ones for a brand new look! Make your own jewelry in seconds! Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lotti Dottie</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325370888281</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>7310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4325469257817</id>
+    <published>2019-11-01T12:04:58-05:00</published>
+    <updated>2019-11-01T12:04:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mystic-crystal-filigree-lotti-dotti-interchangeable-magnetic-earrings-only-1-available"/>
+    <title>Mystic Crystal Filigree Lotti Dotti Interchangeable Magnetic Earrings - Only 1 Available!</title>
+    <s:type>Lotti Dotties</s:type>
+    <s:vendor>Lotti Dottie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mystic-crystal-filigree-lotti-dotti-interchangeable-magnetic-earrings-only-1-available.jpg?v=1601095063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotti Dottie<br>
+        <strong>Type: </strong>Lotti Dotties<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mystic Crystal Lotti Dottie Interchangalbe Magnetic Earrings! Give a gift that can be added to over and over!</p>
+<p>Treat yourself to new jewelry again and again at a low price by purchasing new lotti dotties one at a time!</p>
+<p>Lotti Dotties jewelry pieces make wonderful gifts! You can add to your gift by adding more dotties on each gift-giving occasion! Great for teens, too! Pop out the interchangeable stones with your Lotti Dotties Tool (purchased separately) and pop in new ones for a brand new look! Make your own jewelry in seconds! Simply change the "Dotties": Round magnetic inserts inlaid with colorful glass, rhinestone crystals, decorative metal and other materials. Change your look as often as you like; the options are endless!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4325469257817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2104737398873</id>
+    <published>2019-06-03T14:19:51-05:00</published>
+    <updated>2019-06-03T14:19:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elizabeth-rose-chintz-porcelain-tea-for-one"/>
+    <title>Elizabeth Rose Chintz Porcelain Tea For One</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elizabeth-rose-chintz-porcelain-tea-for-one.jpg?v=1601094783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Just enough coffee or tea for you. This stack-able service will accompany a good read.</span><br><br><span>This rose-print tea set is named after Elizabeth Park, the first public rose garden in the United States. Located in Hartford, Connecticut, the Victorian-style garden opened in 1904.</span><br><br>
+<ul class="bullet_list">
+<li>7".</li>
+<li>Porcelain.</li>
+<li>Set includes teapot, teacup, and saucer.</li>
+<li>Books not included.</li>
+<li>Not microwave-safe.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2104737398873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>0603193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343289294949</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fan-snap-jewel-spoon-bracelet-with-6-jewels-1"/>
+    <title>Fan Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fan-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343289294949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07252018N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343277564005</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-fan-necklace-and-earring-set-with-3-sets-of-jewels"/>
+    <title>Snap Jewel Fan Necklace and Earring Set with 3 Sets of Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-fan-necklace-and-earring-set-with-3-sets-of-jewels.jpg?v=1601094319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace and earrings feature central snaps for your jewels.  Comes with your choice of Snap Jewels color plus 2 other sets of jewels to change your look as you wish!  Total of 9 Jewels.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Pink</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Lavender</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Blue Flower</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Clear AB</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Green</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343277564005</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-4N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343275728997</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-vintage-necklace-and-earring-set-with-jewels"/>
+    <title>Snap Jewel Vintage Necklace and Earring Set with 3 Sets of Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-vintage-necklace-and-earring-set-with-3-sets-of-jewels.jpg?v=1601094316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace and earrings feature central snaps for your jewels.  Comes with your choice of Snap Jewels color plus 2 other sets of jewels to change your look as you wish!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Pink</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Lavender</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Blue Flower</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Clear AB</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Green</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343275728997</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>09082018-3N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343274483813</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snap-jewel-tassel-necklace-with-6-jewels"/>
+    <title>Snap Jewel Tassel Necklace with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snap-jewel-tassel-necklace-with-6-jewels.jpg?v=1601094313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This 16 inch pendant necklace features a tassel and a central snap for your jewels.  Comes with the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343274483813</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09082018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343265865829</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>Small Flower Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343265865829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09082018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

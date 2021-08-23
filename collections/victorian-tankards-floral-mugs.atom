@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-tankards-floral-mugs.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-10-18T13:22:51-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287572672601</id>
+    <published>2019-10-18T13:22:51-05:00</published>
+    <updated>2019-10-18T13:22:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-mugs-set-of-4"/>
+    <title>Snowman Chintz Porcelain Mugs Set of 4</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-mugs-set-of-4.jpg?v=1601095028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>13 ounce Scallop Edge Tea Mug. Cream Porcelain. Metallic Decal with Gold Trim.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287572672601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>10302017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287501107289</id>
+    <published>2019-10-18T12:11:59-05:00</published>
+    <updated>2019-10-18T12:11:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-mugs-set-of-2"/>
+    <title>Snowman Chintz Porcelain Mugs Set of 2</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-mugs-set-of-2.jpg?v=1601095025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>13 ounce Scallop Edge Porcelain Mug perfect for hot chocolate, coffee or tea. Cream Porcelain. Trimmed 14K Gold. </span></p>
+<p><span>Due to metal not microwave safe.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287501107289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>11022017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510836545</id>
+    <published>2019-07-11T00:19:23-05:00</published>
+    <updated>2019-07-11T00:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-lilacs-victorian-tankards"/>
+    <title>Set of 4 Gracie&apos;s Rose Bone China Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-gracies-rose-bone-china-mugs.jpg?v=1601089774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gracie's Rose Trumpet Fine Bone China Mugs with Gold Trim hold 11 ounces.  This pattern has lovely roses, daises and pretty forget me nots. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510836545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054707675225</id>
+    <published>2019-04-04T12:59:36-05:00</published>
+    <updated>2019-04-04T12:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy"/>
+    <title>Hydrangea and Butterflies Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy.jpg?v=1601094730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea and Butterfles Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054707675225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054704037977</id>
+    <published>2019-04-04T12:33:20-05:00</published>
+    <updated>2019-04-04T12:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy"/>
+    <title>Pretty Pink Roses and Floral Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy.jpg?v=1601094728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty in Pink Floral Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054704037977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1955739107417</id>
+    <published>2019-01-11T18:13:47-06:00</published>
+    <updated>2019-01-11T18:13:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lusious-lavender-mug-gift-set"/>
+    <title>Lovely Lavender Mug Gift Set</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-mug-gift-set.jpg?v=1601094612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Lovely Lavender Mug Gift Set includes an 11 once mug and beautiful heart shaped box. Perfect for Valentine's Day, Mother's Day or just to put a smile on someone's face.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1955739107417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>011119-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1362100289637</id>
+    <published>2018-10-17T11:56:18-05:00</published>
+    <updated>2018-10-17T11:56:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-celtic-cross-tankard-mugs"/>
+    <title>Set of 2 Celtic Cross Tankard Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-celtic-cross-tankard-mugs.jpg?v=1601094358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>2 Gorgeous porcelain tankards hand decorated in the USA.  11 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1362100289637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>520-148CC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10348449665</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-blue-forget-me-not"/>
+    <title>Set of 2 Floral Latte Mugs - Blue Forget Me Not</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-blue-forget-me-not.jpg?v=1601093558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10348449665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-42N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346521473</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-blueberry"/>
+    <title>Set of 2 Floral Latte Mugs - Blueberry</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-blueberry.jpg?v=1601093557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346521473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-42N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346516737</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-eiffel-tower"/>
+    <title>Set of 2 Floral Latte Mugs - Eiffel Tower</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-eiffel-tower.jpg?v=1601093556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346516737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-41N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346515201</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-daisies-and-violets"/>
+    <title>Set of 2 Floral Latte Mugs - Daisies and Violets</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-daisies-and-violets.jpg?v=1601093555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346515201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-40N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346510785</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-ivy"/>
+    <title>Set of 2 Floral Latte Mugs - Ivy</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-ivy.jpg?v=1601093554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346510785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-39N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346504129</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-heirloom-magnolia"/>
+    <title>Set of 2 Floral Latte Mugs - Heirloom Magnolia</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-heirloom-magnolia.jpg?v=1601093553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346504129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-38N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346498049</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-iris-spray"/>
+    <title>Set of 2 Floral Latte Mugs - Iris Spray</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-iris-spray.jpg?v=1601093552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346498049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-37N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346487809</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-sunflower-burst"/>
+    <title>Set of 2 Floral Latte Mugs - Sunflower Burst</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-sunflower-burst.jpg?v=1601093551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346487809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-36N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346477825</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-lily-of-the-valley"/>
+    <title>Set of 2 Floral Latte Mugs - Lily of the Valley</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-lily-of-the-valley.jpg?v=1601093549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346477825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-35N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346466817</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-pansy-spray"/>
+    <title>Set of 2 Floral Latte Mugs - Pansy Spray</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-pansy-spray.jpg?v=1601093548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346466817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-34N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346458689</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-shamrock"/>
+    <title>Set of 2 Floral Latte Mugs - Shamrock</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-shamrock.jpg?v=1601093547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346458689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-33N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346456961</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-tulips"/>
+    <title>Set of 2 Floral Latte Mugs - Tulips</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-tulips.jpg?v=1601093546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346456961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-32N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346379585</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-geranium"/>
+    <title>Set of 2 Floral Latte Mugs - Geranium</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-geranium.jpg?v=1601093545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346379585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-33N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346373889</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-daffodil"/>
+    <title>Set of 2 Floral Latte Mugs - Daffodil</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-daffodil.jpg?v=1601093544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346373889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-32N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346369985</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-thistle"/>
+    <title>Set of 2 Floral Latte Mugs - Thistle</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-thistle.jpg?v=1601093543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346369985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-31N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346368577</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-summer-rose"/>
+    <title>Set of 2 Floral Latte Mugs - Summer Rose</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-summer-rose.jpg?v=1601093542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346368577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-30N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10344853761</id>
+    <published>2017-10-23T15:09:38-05:00</published>
+    <updated>2017-10-23T15:09:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-tankards-set-of-2-lilac-bouquet"/>
+    <title>Ladies Victorian Tankards Floral Mugs  Set of 2 - Lilac Bouquet</title>
+    <s:type>ladies victorian tankards</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-tankards-floral-mugs-set-of-2-lilac-bouquet.jpg?v=1601093509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>ladies victorian tankards<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The same elegance or our Victorian Tankards with a slighly straighter shape.  Gold trim, embossing, scalloped rim.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10344853761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-4N-521-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10344839361</id>
+    <published>2017-10-23T15:09:38-05:00</published>
+    <updated>2017-10-23T15:09:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-tankards-set-of-2-pansies"/>
+    <title>Ladies Victorian Tankards Floral Mugs Set of 2 - Pansies</title>
+    <s:type>ladies victorian tankards</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-tankards-floral-mugs-set-of-2-pansies.jpg?v=1601093508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>ladies victorian tankards<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The same elegance or our Victorian Tankards with a slighly straighter shape.  Gold trim, embossing, scalloped rim.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10344839361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-3N-521-231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

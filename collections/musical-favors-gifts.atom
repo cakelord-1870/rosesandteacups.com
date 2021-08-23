@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/musical-favors-gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-10T14:51:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547783937</id>
+    <published>2015-07-10T14:51:00-05:00</published>
+    <updated>2015-07-10T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-christmas-cameo-music-boxes"/>
+    <title>Set of 3 Christmas Cameo Music Boxes</title>
+    <s:type>Cameo Music Boxes</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-christmas-cameo-music-boxes.jpg?v=1601090782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Cameo Music Boxes<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Petite melody makers are graced with December insignias. Lovely holiday remembrances for loved ones. Acrylic case with brass movement. 2.5 x 2". Set of 3.  White Christmas and 2 other holiday melodies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547783937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>9484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1494327105</id>
+    <published>2015-07-10T14:51:00-05:00</published>
+    <updated>2015-07-10T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-holiday-hurdy-gurdies"/>
+    <title>Set of 4 Holiday Hurdy Gurdies</title>
+    <s:type>Hurdy Gurdies</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-holiday-hurdy-gurdies.jpg?v=1601089294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Hurdy Gurdies<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Vintage Christmas Images grace these adorable wind-up boxes. Songs include: Toyland, Silent Night, Jingle Bells and What Child is This. 2x1x1</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1494327105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

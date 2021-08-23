@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-home-accents.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-01-08T13:40:28-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4772895162457</id>
+    <published>2021-01-08T13:40:28-06:00</published>
+    <updated>2021-01-08T13:40:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue and Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1610197443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4772895162457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4772876091481</id>
+    <published>2021-01-08T13:25:22-06:00</published>
+    <updated>2021-01-08T13:25:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ecru-lace-handkerchief-only-2-available"/>
+    <title>Ecru Lace Handkerchief - Only 1 Available</title>
+    <s:type>Victorian Hankies</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ecru-lace-handkerchief-only-1-available.jpg?v=1610197442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Hankies<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So lovely!  A pretty lace hankie for very special occasions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4772876091481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4772874059865</id>
+    <published>2021-01-08T13:24:52-06:00</published>
+    <updated>2021-01-08T13:24:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-lace-handkerchief"/>
+    <title>White Lace Handkerchief - Only 2 Available</title>
+    <s:type>Victorian Hankies</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-lace-handkerchief-only-2-available.jpg?v=1610197441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Hankies<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So lovely!  A pretty lace hankie for very special occasions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4772874059865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0803211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771985490009</id>
+    <published>2021-01-06T18:55:32-06:00</published>
+    <updated>2021-01-06T18:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Majestic Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771985490009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771982868569</id>
+    <published>2021-01-06T18:49:58-06:00</published>
+    <updated>2021-01-06T18:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Pretty Pink Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft blush pink and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771982868569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771980181593</id>
+    <published>2021-01-06T18:43:52-06:00</published>
+    <updated>2021-01-06T18:43:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771980181593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771976937561</id>
+    <published>2021-01-06T18:36:54-06:00</published>
+    <updated>2021-01-06T18:36:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Blue Victorian Cameo Lace and Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameos, roses, bows and beads in soft blue and white create a nightlight dripping in romantic luxury for your home.  Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771976937561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4749790937177</id>
+    <published>2020-11-13T17:28:02-06:00</published>
+    <updated>2020-11-13T17:28:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/days-of-yore-roses-tablecloth"/>
+    <title>Days of Yore Roses Linen Tablecloth</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/days-of-yore-roses-linen-tablecloth.jpg?v=1605359025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This lovely linen is an exact reproduction of one that underlaid al fresco feasts half a century past. Sumptuously thick cotton as our grandmothers knew.</span>
+<ul class="bullet_list">
+<li>52" sq.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4749790937177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>111320J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726503637081</id>
+    <published>2020-09-25T18:05:47-05:00</published>
+    <updated>2020-09-25T18:05:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Burgundy Lace Tassel Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available.jpg?v=1601095206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet! Pink lace, lovely soft tassels, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726503637081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726502195289</id>
+    <published>2020-09-25T18:02:14-05:00</published>
+    <updated>2020-09-25T18:02:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726502195289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726500753497</id>
+    <published>2020-09-25T17:56:00-05:00</published>
+    <updated>2020-09-25T17:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-pink-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Pink lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726500753497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628800471129</id>
+    <published>2020-05-21T14:29:44-05:00</published>
+    <updated>2020-05-21T14:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-in-pearls-decorative-bird"/>
+    <title>Pretty Pink in Pearls Decorative Bird</title>
+    <s:type>Victorian Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-in-pearls-decorative-bird.jpg?v=1590152538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Ornaments<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty Pink in Pearls Decorative Bird has gator style clip to place wherever your heart desires. This pretty birdie is all dressed up with pearls and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628800471129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0615191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8898521409</id>
+    <published>2020-01-17T12:59:36-06:00</published>
+    <updated>2020-01-17T12:59:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-lace-table-topper-sage"/>
+    <title>Beaded Lace Small Table Topper Sage - Only 1 Available</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-lace-small-table-topper-sage-only-1-available.jpg?v=1601092968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Gorgeous 18 inch table topper features embroidered fabric, beading and lace.  Sure to add elegance to any decor!</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2"></span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8898521409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>02222017-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169890570329</id>
+    <published>2019-09-02T13:24:45-05:00</published>
+    <updated>2019-09-02T13:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-kitty-rose-porcelain-nightlight"/>
+    <title>Miss Kitty Rose Porcelain Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-kitty-rose-porcelain-nightlight.jpg?v=1601094967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Ms Kitty Cat Rose Porcelain Nightlight is so adorably pretty that you will want to keep one for yourself and give one to a friend! This lovely kitten has beautiful roses front and back including even on her tail!  She measures 4 1/2" tall 3" wide.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169890570329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>101218-4J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169850921049</id>
+    <published>2019-09-02T11:09:02-05:00</published>
+    <updated>2019-09-02T11:09:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-beaded-gold-thread-lace-doily-1"/>
+    <title>Pink Beaded Gold Thread Lace Doily - 3 Available!</title>
+    <s:type>Lace Doilies &amp; Accents</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-beaded-gold-thread-lace-doily-3-available.png?v=1611015119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Lace Doilies &amp; Accents<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous pink beaded lace doily is 12.5 inches in diameter and USA MADE.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169850921049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>12112018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2167778017369</id>
+    <published>2019-08-30T12:44:44-05:00</published>
+    <updated>2019-08-30T12:44:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-bird-porcelain-birdhouse-nightlight-1"/>
+    <title>Blue Bird Porcelain Birdhouse Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-bird-porcelain-birdhouse-nightlight_0c2b6ff5-2c39-4265-808d-a2fab9575f23.jpg?v=1601094955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Blue Birds, Blue Bells and Forget Me Nots decorate this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2167778017369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>101218-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2167778902105</id>
+    <published>2019-08-30T12:42:32-05:00</published>
+    <updated>2019-08-30T12:42:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-red-cardinal-porcelain-birdhouse-night-light"/>
+    <title>Red Cardinal Porcelain Birdhouse Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-cardinal-porcelain-birdhouse-nightlight.jpg?v=1601094956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">Beautiful Red Cardinal decorates this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2167778902105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>112318-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2104734744665</id>
+    <published>2019-06-03T14:11:02-05:00</published>
+    <updated>2019-06-03T14:11:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-blue-rose-pattern-padded-clothes-hangers"/>
+    <title>Set of 3 Blue Rose Pattern Padded Clothes Hangers</title>
+    <s:type>Hangers</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-blue-rose-pattern-padded-clothes-hangers.jpg?v=1601094780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Hangers<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Set of 3 Blue Rose Pattern Padded Clothes Hangers are the perfect addition to your closet.  Don't hang your pretty blouses on ugly wire hangers ladies!  Don't do it! :) </p>
+<p><span>1 1/4 l x 16 w x 5" h</span><br><span>Fits 5" rod</span><br><span>Cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2104734744665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0603192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101347516505</id>
+    <published>2019-05-29T12:22:41-05:00</published>
+    <updated>2019-05-29T12:22:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweetbriar-lace-table-runner-16x72"/>
+    <title>Sweetbriar Lace Table Runner 16X72</title>
+    <s:type>Lace Doilies &amp; Accents</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweetbriar-lace-table-runner-16x72.jpg?v=1601094773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Lace Doilies &amp; Accents<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A dainty linen becomes an heirloom as teas and luncheons and years of memories spent around the dressed table render it all the more precious. Be certain to admire the subtle rose blossoming amid the flourishing lace trim.</span><br><br><span>16 x 72". </span><br><span>Polyester. </span><br><span>Wash cold. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101347516505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0529197J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2098378834009</id>
+    <published>2019-05-24T17:41:02-05:00</published>
+    <updated>2019-05-24T17:41:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sand-beneath-our-feet-wood-framed-canvas-beach-sign"/>
+    <title>SAND BENEATH OUR FEET WOOD FRAMED CANVAS BEACH SIGN</title>
+    <s:type>Signs</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sand-beneath-our-feet-wood-framed-canvas-beach-sign.jpg?v=1601094763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Signs<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect piece for any room with a beach theme or for your beach home! Sign reads: With The Sky Above Our Heads And The Sand Beneath Our Feet Life Is Better At The Beach</p>
+<ul>
+<li>15" Tall x 6" Wide x 1" Deep</li>
+<li>Composite Wood Construction</li>
+<li>Canvas with Text Design</li>
+<li>Starfish Accent</li>
+<li>Rope For Hanging</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2098378834009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0524191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1867860050009</id>
+    <published>2018-11-22T08:58:19-06:00</published>
+    <updated>2018-11-22T08:58:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-cardinal-porcelain-birdhouse-night-light"/>
+    <title>Red Cardinal Porcelain Birdhouse Night Light</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-cardinal-porcelain-birdhouse-night-light.jpg?v=1601094547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">Beautiful Red Cardinal decorates this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1867860050009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>112318-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8925733633</id>
+    <published>2017-02-28T16:59:00-06:00</published>
+    <updated>2017-02-28T16:59:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-altered-bottle"/>
+    <title>Pink Altered Bottle</title>
+    <s:type>decorated bottle</s:type>
+    <s:vendor>Chubby Bunny Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-altered-bottle.jpg?v=1601093032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chubby Bunny Cottage<br>
+        <strong>Type: </strong>decorated bottle<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Altered bottle pink. wrapped in a white paper with rose trellis and a rose card on front. pearls on each side. pink shabby rose trim around top and bottom. pink ribbon around neck with pink paper rose attached. cork is covered in a pink shabby rose and circled with pearls. one pink and pearl rose bead stick pin. hand made. one of a kind. 7″ tall and 3″ wide. very soft pink. very pretty!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8925733633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>02282017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8925684673</id>
+    <published>2017-02-28T16:45:00-06:00</published>
+    <updated>2017-02-28T16:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-wreath"/>
+    <title>Tea Cup Wreath</title>
+    <s:type>Tea Time Wreath</s:type>
+    <s:vendor>Chubby Bunny Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-wreath.jpg?v=1601093024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chubby Bunny Cottage<br>
+        <strong>Type: </strong>Tea Time Wreath<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea time wreath. it’s full of roses, a small batten burg lace hat, a tea set, pink ribbons, lace, pearls, doilies, pink ribbon, and more roses. ivory lace &amp; pearl wrapped 12″ frame. one of a kind. handmade. just gorgeous.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8925684673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>02282017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1999647113305</id>
+    <published>2017-02-22T11:36:00-06:00</published>
+    <updated>2017-02-22T11:36:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-victorian-pink-purse-sachet"/>
+    <title>Victorian Pink Purse Sachet - Limited Supply!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-pink-purse-sachet-limited-supply.jpg?v=1601094702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant purse sachet!  Pink lace, florals, beading and sparkles add that special touch of romantic beauty to your home!  USA MADE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1999647113305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>02222017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8925897857</id>
+    <published>2015-07-15T10:53:00-05:00</published>
+    <updated>2015-07-15T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-beaded-lace-hanger-1"/>
+    <title>Chocolate Beaded Lace Hanger #1</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-beaded-lace-hanger-1.jpg?v=1601093035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Our original design, exquisite Victorian Lace Hangers are l</span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">ovely for hanging your vintage dresses, wedding gowns, bridesmaids gowns, shawls or to layer accessories. A perfect substitute if you don't have room for a dress form! Great gift idea for that special bride.</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">One of a Kind!  USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8925897857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02282017-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

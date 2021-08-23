@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/beaded-bracelets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-10-16T09:44:27-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4738578382937</id>
+    <published>2020-10-16T09:44:27-05:00</published>
+    <updated>2020-10-16T09:44:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fairy-tale-pink-lampwork-rose-bead-and-tea-cup-bracelet"/>
+    <title>Fairy Tale Pink Lampwork Rose Bead and Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fairy-tale-pink-lampwork-rose-bead-and-tea-cup-bracelet.jpg?v=1602939797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A fairy tale of a tea bracelet with pretty pink rose porcelain teacups and glass faceted beads on a sterling silver rolo chain and teapot/spoon toggle closure.  Very sweet! 7 1/2"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4738578382937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>100620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/747713953893</id>
+    <published>2018-04-14T16:52:43-05:00</published>
+    <updated>2018-04-14T16:52:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-blossom-tea-cup-bracelet"/>
+    <title>Peach Blossom Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-blossom-tea-cup-bracelet.png?v=1601093980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Peach Blossom bracelet is NEW for 2018.  It is very delicate looking with peach blossom edging on the tea cups and saucers.  Gold plate chain, lobster clasp, adjustable length.  USA MADE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/747713953893</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>04152018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/747541397605</id>
+    <published>2018-04-14T16:52:43-05:00</published>
+    <updated>2018-04-14T16:52:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosebud-tea-cup-bracelet"/>
+    <title>Rosebud Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosebud-tea-cup-bracelet.png?v=1601093979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Rosebud bracelet is NEW for 2018.  It is very sweet with pink rosebuds on the tea cups and pink floral beads.  Silver or Gold plate chain, lobster clasp, adjustable length.  USA MADE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/747541397605</id>
+      <title>Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04142018-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/747541397605</id>
+      <title>Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04142018-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/747541168229</id>
+    <published>2018-04-14T16:52:43-05:00</published>
+    <updated>2018-04-14T16:52:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosalinda-tea-cup-bracelet"/>
+    <title>Rosalinda Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosalinda-tea-cup-bracelet.png?v=1601093977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Rosalinda bracelet is NEW for 2018.  It is absolutely luscious with bunches of roses on the tea cups and beads.  Silver plate chain, lobster clasp, adjustable length.  USA MADE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/747541168229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04142018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/744721252453</id>
+    <published>2018-04-08T11:13:23-05:00</published>
+    <updated>2018-04-08T11:13:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/princess-margaret-tea-cup-bracelet"/>
+    <title>Princess Margaret Tea Cup Bracelet</title>
+    <s:type>Tea Jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/princess-margaret-tea-cup-bracelet.jpg?v=1601093965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rosebud tea cups, rose lampwork beads and Swarovski crystals combine to create a sweet and sparkly accessory.  Adjustable length.  Lobster clasp.</p>
+<p>Limited Availability</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/744721252453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04082018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1989049352281</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/maribelle-tea-with-pearls-bracelet"/>
+    <title>Maribelle Tea with Pearls Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/maribelle-tea-with-pearls-bracelet.png?v=1601094681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautiful, limited edition piece has a little of everything!  Swarovski pearls in an array of pastels are joined by rose beads with tiny sparkles, porcelain tea cups and teapots, and adorable golden sugar spoons.  Adjustable length.  Lobster clasp.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1989049352281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>02112019N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1970482937945</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-tea-cups-and-treasures-tea-necklace-with-porcelain-tea-cups-and-rose-beads"/>
+    <title>Tea Cup Envy Necklace</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-envy-necklace.png?v=1601094651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This may be our most beautiful tea necklace yet!  It begins with a gold plate chain and features our Rosemary mini porcelain tea cups and our popular rose beads along with pink sparkle beads.  Gold Lobster Clasp. USA Hand Made!  ONLY 1 AVAILABLE!</p>
+<p>18 inch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1970482937945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>01252019N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969572315225</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-dream-tea-cup-necklace"/>
+    <title>Peach Dream Tea Cup Necklace</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-dream-tea-cup-necklace.png?v=1601094647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This one of a kind choker necklace is very special.  Our Peach Blossom miniature tea cups and saucers are surrounded by Swarovski Crystals and peachy rose beads.  Gold plate chain and lobster clasp.  16.5 inches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969572315225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>01242019-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/753633493093</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-china-heart-pendant"/>
+    <title>Rose China Heart Pendant</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-china-heart-pendant.jpg?v=1601094009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choose silver or gold plate chain for our sweet China Heart Pendants!  Every one is unique!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/753633493093</id>
+      <title>Silver 17 inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>05012018N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/753633493093</id>
+      <title>Silver 19 inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>05012018N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/753633493093</id>
+      <title>Gold 17 inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>05012018N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/753633493093</id>
+      <title>Gold 19 inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>05012018N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752941891685</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-bracelet-with-tea-cups-and-teapots"/>
+    <title>Tea Time Bracelet with Tea Cups and Teapots Silver or Gold</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-bracelet-with-tea-cups-and-teapots-silver-or-gold.jpg?v=1601094001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This fun bracelet begins with a silver or gold plate chain and features mini ceramic teapots and tea cups!  Tiny Gold or Silver tone tea charm dangles after fastening.  USA MADE</p>
+<p><strong>Clasp is lobster clasp for adjustable length.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752941891685</id>
+      <title>Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04282018N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752941891685</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04282018N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8483055937</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/high-tea-bracelet-with-tea-cups-and-teapots"/>
+    <title>High Tea Bracelet with Tea Cups and Teapots</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/high-tea-bracelet-with-tea-cups-and-teapots.jpg?v=1582071336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stunning piece begins with a silver or gold plate chain and features Swarovski crystals and mini teapots and tea cups!  USA MADE Charms may vary slightly.</p>
+<p><strong>Clasp is lobster clasp for adjustable length, not toggle as shown.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8483055937</id>
+      <title>Silver</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11282016N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8483055937</id>
+      <title>Gold</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11282016N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8434789697</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosebud-tea-cup-teacup-earrings"/>
+    <title>Rosebud Tea Cup (Teacup) Earrings</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosebud-tea-cup-teacup-earrings.jpg?v=1601092800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our adorable rosebud tea cups are so delicate looking!  Choose silver or gold ear wires.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8434789697</id>
+      <title>Silver</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11122016-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8434789697</id>
+      <title>Gold</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11122016-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8434782401</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosemary-tea-cup-teacup-earrings"/>
+    <title>Rosemary Tea Cup (Teacup) Earrings</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosemary-tea-cup-teacup-earrings.jpg?v=1601092799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From gold plated earring wires dangle our adorable gold trimmed rosemary tea cups with light and dark pink roses and green leaves.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8434782401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11122016N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8420636673</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-bracelet"/>
+    <title>Porcelain Teapot Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-bracelet.jpg?v=1601092796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choose silver or gold plate chain for this adorable porcelain teapot bracelet with lobster clasp. Teapots have flowers on both sides.  Adjustable length</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8420636673</id>
+      <title>Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11082016-4N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8420636673</id>
+      <title>Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11082016-4N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8420488065</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-earrings"/>
+    <title>Porcelain Teapot Earrings</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-earrings.jpg?v=1582071333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choose silver or gold plate hypoallergenic earwires for these adorable porcelain teapot earrings.  Teapots have flowers on both sides and are hollow for easy wearing.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8420488065</id>
+      <title>Silver</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11082016N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8420488065</id>
+      <title>Gold</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11082016N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8386224961</id>
+    <published>2016-09-20T10:56:00-05:00</published>
+    <updated>2016-09-20T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-blossom-tea-cup-teacup-earrings"/>
+    <title>Peach Blossom Tea Cup (Teacup) Earrings</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-blossom-tea-cup-teacup-earrings.png?v=1601092784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">From gold plated earring wires dangle our adorable gold trimmed peach blossom tea cups with saucers.  So cute!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8386224961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>11022016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1955410509913</id>
+    <published>2016-08-20T17:10:00-05:00</published>
+    <updated>2016-08-20T17:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hearts-and-teapots-bracelet"/>
+    <title>Hearts and Teapots Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hearts-and-teapots-bracelet.jpg?v=1601094608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your bracelet will feature a gold or silver plate chain, tiny porcelain floral teapots, and genuine Swarovski crystals. </span><span> China Hearts with roses complete the look.  Made by Hand in the USA!  Available in LIMITED quantities.  Adjustable length with lobster clasp.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1955410509913</id>
+      <title>Gold</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>01112019N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1955410509913</id>
+      <title>Silver</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>01112019N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8203941825</id>
+    <published>2016-08-20T17:10:00-05:00</published>
+    <updated>2016-08-20T17:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/simplicity-hearts-tea-cup-bracelet"/>
+    <title>Simplicity Hearts Tea Cup Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/simplicity-hearts-tea-cup-bracelet.jpg?v=1601092712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your bracelet will feature a gold or silver plate chain and tiny porcelain tea cups </span><span>featuring pink roses on one side and blue on the other for two looks in one!  China Hearts with roses complete the look.  Made by Hand in the USA!  Available in LIMITED quantities.  Adjustable length with lobster clasp.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8203941825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10092016-2N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7848961025</id>
+    <published>2016-08-20T17:10:00-05:00</published>
+    <updated>2016-08-20T17:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-simplicity-blue-and-pink-rose-tea-cup-charm-bracelet"/>
+    <title>Sweet Simplicity Blue and Pink Rose Tea Cup Charm Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-simplicity-blue-and-pink-rose-tea-cup-charm-bracelet.jpg?v=1601092615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Please choose chain color.  Your bracelet will feature a gold or silver plate chain and tiny porcelain tea cups </span><span>featuring pink roses on one side and blue on the other for two looks in one!  Made by Hand in the USA!  Available in LIMITED quantities.  Adjustable length with lobster clasp.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7848961025</id>
+      <title>Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09082016N-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7848961025</id>
+      <title>Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09082016N-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7435385153</id>
+    <published>2016-06-27T16:36:00-05:00</published>
+    <updated>2016-06-27T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ultimate-coffee-necklace"/>
+    <title>Ultimate Coffee Necklace</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ultimate-coffee-necklace.jpg?v=1601092541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ultimate coffee charm necklace features stainless steel chain with a silver rhinestone magnetic clasp and an abundance of coffee charms!  "Coffee Addict," "Good Morning, Coffee I Love You," "Coffee Now, Wine Later," "Coffee," "With Enough Coffee I Can Rule the World," Plus a Caffeine Molecule, a Coffee Cup and a Coffee Travel Mug.  And please notice the coffee bean type beads!  Adorable!</p>
+<p> </p>
+<p><span>Pewter pot and spoon toggle clasp</span> is available upon request.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7435385153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>08142016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7317810433</id>
+    <published>2016-06-27T16:36:00-05:00</published>
+    <updated>2016-06-27T16:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/one-of-a-kind-tea-charm-bracelet"/>
+    <title>Silver Tea Charm Bracelet</title>
+    <s:type>Beaded Bracelets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-tea-charm-bracelet.jpg?v=1601092534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Beaded Bracelets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This bracelet features silver plate chain and zinc alloy silver tone tea charms.  It's adorable!  Lobster Clasp with Adjustable Length USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7317810433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>08072016N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

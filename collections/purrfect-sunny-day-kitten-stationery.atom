@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/purrfect-sunny-day-kitten-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-02T13:24:45-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169890570329</id>
+    <published>2019-09-02T13:24:45-05:00</published>
+    <updated>2019-09-02T13:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-kitty-rose-porcelain-nightlight"/>
+    <title>Miss Kitty Rose Porcelain Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-kitty-rose-porcelain-nightlight.jpg?v=1601094967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Ms Kitty Cat Rose Porcelain Nightlight is so adorably pretty that you will want to keep one for yourself and give one to a friend! This lovely kitten has beautiful roses front and back including even on her tail!  She measures 4 1/2" tall 3" wide.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169890570329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>101218-4J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/300508119080</id>
+    <published>2017-11-28T09:37:05-06:00</published>
+    <updated>2017-11-28T09:37:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor"/>
+    <title>Posh Fancy Cat In Paris Purse Notepad Perfect Party Favor</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor.png?v=1617235951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Miss Kitty sits upon her plush pillow all dressed up for Paris! Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/300508119080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>112817-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280911249448</id>
+    <published>2017-11-10T10:07:01-06:00</published>
+    <updated>2017-11-10T10:07:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kitten-and-vase-posh-pets-pocket-note-pad"/>
+    <title>Kitten and Vase Posh Pets Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kitten-and-vase-posh-pets-pocket-note-pad.png?v=1601093743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh my! Isn't she a pretty kitty cat wearing her lovely real jeweled necklace! . Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280911249448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-3JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147034049</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-sticky-notes-pad"/>
+    <title>Purrfect Sunny Day Cat Sticky Notes Pad</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-purrfect-sunny-day-cat-sticky-notes-pad-1.gif?v=1561400646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Purrfect Sunny Day Cat Sticky Notes Pad size: 4" x 4.75". 75 printed self adhesive sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147034049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>07262016-23N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147021953</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-matchbook-notepad-w-pen"/>
+    <title>Purrfect Sunny Day Cat Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-purrfect-sunny-day-cat-matchbook-notepad-w-pen-1.gif?v=1561400644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nice size Tabby  Kitty Cat Matchbook Notepad with Designer Pen accented with a jewel and die cut closure. Purr-fect size your purse and jotting down notes and lists.</span></p>
+<p><span>size: 4" x 5".  75 printed pages. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147021953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>10127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147002753</id>
+    <published>2015-12-07T10:28:00-06:00</published>
+    <updated>2015-12-07T10:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-note-block-w-pen"/>
+    <title>Purrfect Sunny Day Cat Note Block w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-purrfect-sunny-day-cat-note-block-w-pen-only-1-left-1.gif?v=1561400646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Purrfect Sunny Day Cat Note Block w Pen<br>Block size: 3" x 3" x 3". 580 sheets. With designer pen.<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147002753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-22N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146990401</id>
+    <published>2015-12-07T10:28:00-06:00</published>
+    <updated>2015-12-07T10:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-note-block"/>
+    <title>Purrfect Sunny Day Cat Die Cut Notepad w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-purrfect-sunny-day-cat-die-cut-notepad-w-pen-1.gif?v=1561400644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Purrfect Sunny Day Cat Die Cut Notepad w Pen  size: 4.37" x 5.37". 75 printed sheets. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146990401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3656261057</id>
+    <published>2015-12-07T10:28:00-06:00</published>
+    <updated>2015-12-07T10:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cat-compact-mirror-gift-boxed-makes-a-perfect-party-favor"/>
+    <title>Cat Compact Mirror makes a perfect party favor</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cat-compact-mirror-makes-a-perfect-party-favor.jpg?v=1601091677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cat Compact Mirror makes a perfect party favor</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3656261057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>120715-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

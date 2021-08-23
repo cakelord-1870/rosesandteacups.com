@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/for-serving.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-09T10:38:05-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6699578523737</id>
+    <published>2021-08-09T10:38:05-05:00</published>
+    <updated>2021-08-09T10:38:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-jeweled-silver-plate-teapot-handle-spoons-set-of-4"/>
+    <title>Crystal Jeweled Silver Plate Teapot Handle Spoons Set of 4</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-jeweled-silver-plate-teapot-handle-spoons-set-of-4.jpg?v=1628600643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This set of 4 silver plate spoons has teapot handles in four styles and tiny colored inlaid crystals.  They make a lovely gift, or a splendid addition to your tea service.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6699578523737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0809211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477625040985</id>
+    <published>2020-02-17T17:39:54-06:00</published>
+    <updated>2020-02-17T17:39:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-tier-dot-rose-english-bone-china-cake-stand-made-in-england"/>
+    <title>3 Tier Dot Rose English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-tier-dot-rose-english-bone-china-cake-stand-made-in-england.jpg?v=1582030906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China 3</span>-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 10, 8 and 6 inch Bone China Plates Brass Finish Fittings </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477625040985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>7409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477601874009</id>
+    <published>2020-02-17T17:07:37-06:00</published>
+    <updated>2020-02-17T17:07:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-summertime-blue-roses-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Summertime Blue Roses English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-summertime-blue-roses-english-bone-china-cake-stand-made-in-england.jpg?v=1582030903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477601874009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477594763353</id>
+    <published>2020-02-17T17:00:13-06:00</published>
+    <updated>2020-02-17T17:00:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-lily-of-the-valley-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Lily of the Valley English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-lily-of-the-valley-english-bone-china-cake-stand-made-in-england.jpg?v=1582030902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477594763353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>74142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4470637953113</id>
+    <published>2020-02-12T17:02:08-06:00</published>
+    <updated>2020-02-12T17:02:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-dot-rose-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Dot Rose English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-dot-rose-english-bone-china-cake-stand-made-in-england_e504a391-9dae-4c71-8c16-5d2eb30dcfde.jpg?v=1587860225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dot Rose Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4470637953113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>7414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122603626585</id>
+    <published>2019-06-28T11:04:04-05:00</published>
+    <updated>2019-06-28T11:04:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-yellow-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available"/>
+    <title>Little Yellow Roses and Lilacs Porcelain Plates Set of 4 - Only 1 Available</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-yellow-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available.jpg?v=1601094847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Little Yellow Roses and Lilacs Porcelain Plates our perfect for serving cookies, a slice of cake or a yummy cup cake. Plate is 6 inch in diameter and are 14k gold trimmed. Set of 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122603626585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0627198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122000203865</id>
+    <published>2019-06-27T20:15:20-05:00</published>
+    <updated>2019-06-27T20:15:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-red-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available"/>
+    <title>Little Red Roses and Lilacs Porcelain Plates Set of 4 - Only 1 Available</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-red-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available.jpg?v=1601094845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Little Red Roses and Lilacs Porcelain Plates our perfect for serving cookies, a slice of cake or a yummy cup cake. Plate is 6 inch in diameter and are 14k gold trimmed. Set of 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122000203865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0627198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118016893017</id>
+    <published>2019-06-21T13:32:04-05:00</published>
+    <updated>2019-06-21T13:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-silver-plated-rose-stamped-fork-only-4-available"/>
+    <title>Rare Royal Patrician Silver Plated Rose Stamped Fork - Only 4 Available!</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-silver-plated-rose-stamped-fork-only-4-available.jpg?v=1601094816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rare Royal Patrician Silver Plated Rose Stamped Fork</p>
+<p>5 1/2" long </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118016893017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>062119-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2110453416025</id>
+    <published>2019-06-10T11:38:58-05:00</published>
+    <updated>2019-06-10T11:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-dessert-plates-set-of-2"/>
+    <title>Set of 2 Snowman Dessert Plates - Only 3 Available!</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-snowman-dessert-plates-only-3-available.jpg?v=1601094789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>8 inch Scallop Edge Plate. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2110453416025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010318-2N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806537850969</id>
+    <published>2018-11-07T08:35:25-06:00</published>
+    <updated>2018-11-07T08:35:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dessert-plate-8-inch-wayside-pansy"/>
+    <title>Dessert Plate 8 inch Wayside Pansy</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dessert-plate-8-inch-wayside-pansy.jpg?v=1601094476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely porcelain dessert plate hand decorated in the USA.  8 inches</p>
+<p>Also available in any of of our USA hand decorated porcelain teaware patterns such as Pansy, Hydrangea, and Magnolia.  Just ask!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806537850969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>11072018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806532411481</id>
+    <published>2018-11-07T08:35:25-06:00</published>
+    <updated>2018-11-07T08:35:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dessert-plate-8-inch-blue-bird"/>
+    <title>Dessert Plate 8 inch Blue Bird</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dessert-plate-8-inch-blue-bird.jpg?v=1601094475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely porcelain dessert plate hand decorated in the USA.  8 inches</p>
+<p>Also available in any of of our USA hand decorated porcelain teaware patterns such as Pansy, Hydrangea, and Magnolia.  Just ask!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806532411481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>11072018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806528282713</id>
+    <published>2018-11-07T08:35:25-06:00</published>
+    <updated>2018-11-07T08:35:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dessert-plate-8-inch-white-rose-spray"/>
+    <title>Dessert Plate 8 inch White Rose Spray</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dessert-plate-8-inch-white-rose-spray.jpg?v=1601094474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely porcelain dessert plate hand decorated in the USA.  8 inches</p>
+<p>Also available in any of of our USA hand decorated porcelain teaware patterns such as Pansy, Hydrangea, and Magnolia.  Just ask!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806528282713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>11072018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806523859033</id>
+    <published>2018-11-07T08:35:25-06:00</published>
+    <updated>2018-11-07T08:35:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dessert-plate-8-inch-summer-rose"/>
+    <title>Dessert Plate 8 inch Summer Rose</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dessert-plate-8-inch-summer-rose.jpg?v=1601094473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely porcelain dessert plate hand decorated in the USA.  8 inches</p>
+<p>Also available in any of of our USA hand decorated porcelain teaware patterns such as Pansy, Hydrangea, and Magnolia.  Just ask!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806523859033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>11072018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806523039833</id>
+    <published>2018-11-07T08:35:25-06:00</published>
+    <updated>2018-11-07T08:35:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dessert-plate-8-inch-ivy-rose"/>
+    <title>Dessert Plate 8 inch Ivy Rose</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dessert-plate-8-inch-ivy-rose.jpg?v=1601094472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lovely porcelain dessert plate hand decorated in the USA.  8 inches</p>
+<p>Also available in any of of our USA hand decorated porcelain teaware patterns such as Pansy, Hydrangea, and Magnolia.  Just ask!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806523039833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>11072018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308509798501</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-scrolls-silver-platinum-plated-cubic-zirconia-wedding-chandelier-earrings-4553e-s"/>
+    <title>Victorian Scrolls Silver Platinum Plated Cubic Zirconia Wedding Chandelier Earrings 4553E-S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-scrolls-silver-platinum-plated-cubic-zirconia-wedding-chandelier-earrings-4553e-s.jpg?v=1601094113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These <span>bridal chandelier earrings sparkle with AAAAA quality Cubic Zirconia gems in a fresh vintage design infused modern styling. These romantic Victorian beauties will make a stunning statement with any wedding gown or evening dress adding a serious dose of  sophisticated bling. Our jewel-encrusted CZ earrings with distinctive oval-cut stones are a must-have addition to your special occasion wardrobe.  2 1/16" h x 7/8" w with posts and comfort-back disks. Lifetime Guaranteed. Genuine Platinum Plated Silver Rhodium.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308509798501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07042018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308509405285</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-new-arrivals-victorian-scrolls-14k-rose-gold-plated-cubic-zirconia-wedding-chandelier-earrings-4553e-rg"/>
+    <title>Victorian Scrolls 14K Rose Gold Plated Cubic Zirconia Wedding Chandelier Earrings 4553E-RG</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-scrolls-14k-rose-gold-plated-cubic-zirconia-wedding-chandelier-earrings-4553e-rg.jpg?v=1601094112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Rose Gold bridal chandelier earrings sparkle with AAAAA quality Cubic Zirconia gems in a fresh vintage design infused modern styling. These romantic Victorian beauties will make a stunning statement with any wedding gown or evening dress adding a serious dose of sophisticated bling. Our jewel-encrusted CZ earrings with distinctive oval-cut stones in a soft blush setting are a must-have addition to your special occasion wardrobe.  2 1/16" h x 7/8" w with posts and comfort-back disks.  Genuine 14K Rose Gold plating. Lifetime Guaranteed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308509405285</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07042018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306787545189</id>
+    <published>2018-06-30T11:42:33-05:00</published>
+    <updated>2018-06-30T11:42:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shining-star-christmas-tree-shaped-plate"/>
+    <title>Shining Star Christmas Tree Shaped Plate</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shining-star-christmas-tree-shaped-plate.jpg?v=1601094090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handwash only/FDA approved.</p>
+<p><br><span>Ivory Christmas tree shaped plate outlined in gold with green accents and tiny raised gold beading like garland. The plate has 2 sections and is individually gift boxed. </span><br><br><span>1 1/4"H X 8 3/4"W X 14"D </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306787545189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>06302018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306786725989</id>
+    <published>2018-06-30T11:42:33-05:00</published>
+    <updated>2018-06-30T11:42:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shining-star-christmas-tree-plates-set-of-4"/>
+    <title>Shining Star Christmas Tree Plates Set of 4</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shining-star-christmas-tree-plates-set-of-4.jpg?v=1601094089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handwash only/FDA approved.</p>
+<p><br><span>Round ivory plate with a gold rim and a Christmas tree that has raided gold garland beading and a gold star on top. Individually gift boxed. </span><br><br><span>1"H X 8 1/4"W X 8 1/4"D </span><br><span>1 set of 4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306786725989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>06302018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/761394004069</id>
+    <published>2018-05-17T10:29:33-05:00</published>
+    <updated>2018-05-17T10:29:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/preserving-our-quilt-legacy-book"/>
+    <title>Preserving Our Quilt Legacy Book</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/preserving-our-quilt-legacy-book.jpg?v=1601094046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="style1">Preserving Our Quilt Legacy:<br></span><span class="style1">Giving Antique Quilts the Special Care They Deserve</span><br><span>2nd edition</span><br><span>by Ann Wasserman</span></p>
+<p><span><strong>Paperback book</strong><br>106 pages plus 16 color plates</span></p>
+<p><span>Antique quilts are both precious and fragile. Thoughtful care can help preserve them for generations to come. This comprehensive book by professional quilt restorer Ann Wasserman offers practical information to aid both collectors hoping to find professionals to care for their collections, and quilters and quilt owners who want instructions they can follow in the home. </span></p>
+<p><span>Ann Wasserman holds a degree in anthropology from Northwestern University. She has been working with antique quilts for over thirty years, and has taught about quilt history and design at the Field Museum of Natural History and the Art Institute of Chicago as well as at quilt guilds and historical societies.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/761394004069</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>05172018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752345350245</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterflies-and-hydrangeas-porcelain-mixing-bowls-set-of-3"/>
+    <title>Butterflies and Hydrangeas Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterflies-and-hydrangeas-porcelain-mixing-bowls-set-of-3.jpg?v=1601093997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752345350245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752344072293</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-porcelain-mixing-bowls-set-of-3"/>
+    <title>Vintage Rose Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage-Rose-Porcelain-Mixing-Bowls-Set-of-3_08db4c47-43b5-4dc1-a465-f64f6d11e224.jpg?v=1628899933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752344072293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752343122021</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rosebud-porcelain-mixing-bowls-set-of-3"/>
+    <title>Rosebud Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rosebud-porcelain-mixing-bowls-set-of-3.jpg?v=1601093993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752343122021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752341024869</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-rose-porcelain-mixing-bowls-set-of-3"/>
+    <title>Shabby Rose Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-rose-porcelain-mixing-bowls-set-of-3.jpg?v=1601093991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752341024869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752337584229</id>
+    <published>2018-04-26T17:42:15-05:00</published>
+    <updated>2018-04-26T17:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/secret-garden-porcelain-mixing-bowls-set-of-3"/>
+    <title>Secret Garden Porcelain Mixing Bowls Set of 3</title>
+    <s:type>Porcelain Mixing Bowls</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/secret-garden-porcelain-mixing-bowls-set-of-3.jpg?v=1601093989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Mixing Bowls<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made of porcelain. 3 Pieces</p>
+<p>Volume:  44 oz/ 22 oz/10 oz. Diameter: 7″/5.5″/4.5″</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752337584229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>04262018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10303068673</id>
+    <published>2017-10-13T14:40:37-05:00</published>
+    <updated>2017-10-13T14:40:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-jeweled-silver-plate-teapot-handle-spoons-from-england"/>
+    <title>Set of 4 Jeweled Silver Plate Teapot Handle Spoons from England</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-jeweled-silver-plate-teapot-handle-spoons-from-england.jpg?v=1601093350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This set of 4 silver plate spoons has teapot handles in four styles and tiny colored inlaid crystals.  They make a lovely gift, or a splendid addition to your tea service.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10303068673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>10132017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

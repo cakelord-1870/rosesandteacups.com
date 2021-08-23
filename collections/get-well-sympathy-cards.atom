@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/get-well-sympathy-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-11-17T15:47:00-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/3562396609</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-tea-cup-tulips-sympathy-greeting-card"/>
+    <title>Embroidered Linen Tulips Sympathy Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-tulips-sympathy-greeting-card.jpg?v=1601091662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Precious for framing!  A panel of embroidered linen with tulips in a tea cup covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Though the words are few,</span><br><span>the sympathy is great.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3562396609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22520N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542382977</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-linen-pink-rose-get-well-greeting-card"/>
+    <title>Embroidered Linen Pink Rose Get Well Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-linen-pink-rose-get-well-greeting-card.jpg?v=1601091649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Precious for framing!  A panel of embroidered linen with pink roses covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Sending you get well wishes.</span><br><span>Hoping you're up and about soon!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542382977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22500N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7673949441</id>
+    <published>2015-06-25T16:45:00-05:00</published>
+    <updated>2015-06-25T16:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-get-well-tea-card"/>
+    <title>Kimberly Shaw Get Well Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-get-well-tea-card.jpg?v=1601092606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductMain">
+<div id="prodAccordion">
+<div class="Block Panel ProductDescription current" id="ProductDescription">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<div class="ProductDescriptionContainer prodAccordionContent">
+<p><span>Birds to offer tender care, with an Organic Green Tea for good health.<br></span></p>
+<p><span>The message inscribed on the teacup reads, "<strong>Get Well</strong>."</span></p>
+<p><span>The inside greeting reads, "<strong>Wishing you a speedy recovery</strong>."</span></p>
+<p><span>Tea inside is a refreshing <strong>Organic Green Tea with Citrus &amp; Ginkgo</strong>from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productAddToCartRight">
+<form method="post" enctype="multipart/form-data" id="productDetailsAddToCartForm" onsubmit="return check_add_to_cart(this, false) " action="http://www.kimberlyshawgraphics.com/cart.php">
+<div class="ProductDetailsGrid ProductAddToCart">
+<div class="DetailRow qty">
+<div class="Label QuantityInput"></div>
+</div>
+</div>
+</form>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7673949441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>351KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

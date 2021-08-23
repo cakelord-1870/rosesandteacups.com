@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/pansy-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-01-24T08:20:28-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442586710105</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad"/>
+    <title>Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad.jpg?v=1579957329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad has Scripture saying "Give Thanks with a Grateful Heart" Notepad includes 75 die cut sheets and measures a nice size of 4" x 4.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442586710105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0124201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2052310073433</id>
+    <published>2019-04-02T11:47:45-05:00</published>
+    <updated>2019-04-02T11:47:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pansy-note-block-and-designer-pen-set"/>
+    <title>Pretty Pansy Note Block and Designer Pen Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pansy-note-block-and-designer-pen-set.jpg?v=1582071410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Pansy Note Block and Designer Pen Set includes 580 sheets all wrapped up with a grosgrain box perfect for gift giving and the office.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2052310073433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>040219-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367448833</id>
+    <published>2015-06-26T16:32:00-05:00</published>
+    <updated>2015-06-26T16:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-sticky-notes-pad"/>
+    <title>Pansy Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-sticky-notes-pad.jpg?v=1582071075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pansy Garden Sticky Notes Pad</span><br><span>3.5 x 4   75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367448833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/satin-corsages-lapel-pins.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-06T11:16:32-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377524011097</id>
+    <published>2019-12-06T11:16:32-06:00</published>
+    <updated>2019-12-06T11:16:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/golden-nugget-rose-lapel-pin"/>
+    <title>Golden Nugget Rose Lapel Pin - One of a Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/golden-nugget-rose-lapel-pin-one-of-a-kind.jpg?v=1601095151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Golden Nugget Rose Lapel Pin - Hand twirled ribbon with hand beading and shiny ribbon make this pretty lapel something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377524011097</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6721</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377515065433</id>
+    <published>2019-12-06T11:07:20-06:00</published>
+    <updated>2019-12-06T11:07:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/calypso-rose-ribbon-necklace"/>
+    <title>Calypso Rose Ribbon Necklace</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/calypso-rose-ribbon-necklace.jpg?v=1601095150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Calypso Rose Beaded Ribbon Necklace - - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377515065433</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6860</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377508151385</id>
+    <published>2019-12-06T10:59:17-06:00</published>
+    <updated>2019-12-06T10:59:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/warm-sunshine-rose-necklace"/>
+    <title>Warm Sunshine Ribbon Rose Necklace - One of a Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/warm-sunshine-ribbon-rose-necklace-one-of-a-kind.jpg?v=1601095148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Warm Sunshine Rose Beaded Ribbon Necklace - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377508151385</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377497895001</id>
+    <published>2019-12-06T10:46:41-06:00</published>
+    <updated>2019-12-06T10:46:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind"/>
+    <title>Coming Up Roses Hand Bead Ribbon Bracelet - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind.jpg?v=1601095146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coming Up Roses Hand Bead Ribbon Bracelet - Hand twirled ribbon with hand beaded roses and flowers.  This piece has beautiful floral and foliage beads along with luscious rich rose colored ribbons. Has stretch button closure and soft backing. This is something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377497895001</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377483608153</id>
+    <published>2019-12-06T10:29:34-06:00</published>
+    <updated>2019-12-06T10:29:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/avalon-rose-ribbon-necklace"/>
+    <title>Avalon Rose Ribbon Necklace - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/avalon-rose-ribbon-necklace-one-of-kind.jpg?v=1601095145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Avalon Rose Beaded Ribbon Necklace - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377483608153</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376270635097</id>
+    <published>2019-12-05T12:38:51-06:00</published>
+    <updated>2019-12-05T12:38:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feminine-teardrop-tassel-lace-and-crochet-scarf-golden-brown-only-1-available"/>
+    <title>Feminine Teardrop Tassel Lace and Crochet Scarf - Golden Brown - Only 1 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feminine-teardrop-tassel-lace-and-crochet-scarf-golden-brown-only-1-available.jpg?v=1601095129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feminine Teardrop Tassel Lace and Crochet Scarf has <span>Lace Teardrop Fringe Scarf can be styled over the shoulder with any type of Dress, Blouse, Sweater, Sleeves, Jacket, Blazer or Shirt for a charming modern look. Popular for both adults, women, and teen girls. Multi-purpose accessories! Light weight,silky feeling,non shrink design suitable for almost all seasons.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376270635097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376240193625</id>
+    <published>2019-12-05T12:06:51-06:00</published>
+    <updated>2019-12-05T12:06:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feminine-teardrop-tassel-lace-and-crochet-scarf-peach-only-1-available"/>
+    <title>Feminine Teardrop Tassel Lace and Crochet Scarf - Peach- Only 1 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feminine-teardrop-tassel-lace-and-crochet-scarf-peach-only-1-available.jpg?v=1601095126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feminine Teardrop Tassel Lace and Crochet Scarf has <span>Lace Teardrop Fringe Scarf can be styled over the shoulder with any type of Dress, Blouse, Sweater, Sleeves, Jacket, Blazer or Shirt for a charming modern look. Popular for both adults, women, and teen girls. Multi-purpose accessories! Light weight,silky feeling,non shrink design suitable for almost all seasons.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376240193625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376222597209</id>
+    <published>2019-12-05T11:53:12-06:00</published>
+    <updated>2019-12-05T11:53:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feminine-teardrop-tassel-lace-and-crochet-scarf-purple-only-2-available"/>
+    <title>Feminine Teardrop Tassel Lace and Crochet Scarf - Purple- Only 2 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feminine-teardrop-tassel-lace-and-crochet-scarf-purple-only-2-available.jpg?v=1582071462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feminine Teardrop Tassel Lace and Crochet Scarf has <span>Lace Teardrop Fringe Scarf can be styled over the shoulder with any type of Dress, Blouse, Sweater, Sleeves, Jacket, Blazer or Shirt for a charming modern look. Popular for both adults, women, and teen girls. Multi-purpose accessories! Light weight,silky feeling,non shrink design suitable for almost all seasons.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376222597209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376209948761</id>
+    <published>2019-12-05T11:42:31-06:00</published>
+    <updated>2019-12-05T11:42:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-feminine-teardrop-tassel-lace-and-crochet-scarf-brown-only-1-available"/>
+    <title>Feminine Teardrop Tassel Lace and Crochet Scarf - Brown- Only 2 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feminine-teardrop-tassel-lace-and-crochet-scarf-brown-only-2-available.jpg?v=1601095124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feminine Teardrop Tassel Lace and Crochet Scarf - Gray has <span>Lace Teardrop Fringe Scarf can be styled over the shoulder with any type of Dress, Blouse, Sweater, Sleeves, Jacket, Blazer or Shirt for a charming modern look. Popular for both adults, women, and teen girls. Multi-purpose accessories! Light weight,silky feeling,non shrink design suitable for almost all seasons.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376209948761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372908343385</id>
+    <published>2019-12-03T12:43:04-06:00</published>
+    <updated>2019-12-03T12:43:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1601095121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372908343385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372901920857</id>
+    <published>2019-12-03T08:34:30-06:00</published>
+    <updated>2019-12-03T08:34:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1582071455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372901920857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1667631425</id>
+    <published>2015-07-24T18:07:17-05:00</published>
+    <updated>2015-07-24T18:07:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angelic-corsage-brooch"/>
+    <title>Angelic Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angelic-corsage-brooch.jpg?v=1601091086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Angelic Corsage Brooch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1667631425</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9424</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1667629121</id>
+    <published>2015-07-24T18:06:51-05:00</published>
+    <updated>2015-07-24T18:06:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/isabelle-corsage-brooch"/>
+    <title>Isabelle Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/isabelle-corsage-brooch.jpg?v=1601091085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Isabelle Corsage Brooch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1667629121</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>9425</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1667617153</id>
+    <published>2015-07-24T18:04:32-05:00</published>
+    <updated>2015-07-24T18:04:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/adele-corsage-brooch"/>
+    <title>Adele Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/adele-corsage-brooch.jpg?v=1601091079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Adele Corsage Brooch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1667617153</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>9430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1667614273</id>
+    <published>2015-07-24T18:04:03-05:00</published>
+    <updated>2015-07-24T18:04:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/goldie-corsage-brooch"/>
+    <title>Goldie Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/goldie-corsage-brooch.jpg?v=1601091078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Goldie Corsage Brooch</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1667614273</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>9431</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752643735653</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/alice-beaded-satin-corsage-brooch"/>
+    <title>Alice Beaded Satin Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/alice-beaded-satin-corsage-brooch.jpg?v=1601094000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Alice Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752643735653</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>04272018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752643211365</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/saralynne-beaded-satin-corsage-brooch"/>
+    <title>Saralynne Beaded Satin Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/saralynne-beaded-satin-corsage-brooch.jpg?v=1601093999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Saralynne Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752643211365</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>04272018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733991873</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/marls-corsage-brooch"/>
+    <title>Marla Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/marla-corsage-brooch.jpg?v=1601092892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Marla Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733991873</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733968641</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunset-corsage-brooch"/>
+    <title>Sunset Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunset-corsage-brooch.jpg?v=1601092891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunset Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733968641</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733945025</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/evelyn-corsage-brooch"/>
+    <title>Evelyn Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/evelyn-corsage-brooch.jpg?v=1601092890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Evelyn Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733945025</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733940929</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/betsy-corsage-brooch"/>
+    <title>Betsy Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/betsy-corsage-brooch.jpg?v=1601092889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Betsy Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733940929</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733935617</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/april-corsage-brooch"/>
+    <title>April Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/april-corsage-brooch.jpg?v=1601092888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">April Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733935617</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733929729</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/deliah-corsage-brooch"/>
+    <title>Deliah Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/deliah-corsage-brooch.jpg?v=1601092887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deliah Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733929729</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8733916865</id>
+    <published>2015-07-24T18:02:00-05:00</published>
+    <updated>2015-07-24T18:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tiffany-corsage-brooch"/>
+    <title>Tiffany Corsage Brooch</title>
+    <s:type>Satin Corsages &amp; Lapel Pins</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tiffany-corsage-brooch.jpg?v=1601092886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Satin Corsages &amp; Lapel Pins<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tiffany Corsage Brooch is one of a kind, made by hand in the USA of fine trims and materials.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8733916865</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>012617-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-theme-pillows.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-06-29T13:26:20-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/9782981761</id>
+    <published>2017-06-29T13:26:20-05:00</published>
+    <updated>2017-06-29T13:26:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/multicolor-tea-cups-accent-pillow"/>
+    <title>Multicolor Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/multicolor-tea-cups-accent-pillow.jpg?v=1601093218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">The back of the pillow always matches the  ruffle. Fabric is subject to change depending on availability.  14 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9782981761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>06292017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9784643585</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-accent-pillow"/>
+    <title>Christmas Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cups-accent-pillow.jpg?v=1601093219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9784643585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>06292017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689485057</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-and-white-tea-time-accent-pillow"/>
+    <title>Black and White Tea Time Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-and-white-tea-time-accent-pillow.jpg?v=1601092303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689485057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34579N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689450113</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bright-and-bold-tea-accent-pillow"/>
+    <title>Bright and Bold Teapots Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bright-and-bold-teapots-accent-pillow.jpg?v=1601092301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689450113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34577N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689167361</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-tea-cups-accent-pillow"/>
+    <title>Stacked Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-pillows-stacked-tea-cups-accent-pillow-1.gif?v=1561401059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">This Tea Towel Pillow is made  made from Flour Sack/Cotton Tea Towels which gives them a softer weave. The Pillows are a bit larger, closer to 14" square or a bit more because of their larger design. The back of the pillow always matches the  ruffle. Fabric is subject to change depending on availability.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689167361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34576N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689046017</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lemon-tea-accent-pillow"/>
+    <title>Lemon Tea Accent Pillow - Only 1 available</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lemon-tea-accent-pillow-only-1-available.jpg?v=1601092299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">This Tea Towel Pillow is made  made from Flour Sack/Cotton Tea Towels which gives them a softer weave. The pillow is 11x11 square The back of the pillow always matches the  ruffle. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689046017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>34573N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5688774785</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterfly-teapot-accent-pillow-1"/>
+    <title>Butterfly Teapot Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterfly-teapot-accent-pillow_97fda923-c50c-4b2c-b029-d759d9fa0fb6.jpg?v=1601092296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Removable cover for washing &amp; has poly fiber fill insert. Size 9 1/2" x 9 1/2".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent pillow</s:tag>
+    <s:tag>tea pillow</s:tag>
+    <s:tag>tea themed pillow</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5688774785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34571N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5688769473</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bluebird-on-tea-cup-accent-pillow-1"/>
+    <title>Bluebird on Tea Cup Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bluebird-on-tea-cup-accent-pillow_41987efd-62f2-4ddc-b659-258e9cdf0b02.jpg?v=1601092294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Removable cover for washing &amp; has poly fiber fill insert. Size 9 1/2" x 9 1/2".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent pillow</s:tag>
+    <s:tag>tea pillow</s:tag>
+    <s:tag>tea themed pillow</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5688769473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34570N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

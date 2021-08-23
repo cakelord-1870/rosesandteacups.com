@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-totes-with-tea-and-spiced-mug-and-tea-cup-hotpad.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-19T14:23:07-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102355746905</id>
+    <published>2019-09-19T14:23:07-05:00</published>
+    <updated>2019-09-19T14:23:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-cup-tea-tote-with-tea-and-spiced-tea-cup-mat-1"/>
+    <title>Holiday Tea Cup Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-cup-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601094990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gift tote features a festive holiday tea cup on the front of the tote and the text, "A Cup of Tea warms the soul like a Good Friend" on the back.  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102355746905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34500N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306458751077</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-christmas-tea-cups-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Stacked Christmas Tea Cups Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-christmas-tea-cups-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601094084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Perfect gift for the tea lover. Each tote bag has a tea related design on front and a tea quote on the back. The tote bag comes filled with:</span></p>
+<menu>
+<li type="disc">A variety of six different teas by Celestial Seasonings.</li>
+<li type="disc">Mandarin Orange, Earl Grey, Chai, Black Cherry, Green Tea and Raspberry.</li>
+<li type="disc">All 6 teas are neatly packaged in a clear cello bag and tied with a ribbon.</li>
+<li type="disc">A coordinating Spiced Mug Mat completes the gift set.</li>
+</menu>
+<p><span>Size 6 ½" x 5 ½" </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306458751077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>06292018-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9696038593</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hummingbird-and-tea-cup-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Hummingbird and Tea Cup Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbird-and-tea-cup-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601093189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So sweet!  This gift tote features a hummingbird fluttering near the edge of a tea cup on the front of the tote; back says, "Tea Solves Everything."  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9696038593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>06132017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5684472641</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/drink-your-tea-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Drink Your Tea Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/drink-your-tea-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601092240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So sweet!  This gift tote features a roufus sided towhee perched on the edge of a tea cup on the front of the tote; singing, "Drink your tea."  The back says, "Life is like a cup of Tea; It's all in how you make it."  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5684472641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34520N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655523329</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-glory-in-tea-cup-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Morning Glory in Tea Cup Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-glory-in-tea-cup-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601092193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gift tote features a lovely blue and white tea cup with morning glories on the front. The back says, "Where there's tea, there's hope."  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655523329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34454N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655422785</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-on-books-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Tea Cup on Books Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-on-books-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601092187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gift tote features a lovely tea cup resting on a stack of books on the front of the tote with the text, "You can never get a cup of tea large enough or a book long enough to suit me."  The back says, "Kettle On; Feet Up"  and has the image"of a teapot.  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655422785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34452N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655378689</id>
+    <published>2016-04-07T16:57:00-05:00</published>
+    <updated>2016-04-07T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bluebird-tea-tote-with-tea-and-spiced-tea-cup-mat"/>
+    <title>Bluebird Tea Gift Favor Tote with Tea and Spiced Tea Cup Coaster Mat</title>
+    <s:type>Tea Totes</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bluebird-tea-gift-favor-tote-with-tea-and-spiced-tea-cup-coaster-mat.jpg?v=1601092181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Totes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So sweet!  This gift tote features a bluebird perched on the edge of a tea cup on the front of the tote; back says, "Happiness begins with a cup of tea."  Tucked inside is a gift wrapped selection of 6 teas, as well as a coordinating spiced mug mat which releases a wonderful fragrance when a hot drink rests on it.</p>
+<p><span>Size 6 1/ 2” x 5 1/ 2”</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655378689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34450N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

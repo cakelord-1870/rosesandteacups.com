@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/nannette-originals-collections.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-02T14:16:52-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371633045593</id>
+    <published>2019-12-02T14:16:52-06:00</published>
+    <updated>2019-12-02T14:16:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-and-white-winter-holiday-toile-tea-cup-cozy-cover"/>
+    <title>Blue and White Winter Holiday Toile Tea Cup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-and-white-winter-holiday-toile-tea-cup-cozy-cover.jpg?v=1601095114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and White Winter Holiday Toile Teacup Cozy Cover is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371633045593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371619250265</id>
+    <published>2019-12-02T14:00:31-06:00</published>
+    <updated>2019-12-02T14:00:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-blue-snowflakes-2-in-one-reversible-6-cup-warp-around-teapot-cozy"/>
+    <title>Silver and Blue Snowflakes 2 in One Reversible 6 Cup Warp Around Teapot Cozy</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-blue-snowflakes-2-in-one-reversible-6-cup-warp-around-teapot-cozy.jpg?v=1601095112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy with Insulation is hand sewn just for you at the time of your order by one of our talented seamstresses Nan!  Tea cup cozy is sold separately.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371619250265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>83173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371615088729</id>
+    <published>2019-12-02T13:54:25-06:00</published>
+    <updated>2019-12-02T13:54:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-blue-snowflake-teacup-cozy-cover"/>
+    <title>Silver and Blue Snowflake Teacup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-blue-snowflake-teacup-cozy-cover.jpg?v=1601095111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Blue Snowflake Teacup Cozy Cover Insulated is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371615088729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371587727449</id>
+    <published>2019-12-02T13:32:42-06:00</published>
+    <updated>2019-12-02T13:32:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-and-plaid-tea-cup-cozy-cover"/>
+    <title>Poinsettia and Plaid Tea Cup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-and-plaid-tea-cup-cozy-cover.jpg?v=1601095110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poinsettia and Plaid Insulated Tea Cup Cozy Cover is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371587727449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371458981977</id>
+    <published>2019-12-02T11:44:03-06:00</published>
+    <updated>2019-12-02T11:44:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettias-and-plaid-2-in-one-reversible-6-cup-warp-around-cozy"/>
+    <title>Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy</title>
+    <s:type>Tea Cup Teapot Cozies</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettias-and-plaid-2-in-one-reversible-6-cup-warp-around-teapot-cozy.jpg?v=1601095106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Tea Cup Teapot Cozies<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poinsettias and Plaid 2 in One Reversible 6 Cup Warp Around Teapot Cozy with Insulation is hand sewn just for you at the time of your order by one of our talented seamstresses Nan!  Tea cup cozy is sold separately.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371458981977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>83172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371436929113</id>
+    <published>2019-12-02T11:20:15-06:00</published>
+    <updated>2019-12-02T11:20:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy-1"/>
+    <title>Postcard Merry Christmas Tea Cup (Teacup) Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-teacup-cozy.png?v=1601095104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371436929113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844408647769</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chickadee-teacup-embroidered-christmas-pillow"/>
+    <title>Chickadee Teacup Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chickadee-teacup-embroidered-christmas-pillow.png?v=1601094499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Chickadee &amp; Christmas Tea"</div>
+<div>Intricately embroidered Chickadee in Christmas Tea cup with roses and pine cones. Teacup embroidered in soft seafoam green on ivory moire' taffeta background. Seafoam green moire' taffeta trim.  Ivory backing with zippered opening.  16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844408647769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>11142018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844404060249</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-deer-embroidered-christmas-pillow"/>
+    <title>Midnight Deer Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-deer-embroidered-christmas-pillow.png?v=1601094497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Midnight Deer Whitework scene embroidered on midnight blue moire' taffeta with Swarovski crystals with zippered back opening.</div>
+<div>16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844404060249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>11142018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844394066009</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-embroidered-merry-christmas-pillow"/>
+    <title>Country Embroidered Merry Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-embroidered-merry-christmas-pillow.png?v=1601094494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Embroidered "Merry Christmas"  on gray/white pillow ticking with forest-deer-cardinal scene on back and large red piping edging. Zippered back opening. 100% cotton. 16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844394066009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11142018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1801089122393</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals"/>
+    <title>Burgundy Embroidered Merry Christmas Pillow with Swarovski Crystals</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals.png?v=1601094463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Burgundy Embroidered Merry Christmas Victorian Script Pillow with Swarovski crystals on elegant ivory moire' taffeta f<span class="">ront &amp; back.  Trimmed in burgundy moire' with roped satin piping.  Zipper opening in back.  16x16 </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1801089122393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11062018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1785097060441</id>
+    <published>2018-11-03T17:07:11-05:00</published>
+    <updated>2018-11-03T17:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-blue-jays-coordinating-napkins-set-of-4-18x18"/>
+    <title>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-blue-jays-coordinating-christmas-tree-napkins-set-of-4-18x18.png?v=1601094431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</p>
+<p>Reversible.</p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1785097060441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11032018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312104448101</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-and-white-gingham-3-piece-monogrammed-travel-set"/>
+    <title>Black and White Gingham 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-and-white-gingham-3-piece-monogrammed-travel-set.jpg?v=1601094163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 pc set or separate...</p>
+<p>"Black/White Gingham with pink polka dot trim - Embroidered with Black Fleur de Lis design...</p>
+<p>Tote fully lined in B/W gingham with inside zipper pocket.</p>
+<p>Make up Bag fully lined with pink polka dots.</p>
+<p>Boxy Travel Pouch fully lined with pink polka dots.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312104448101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312095895653</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-eiffel-tower-3-piece-monogrammed-travel-set"/>
+    <title>Lavender Eiffel Tower 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-eiffel-tower-3-piece-monogrammed-travel-set.jpg?v=1601094159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 pc. set/or separate</p>
+<p>"Lavender Eiffel Tower and Dainty Damask print -</p>
+<p>Tote Bag with inside pocket and fully lined w/dainty damask print.</p>
+<p>Matching Make up Bag fully lined with Lavender Fleur de Lis print..</p>
+<p>Coordinating Boxy Travel Pouch fully lined with Lavender Fleur de Lis print.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312095895653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312091897957</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ava-rose-3-piece-monogrammed-travel-set"/>
+    <title>Pink Ava Rose 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ava-rose-3-piece-monogrammed-travel-set.jpg?v=1601094155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Pink Ava Rose on Aqua w/polka dot trim - </p>
+<p>Tote Bag - fully lined with inside zipper pocket.</p>
+<p>Make up bag - lined with coordinating color polka dots.</p>
+<p>Boxy Travel pouch - lined with coordinating color polka dots.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on each tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312091897957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086446465</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-premie-angel-gown-and-bonnet"/>
+    <title>Lavender Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-preemie-angel-gown-and-bonnet.jpg?v=1601093082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086446465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086443713</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mint-premie-angel-gown-and-bonnet"/>
+    <title>Mint Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mint-preemie-angel-gown-and-bonnet.jpg?v=1601093081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086443713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439873</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-premie-angel-gown-and-bonnet"/>
+    <title>Pink Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-preemie-angel-gown-and-bonnet.jpg?v=1601093080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439297</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-premie-angel-gown-and-bonnet"/>
+    <title>Peach Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-preemie-angel-gown-and-bonnet.jpg?v=1601093079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085751809</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-rose-baby-bonnet"/>
+    <title>Petite Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-rose-baby-bonnet.jpg?v=1601093076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">About the girliest bonnet you'll ever find, our Petite Roses Baby Bonnet has roses inside and out!  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085738881</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-rose-baby-bonnet"/>
+    <title>Sweet Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-rose-baby-bonnet.jpg?v=1601093075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Polka Dots and Roses are the theme of this sweet baby bonnet.  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085737665</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fun-flowers-baby-bonnet"/>
+    <title>Fun Flowers Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fun-flowers-baby-bonnet.jpg?v=1601093073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flowers are blooming and colors are popping (and dragonflies and flying!) on this adorable summer bonnet for baby girls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8784270145</id>
+    <published>2017-02-03T12:42:00-06:00</published>
+    <updated>2017-02-03T12:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-linens-coordinating-table-topper-napkins-tea-towel-cozy-hotpad"/>
+    <title>Tea Linens Coordinating Table Topper Napkins Tea Towel Cozy Hotpad</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-linens-coordinating-table-topper-napkins-tea-towel-cozy-hotpad.jpg?v=1601092913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This amazing USA handcrafted set features a special tea fabric from England.  </p>
+<div>Afternoon Tea (Blue) Fabric Set</div>
+<div>Table Topper 54x54;</div>
+<div>Four 16x16 Napkins;</div>
+<div>8x8 InsulatedHot Pad;</div>
+<div>Tea Towel 18x27 Cotton/Linen blend;</div>
+<div>Tea PotCozy-reversible.</div>
+<div>(Other than tea towel, all are 100% cotton)</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8784270145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>02032017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902761153</id>
+    <published>2016-07-11T11:20:00-05:00</published>
+    <updated>2016-07-11T11:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-wedding-ring-bearer-pillow"/>
+    <title>Personalized Wedding Ring Bearer Pillow</title>
+    <s:type>Personalized Wedding Ring Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Personalized-Wedding-Ring-Bearer-Pillow_77910467-01c8-4e9e-beae-a8bcecc47c11.jpg?v=1628813606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Personalized Wedding Ring Pillow<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wedding Keepsake/Ringbearer Pillow. 12x12 Your choice color of text, color of flowers, and color of ribbon design. Has ribbon on back for ringbearer easy to slip hands under for carrying. Please be sure that we have the following information before you place your order: Bride &amp; Groom Name Date &amp; Time Place and/or City, State Color of Text Color of Flowers Color of Ribbon design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902761153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9808655425</id>
+    <published>2016-03-07T10:15:00-06:00</published>
+    <updated>2016-03-07T10:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dotted-swiss-white-baby-bonnet"/>
+    <title>Dotted Swiss White Baby Bonnet</title>
+    <s:type>Alice in Wonderland Teaware</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dotted-swiss-white-baby-bonnet.jpg?v=1601093230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Alice in Wonderland Teaware<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">All white cotton dotted Swiss fabric and cotton French laces.  Embroidered Swiss edging lace and silk ribbons.  Dainty specialty mother of pearl buttons. Ties in back making it adjustable.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9808655425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>07032017-2N</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367882433</id>
+    <published>2016-03-07T10:15:00-06:00</published>
+    <updated>2016-03-07T10:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dotted-swiss-rose-white-bonnet"/>
+    <title>Dotted Swiss Rose White Bonnet</title>
+    <s:type>Alice in Wonderland Teaware</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dotted-swiss-rose-white-bonnet.jpg?v=1601092003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Alice in Wonderland Teaware<br>
+        <strong>Price: </strong>
+            46.00 - 51.00
+            <a href="https://rosesandteacups.com/products/dotted-swiss-rose-white-bonnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Dotted Swiss Rose Collection of Baby Bonnets features Cotton Dotted Swiss fabric from Switzerland, French Cotton laces, Swiss rose embroidered entredeux, silk ribbons, and Mother-of-pearl buttons.</p>
+<p>Choose from Front Ruffle or No Front Ruffle</p>
+<p>Hand made in the USA at the time of your order.</p>
+<p> </p>
+<p>Customer Review: The bonnet arrived and I received a very excited reply from my daughter as to how it looked, she then brought it with her for a visit so I was able to see it and it indeed was incredibly lovely - thank you so much Helen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367882433</id>
+      <title>No Ruffle</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5531</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367882433</id>
+      <title>Add Ruffle</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>5530</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

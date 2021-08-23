@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/cream-and-sugar-sets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-01-12T16:18:03-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1956877762649</id>
+    <published>2019-01-12T16:18:03-06:00</published>
+    <updated>2019-01-12T16:18:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/satin-shelley-petite-rosebuds-on-mint-porcelain-sugar-and-creamer-set"/>
+    <title>Satin Shelley Petite Rosebuds on Mint Porcelain Sugar and Creamer Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/satin-shelley-petite-rosebuds-on-mint-porcelain-sugar-and-creamer-set.jpg?v=1601094619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This oh so beautiful Satin Shelley Petite Rosebuds on Mint Porcelain Sugar and Creamer Set has a lovely luster finish that completes your Satin Shelly Rosebuds Mint set. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1956877762649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>011219-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1956717232217</id>
+    <published>2019-01-12T13:08:07-06:00</published>
+    <updated>2019-01-12T13:08:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-fluer-sugar-creamer-set"/>
+    <title>Petite Fluer Sugar Creamer Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-fluer-sugar-creamer-set.jpg?v=1601094615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Petite Fleur Sugar Creamer Set has lovely petite roses and ornate swags surrounding each porcelain piece.</p>
+<p><a href="https://rosesandteacups.com/search?type=product&amp;q=*fleur*" target="_blank" title="Petite Fleur Porcelain Teapot" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Petite_Fleur_Porcelain_Teapot_480x.jpg?v=1517947378" alt="Petite Fleur Porcelain Teapot" width="129" height="129"></a> Purchase Petite Fleur Teapot here!</p>
+<p><a href="https://rosesandteacups.com/collections/cream-and-sugar-sets" target="_blank" title="Petite Fleur Sugar and Creamer" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-fleur-porcelain-teacups-set-of-2-cups-and-2-saucers_480x.jpg?v=1521849252" alt="Petite Fleur Porcelain Teacups - Set of 2 cups and 2 Saucers - Roses And Teacups " width="119" height="119"></a> Looking for Petite Fleur Teacups? </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1956717232217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>011219-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/750043660389</id>
+    <published>2018-02-06T13:54:54-06:00</published>
+    <updated>2018-02-06T13:54:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spray-floral-happy-elephant-porcelain-cream-and-sugar-set"/>
+    <title>Spray Floral Happy Elephant Porcelain Cream and Sugar Set</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spray-floral-happy-elephant-porcelain-cream-and-sugar-set.jpg?v=1601093983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Crafted and Painting Porcelain. Gold Trimmed. Overall 4 1/4″ for Sugar and 4 3/4″ for Creamer in Width</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/750043660389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04202018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336735553</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-chickadee"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Chickadee</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-chickadee.jpg?v=1601093474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336735553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-105N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336727233</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-hummingbird"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Hummingbird</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-hummingbird.jpg?v=1601093472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336727233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-101N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336711489</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-lily-of-the-valley"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Lily of the Valley</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-lily-of-the-valley.jpg?v=1601093471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336711489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-101N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336706817</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-eiffel-tower"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Eiffel Tower</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-eiffel-tower.jpg?v=1601093470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336706817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-100N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3924113025</id>
+    <published>2016-01-20T12:09:00-06:00</published>
+    <updated>2016-01-20T12:09:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ceramic-cream-and-sugar"/>
+    <title>Windsor Ceramic Cream and Sugar Set</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-cream-and-sugar-set.jpg?v=1582071275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Windsor Ceramic Cream and Sugar Set in white, pink, sea foam and light blue.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>White</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7642</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342313791589</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-gift-boxed-pitcher"/>
+    <title>Poppyseed Gift Boxed Pitcher</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-gift-boxed-pitcher.jpg?v=1601094296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 5 inch Pitcher has matching box adorned with a lovely satin ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342313791589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09052018-28N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342309236837</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-romance-gift-boxed-pitcher"/>
+    <title>Blue Romance Gift Boxed Milk Pitcher 2 Available</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-romance-gift-boxed-milk-pitcher-2-available.jpg?v=1601094295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 5 inch Pitcher has matching box adorned with a lovely satin ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342309236837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>09052018-27N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2200235201</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-teapot-with-cream-and-sugar-set-usa-hand-decorated-porcelain"/>
+    <title>20 oz Teapot with Cream and Sugar Set Porcelain Pansy with Additional Pattern Choices</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-Teapot-with-Cream-and-Sugar-Set-Porcelain-Pansy-with-Additional-Pattern-Choices_9236d7cf-0dff-4693-8fbc-7efd76571edf.jpg?v=1628728286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teapot with Cream and Sugar Set features hand decorated porcelain in your choice of pattern.  Simply click the drop down box to pick a pattern to add to cart.</p>
+<p>Photos are for pattern choice only, actual style is shown in main photo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Pansy</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22545N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22546N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Eiffel Tower</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22547N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Butterflies</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22547N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Sussex Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22548N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22549N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Bluebird</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22550N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Hummingbird</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22551N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Tulips</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22552N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Wayside Pansy</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22553N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Lilac Spray</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22555N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Daffodil</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22556N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Wisteria Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22557N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Hydrangea</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22558N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Magnolia</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22559N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Musical Note</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22560N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Peach Blossom</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22561N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Bouquet of Pansies</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22562N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Pink Rose Spray</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22563N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Rhapsody Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22564N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Pink Toile</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22565N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>White Rose Spray</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22566N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Sweet Pea</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22567N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Wisteria</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22568N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Grapes And Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22569N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Elizabeth Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22570N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Olympia Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22571N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Doves And Roses</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22572N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Ivy &amp; Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22573N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Bouquet of Flowers</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22574N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Yellow Rose</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22575N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22576N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2200235201</id>
+      <title>Claremont</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>22577N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10348999873</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/musical-notes-porcelain-cream-and-sugar-set"/>
+    <title>Musical Notes Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/musical-notes-porcelain-cream-and-sugar-set.jpg?v=1601093562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Porcelain Cream and Sugar Set with Gold Accents</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10348999873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10242017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10348991681</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wayside-pansy-porcelain-cream-and-sugar-set-1"/>
+    <title>Wayside Pansy Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wayside-pansy-porcelain-cream-and-sugar-set.jpg?v=1601093561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Porcelain Cream and Sugar Set with Gold Accents</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10348991681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10242017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10348981761</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/geranium-porcelain-cream-and-sugar-set"/>
+    <title>Geranium Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/geranium-porcelain-cream-and-sugar-set.jpg?v=1601093560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Porcelain Cream and Sugar Set with Gold Accents</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10348981761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10242017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518831745</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/magnolia-porcelain-cream-and-sugar-set"/>
+    <title>Magnolia Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/magnolia-porcelain-cream-and-sugar-set.jpg?v=1601090097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518831745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>859N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518808705</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/summer-rose-porcelain-cream-and-sugar-set"/>
+    <title>Summer Rose Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/summer-rose-porcelain-cream-and-sugar-set.jpg?v=1601090093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518808705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>856N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518805185</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-porcelain-cream-and-sugar-set"/>
+    <title>Pansy Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-porcelain-cream-and-sugar-set.jpg?v=1601090092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518805185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>855N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518803585</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lily-of-the-valley-porcelain-cream-and-sugar-set"/>
+    <title>Lily of the Valley Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lily-of-the-valley-porcelain-cream-and-sugar-set.jpg?v=1601090091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518803585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>854N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518801857</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heirloom-magnolia-porcelain-cream-and-sugar-set"/>
+    <title>Heirloom Magnolia Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-magnolia-porcelain-cream-and-sugar-set.jpg?v=1601090090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518801857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>853N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518800129</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-blossom-porcelain-cream-and-sugar-set"/>
+    <title>Peach Blossom Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-blossom-porcelain-cream-and-sugar-set.jpg?v=1601090089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518800129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>852N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518795841</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-bouquet-porcelain-cream-and-sugar-set"/>
+    <title>Pansy Bouquet Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-bouquet-porcelain-cream-and-sugar-set.jpg?v=1601090088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We have MANY patterns in our porcelain cream and sugar collection!  If you don't see something you want, just ask!</p>
+<p>USA Hand Decorated</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518795841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>851N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518795073</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulips-porcelain-cream-and-sugar-set"/>
+    <title>Tulips Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulips-porcelain-cream-and-sugar-set.jpg?v=1601090087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Porcelain Cream and Sugar Set with Gold Accents</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518795073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>850N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181236673</id>
+    <published>2015-06-11T17:47:00-05:00</published>
+    <updated>2015-06-11T17:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/celestine-porcelain-creamer-sugar-set"/>
+    <title>Celestine Porcelain Creamer &amp; Sugar Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/celestine-porcelain-creamer-sugar-set.jpg?v=1601088216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celestine Porcelain Sugar Creamer Set is priced cheap for tea parties and events. It has the same lovely pink rosettes, tiny blue forget me nots and green foliage pattern as our Celestine Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces is trimmed in 14K gold on a spiral design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181236673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8664</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181077761</id>
+    <published>2015-06-11T17:30:00-05:00</published>
+    <updated>2015-06-11T17:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/margeurite-porcelain-creamer-sugar-set"/>
+    <title>Margeurite Porcelain Creamer &amp; Sugar Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/margeurite-porcelain-creamer-sugar-set.jpg?v=1601088213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Margeurite Porcelain Sugar Creamer Set has the same lovely daisy and purple floral pattern as our Margeurite Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces is trimmed in 14K gold on a spiral design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181077761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1180568385</id>
+    <published>2015-06-11T16:47:00-05:00</published>
+    <updated>2015-06-11T16:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/timeless-rose-porcelain-sugar-creamer-set"/>
+    <title>Timeless Rose Porcelain Sugar &amp; Creamer Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/timeless-rose-porcelain-sugar-creamer-set.jpg?v=1601088210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Timeless Rose Porcelain Sugar &amp; Creamer Set has a lovely pale pink spray pattern on both sides trimmed in matte gold on a sprial design. FDA approved, not recommended for use in the microwave or dishwasher. This set matches our Timeless Rose Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1180568385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

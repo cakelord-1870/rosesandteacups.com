@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gift-boxed-lavender-sachets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-03-08T08:56:45-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/469294546984</id>
+    <published>2018-03-08T08:56:45-06:00</published>
+    <updated>2018-03-08T08:56:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-rosemary-scented-drawer-liners"/>
+    <title>Lavender Rosemary Scented Drawer Liners</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-rosemary-scented-drawer-liners.jpg?v=1601093914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description">
+<h3>SCENT</h3>
+<p>Unmistakable scent of lavender with rosemary and a hint of eucalyptus</p>
+<h3>DESCRIPTION</h3>
+<p>These flowers are designed to bloom in unexpected places. With their delicate scent and beautiful colors, the six large sheets will dress up shelves, drawers and cabinets throughout the house.</p>
+</div>
+<div class="product__section product__section--details">
+<h3>DETAILS</h3>
+<div class="product__property product__dimensions"><span class="product__propertyValue">Approximately 17 x 23" / 43.2 x 58.4 cm</span></div>
+</div>
+<div class="product__section product__section--scent">
+<h3></h3>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drawer liners</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/469294546984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>030818-5J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/469281275944</id>
+    <published>2018-03-08T08:49:48-06:00</published>
+    <updated>2018-03-08T08:49:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-peacock-drawer-liners"/>
+    <title>Pretty Peacock Drawer Liners - Only 1 Available!</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-peacock-drawer-liners-only-1-available.jpg?v=1607731924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description">
+<h3>DESCRIPTION</h3>
+<p>These flowers are designed to bloom in unexpected places. With their delicate scent and beautiful colors, the six large sheets will dress up shelves, drawers and cabinets throughout the house.</p>
+</div>
+<div class="product__section product__section--details">
+<h3>DETAILS</h3>
+<div class="product__property product__dimensions"><span class="product__propertyValue">Approximately 17 x 23" / 43.2 x 58.4 cm</span></div>
+</div>
+<div class="product__section product__section--scent">
+<h3>SCENT</h3>
+<p>Cypress, cedarwood and patchouli with notes of cinnamon, pine and amber</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/469281275944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>030818-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/509152624680</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peony-4-x-6-lavender-sachet"/>
+    <title>Peony 4 x 6  Lavender Sachet - Only 4 Left</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peony-4-x-6-lavender-sachet-only-4-left.jpg?v=1601093958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/509152624680</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>032718-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/509152231464</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peony-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Peony Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-peony-gift-boxed-lavender-sachets.png?v=1601093956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/509152231464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34481NJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414936563752</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-bird-4-x-6-lavender-sachet"/>
+    <title>Blue Bird 4 x 6  Lavender Sachet</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-bird-4-x-6-lavender-sachet.jpg?v=1601093865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414936563752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414935285800</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bird-4-x-6-lavender-sachet-1"/>
+    <title>Yellow Bird 4 x 6  Lavender Sachet - Only 6 Left!</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-bird-4-x-6-lavender-sachet-only-6-left.jpg?v=1601093864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414935285800</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414931091496</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bird-4-x-6-lavender-sachet"/>
+    <title>Bird on Nest 4 x 6  Lavender Sachet - Only 5 Left!</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bird-on-nest-4-x-6-lavender-sachet-only-5-left.jpg?v=1601093863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414931091496</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414926995496</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-with-flowers-4-x-6-lavender-sachet"/>
+    <title>Butterfly Teapot 4 x 6  Lavender Sachet - Only 5 Left</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterfly-teapot-4-x-6-lavender-sachet-only-5-left.jpg?v=1601093862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414926995496</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414923456552</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-4-x-6-lavender-sachet"/>
+    <title>Teapot 4 x 6  Lavender Sachet - Only 4 Left!</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-4-x-6-lavender-sachet-only-4-left.jpg?v=1601093861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414923456552</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/414913265704</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-4-x-6-lavender-sachet"/>
+    <title>Tea Cup 4 x 6  Lavender Sachet - Only 6 Left!</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-4-x-6-lavender-sachet-only-6-left.jpg?v=1601093860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Generous 4 x 6 Sachet contains 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent.  (not gift boxed)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/414913265704</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>012418N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5668468673</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sleepy-cat-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Sleepy Cat Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-sleepy-cat-gift-boxed-lavender-sachets.jpg?v=1601092227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5668468673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34491N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5668453057</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bird-with-nest-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Bird with Nest Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-bird-with-nest-gift-boxed-lavender-sachets.jpg?v=1582071314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5668453057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34490N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5668061249</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterfly-teapot-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Butterfly Teapot Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-butterfly-teapot-gift-boxed-lavender-sachets.jpg?v=1601092225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5668061249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34489N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5668043585</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/drink-your-tea-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Drink Your Tea Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-drink-your-tea-gift-boxed-lavender-sachets.jpg?v=1601092224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5668043585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34488N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5667962817</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bird-on-stem-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Bird on Stem Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-bird-on-stem-gift-boxed-lavender-sachets.jpg?v=1601092220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5667962817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34484N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5667909121</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cat-in-the-garden-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Cat in the Garden Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-cat-in-the-garden-gift-boxed-lavender-sachets.jpg?v=1601092218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5667909121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34482NEJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5667889665</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bluebird-on-tea-cup-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Bluebird on Tea Cup Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-bluebird-on-tea-cup-gift-boxed-lavender-sachets.jpg?v=1601092217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5667889665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34481N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5667884417</id>
+    <published>2016-04-08T12:18:00-05:00</published>
+    <updated>2016-04-08T12:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-dragonfly-gift-boxed-lavender-sachets"/>
+    <title>Set of 3 Hydrangea and Dragonfly Gift Boxed Lavender Sachets</title>
+    <s:type>Gift Boxed Lavender Sachets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-hydrangea-and-dragonfly-gift-boxed-lavender-sachets.jpg?v=1601092216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Gift Boxed Lavender Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Set includes 3 Lavender Sachets filled with 100% PURE French Lavender flowers to impart a fresh, clean scent to closets, drawers and cupboards. When traveling tuck one in your suitcase. Lavender is a natural antibacterial and moth repellent. Gift boxed with a clear vinyl lid &amp; tied with satin ribbon. Size 3" x 3" </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lavender sachets</s:tag>
+    <s:tag>sachets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5667884417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>081516CorJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

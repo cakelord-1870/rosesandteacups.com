@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/brass-tea-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-02T16:50:07-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2124691669081</id>
+    <published>2019-07-02T16:50:07-05:00</published>
+    <updated>2019-07-02T16:50:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sew-cute-sewing-scissor-pin"/>
+    <title>Sew Cute Sewing Scissor Pin</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sew-cute-sewing-scissor-pin.jpg?v=1601094864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our handcrafted antiqued natural brass sewing theme scissors charm pin measures 2.5 inches long. It features Swarovski Austrian crystals and sewing theme charms- thread spool, sewing machine,thimble and pin cushion.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2124691669081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>070219-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1975138386009</id>
+    <published>2019-01-29T12:28:31-06:00</published>
+    <updated>2019-01-29T12:28:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-necklace"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Necklace</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-necklace.jpg?v=1601094659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This vintage inspired Victorian romance heart necklace features a prong set genuine Swarovski Austrian crystal filigree heart drop on an exquisite limited edition Victorian flower motif chevron. The chevron has 5 additional Swarovski Elements in Amethyst to complete the look. The necklace chain measures 16 inches in length and features 24 kt. antique gold plated Figaro link chain with matching antique connectors that can be found on the matching earrings.</span></p>
+<p><a href="https://rosesandteacups.com/collections/latest-arrivals-new-items-products/products/vintage-style-austrian-crystal-chandelier-heart-earrings" target="_blank" title="Matching Vintage Heart Earrings" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage_Style_Austrian_Crystal_Chandelier_Heart_Earrings_480x.jpg?v=1547507254" alt="Vintage Style Austrian Crystal Chandelier Heart Earrings" width="143" height="156"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1975138386009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>012919-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959742373977</id>
+    <published>2019-01-14T17:03:15-06:00</published>
+    <updated>2019-01-14T17:03:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-earrings"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Earrings</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-earrings.jpg?v=1582071406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These vintage inspired Victorian romance heart earrings measure 2.25" in length. These gorgeous earrings are made in antiqued natural brass with our special anti tarnish lacquer finish. The heart drops feature hand pronged genuine Swarovski Austrian crystals and hypo allergenic surgical steel genuine Swarovski Austrian crystal earring posts too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959742373977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>011419-7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959717732441</id>
+    <published>2019-01-14T16:43:05-06:00</published>
+    <updated>2019-01-14T16:43:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angels-cherubs-hearts-key-earrings-antique-silver"/>
+    <title>Angels Cherubs Hearts &amp; Key Earrings - Antique Silver</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angels-cherubs-hearts-key-earrings-antique-silver.jpg?v=1601094628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These handcrafted antique reproduction Victorian Angel earrings features our Victorian Romance puffed hearts and keys theme. These earrings are antique silver plated and measure 2 inches long...the little puffed hearts have an engraved flower.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959717732441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>011419-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495293121</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-tea-charm-pin"/>
+    <title>Brass Tea Charm Pin</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-tea-charm-pin.jpg?v=1601089378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brass Tea Charm Pin This handcrafted antique reproduction Victorian style charm pin features our tea theme. The tea pot, cup and saucer charms have tiny flowers on them. The charms are connected to the safety pin with Austrian crystal chanels. Pin measures 1 3/4". Check out the matching earrings too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495293121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495269505</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-tea-time-tea-charm-necklace-24-inch-chain"/>
+    <title>Victorian Tea Time  Tea Charm Necklace 24 inch Chain</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-tea-time-tea-charm-necklace-24-inch-chain.jpg?v=1601089377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Victorian Tea Time Tea Charm Necklace This handcrafted antique reproduction Victorian style charm necklace features our tea time theme. The tea pot and cup are double sided. Also includes tea bag and spoon charms! The charms are connected to the necklace with Austrian crystal chanels. The 24" Figaro link chain is 24kt. antique gold plated. Check out the matching earrings too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495269505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495232769</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-tea-time-charm-necklace"/>
+    <title>Victorian Tea Time Charm Necklace</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-tea-time-charm-necklace.jpg?v=1601089374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This handcrafted antique reproduction Victorian style charm necklace features our tea time theme. The tea pot, tea kettle, cup and saucer charms are double sided. Also includes tea bag charms! The charms are connected to the necklace with Austrian crystal chanels. The 24" Figaro link chain is 24kt. antique gold plated. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495232769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>4023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495222785</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-footed-tea-pot-earrings"/>
+    <title>Brass Footed Tea Pot Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-footed-tea-pot-earrings.jpg?v=1601089373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brass Footed Tea Pot Earrings These handcrafted antique reproduction Victorian style tea pot earrings feature our tea theme. The austrian crystal beads are on antique gold plated earring wires.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495222785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495210177</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-tea-time-charm-bracelet"/>
+    <title>Victorian Tea Time Charm Bracelet</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-tea-time-charm-bracelet.jpg?v=1601089372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victorian Tea Time Charm Bracelet features brass tea charms on a brass linked chain.  7 1/4 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495210177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>4021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495201281</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-teapot-tea-pot-earrings"/>
+    <title>Brass Teapot Tea Pot Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-teapot-tea-pot-earrings.jpg?v=1601089371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These handcrafted antique reproduction Victorian style tea pot earrings feature our tea theme. The Austrian crystal beads are on antique gold plated earring wires.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495201281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495198657</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-heart-earrings"/>
+    <title>Crystal Heart Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-heart-earrings.jpg?v=1601089335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These antique reproduction Victorian romance earrings feature Austrian crystal hearts with cherubs and keys. Earring wires are antique gold plated with Austrian crystal beads.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495198657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495182465</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-cupids-and-hearts-pin"/>
+    <title>Brass Cupids and Hearts Pin</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-cupids-and-hearts-pin.jpg?v=1601089333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This handcrafted antique reproduction Victorian Angel charm pin features a beautiful 2.5 inch bow and flowers bar pin with 4 different angels and 3 hearts. The charms are all connected to Austrian crystal chanels.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495182465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495166721</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-heart-and-cherub-earrings"/>
+    <title>Brass Heart and Cherub Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-heart-and-cherub-earrings.jpg?v=1582071113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Heart and Cherub Earrings features glass hearts and brass cherubs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495166721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495152193</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-angel-earrings"/>
+    <title>Brass Angel Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-angel-earrings.jpg?v=1601089332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Angel Earrings features sweet cherubs balancing on glass hearts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495152193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495143297</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/glass-heart-post-earrings"/>
+    <title>Glass Heart Post Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/glass-heart-post-earrings.jpg?v=1601089331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glass Heart Post Earrings feature large and small glass hearts and brass bow posts.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495143297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>7506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495121729</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-filigree-hearts-earrings"/>
+    <title>Brass Filigree Hearts Earrings</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-filigree-hearts-earrings.jpg?v=1601089329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Victorian style filigree lace hearts with Austrian crystal center stones and antique gold plated earring wires with matching Swarovski Austrian crystal beads.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495121729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495112001</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-filigree-hearts-bracelet"/>
+    <title>Brass Filigree Hearts Bracelet</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-filigree-hearts-bracelet.jpg?v=1601089328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This antique reproduction Victorian style necklace features Austrian crystal beads and a handpainted cloisonné' heart on a 24" Figaro Necklace chain. The chain is 24kt antique gold plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495112001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>7511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495094721</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-cloisonne-single-angel-heart-necklace"/>
+    <title>Rose Cloisonne Single Angel Heart Necklace</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-cloisonne-single-angel-heart-necklace.jpg?v=1601089327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This antique reproduction Victorian style necklace features Austrian crystal beads and a handpainted cloisonné' heart on a 24" Figaro Necklace chain. The chain is 24kt antique gold plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495094721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495088641</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-cloisonne-heart-pin"/>
+    <title>Victorian Cloisonne Heart Pin</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-cloisonne-heart-pin.jpg?v=1601089326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This antique reproduction Victorian style pin, features an Austrian crystal bead and a handpainted cloisonne heart.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495088641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495077953</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-cloisonne-2-angel-heart-necklace-18-inch"/>
+    <title>Rose Cloisonne 2 Angel Heart Necklace   18 inch</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-cloisonne-2-angel-heart-necklace-18-inch.jpg?v=1601089325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<div class="site-container" id="site-container">
+<div class="container-header clearfix">
+<div class="container-main clearfix">
+<div class="doc1024x768C container-wrap clearfix">
+<div class="clearfix" id="main">
+<div class="layout-zone-content layout-zone clearfix " id="content">
+<div class="page-catalog wrap clearfix  padding-left padding-right">
+<div id="categoryDescriptionTop">
+<h1 align="center"><span color="#800080" face="Arial" size="3" style="color: #800080; font-family: Arial; font-size: medium;"><img width="150" height="163" src="http://www.jewelrymine.com/images/custom/peaceani.gif"></span></h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Rose Cloisonne 2 Angel Heart Necklace features cloisonne heart,  tiny glass hearts and brass cherubs. 18 inch</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495077953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>4173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495073025</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-filigree-hearts-necklace"/>
+    <title>Brass Filigree Hearts Necklace</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-filigree-hearts-necklace.jpg?v=1601089324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Filigree Hearts Necklace features brass heart charms with crystal inlays.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495073025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>7510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1495068417</id>
+    <published>2015-07-10T16:31:00-05:00</published>
+    <updated>2015-07-10T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brass-cherub-heart-and-bells-bracelet"/>
+    <title>Brass Cherub Heart and Bells Bracelet - Rare and Limited!!!</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brass-cherub-heart-and-bells-bracelet-rare-and-limited.jpg?v=1601089323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Cherub, Heart and Bells Bracelet features colored glass hearts and brass cherub charms on brass linked bracelet.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1495068417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>7509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

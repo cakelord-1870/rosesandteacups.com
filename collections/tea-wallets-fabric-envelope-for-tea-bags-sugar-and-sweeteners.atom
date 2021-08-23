@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-wallets-fabric-envelope-for-tea-bags-sugar-and-sweeteners.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-11-19T20:48:34-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1860522672217</id>
+    <published>2018-11-19T20:48:34-06:00</published>
+    <updated>2018-11-19T20:48:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/friendly-teacups-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind"/>
+    <title>Friendly Teacups Tea Wallet Fabric Tea Bag and Sweetener Envelope for the Purse - One of a Kind!</title>
+    <s:type>Tea Wallets</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/friendly-teacups-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind.jpg?v=1582071399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Wallets<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our adorable tea wallets hold six t-sacs pre-filled with loose tea or six tea bags. </p>
+<ul>
+<li>High quality cotton fabric</li>
+<li>Made in New Hampshire</li>
+<li>Six slots for tea, plus four slots for sweeteners</li>
+<li>Your tea is held securely in the wallet with a strong snap</li>
+<li>Measures 3"x5" when folded closed</li>
+<li>The attractive and tidy replacement for that plastic zip-lock baggie in the bottom of your bag!</li>
+<li>EVERY tea lover needs one, every tea lover wants one!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1860522672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>02012017-9N10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1860463460441</id>
+    <published>2018-11-19T20:48:34-06:00</published>
+    <updated>2018-11-19T20:48:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/in-the-news-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind"/>
+    <title>In The News Tea Wallet Fabric Tea Bag and Sweetener Envelope for the Purse - One of a Kind!</title>
+    <s:type>Tea Wallets</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/in-the-news-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse-one-of-a-kind.jpg?v=1601094516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Wallets<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our adorable tea wallets hold six t-sacs pre-filled with loose tea or six tea bags. </p>
+<ul>
+<li>High quality cotton fabric</li>
+<li>Made in New Hampshire</li>
+<li>Six slots for tea, plus four slots for sweeteners</li>
+<li>Your tea is held securely in the wallet with a strong snap</li>
+<li>Measures 3"x5" when folded closed</li>
+<li>The attractive and tidy replacement for that plastic zip-lock baggie in the bottom of your bag!</li>
+<li>EVERY tea lover needs one, every tea lover wants one!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1860463460441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>02012017-9N6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9864125377</id>
+    <published>2017-01-25T11:05:00-06:00</published>
+    <updated>2017-01-25T11:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-tea-room-tea-wallet-fabric-tea-bag-and-sweetener-envelope-for-the-purse"/>
+    <title>Vintage Tea Room Tea Wallet Favor</title>
+    <s:type>Tea Wallets</s:type>
+    <s:vendor>Thistledown Cozies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-tea-room-tea-wallet-favor.jpg?v=1601093240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thistledown Cozies<br>
+        <strong>Type: </strong>Tea Wallets<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our adorable tea wallets hold six t-sacs pre-filled with loose tea or six tea bags.</p>
+<ul>
+<li>High quality cotton fabric</li>
+<li>Made in New Hampshire</li>
+<li>Six slots for tea, plus four slots for sweeteners</li>
+<li>Your tea is held securely in the wallet with a strong snap</li>
+<li>Measures 3"x5" when folded closed</li>
+<li>The attractive and tidy replacement for that plastic zip-lock baggie in the bottom of your bag!</li>
+<li>EVERY tea lover needs one, every tea lover wants one!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9864125377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>07102017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

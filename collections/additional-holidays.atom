@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/additional-holidays.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-16T14:39:20-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562087993433</id>
+    <published>2021-04-16T14:39:20-05:00</published>
+    <updated>2021-04-16T14:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mother-pink-roses-hankie-greeting-gift-card-1"/>
+    <title>Mother Pink Roses Hankie Greeting Gift Card - Only 5 Left!</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-pink-roses-hankie-greeting-gift-card-only-5-left.jpg?v=1618664678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lovely Mother Pink Roses Hankie Greeting Gift Card includes a full size usable hankie easily removed from a matching greeting card.  The card reads For You and the hanky reads Mother.  The card has a place on the back to write To and From along with space for a special note.  This item also include an envelope for mailing enclosed in clear cellophane.  This is a greeting card and gift all in one with her receiving a thoughtful greeting from you along with a gift she can keep always. </p>
+<p><span>Hankie measures 13' square ~ 100% Cotton Batiste Comes with white mailing envelope and cello sleeved.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562087993433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041621-6</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077769817</id>
+    <published>2021-04-16T14:23:12-05:00</published>
+    <updated>2021-04-16T14:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-summertime-rose-bone-china-made-in-england-mother-teacup-and-saucer-only-3-sets-available"/>
+    <title>Mother Teacup and Saucer Rare Royal Patrician Summertime Rose Bone China Made in England  - Only 3 Sets Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-teacup-and-saucer-rare-royal-patrician-summertime-rose-bone-china-made-in-england-only-3-sets-available.jpg?v=1618664677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">MOTHER - Imported from England tea cup and saucer</span></li>
+<li><span class="a-list-item">Imported English fine bone china</span></li>
+<li><span class="a-list-item">Summertime Rose Design - pink and red roses</span></li>
+<li><span class="a-list-item">Trimmed in 18 carat, not suitable for microwave</span></li>
+<li><span class="a-list-item">Condition: New</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077769817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077343833</id>
+    <published>2021-04-16T14:20:59-05:00</published>
+    <updated>2021-04-16T14:20:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mothers-are-special-hydrangea-large-teapot-rare-only-2"/>
+    <title>Mothers Are Special Hydrangea Large Teapot - Rare Only 2!</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mothers-are-special-hydrangea-large-teapot-rare-only-2.jpg?v=1618664676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mothers Are Special Hydrangea Large Ceramic Teapot has so much personality just like her!  Beautiful blue and green teapot hold 48 ounces.</p>
+<p>Dishwasher safe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077343833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>041621-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771990044761</id>
+    <published>2021-01-06T19:06:20-06:00</published>
+    <updated>2021-01-06T19:06:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-spring-swan-porcelain-teapot"/>
+    <title>Lovely Spring Swan Porcelain Teapot</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-spring-swan-porcelain-teapot.jpg?v=1610024597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">No ugly ducklings here. Enjoy your tea in this beautifully embossed porcelain swan shape teapot. Our swan is 6 1/2" high and holds 20 ounces. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771990044761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0106217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763687485529</id>
+    <published>2020-12-15T11:54:53-06:00</published>
+    <updated>2020-12-15T11:54:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunny-spring-pearl-necklace-and-earring-set"/>
+    <title>Sunny Spring Pearl Necklace and Earring Set F147</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunny-spring-pearl-necklace-and-earring-set-f147.jpg?v=1608123789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made with freshwater cultured keshi pearls and crystals. The length is 18 inch with 2 inch extension. Price includes one pair of earrings. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763687485529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>F147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506015891545</id>
+    <published>2020-03-11T11:46:15-05:00</published>
+    <updated>2020-03-11T11:46:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-floral-crosses-victorian-2-sheets-of-stickers-perfect-for-easter"/>
+    <title>Floral Crosses Victorian 2 Sheets of Stickers Perfect for Easter</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-crosses-victorian-2-sheets-of-stickers-perfect-for-easter.jpg?v=1601095181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers  3.75 x 7.75.  Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506015891545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34036N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506011435097</id>
+    <published>2020-03-11T11:39:31-05:00</published>
+    <updated>2020-03-11T11:39:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-party-with-bunnies-and-spring-theme-2-sheets-of-stickers"/>
+    <title>Easter Party with Bunnies and Spring Theme 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-party-with-bunnies-and-spring-theme-2-sheets-of-stickers.jpg?v=1584018360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easter Party with Bunnies and Spring Theme Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p>
+<p>2 Sheets of Stickers  3.75 x 7.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506011435097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34036N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4500280967257</id>
+    <published>2020-03-06T09:45:54-06:00</published>
+    <updated>2020-03-06T09:45:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-chick-broken-china-porcelain-charm-include-necklace-one-of-a-kind"/>
+    <title>Easter Chick Broken China Porcelain Charm Includes Necklace - One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-chick-broken-china-porcelain-charm-includes-necklace-one-of-a-kind.png?v=1583586100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Easter Chick Broken China Porcelain Charm and with Necklace is made <span>Vintage China with a Sweet Fluffy Easter Chick. Includes a 30" ball chain necklace. A custom made frame surrounds this vintage piece of china with small signature scallops. A soft pink crystal dangles at the bottom. Measures 1 1/4" x 2"(not counting crystal).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4500280967257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>0306201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4495868985433</id>
+    <published>2020-03-02T17:08:57-06:00</published>
+    <updated>2020-03-02T17:08:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/easter-basket-gift-hankie-card-with-tea-included"/>
+    <title>Easter Basket Gift Hankie Card with Tea Included</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/easter-basket-gift-hankie-card-with-tea-included.jpg?v=1583192586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Easter Basket Gift Hankie Card with Tea Included is a fantastic 3 in 1 tea gift greeting card. Gifting your loved one and friends with a beautiful greeting card along with a pretty scalloped edge 100% cotton handkerchief and a matching wrapped yummy tea to enjoy later.  Includes envelope for convenient mailing. Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4495868985433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0302203EAS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491586043993</id>
+    <published>2020-02-28T10:05:28-06:00</published>
+    <updated>2020-02-28T10:05:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-spring-showers-hankie-dress-teddy-bear-blue"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Blue</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-blue.jpg?v=1582981439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely blue bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491586043993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491584405593</id>
+    <published>2020-02-28T09:56:57-06:00</published>
+    <updated>2020-02-28T09:56:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-showers-hankie-dress-teddy-bear-pink"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Pink</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-pink.jpg?v=1582981438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable pink hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely pink bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491584405593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482540372057</id>
+    <published>2020-02-21T13:25:23-06:00</published>
+    <updated>2020-02-21T13:25:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-original-carol-wilson-rose-ribbon-heart-embossed-card"/>
+    <title>Rare Original Carol Wilson Rose Ribbon Heart Embossed Card</title>
+    <s:type>Carol Wilson</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-original-carol-wilson-rose-ribbon-heart-embossed-card.jpg?v=1582376690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Original Carol Wilson Rose Ribbon Heart Embossed Blank Greeting Card includes Envelope Arrives in cellophane sleeve.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carol Wilson</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482540372057</id>
+      <title>Default</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4478977507417</id>
+    <published>2020-02-18T17:51:17-06:00</published>
+    <updated>2020-02-18T17:51:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-floral-heart-note-card-portfolio-1"/>
+    <title>Carol Wilson Floral Heart Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-floral-heart-note-card-portfolio.jpg?v=1582072500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Floral Heart Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4478977507417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>339607N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446950195289</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-heart-shaped-pill-box"/>
+    <title>Sunflowers Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-heart-shaped-pill-box.jpg?v=1580216566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Heart Shaped Pill Box has lovely say: Love is the embrace of family and friends.  This feminine pretty little pill box is perfect for carrying your meds in your purse.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446950195289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0127201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4444089712729</id>
+    <published>2020-01-25T11:50:32-06:00</published>
+    <updated>2020-01-25T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen"/>
+    <title>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen.jpg?v=1580043747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad make perfect floral and pretty grocery lists, garden notes and reminders of things to do.  With a magnet on the back to place on steel surfaces you can use in the kitchen, office, she-shed crafting areas and more!  Our feminine shopping list notepads make sweet hostess gifts and party favors all wrapped up in organza ribbon with pen. If you look closely you will notice sweet bumble bees with forget me nots and butterflies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4444089712729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0125201</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421591367769</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-heart-porcelain-mug-in-matching-gift-box"/>
+    <title>Floral Heart Porcelain Mug in Matching Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-heart-porcelain-mug-in-matching-gift-box.jpg?v=1601095178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Floral Heart Porcelain Mug in Matching Gift Box is ready for gift giving with tassel all boxed up with decorative pattern and satin bow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421591367769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0108204</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421573345369</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/especially-for-you-valentines-hankie-greeting-card"/>
+    <title>Especially For You Valentines Hankie Greeting Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/especially-for-you-valentines-hankie-greeting-card.jpg?v=1582071475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Especially For You Valentines Hankie Greeting Card has a lovely lady carrying umbrella all dressed up in a functional scalloped hanky decorated with hearts and roses.  This is a perfect 2 in 1 gift as a greeting to be mailed and a gift to be kept as a keepsake.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421573345369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0108201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4420246143065</id>
+    <published>2020-01-07T09:17:45-06:00</published>
+    <updated>2020-01-07T09:17:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/valentines-you-are-my-cup-of-tea-hankie-greeting-card"/>
+    <title>Valentines You Are My Cup of Tea Hankie Greeting Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valentines-you-are-my-cup-of-tea-hankie-greeting-card.jpg?v=1601095173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Valentines You Are My Cup of Tea Hankie Greeting Card has a lovely functional heart scalloped hankie with enclosed white envelope for mailing.  Card has sweet little girl carrying a tea set with her trusted puppy helping.  The card and envelope arrives in clear cellophane.  This is the perfect 2 gifts in 1 with your loved one receiving not only a beautiful greeting but also a pretty hankie that can be use as a keepsake gift. Printed and Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4420246143065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0107201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376471797849</id>
+    <published>2019-12-05T15:10:37-06:00</published>
+    <updated>2019-12-05T15:10:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heart-shaped-adjustable-broken-china-pink-roses-ring"/>
+    <title>Heart Shaped Adjustable Broken China Pink Roses Ring</title>
+    <s:type>Broken China Jewelry Rings</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heart-shaped-adjustable-broken-china-pink-roses-ring.jpg?v=1601095132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Broken China Jewelry Rings<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heart Shaped Adjustable Broken China Pink Roses Ring has stainless steel adjustable band.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376471797849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371358384217</id>
+    <published>2019-12-02T09:44:31-06:00</published>
+    <updated>2019-12-02T09:44:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holly-berries-with-holly-christmas-holiday-sterling-silver-broken-china-jewelry-heart-pendant-one-of-a-kind"/>
+    <title>Holly Berries with Holly Christmas Holiday Sterling Silver Broken China Jewelry Heart Pendant - One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>Vintage Belle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holly-berries-with-holly-christmas-holiday-sterling-silver-broken-china-jewelry-heart-pendant-one-of-a-kind.jpg?v=1601095095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vintage Belle<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unbelievably feminine, this pendant features a lush holly berries with holly china pattern set in a sterling silver heart frame.  A scrolled loop for your chain adds the final touch.  USA handcrafted.</p>
+<p><strong>One of a Kind!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371358384217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku>06052016-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371343212633</id>
+    <published>2019-12-02T09:35:52-06:00</published>
+    <updated>2019-12-02T09:35:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holly-berry-christmas-holiday-sterling-silver-broken-china-jewelry-heart-pendant"/>
+    <title>Holly Berry with Ribbon Christmas Holiday Sterling Silver Broken China Jewelry Heart Pendant - One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>Vintage Belle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holly-berry-with-ribbon-christmas-holiday-sterling-silver-broken-china-jewelry-heart-pendant-one-of-a-kind.jpg?v=1601095094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vintage Belle<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unbelievably feminine, this pendant features a lush holly berries with red ribbon china pattern set in a sterling silver heart frame.  A scrolled loop for your chain adds the final touch.  USA handcrafted.</p>
+<p><strong>One of a Kind!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371343212633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>06052016-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4369587208281</id>
+    <published>2019-11-30T21:27:25-06:00</published>
+    <updated>2019-11-30T21:27:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-decorated-heart-trinket-box-with-rosette-bow"/>
+    <title>Hand Decorated Heart Trinket Box with Rosette Bow</title>
+    <s:type>Custom Ceramic Teaware</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-decorated-heart-trinket-box-with-rosette-bow.jpg?v=1601095093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Custom Ceramic Teaware<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heart Trinket Box with Rosette Bow Handmade one of a kind!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4369587208281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148148084825</id>
+    <published>2019-08-05T19:07:39-05:00</published>
+    <updated>2019-08-05T19:07:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mother-pink-roses-hankie-greeting-gift-card"/>
+    <title>Mother Pink Roses Hankie Greeting Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-pink-roses-hankie-greeting-gift-card.jpg?v=1601094925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Our lovely Mother Pink Roses Hankie Greeting Gift Card includes a full size usable hankie easily removed from a matching greeting card.  The card reads For You and the hanky reads Mother.  The card has a place on the back to write To and From along with space for a special note.  This item also include an envelope for mailing enclosed in clear cellophane.  This is a greeting card and gift all in one with her receiving a thoughtful greeting from you along with a gift she can keep always. </p>
+<p><span>Hankie measures 13' square ~ 100% Cotton Batiste Comes with white mailing envelope and cello sleeved.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148148084825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>20718N</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2145146241113</id>
+    <published>2019-08-01T13:03:25-05:00</published>
+    <updated>2019-08-01T13:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-one-of-kind-sterling-silver-broken-china-pink-and-yellow-roses-with-pink-depression-heart-shaped-glass-charms"/>
+    <title>Rare One of Kind Broken China Pink and Yellow Roses Sterling Silver Rolo Bracelet with Pink Depression Heart Shaped Glass Charms</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>China Baroque</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-one-of-kind-broken-china-pink-and-yellow-roses-sterling-silver-rolo-bracelet-with-pink-depression-heart-shaped-glass-charms.jpg?v=1601094920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>China Baroque<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            239.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Rare One of Kind Sterling Silver Broken China Pink and Yellow Roses Rolo Bracelet has Pink Depression Heart Shaped Glass Charms. Our broken china jewelry is made from vintage china refurbished into works of art. This huge statement piece is sure be to added to that special section of your jewelry box. The china charm and Depression glass charms are encased in <span>beautiful </span>high-quality silver<span> jewelry. Both bracelet and charms are over 90% pure </span>silver.  Be sure to pay attention to the lovely pale pink lampwork glass roses and sparkling swarovski crystal accents. Ladies treat yourself!  Men surprise her with rare jewelry she'll love!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2145146241113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">239.99</s:price>
+      <s:sku>6828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

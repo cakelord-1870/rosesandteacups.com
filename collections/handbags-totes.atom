@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/handbags-totes.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-03-01T10:25:01-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2012965011545</id>
+    <published>2019-03-01T10:25:01-06:00</published>
+    <updated>2019-03-01T10:25:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lace-teacups-and-teapots-on-yellow-handbag"/>
+    <title>Lace Teacups and Teapots on Yellow Handbag</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lace-teacups-and-teapots-on-yellow-handbag.jpg?v=1601094721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace Doily Purse Handmade in the USA. Tote Bag with lace. This cute tote has 6 pockets inside and 2 small pockets . 12" x 9" x 5" Lined with a coordinating fabric as show. . Magnetic Catch Closure. 100% Cotton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2012965011545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1991788429401</id>
+    <published>2019-02-13T09:02:41-06:00</published>
+    <updated>2019-02-13T09:02:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/darling-doilies-and-lace-handbag-only-one-available"/>
+    <title>Darling Doilies and Lace Handbag - Only One Available!</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/darling-doilies-and-lace-handbag-only-one-available.jpg?v=1601094687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Darling Doilies and Lace Hangbag is a perfect addition to your Spring wardrobe. Purse is lined and has pockets inside. Made just for you! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1991788429401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1991740883033</id>
+    <published>2019-02-13T08:34:44-06:00</published>
+    <updated>2019-02-13T08:34:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-delft-teacups-handbag-only-one-available"/>
+    <title>Blue Delft Teacups Handbag - Only One Available!</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-delft-teacups-handbag-only-one-available.jpg?v=1601094686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Delft Teacups Handbag is an amazing handbag with a pattern displaying an array of lovely teacups in blue and white. </p>
+<p>Strap 12”</p>
+<p>2 Pockets Inside</p>
+<p>Velcro Closure on Flap</p>
+<p>9” Wide x 7” Tall x 4” Depth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1991740883033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012319-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973936619609</id>
+    <published>2019-01-28T18:31:02-06:00</published>
+    <updated>2019-01-28T18:31:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-pattern-teapot-shaped-purse"/>
+    <title>Peacock Pattern Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-pattern-teapot-shaped-purse.jpg?v=1601094657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot Shaped Purse Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the pink teapot purse there is a removable hard fabric covered insert  that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973936619609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973931212889</id>
+    <published>2019-01-28T18:26:39-06:00</published>
+    <updated>2019-01-28T18:26:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-teapot-shaped-purse"/>
+    <title>Vintage Rose Tea Party Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-tea-party-teapot-shaped-purse.jpg?v=1601094656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vintage Rose Tea Party Teapot Shaped Purse has beautiful roses and a lovely tea theme pattern. Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the teapot purse there is a removable hard fabric covered insert that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973931212889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969512808537</id>
+    <published>2019-01-24T12:44:07-06:00</published>
+    <updated>2019-01-24T12:44:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/solitary-ivory-rose-clutch-purse"/>
+    <title>Solitary Ivory Rose Clutch Purse</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/solitary-ivory-rose-clutch-purse.jpg?v=1601094642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleek and sophisticated, our 9 x 5 x 2 inch Solitary Rose Satin Clutch Purse is subtley feminine and obviously elegant.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pur</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969512808537</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969507565657</id>
+    <published>2019-01-24T12:35:07-06:00</published>
+    <updated>2019-01-24T12:35:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-faux-pearl-and-rhinestone-evening"/>
+    <title>Ivory Faux Pearl and Rhinestone Evening - Only 2 Available!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>UR Eternity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-faux-pearl-and-rhinestone-evening-only-2-available.jpg?v=1601094641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UR Eternity<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ivory Faux Pearl and Rhinestone Evening Clutch included chain.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pur</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969507565657</id>
+      <title>Default</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>6575</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1966846509145</id>
+    <published>2019-01-21T17:58:15-06:00</published>
+    <updated>2019-01-21T17:58:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/limited-print-pink-tea-set-teapot-shaped-purse-only-2-available"/>
+    <title>Pink Tea Time Teapot Shaped Purse - Only 2 Available!</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-time-teapot-shaped-purse-only-2-available.jpg?v=1601094630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Teapot Shaped Purse Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the pink teapot purse there is a removable hard fabric covered insert  that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1966846509145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012119-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257437249</id>
+    <published>2017-07-15T10:47:47-05:00</published>
+    <updated>2017-07-15T10:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-holly-tissue-pack-cover"/>
+    <title>Winter Holly and Cardinal Tissue Pack Cover - Only 4 Left!</title>
+    <s:type>tissue pack covers</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-holly-and-cardinal-tissue-pack-cover-only-4-left.jpg?v=1601093336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>tissue pack covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Winter Holly and Cardinal Fabric Tissue Pack Cover. How sweet are these!  USA Handcrafted, they fit your tissue packs perfectly to keep tissues clean, safe and snug to the last one!  Adorable as favors, stocking stuffers, friendship and hostess gifts.  Perfect for your purse!  Patterns will vary slightly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257437249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>10042017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9895977409</id>
+    <published>2017-07-15T10:47:47-05:00</published>
+    <updated>2017-07-15T10:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-pink-tissue-pack-cover"/>
+    <title>Vintage Pink Tissue Pack Cover</title>
+    <s:type>tissue pack covers</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-pink-tissue-pack-cover.jpg?v=1601093248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>tissue pack covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>How sweet are these!  USA Handcrafted, they fit your tissue packs perfectly to keep tissues clean, safe and snug to the last one!  Adorable as favors, stocking stuffers, friendship and hostess gifts.  Perfect for your purse!  Patterns will vary slightly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9895977409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07152017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9895975425</id>
+    <published>2017-07-15T10:47:47-05:00</published>
+    <updated>2017-07-15T10:47:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bird-tissue-pack-cover"/>
+    <title>Yellow Bird Tissue Pack Cover - Only 2 Available!</title>
+    <s:type>tissue pack covers</s:type>
+    <s:vendor>Ann Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-bird-tissue-pack-cover-only-2-available.jpg?v=1601093244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ann Marie<br>
+        <strong>Type: </strong>tissue pack covers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>How sweet are these!  USA Handcrafted, they fit your tissue packs perfectly to keep tissues clean, safe and snug to the last one!  Adorable as favors, stocking stuffers, friendship and hostess gifts.  Perfect for your purse!  Patterns will vary slightly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9895975425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07152017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4105603201</id>
+    <published>2015-07-13T22:53:00-05:00</published>
+    <updated>2015-07-13T22:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-venetian-lace-handbag"/>
+    <title>Victorian Venetian Lace Handbag</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-venetian-lace-handbag.jpg?v=1601091811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bags are approx. 14" X 14".  Handle drop approx. 14"-16".</span><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4105603201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>33724N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520952065</id>
+    <published>2015-07-13T22:53:00-05:00</published>
+    <updated>2015-07-13T22:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/courier-style-monogrammed-handbag"/>
+    <title>Courier-style Monogrammed Handbag Carol Wilson Fabric</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/courier-style-monogrammed-handbag-carol-wilson-fabric.jpg?v=1601090270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>IPad/Kindle, or small laptop computer etc., would fit nicely also in this Carol Wilson fabric purse. </span><br><span>5 inside pockets, adjustable shoulder strap. Magnetic closure. Washable. <br>May choose one, two or three initials in whatever color desired, and any CW fabric choice (9"high x 10.5" wide x 3" deep)</span></p>
+<p><span>(Nancy has one of these and LOVES it!)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520952065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>7540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1782010380377</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowy-cardinals-tote"/>
+    <title>Snowy Cardinals Tote</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowy-cardinals-tote.png?v=1601094424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Snowy Country Christmas Cardinals...Tote bag (11h x 16w x 4 across bottom)with Silver band and interior lining</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1782010380377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>11022018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1781726183513</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jacobean-mosaic-tote"/>
+    <title>Jacobean Mosaic Tote</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jacobean-mosaic-tote.png?v=1601094419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Christmas  Jacobean Era Mosiac Table Runner</p>
+<p>Beautiful rich-looking Jacobean Era Christmas fabric etched in gold around design, on cotton fabric. "  <span>Christmas Jacobean Mosiac Tote (11h x16w x4 across bottom)</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1781726183513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>11022018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christmas-tea-ornaments.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-10-30T17:49:59-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4744953823321</id>
+    <published>2020-10-30T17:49:59-05:00</published>
+    <updated>2020-10-30T17:49:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-ornaments-12-assorted-floral-chintz"/>
+    <title>Porcelain Teapot Ornaments 12 Assorted Floral Chintz</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-ornaments-12-assorted-floral-chintz_11b0141b-e2dc-4ecd-adf8-7b1bfcb43fb0.jpg?v=1604098202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain Teapot Ornaments Attached Lids beautiful for every day decoration, favors, or Christmas holiday ornaments.</span></p>
+<p><span>Approximately 4x4 inches 12 Assorted</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4744953823321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1030202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4744953069657</id>
+    <published>2020-10-30T17:44:35-05:00</published>
+    <updated>2020-10-30T17:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-tea-cup-teacup-ornaments-12-assorted-floral-chintz"/>
+    <title>Porcelain Tea Cup Teacup Ornaments 6 Assorted Holiday Floral Chintz</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-cup-teacup-ornaments-6-assorted-holiday-floral-chintz.jpg?v=1605571954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porcelain Tea Cup Teacup Ornaments 6 Assorted Holiday Floral Chintz beautiful for every day decoration, favors, or Christmas holiday ornaments.</p>
+<p>Teacups are 1 1/4 inches tall Saucers are 2 1/4 wide.  Cups are attached to Saucers. </p>
+<p>(ornament tree not included) </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4744953069657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1030201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1558279233</id>
+    <published>2020-08-03T15:43:21-05:00</published>
+    <updated>2020-08-03T15:43:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-etched-egyptian-glass-tea-cup-ornament"/>
+    <title>Gold Etched Egyptian Glass Tea Cup Ornament</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-etched-egyptian-glass-tea-cup-ornament.jpg?v=1601091043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>24K Gold Trim 4 to 4.5 inches in height</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1558279233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3034N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371410452569</id>
+    <published>2019-12-02T10:47:26-06:00</published>
+    <updated>2019-12-02T10:47:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available"/>
+    <title>Glistening Gold and Pearls Pink Velvet Ribbon Victorian Holiday Christmas Ornament - Only 2 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/glistening-gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available.jpg?v=1601095100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold and Pearls Pink Velvet Ribbon Victorian Ornament - beautiful glistening gold, pearls and velvet ribbon is just breath taking. Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 9 inches in diameter. Most of the ornaments measure around 9 inches in height with pearl tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371410452569</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4363914281049</id>
+    <published>2019-11-26T18:28:13-06:00</published>
+    <updated>2019-11-26T18:28:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sarah-victorian-holiday-christmas-ornament"/>
+    <title>Sarah Victorian Holiday Christmas Ornament - Only 3 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sarah-victorian-holiday-christmas-ornament-only-3-available.jpg?v=1601095091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Victorian Ornament - Sara is just breath taking with its lovely pearls and royal gold trim. Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 3 inches in diameter. Most of the ornaments measure 4 inches in height without tassels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4363914281049</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2158471938137</id>
+    <published>2019-08-18T12:25:12-05:00</published>
+    <updated>2019-08-18T12:25:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lacy-lavender-teacup-ornament-sachet"/>
+    <title>Lovely Lacy Lavender Teacup Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lacy-lavender-teacup-ornament-sachet.jpg?v=1601094926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Lovely Lacy Lavender Teacup Ornament Sachet is filled with real lavender so each smell divine. There is adorable porcelain teacup ornaments on each side and satin pearly roses at the top. Pictured is a beautiful blue bird, pretty pink roses sitting in s Tiffany blue tea cup all with a hint of irredessent glitter.</p>
+<p>Made on the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2158471938137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0818191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/21544075265</id>
+    <published>2017-10-30T11:33:03-05:00</published>
+    <updated>2017-10-30T11:33:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-tea-cup-ornament"/>
+    <title>Tea Time Tea Cup Ornament</title>
+    <s:type>Christmas Tea Ornaments</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-tea-cup-ornament.png?v=1601093694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Christmas Tea Ornaments<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So adorable!  This little tea cup with candy cane handle is stuffed full of Christmas cheer.  Perfect for gifts and favors as well as for your tree!  3 x 3.5 inches  Made of resin.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/21544075265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10302017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504927617</id>
+    <published>2015-11-23T15:24:00-06:00</published>
+    <updated>2015-11-23T15:24:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brilliance-silver-wind-chime-and-teapot-ornament-silver-with-colored-crystals"/>
+    <title>Brilliance Tea Cup Ornament</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brilliance-tea-cup-ornament.jpg?v=1601089576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Brilliance Tea Cup Ornament  </span><br><span>Clear Swarovski Crystals and 24k Gold Plate</span><span>d</span><br><span>1.25" x 0.75"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504927617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1989565185</id>
+    <published>2015-09-02T18:10:00-05:00</published>
+    <updated>2015-09-02T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-glitter-post-card-ornaments"/>
+    <title>10 Glitter Post Card Ornaments - Only 1 Set Left!</title>
+    <s:type>Christmas Tea Ornaments</s:type>
+    <s:vendor>Great Lookz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-glitter-post-card-ornaments-only-1-set-left.jpg?v=1601091173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Lookz<br>
+        <strong>Type: </strong>Christmas Tea Ornaments<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glitter Post Card Ornaments!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1989565185</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520977089</id>
+    <published>2015-07-13T23:24:45-05:00</published>
+    <updated>2015-07-13T23:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/large-rotating-ornament-trees"/>
+    <title>Large Rotating Ornament Trees</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>KC&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/large-rotating-ornament-trees.jpg?v=1601090280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KC&amp;G<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Rotating Ornament Trees</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520977089</id>
+      <title>Gold</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520977089</id>
+      <title>Silver</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>7244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520975425</id>
+    <published>2015-07-13T23:23:38-05:00</published>
+    <updated>2015-07-13T23:23:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/medium-rotating-ornament-tree"/>
+    <title>Medium Rotating Ornament Tree</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>KC&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/medium-rotating-ornament-tree.jpg?v=1601090279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KC&amp;G<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Rotating Ornament Tree</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520975425</id>
+      <title>Gold</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>7241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520975425</id>
+      <title>Silver</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>7242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520974209</id>
+    <published>2015-07-13T23:22:00-05:00</published>
+    <updated>2015-07-13T23:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rotating-tabletop-ornament-tree"/>
+    <title>Small Silver Rotating Tabletop Ornament Tree</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>KC&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-silver-rotating-tabletop-ornament-tree.jpg?v=1601090278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KC&amp;G<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small Silver Rotating Tabletop Ornament Trees</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520974209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>7240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513422977</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/limited-edition-egyptian-glass-pink-ribbon-teapot-ornament"/>
+    <title>LIMITED EDITION Egyptian Glass Pink Ribbon Teapot Ornament - 2 Left!</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/limited-edition-egyptian-glass-pink-ribbon-teapot-ornament-2-left.jpg?v=1601090014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handcrafted Egyptian Glass Pink Ribbon Teapot </span><span>Ornaments with 24K Gold Trim 3.5 in height </span><br><span>Benefits Breast Cancer Prevention!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513422977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504918529</id>
+    <published>2015-07-11T16:43:00-05:00</published>
+    <updated>2015-07-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brilliance-teapot-ornament-colored-crystals"/>
+    <title>Brilliance Teapot Ornament Colored Crystals</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brilliance-teapot-ornament-colored-crystals.jpg?v=1601089575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>24K Gold Plated with real Swarovski crystals teapot ornament is perfect for tea favors or holiday events. </span></p>
+<p><br><span>Measures: 2" x 3" x 1.25"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504918529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>7211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504833025</id>
+    <published>2015-07-11T16:43:00-05:00</published>
+    <updated>2015-07-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-assorted-holiday-porcelain-teapot-ornaments"/>
+    <title>6 Assorted Holiday Porcelain Teapot Ornaments</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-assorted-holiday-porcelain-teapot-ornaments.jpg?v=1601089561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot Ornaments are 3" tall and 3" across from spout to handle.</span><br><span>Tea Cup Ornaments are 2 1/3"across saucer and 1 1/2 tall.</span><br><span>Patterns will vary. Please allow 2-3 weeks for delivery.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504833025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504831809</id>
+    <published>2015-07-11T16:43:00-05:00</published>
+    <updated>2015-07-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-assorted-holiday-porcelain-tea-cup-ornaments"/>
+    <title>6 Assorted Holiday Porcelain Tea Cup Ornaments</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-assorted-holiday-porcelain-tea-cup-ornaments.jpg?v=1601089560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teapot Ornaments are 3" tall and 3" across from spout to handle.</span><br><span>Tea Cup Ornaments are 2 1/3"across saucer and 1 1/2 tall.</span><br><span>Patterns will vary. Please allow 2-3 weeks for delivery.</span></p>
+<p><a href="https://roses-and-teacups.com/pages/policies" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504831809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504830593</id>
+    <published>2015-07-11T16:43:00-05:00</published>
+    <updated>2015-07-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-assorted-floral-porcelain-tea-cup-ornaments-1"/>
+    <title>6 Assorted Floral Porcelain Tea Cup Ornaments</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-assorted-floral-porcelain-tea-cup-ornaments.jpg?v=1601089559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teapot Ornaments are 3" tall and 3" across from spout to handle.</span><br><span>Tea Cup Ornaments are 2 1/3"across saucer and 1 1/2 tall.</span><br><span>Patterns will vary. Please allow 2-3 weeks for delivery.</span></p>
+<p><a href="https://roses-and-teacups.com/pages/policies" target="_blank" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504830593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504827841</id>
+    <published>2015-07-11T16:43:00-05:00</published>
+    <updated>2015-07-11T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-assorted-floral-porcelain-tea-cup-ornaments"/>
+    <title>6 Assorted Floral Porcelain Teapot Ornaments</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-assorted-floral-porcelain-teapot-ornaments.jpg?v=1601089558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teapot Ornaments are 3" tall and 3" across from spout to handle.</span><br><span>Tea Cup Ornaments are 2 1/3"across saucer and 1 1/2 tall.</span><br><span>Patterns will vary. Please allow 2-3 weeks for delivery.</span></p>
+<p><a href="https://roses-and-teacups.com/pages/policies" target="_blank" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504827841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>1953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

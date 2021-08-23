@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/white-ivory-victorian-hats.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-04-15T17:28:43-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063755640921</id>
+    <published>2019-04-15T17:28:43-05:00</published>
+    <updated>2019-04-15T17:28:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-victorian-bridal-hat-with-white-roses-506w"/>
+    <title>White Victorian Bridal Hat with White Roses #506W</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-victorian-bridal-hat-with-white-roses-506w.jpg?v=1601094750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies White Victorian Touring Hat with white Roses. This is one of our designs from our first collection. It has been a best seller for many years. It has a white satin pleated top with white satin roses in front with white feathers and a white ribbon and white lace bow on the side. Finished off with a white English netting bow on the back..</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063755640921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>202N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054624870489</id>
+    <published>2019-04-04T09:58:15-05:00</published>
+    <updated>2019-04-04T09:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-fingerless-lace-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>White Fingerless Lace Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/White-Fingerless-Lace-Gloves-Perfect-for-Tea-Parties-and-Bridal-Affairs_94bab9c1-bce7-404b-b09c-a4abd51dd8d4.jpg?v=1628813630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in white</span><span> with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054624870489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107142145</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-touring-hat-antique-with-seafoam"/>
+    <title>Victorian Touring Hat Antique with Seafoam</title>
+    <s:type>Ivory and White Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-touring-hat-antique-with-seafoam.jpg?v=1601092685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Ivory and White Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Victorian touring hat features antique lace with seafoam accents.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107142145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-60N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107124033</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-touring-hat-antique-with-french-mauve"/>
+    <title>Victorian Touring Hat Antique with French Mauve</title>
+    <s:type>Ivory and White Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-touring-hat-antique-with-french-mauve.jpg?v=1601092684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Ivory and White Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Victorian touring hat features antique lace with French mauve accents.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107124033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-59N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107100993</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-antique-with-french-lavender"/>
+    <title>Victorian Touring Hat Antique with French Lavender</title>
+    <s:type>Ivory and White Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-touring-hat-antique-with-french-lavender.jpg?v=1601092683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Ivory and White Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Victorian touring hat features antique lace with French lavender accents.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107100993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-57N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1470276161</id>
+    <published>2015-07-08T19:54:00-05:00</published>
+    <updated>2015-07-08T19:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girls-victorian-tea-party-hat-200"/>
+    <title>Small Ladies and Girls Victorian Tea Party Hat #200</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-ladies-and-girls-victorian-tea-party-hat-200.jpg?v=1601089083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Small Ladies and Girls Designer Victorian Tea Party Hat Ivory fits both children or small adult with mauve Victorian hat. This hat is a smaller version of our Ladies Victorian Touring hat. Inside size of hat is 21". It has a pleated ivory satin top with petite mauve, light peach &amp; lavender bouquet flowers in front with a light mauve feather and a satin ribbon bow on side. Finished off with an English netting bow on the back.</span></p>
+<p><a href="https://rosesandteacups.com/pages/policies" target="_blank" title="Crafted for you by hand" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></span></a></p>
+<p><span>This hat is made just for you at the time of the order.  There are several steps involved in creating your hat that do require extra time such as hand dyeing and drying your embellishments plus the hand assembly.  These are made in the USA by a very talented artist that has carried on the creative talents of her mother.  This is not a hat that sits getting dusty on a shelf!  This is something special made just for you or your loved one as a gift she'll never forget! The turn around time for this process is usually 1-2 weeks but she is usually very quick. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1470276161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1470259521</id>
+    <published>2015-07-08T19:54:00-05:00</published>
+    <updated>2015-07-08T19:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girls-victorian-tea-party-hat-202"/>
+    <title>Children or Small Ladies Victorian Tea Party Hat #202MV</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/children-or-small-ladies-victorian-tea-party-hat-202mv.jpg?v=1601089078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Girl's Designer Victorian Tea Party Hat Ivory Children's or Small adult with mauve Victorian hat. This hat is a smaller version of our Ladies Victorian Touring hat. Inside size of hat is 21". It has a pleated mauve satin top with petite mauve and ivory bouquet flowers in front with a mauve feather and a ribbon/satin bow on side. Finished off with an English Ivory netting bow on back.</span></p>
+<p><a href="https://rosesandteacups.com/pages/policies" target="_blank" title="Crafted for you by hand" rel="noopener noreferrer"><span></span></a><a href="https://rosesandteacups.com/pages/policies" class="fancyboximg" target="_blank" title="Shipping and Policies Page" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/files/handmadewhitent_large.gif?1021968047864507042"></a></p>
+<p><span>This hat is made just for you at the time of the order.  There are several steps involved in creating your hat that do require extra time such as hand dyeing and drying your embellishments plus the hand assembly.  These are made in the USA by a very talented artist that has carried on the creative talents of her mother.  This is not a hat that sits getting dusty on a shelf!  This is something special made just for you or your loved one as a gift she'll never forget! The turn around time for this process is usually 1-2 weeks but she is usually very quick.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1470259521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1397391681</id>
+    <published>2015-06-30T13:14:00-05:00</published>
+    <updated>2015-06-30T13:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-victorian-bridal-hat-506"/>
+    <title>Ivory Victorian Bridal Hat #506</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-victorian-bridal-hat-506.jpg?v=1592576231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span> Our Ladies Ivory Victorian Touring Hat has been a best seller for many years. It has an Ivory satin pleated top with silky large Ivory roses in front. It has Ivory feathers and a Ivory ribbon and lace bow on the side. It is finished off with a Ivory English netting bow on the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1397391681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>4400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

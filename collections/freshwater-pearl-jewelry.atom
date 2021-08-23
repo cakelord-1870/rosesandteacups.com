@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/freshwater-pearl-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-16T18:33:59-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764246573145</id>
+    <published>2020-12-16T18:33:59-06:00</published>
+    <updated>2020-12-16T18:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-keshi-freshwater-pearl-necklace-earring-set"/>
+    <title>Peacock Keshi Freshwater Pearl Necklace Earring Set</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-keshi-freshwater-pearl-necklace-earring-set.jpg?v=1608210220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This necklace and earring are made by peacock color keshi pearls, cultured freshwater white pearls and white crystals. The neckalce is in 17 inch with 2.5 inch extension. The matching earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764246573145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1216204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764243951705</id>
+    <published>2020-12-16T18:32:04-06:00</published>
+    <updated>2020-12-16T18:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/keshi-queen-freshwater-pearl-necklace"/>
+    <title>Keshi Queen Freshwater Pearl Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/keshi-queen-freshwater-pearl-necklace.jpg?v=1608210219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant looking necklace and earring are made by AAA+ quality white keshi pearls and red &amp;l ight blue crystals in 17 inch with 2.5 inch extension. All white keshi pearls are very good luster and flawless. Earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764243951705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1216203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763704328281</id>
+    <published>2020-12-15T12:50:33-06:00</published>
+    <updated>2020-12-15T12:50:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-oval-coin-pearl-and-silver-chain-necklace"/>
+    <title>White Oval Coin Pearl and Silver Chain Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-oval-coin-pearl-and-silver-chain-necklace.jpg?v=1608123792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This unique oval shape coin pearl is made by genuine coin pearls. The length is 40 inch. The size of the pearl is 10-11mm by 15-16mm. The chain is silver plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763704328281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>121520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763701968985</id>
+    <published>2020-12-15T12:42:09-06:00</published>
+    <updated>2020-12-15T12:42:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-pn112"/>
+    <title>White Freshwater Pearl Necklace PN112</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn112.jpg?v=1608123791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7mm 85 inch cultured freshwater white pearl necklace with very good luster and hand knotted.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763701968985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1215201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763687485529</id>
+    <published>2020-12-15T11:54:53-06:00</published>
+    <updated>2020-12-15T11:54:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunny-spring-pearl-necklace-and-earring-set"/>
+    <title>Sunny Spring Pearl Necklace and Earring Set F147</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunny-spring-pearl-necklace-and-earring-set-f147.jpg?v=1608123789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made with freshwater cultured keshi pearls and crystals. The length is 18 inch with 2 inch extension. Price includes one pair of earrings. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763687485529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>F147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134789633</id>
+    <published>2018-07-03T12:03:29-05:00</published>
+    <updated>2018-07-03T12:03:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bridal-pearls-bracelet-bf111"/>
+    <title>Bridal Pearls Bracelet BF111</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bridal-pearls-bracelet-bf111.jpg?v=1601093106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by white freshwater natural Biwa pearls, classic pearls and crystal. Biwa pearls size: L: 8-9mm W: 2-3mm. Bracelet 7 inches with 2 inches of chain extension.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134789633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>04052017-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1310791237733</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-freshwater-pearl-necklace-pn107"/>
+    <title>White Freshwater Pearl Necklace PN107</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn107.jpg?v=1601094152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>6-7mm cultured freshwater pearl necklace. The shortest one is 17 inch and longest one is 19 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1310791237733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07092018-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9135183745</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ocean-seagulls-pearl-necklace-and-earrings"/>
+    <title>Ocean Seagulls Pearl Necklace and Earrings F218</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ocean-seagulls-pearl-necklace-and-earrings-f218.jpg?v=1608250373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by freshwater cultured peacock blue round keshi pearls (bigger size), blue keshi pearls (smaller size), white rice pearls and crystals. The length is 18 inch with 2 inch extension. Price includes one pair of earring. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9135183745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>04052017-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9135169281</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunshiny-blue-pearl-bracelet"/>
+    <title>Sunshiny Blue Pearl Bracelet BF150</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunshiny-blue-pearl-bracelet-bf150.jpg?v=1601093114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by freshwater cultured pink and blue keshi pearls and crystals. The length is 7 inch with 2 inch extension. Matching necklace available!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9135169281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>04052017-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134893313</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/star-of-the-sea-white-pearl-bracelet-f205"/>
+    <title>Star of the Sea White Pearl Bracelet BF105</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/star-of-the-sea-white-pearl-bracelet-bf105.jpg?v=1601093112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by 3mm cultured white freshwater pearls. 7 inches with 2 inches of chain extension.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134893313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>04052017-18N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134880001</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-gray-waltz-pearl-necklace-f009"/>
+    <title>Silver Gray Waltz Pearl Necklace F205</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-gray-waltz-pearl-necklace-f205.jpg?v=1601093111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by cultured freshwater silver grey pearls, silver grey baroque pearls and crystals, 50 inch long.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134880001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04052017-17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134818945</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peachy-pink-3-strand-pearl-necklace-pn082"/>
+    <title>Princess Pink Pearl Earrings EF125</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/princess-pink-pearl-earrings-ef125.jpg?v=1601093108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pink keshi pearls with sterling silver French hook.  Matching Necklace and Bracelet Available!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134818945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>04052017-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134793729</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-and-white-3-strand-pearl-necklace"/>
+    <title>Peacock and White 3 Strand Pearl Necklace PN082</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-and-white-3-strand-pearl-necklace-pn082.jpg?v=1601093107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3 stands 8mm cultured white, silver grey and peacock pearls. The shortest chain is 17 inch, the longest chain is 20 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134793729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>04052017-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134758209</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/splendid-gem-pearl-necklace-f229"/>
+    <title>Splendid Gem Pearl Necklace F145</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/splendid-gem-pearl-necklace-f145.jpg?v=1601093104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by pink baroque pearls, rice pearls and crystals. 18 inch with 2 inch chain extension. The baroque pearls are natural shape with size (L: 13mm to 22mm, W: 13mm to 18mm). The price includes a pair of earring. Earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134758209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>04052017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134751233</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/astrid-sofia-pearl-necklace-f229"/>
+    <title>Astrid Sofia Pearl Necklace F229</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/astrid-sofia-pearl-necklace-f229.jpg?v=1601093103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by 14-16mm cultured baroque pearls, 5-7mm keshi pearls and crystals, the color is gorgeous turquoise. It is 18 inch long with 2 inch extension. The price includes one pair of earring. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134751233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>04052017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134741697</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-pearl-3-strand-necklace-f209"/>
+    <title>Chocolate Pearl 3 Strand Necklace F209</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-pearl-3-strand-necklace-f209.jpg?v=1601093100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by three stands cultured freshwater chocolate color baroque pearls with heart toggle clasp, 18 inch long.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134741697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>04052017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134694337</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-heart-bracelet-silver-bs019f"/>
+    <title>Pearl Heart Bracelet Silver BS019F</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-heart-bracelet-silver-bs019f.jpg?v=1601093098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 7.5 inch stretch bracelet is made by 10mm cultured freshwater pearls, Russian antique silver look decorations and heart charm. Silver gray pearls.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134694337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>04052017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134646977</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-heart-bracelet-blues-bs017f"/>
+    <title>Pearl Heart Bracelet Blues BS018F</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-heart-bracelet-blues-bs018f.jpg?v=1601093097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 7.5 inch stretch bracelet is made by 10mm cultured freshwater pearls, Russian antique silver look decorations and heart charm. Pearls color are all natural color of peacock blue.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134646977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>04052017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4127787649</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/of-3-strand-peacock-stretch-pearl-bracelet-bf1005"/>
+    <title>3 Strand Peacock Stretch Pearl Bracelet BF1005</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-strand-peacock-stretch-pearl-bracelet-bf1005.jpg?v=1601091905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This three stands stretch bracelet made by 8mm freshwater cultured pearls, the length is 8 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4127787649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33852N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4127759105</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-strand-white-stretch-pearl-bracelet-bf1001"/>
+    <title>3 Strand White Stretch Pearl Bracelet BF1001</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-strand-white-stretch-pearl-bracelet-bf1001.jpg?v=1601091903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This three stands stretch bracelet made by 8mm freshwater cultured pearls, the length is 8 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4127759105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33850N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4116136897</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-gray-stretch-pearl-bracelet-bf9-001"/>
+    <title>Silver Gray Stretch Pearl Bracelet BF9-001</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-gray-stretch-pearl-bracelet-bf9-001.jpg?v=1601091902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>9mm freshwater cultured pearl stretch bracelet. 7.5 inches. Silver grey color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4116136897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33849N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4116125889</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-stretch-pearl-bracelet-bf9-002"/>
+    <title>Pink Stretch Pearl Bracelet BF9-002</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-stretch-pearl-bracelet-bf9-002.jpg?v=1601091901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>9mm freshwater cultured natural pink color pearl stretch bracelet. 7.5 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4116125889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33848N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4116121793</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-stretch-pearl-bracelet-bf020"/>
+    <title>Peacock Stretch Pearl Bracelet BF020</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-stretch-pearl-bracelet-bf020.jpg?v=1601091900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>9mm cultured freshwater pearl stretch bracelet. 7.5 inches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4116121793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33847N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4116118401</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-pastels-stretch-pearl-bracelet-bf019"/>
+    <title>Peach Pastels Stretch Pearl Bracelet BF019</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-pastels-stretch-pearl-bracelet-bf019.jpg?v=1601091899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>9mm cultured freshwater pearl stretch bracelet. 7.5 inches. Natural color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4116118401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33846N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4116114561</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-stretch-pearl-bracelet-bf018"/>
+    <title>White Stretch Pearl Bracelet BF018</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-stretch-pearl-bracelet-bf018.jpg?v=1601091898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>9mm cultured freshwater pearl stretch bracelet. 7.5 inches. Natural color.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4116114561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>33845N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

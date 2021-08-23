@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/mugs.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-06T13:51:54-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556321185881</id>
+    <published>2021-04-06T13:51:54-05:00</published>
+    <updated>2021-04-06T13:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-roses-and-poppies"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Purple Roses and Poppies</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-purple-roses-and-poppies.jpg?v=1617800709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug - Purple Roses and Poppies with matching gift box adorned with lovely satin bow. Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556321185881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0406212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756873871449</id>
+    <published>2020-11-28T13:38:06-06:00</published>
+    <updated>2020-11-28T13:38:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-snow-birds-holiday-christmas-mug-set"/>
+    <title>Winter Snow Birds Holiday Christmas Mug Set</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-snow-birds-holiday-christmas-mug-set.jpg?v=1606608786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Winter Snow Birds Mug Set includes 11oz porcelain mug, spoon, and coaster in matching gift box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756873871449</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1128208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756869152857</id>
+    <published>2020-11-28T13:09:22-06:00</published>
+    <updated>2020-11-28T13:09:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-box-mug-santa-with-snow-globe-snowman"/>
+    <title>Gift Box Mug Santa with Snow Globe Snowman</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-box-mug-santa-with-snow-globe-snowman.jpg?v=1606655055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa with Presents Porcelain Mug Gift Boxed  features Santa giving out presents near a lit Christmas tree.  There is an adorable deer nearby curious as to what they are getting.  Each mug has a rich pattern completely surrounding both mug and gift box and if you look closely you'll even find a little surprise pattern on the bottom.  Our gift boxes are ready for gift giving with a lovely satin bow and terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756869152857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1128205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4744122630233</id>
+    <published>2020-10-28T18:20:15-05:00</published>
+    <updated>2020-10-28T18:20:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag"/>
+    <title>Holiday Christmas Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag Gift  Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag.jpg?v=1603976605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4744122630233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742730776665</id>
+    <published>2020-10-26T15:11:37-05:00</published>
+    <updated>2020-10-26T15:11:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-pink-peony"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Pink Peony</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-pink-peony.jpg?v=1603757547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug with matching gift box adorned with lovely satin bow.  Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742730776665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1026204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421591367769</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-heart-porcelain-mug-in-matching-gift-box"/>
+    <title>Floral Heart Porcelain Mug in Matching Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-heart-porcelain-mug-in-matching-gift-box.jpg?v=1601095178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Floral Heart Porcelain Mug in Matching Gift Box is ready for gift giving with tassel all boxed up with decorative pattern and satin bow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421591367769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0108204</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388655824985</id>
+    <published>2019-12-14T20:54:23-06:00</published>
+    <updated>2019-12-14T20:54:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/empire-peony-bone-china-mugs-set-of-4"/>
+    <title>Empire Peony Bone China Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/empire-peony-bone-china-mugs-set-of-4.jpg?v=1601095167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Empire Peony Bone China Mugs Set of 4 <span>Made of Stechol Bone China Holds Approximately 10 ounces</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388655824985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1214195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388643569753</id>
+    <published>2019-12-14T15:19:29-06:00</published>
+    <updated>2019-12-14T15:19:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppy-bone-china-mugs-set-of-4"/>
+    <title>Poppy Bone China Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppy-bone-china-mugs-set-of-4.jpg?v=1601095165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppy Bone China Mugs Set of 4 <span>Made of Stechol Bone China Holds Approximately 11 ounces</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388643569753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1214195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4357942771801</id>
+    <published>2019-11-22T11:10:52-06:00</published>
+    <updated>2019-11-22T11:10:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/assorted-pastel-cameo-rose-bone-china-footed-mugs-set-of-4"/>
+    <title>Assorted Pastel Cameo Rose Bone China Footed Mugs Set of 4</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/assorted-pastel-cameo-rose-bone-china-footed-mugs-set-of-4.jpg?v=1601095075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Assorted Pastel Cameo Rose Bone China Footed Mugs Set of 4 holds approximately 9 ounces.  Soft pastel colors trimmed in 14K gold decorated with lovely rose cameos adds elegance to your morning brew.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4357942771801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>112219-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287572672601</id>
+    <published>2019-10-18T13:22:51-05:00</published>
+    <updated>2019-10-18T13:22:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-mugs-set-of-4"/>
+    <title>Snowman Chintz Porcelain Mugs Set of 4</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-mugs-set-of-4.jpg?v=1601095028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>13 ounce Scallop Edge Tea Mug. Cream Porcelain. Metallic Decal with Gold Trim.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287572672601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>10302017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287501107289</id>
+    <published>2019-10-18T12:11:59-05:00</published>
+    <updated>2019-10-18T12:11:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-mugs-set-of-2"/>
+    <title>Snowman Chintz Porcelain Mugs Set of 2</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-mugs-set-of-2.jpg?v=1601095025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>13 ounce Scallop Edge Porcelain Mug perfect for hot chocolate, coffee or tea. Cream Porcelain. Trimmed 14K Gold. </span></p>
+<p><span>Due to metal not microwave safe.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287501107289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>11022017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4184806686809</id>
+    <published>2019-10-07T10:03:03-05:00</published>
+    <updated>2019-10-07T10:03:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-christmas-holiday-porcelain-mug-spoon-coaster-gift-boxed-set"/>
+    <title>Santa Christmas Holiday Porcelain Mug Spoon Coaster Gift Boxed Set</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-christmas-holiday-porcelain-mug-spoon-coaster-gift-boxed-set.jpg?v=1601095023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa Christmas Holiday Porcelain Mug Spoon Coaster Gift Boxed Set has presents and poinsettias abound.  Each satin bow adorned matching gift box is perfect for gift giving or displaying for the holidays.  The adorable Santa pattern surrounds both mug and box and if you look closely you can see the pattern on the spoon, inside the mug, and even on the bottom of the box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4184806686809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>1007192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4176882663513</id>
+    <published>2019-10-02T15:48:26-05:00</published>
+    <updated>2019-10-02T15:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-with-presents-porcelain-mug-gift-boxed"/>
+    <title>Santa with Presents Porcelain Mug Gift Boxed</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-with-presents-porcelain-mug-gift-boxed.jpg?v=1582072426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa with Presents Porcelain Mug Gift Boxed  features Santa giving out presents near a lit Christmas tree.  There is an adorable deer nearby curious as to what they are getting.  Each mug has a rich pattern completely surrounding both mug and gift box and if you look closely you'll even find a little surprise pattern on the bottom.  Our gift boxes are ready for gift giving with a lovely satin bow and terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4176882663513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1002195J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4172856557657</id>
+    <published>2019-09-30T08:52:08-05:00</published>
+    <updated>2019-09-30T08:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-camellia-porcelain-mug-in-matching-gift-box"/>
+    <title>English Camellia Porcelain Mug in Matching Gift Box - Only 1 Left!</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-camellia-porcelain-mug-in-matching-gift-box-only-1-left.jpg?v=1601095018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our English Camellia Porcelain Mug in Matching Gift Box is rich with color.  Each mug has lovely camellias and more colorful florals. See the dainty scrolling handle with a terrific tassel and the satin bow which makes this item perfect for giving as a gift.  The matching pattern on the box surrounds all the around, on the lid as well and if you look closely you will find a hidden pattern on the bottom.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4172856557657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0930195J</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4172848070745</id>
+    <published>2019-09-30T08:41:11-05:00</published>
+    <updated>2019-09-30T08:41:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-hydrangea-and-butterflies-porcelain-mug-in-matching-gift-box"/>
+    <title>Blue Hydrangea and Butterflies Porcelain Mug in Matching Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-hydrangea-and-butterflies-porcelain-mug-in-matching-gift-box.jpg?v=1601095017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Blue Hydrangea and Butterflies Porcelain Mug in Matching Gift Box is rich with color.  Each mug has a happy hydrangeas with fluttering butterflies about.  See the dainty scrolling handle with a terrific tassel and the satin bow which makes this item perfect for giving as a gift.  The matching pattern on the box surrounds all the around, on the lid as well and if you look closely you will find a hidden pattern on the bottom.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4172848070745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0930193J</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4172784959577</id>
+    <published>2019-09-30T07:45:13-05:00</published>
+    <updated>2019-09-30T07:45:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/you-are-amazing-large-ceramic-mug"/>
+    <title>You Are Amazing Large Ceramic Mug</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/you-are-amazing-large-ceramic-mug.jpg?v=1601095016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy your beverage of choice in this beautiful and inspirational sculpted mug. Also makes a great gift!</p>
+<ul>
+<li>Ceramic</li>
+<li>16 oz</li>
+<li>Message and Design on Both Sides of Mug</li>
+<li>Message<span> and Design</span><span> </span>on One Side of Inside Rim</li>
+<li>Floral Design</li>
+<li>4.75 Tall x 3.5" Diameter Opening</li>
+<li>Dishwasher and Microwave Safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4172784959577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>0930192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4158560403545</id>
+    <published>2019-09-23T11:00:40-05:00</published>
+    <updated>2019-09-23T11:00:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/truly-great-friends-tea-and-mug-coaster-mat-with-tea-included"/>
+    <title>Truly Great Friends Tea and Mug Coaster Mat with Tea Included</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/truly-great-friends-tea-and-mug-coaster-mat-with-tea-included.jpg?v=1601095003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Truly Great Friends Spice Mug Coaster Mat with Tea Included says the perfect thing for the perfect gift! Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea. Makes a thoughtful and inexpensive gift idea. Great for gift baskets. Machine washable. Made in the USA</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4158560403545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0923193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4158549786713</id>
+    <published>2019-09-23T10:55:53-05:00</published>
+    <updated>2019-09-23T10:55:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/good-friends-coaster-mug-spice-mat-with-tea-included-gift"/>
+    <title>Good Friends Coaster Mug Spice Mat with Tea Included Gift</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/good-friends-coaster-mug-spice-mat-with-tea-included-gift.jpg?v=1601095002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Good Friends Spice Mug Coaster Mat with Tea Included says the perfect thing for the perfect gift! Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea. Makes a thoughtful and inexpensive gift idea. Great for gift baskets. Machine washable. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4158549786713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0923192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4158519803993</id>
+    <published>2019-09-23T10:21:54-05:00</published>
+    <updated>2019-09-23T10:21:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bicycle-spice-mug-coaster-mat-with-tea-included"/>
+    <title>Bicycle Spice Mug Coaster Mat with Tea Included</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bicycle-spice-mug-coaster-mat-with-tea-included.jpg?v=1601094999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Bicycle Spice Mug Coaster Mat with Tea Included features a bike carrying baskets full of flowers and goodies! Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea. Makes a thoughtful and inexpensive gift idea. Great for gift baskets. Machine washable. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4158519803993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0923191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510836545</id>
+    <published>2019-07-11T00:19:23-05:00</published>
+    <updated>2019-07-11T00:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-lilacs-victorian-tankards"/>
+    <title>Set of 4 Gracie&apos;s Rose Bone China Mugs</title>
+    <s:type>Mugs And Tankards</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-gracies-rose-bone-china-mugs.jpg?v=1601089774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Mugs And Tankards<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gracie's Rose Trumpet Fine Bone China Mugs with Gold Trim hold 11 ounces.  This pattern has lovely roses, daises and pretty forget me nots. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510836545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>7399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122614636633</id>
+    <published>2019-06-28T11:22:55-05:00</published>
+    <updated>2019-06-28T11:22:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cookies-and-cup-cakes-bone-china-mug-only-4-available"/>
+    <title>Cookies and Cup Cakes Bone China Mug - Only 3 Available!</title>
+    <s:type>Bone China Mugs</s:type>
+    <s:vendor>Cardew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cookies-and-cup-cakes-bone-china-mug-only-3-available.jpg?v=1601094848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardew<br>
+        <strong>Type: </strong>Bone China Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cookies and Cupcakes Bone China Mug has fun and yummy pattern going all the way around and cute sayings and cupcakes on the inside.  The text on the inside reads: Sweet Tooth, The Icing on the Cake, and Sprinkles. The handle is also decorated and has text that ready Cup Cakes. Holds a generous 15 ounces. Microwave and dish washer safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122614636633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0628192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120467775577</id>
+    <published>2019-06-25T15:28:44-05:00</published>
+    <updated>2019-06-25T15:28:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-patrician-bone-china-mug-misty-rose-pattern-made-in-england-only-2-available"/>
+    <title>Royal Patrician Bone China Mug Misty Rose Pattern Made in England - Only 2 Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-patrician-bone-china-mug-misty-rose-pattern-made-in-england-only-2-available.jpg?v=1601094834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This cheerful bone china mug features the new Misty Rose Chintz pattern from Royal Patrician. Each mug holds 10 ounces of liquid. Fine bone china, Made in England by Royal Patrician. A brightly colored chintz rendition of a former favorite, the Misty Rose Chintz pattern's cheerful color palette will bring a glimmer of sunshine to your tea party. Each piece is crafted of fine bone china in England by Royal Patrician who is no longer in business which makes this a rare collectible. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120467775577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>062519-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054707675225</id>
+    <published>2019-04-04T12:59:36-05:00</published>
+    <updated>2019-04-04T12:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy"/>
+    <title>Hydrangea and Butterflies Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy.jpg?v=1601094730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea and Butterfles Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054707675225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054704037977</id>
+    <published>2019-04-04T12:33:20-05:00</published>
+    <updated>2019-04-04T12:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy"/>
+    <title>Pretty Pink Roses and Floral Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy.jpg?v=1601094728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty in Pink Floral Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054704037977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2000942104665</id>
+    <published>2019-02-20T12:24:25-06:00</published>
+    <updated>2019-02-20T12:24:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-peacock-porcelain-mug-with-tassel"/>
+    <title>Gift Boxed Peacock Porcelain Mug with Tassel</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-peacock-porcelain-mug-with-tassel.jpg?v=1601094711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gift Boxed Peacock Porcelain Mug with Tassel hold approximately 11 ounces and is amazingly gorgeous!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2000942104665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0220193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

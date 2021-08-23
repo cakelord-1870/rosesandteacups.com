@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/discount-teapots.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-10-17T10:40:39-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4738878701657</id>
+    <published>2020-10-17T10:40:39-05:00</published>
+    <updated>2020-10-17T10:40:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-wild-roses-and-butterflies-bulk-porcelain-discount-teapot"/>
+    <title>Pretty Wild Roses and Butterflies Bulk Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-wild-roses-and-butterflies-bulk-porcelain-discount-teapot.jpg?v=1603026237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Wild Roses and Butterflies Bulk Porcelain Discount Teapot <span data-mce-fragment="1">perfect for events, parties and gifts has a beautiful array of lovely colored roses. Cheap price but elegant look! Inexpensive with a classy expensive look at a cheap price.  F DA Food Safe approved. </span>2.75" Opening; 7" Height; 8.5" Spout to Handle</p>
+<p>Has matching teacups:</p>
+<p><a href="https://rosesandteacups.com/collections/discount-tea-cups-cheap-teacups" target="_blank" title="Pretty Wild Roses and Butterflies Discount Teacups" rel="noopener noreferrer"><img alt="Pretty Wild Roses and Butterflies Bulk Porcelain Teacups and Saucers Case of 24 Tea Cup and 24 Saucers-Roses And Teacups" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-wild-roses-and-butterflies-bulk-porcelain-teacups-and-saucers-case-of-24-tea-cup-and-24-saucers_480x.jpg?v=1601095203" width="141" height="118"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4738878701657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>1017201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3924113025</id>
+    <published>2016-01-20T12:09:00-06:00</published>
+    <updated>2016-01-20T12:09:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ceramic-cream-and-sugar"/>
+    <title>Windsor Ceramic Cream and Sugar Set</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-cream-and-sugar-set.jpg?v=1582071275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Windsor Ceramic Cream and Sugar Set in white, pink, sea foam and light blue.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>White</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7642</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3924113025</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/410006192168</id>
+    <published>2015-06-11T18:14:00-05:00</published>
+    <updated>2015-06-11T18:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/windsor-ceramic-6-cup-white-teapot"/>
+    <title>Windsor Ceramic 6 Cup White Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-6-cup-white-teapot.jpg?v=1601093859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This beautiful glazed ceramic tea pot would make a beautiful addition to any kitchen. Lid helps keeps tea warm while sitting. Teapot is dishwasher and microwave safe. Perfect for tea parties, everyday use, or a perfect gift for that special tea drinker. Ceramic Measurements: 9"W x 5.5"H with a 39 oz. capacity. Care: Dishwasher &amp; Microwave Safe</div>
+<ul style="text-align: center;">
+<li>Microwave and dishwasher safe</li>
+<li>Beautifully glazed ceramic</li>
+<li>6 Cup Teapot</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/410006192168</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>011918N-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/410003210280</id>
+    <published>2015-06-11T18:14:00-05:00</published>
+    <updated>2015-06-11T18:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/windsor-ceramic-6-cup-pink-teapot"/>
+    <title>Windsor Ceramic 6 Cup Pink Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-6-cup-pink-teapot.jpg?v=1601093858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This beautiful glazed ceramic tea pot would make a beautiful addition to any kitchen. Lid helps keeps tea warm while sitting. Teapot is dishwasher and microwave safe. Perfect for tea parties, everyday use, or a perfect gift for that special tea drinker. Ceramic Measurements: 9"W x 5.5"H with a 39 oz. capacity. Care: Dishwasher &amp; Microwave Safe</div>
+<ul style="text-align: center;">
+<li>Microwave and dishwasher safe</li>
+<li>Beautifully glazed ceramic</li>
+<li>6 Cup Teapot</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/410003210280</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>011918N-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/410002620456</id>
+    <published>2015-06-11T18:14:00-05:00</published>
+    <updated>2015-06-11T18:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/windsor-ceramic-6-cup-seafoam-green-teapot"/>
+    <title>Windsor Ceramic 6 Cup Seafoam Green Teapot - Only 3 Available!</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-6-cup-seafoam-green-teapot-only-3-available.jpg?v=1617840761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This beautiful glazed ceramic tea pot would make a beautiful addition to any kitchen. Lid helps keeps tea warm while sitting. Teapot is dishwasher and microwave safe. Perfect for tea parties, everyday use, or a perfect gift for that special tea drinker. Ceramic Measurements: 9"W x 5.5"H with a 39 oz. capacity. Care: Dishwasher &amp; Microwave Safe</div>
+<ul style="text-align: center;">
+<li>Microwave and dishwasher safe</li>
+<li>Beautifully glazed ceramic</li>
+<li>6 Cup Teapot</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/410002620456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>011918N-3GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/410002391080</id>
+    <published>2015-06-11T18:14:00-05:00</published>
+    <updated>2015-06-11T18:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/windsor-ceramic-6-cup-black-teapot"/>
+    <title>Windsor Ceramic 6 Cup Black Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-6-cup-black-teapot.png?v=1601093856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This beautiful glazed ceramic tea pot would make a beautiful addition to any kitchen. Lid helps keeps tea warm while sitting. Teapot is dishwasher and microwave safe. Perfect for tea parties, everyday use, or a perfect gift for that special tea drinker. Ceramic Measurements: 9"W x 5.5"H with a 39 oz. capacity. Care: Dishwasher &amp; Microwave Safe</div>
+<ul style="text-align: center;">
+<li>Microwave and dishwasher safe</li>
+<li>Beautifully glazed ceramic</li>
+<li>6 Cup Teapot</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/410002391080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>011918N-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181395777</id>
+    <published>2015-06-11T18:14:00-05:00</published>
+    <updated>2015-06-11T18:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-cup-windsor-ceramic-teapot"/>
+    <title>Windsor Ceramic 6 Cup Blue Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/windsor-ceramic-6-cup-blue-teapot.jpg?v=1601088217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">This beautiful glazed ceramic tea pot would make a beautiful addition to any kitchen. Lid helps keeps tea warm while sitting. Teapot is dishwasher and microwave safe. Perfect for tea parties, everyday use, or a perfect gift for that special tea drinker. Ceramic Measurements: 9"W x 5.5"H with a 39 oz. capacity. Care: Dishwasher &amp; Microwave Safe</div>
+<ul style="text-align: center;">
+<li>Microwave and dishwasher safe</li>
+<li>Beautifully glazed ceramic</li>
+<li>6 Cup Teapot</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181395777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.95</s:price>
+      <s:sku>011918N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181236673</id>
+    <published>2015-06-11T17:47:00-05:00</published>
+    <updated>2015-06-11T17:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/celestine-porcelain-creamer-sugar-set"/>
+    <title>Celestine Porcelain Creamer &amp; Sugar Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/celestine-porcelain-creamer-sugar-set.jpg?v=1601088216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celestine Porcelain Sugar Creamer Set is priced cheap for tea parties and events. It has the same lovely pink rosettes, tiny blue forget me nots and green foliage pattern as our Celestine Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces is trimmed in 14K gold on a spiral design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181236673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8664</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181166465</id>
+    <published>2015-06-11T17:38:00-05:00</published>
+    <updated>2015-06-11T17:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/celestine-set-of-6-porcelain-dessert-plates"/>
+    <title>Celestine Set of 6 Porcelain Dessert Plates</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/celestine-set-of-6-porcelain-dessert-plates.jpg?v=1601088215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celestine Set of 6 Porcelain Dessert Plates are 7.5" on a spiral design with a lovely rosette, tiny blue forget me nots green foliage. Matches our Celestine Discount Teacups and Teapots. Each set of 6 white porcelain plate is trimmed in 14K gold. FDA approved, not recommended for use in the microwave or dishwasher due to gold trim.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181166465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8663</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8984717953</id>
+    <published>2015-06-11T17:36:00-05:00</published>
+    <updated>2015-06-11T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-rose-porcelain-discount-dessert-plates"/>
+    <title>Royal Rose Porcelain Discount Dessert Plates Set of 6</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-rose-porcelain-discount-dessert-plates-set-of-6.jpg?v=1601093056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain. This traditional Victorian pattern features blue roses with old fashioned charm. Each piece is shaped with a fanciful swirl shape and silver trim.  7.5 inches</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8984717953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>03092017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8984714753</id>
+    <published>2015-06-11T17:36:00-05:00</published>
+    <updated>2015-06-11T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-rose-porcelain-discount-cream-and-sugar-set"/>
+    <title>Royal Rose Porcelain Discount Cream and Sugar Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-rose-porcelain-discount-cream-and-sugar-set.jpg?v=1601093055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain. This traditional Victorian pattern features blue roses with old fashioned charm. Each piece is shaped with a fanciful swirl shape and silver trim. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8984714753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>03092017-4NJE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8984709377</id>
+    <published>2015-06-11T17:36:00-05:00</published>
+    <updated>2015-06-11T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-rose-porcelain-discount-teapot"/>
+    <title>Royal Rose Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-rose-porcelain-discount-teapot.jpg?v=1601093054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain. Blue Roses adorn each piece of this silver accented swirl shaped porcelain dinner set. This pattern is perfect for special occasions and for everyday use.  </span>FDA approved, not recommended for use in the microwave or dishwasher. Dimensions: 9 inches Length x 4 inches Wide x 6.5 inches (with lid), (opening of teapot is 3 inches)  37 oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8984709377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>03092017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181144769</id>
+    <published>2015-06-11T17:36:00-05:00</published>
+    <updated>2015-06-11T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/celestine-porcelain-discount-teapot"/>
+    <title>Celestine Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/celestine-porcelain-discount-teapot.jpg?v=1601088214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celestine Porcelain Teapot from our line of Discount Teapots and holds 36 ounce. The teapot has a beautiful pink rosettes, tiny blue forget me nots with green foliage pattern on both sides with 24K gold trim on a spiral design. FDA approved, not recommended for use in the microwave or dishwasher. Dimensions: 9 inches Length x 4 inches Wide x 6.5 inches (with lid), (opening of teapot is 3 inches)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181144769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>8662</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181077761</id>
+    <published>2015-06-11T17:30:00-05:00</published>
+    <updated>2015-06-11T17:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/margeurite-porcelain-creamer-sugar-set"/>
+    <title>Margeurite Porcelain Creamer &amp; Sugar Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/margeurite-porcelain-creamer-sugar-set.jpg?v=1601088213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Margeurite Porcelain Sugar Creamer Set has the same lovely daisy and purple floral pattern as our Margeurite Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces is trimmed in 14K gold on a spiral design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181077761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181055617</id>
+    <published>2015-06-11T17:28:00-05:00</published>
+    <updated>2015-06-11T17:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/margeurite-set-of-6-porcelain-desert-plates"/>
+    <title>Margeurite Set of 6 Porcelain Desert Plates</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/margeurite-set-of-6-porcelain-desert-plates.jpg?v=1601088212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Margeurite Set of 6 Porcelain Dessert Plates are 7.5" on a spiral design with a daisy and purple floral pattern. Matches our Margeurite Discount Teacups and Teapots. Each set of 6 white porcelain plate is trimmed in 14K gold. FDA approved, not recommended for use in the microwave or dishwasher due to gold trim.</p>
+<p><a title="Margeurite porcelain discount teacups tea cups " href="http://rosesteacupstest.myshopify.com/collections/discount-tea-cups" target="_blank"><img style="width: 147px; height: 92px;" alt="Marguerite Bulk Discount Tea Cups" src="http://roses-and-teacups.com/2014LC/margcup.jpg"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181055617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1181024193</id>
+    <published>2015-06-11T17:24:00-05:00</published>
+    <updated>2015-06-11T17:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/margeurite-porcelain-discount-teapot"/>
+    <title>Margeurite Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/margeurite-porcelain-discount-teapot.jpg?v=1601088211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Margeurite Porcelain 36 oz Discount Teapot include a daisies and purple floral pattern on both sides with a small daisy insdie. 14K gold trim on a spiral design. FDA approved, not recommended for use in the microwave or dishwasher. Dimensions: 9 inches Length x 4 inches Wide x 6.5 inches (with lid), (opening of teapot is 3 inches)</p>
+<p><a title="Margeurite porcelain discount teacups tea cups " href="http://rosesteacupstest.myshopify.com/collections/discount-tea-cups" target="_blank" rel="noopener noreferrer"><img style="width: 147px; height: 92px;" alt="Marguerite Bulk Discount Tea Cups" src="http://roses-and-teacups.com/2014LC/margcup.jpg"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1181024193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>8667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1180568385</id>
+    <published>2015-06-11T16:47:00-05:00</published>
+    <updated>2015-06-11T16:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/timeless-rose-porcelain-sugar-creamer-set"/>
+    <title>Timeless Rose Porcelain Sugar &amp; Creamer Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/timeless-rose-porcelain-sugar-creamer-set.jpg?v=1601088210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Timeless Rose Porcelain Sugar &amp; Creamer Set has a lovely pale pink spray pattern on both sides trimmed in matte gold on a sprial design. FDA approved, not recommended for use in the microwave or dishwasher. This set matches our Timeless Rose Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1180568385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1176224257</id>
+    <published>2015-06-11T10:20:00-05:00</published>
+    <updated>2015-06-11T10:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/timeless-rose-set-of-6-porcelain-dessert-plates"/>
+    <title>Timeless Rose Set of 6 Porcelain Dessert Plates</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/timeless-rose-set-of-6-porcelain-dessert-plates.jpg?v=1601088209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Timeless Porcelain Dessert Plates have the same lovely pale pink rose spray pattern as our Timeless Rose Discount Teacups. Each set of 6 white porcelain 7.5" are trimmed in matte gold on a spiral design. FDA approved.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1176224257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1176188993</id>
+    <published>2015-06-11T10:17:00-05:00</published>
+    <updated>2015-06-11T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/timeless-rose-porcelain-discount-teapot"/>
+    <title>Timeless Rose Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/timeless-rose-porcelain-discount-teapot.jpg?v=1601088207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Timeless Rose Porcelain 36oz Discount Teapot has lovely pale pink rose spray that includes hints of light blue forget me nots on green foliage. Pattern is shown on both sides and teapot is trimmed in a matte gold at the top of the spiral design. This teapot matches our <a title="Timeless Rose discount teacups tea cup" href="http://rosesteacupstest.myshopify.com/collections/discount-tea-cups" target="_blank" rel="noopener noreferrer">Timeless Roses Discount Teacups</a>.</p>
+<p>Dimensions: 9 inches Length x 4 inches Wide x 6.5 inches (with lid), (opening of teapot is 3 inches)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1176188993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1176037121</id>
+    <published>2015-06-11T10:09:00-05:00</published>
+    <updated>2015-06-11T10:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lucinda-porcelain-sugar-creamer-set"/>
+    <title>Lydia Porcelain Sugar Creamer Set</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lydia-porcelain-sugar-creamer-set.jpg?v=1601088206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lydia Porcelain Sugar Creamer Set has the same lovely purple rose and floral pattern as our Lucinda Discount Teacups and Teapots. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounces is trimmed in 14K gold on a spiral design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1176037121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1175932801</id>
+    <published>2015-06-11T10:06:00-05:00</published>
+    <updated>2015-06-11T10:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lucinda-porcelain-set-of-6-dessert-plates"/>
+    <title>Lydia Porcelain Set of 6 Dessert Plates</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lydia-porcelain-set-of-6-dessert-plates.jpg?v=1601088205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lydia Porcelain Dessert Plates are 7.5" on a spiral design with a lovely purple rose and floral pattern with green foliage. Matches our Lydia<a title="Lucinda Discount Teacups" href="http://rosesteacupstest.myshopify.com/collections/discount-tea-cups" target="_blank" rel="noopener noreferrer"> Discount Teacups</a> and <a title="Lucinda Discount Teapot " href="http://rosesteacupstest.myshopify.com/collections/discount-teapots" target="_blank" rel="noopener noreferrer">Teapots</a>. Each set of 6 white porcelain plate is trimmed in 14K gold. FDA approved, not recommended for use in the microwave or dishwasher due to gold trim.</p>
+<p>  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1175932801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1175705409</id>
+    <published>2015-06-11T09:56:00-05:00</published>
+    <updated>2015-06-11T09:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-porcelain-sugar-creamer"/>
+    <title>Vintage Rose Porcelain Sugar &amp; Creamer</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-porcelain-sugar-creamer.jpg?v=1601088204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Vintage Rose Porcelain Sugar &amp; Creamer set is decorated in the same lovely rosesbud pattern as our Vintage Rose Discount Teacups and Teapot. The creamer will hold 8 ounces, while the sugar bowl holds 12 ounce on a spiral design trimmed in 14K gold. FDA approved, not recommended for use in the microwave or dishwasher due to gold trim.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1175705409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>8650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1175610177</id>
+    <published>2015-06-11T09:51:00-05:00</published>
+    <updated>2015-06-11T09:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-set-of-6-porcelain-dessert-plates"/>
+    <title>Vintage Rose Set of 6 Porcelain Dessert Plates</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-set-of-6-porcelain-dessert-plates.jpg?v=1601088203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 6 Vintage Rose Porcelain Dessert plates have the same lovely rosesbud pattern as our Discount Teacups and Teapots. Each spiral design porcelain 7.5" plate is trimmed in 14K gold. FDA approved, not recommended for use in the microwave or dishwasher due to gold trim.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1175610177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1175467265</id>
+    <published>2015-06-11T09:45:00-05:00</published>
+    <updated>2015-06-11T09:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-36oz-porcelain-teapot"/>
+    <title>Vintage Rose 36oz Porcelain Wholesale Priced Teapot - Shipping in February</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage-Rose-36oz-Porcelain-Wholesale-Priced-Teapot-Shipping-in-February_b929a675-19cb-48c1-a465-1b2879f63770.jpg?v=1628813513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vintage Rose Porcelain 36 ounce teapot has a beautiful rosebud with green foliage pattern on both sides with 14K gold trim on a spiral design. FDA approved, not recommended for use in the microwave or dishwasher. Dimensions: 9 inches Length x 4 inches Wide x 6.5 inches (with lid), (opening of teapot is 3 inches)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QDT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1175467265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1170320449</id>
+    <published>2015-06-10T21:11:00-05:00</published>
+    <updated>2015-06-10T21:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dragonfly-porcelain-discount-teapot"/>
+    <title>Porcelain Dragonfly Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-dragonfly-discount-teapot.jpg?v=1601088199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dragonfly Porcelain Discount Teapot has purple and yellow pattern with dragonflies.  Has matching <a title="Dragonfly discount teacup tea cup " href="http://rosesteacupstest.myshopify.com/collections/discount-tea-cups" target="_blank" rel="noopener noreferrer">Discount Teacup</a>!</p>
+<p>2.75" Diameter Opening x 6.5" Height; Overall Length Spout to Handle: 9"</p>
+<p>FDA approved, dishwasher and microwave safe.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1170320449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>9290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

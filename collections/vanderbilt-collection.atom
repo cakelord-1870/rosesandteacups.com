@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/vanderbilt-collection.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-06T11:40:59-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377545736281</id>
+    <published>2019-12-06T11:40:59-06:00</published>
+    <updated>2019-12-06T11:40:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/biltmore-girls-porcelain-tea-set"/>
+    <title>Biltmore Girls Porcelain Tea Set - Only One Set Available!</title>
+    <s:type>Vanderbilt Collection</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/biltmore-girls-porcelain-tea-set-only-one-set-available.jpg?v=1582071471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Vanderbilt Collection<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>True royalty!  This wonderful tea set is an exquisite set for both play and display.  So dainty! </span></p>
+<p><span> 4 3/4"H X 9"W X 7"D</span><br><span>8 Pieces</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377545736281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>3064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

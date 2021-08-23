@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/poppies-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-09-07T11:29:45-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342927831141</id>
+    <published>2018-09-07T11:29:45-05:00</published>
+    <updated>2018-09-07T11:29:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen"/>
+    <title>Bathing Birds with Poppies and Dragonflies Note Pad Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen.png?v=1601094307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bathing Birds with Poppies and Dragonflies Note Pad Pen has 75 sheets of printed paper and includes lovely pen for all your note taking needs. </p>
+<p>Measures: 4.37" X 5.37"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342927831141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>090718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280902238248</id>
+    <published>2017-11-10T09:44:04-06:00</published>
+    <updated>2017-11-10T09:44:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/good-things-decorative-pocket-note-pad"/>
+    <title>Good Things Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/good-things-decorative-pocket-note-pad.png?v=1601093740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280902238248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-1JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144076481</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/matchbook-notepad-w-pen"/>
+    <title>Poppies Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-poppies-matchbook-notepad-w-pen-1.gif?v=1561400599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Poppies Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144076481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-17NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4000005057</id>
+    <published>2015-07-07T18:18:00-05:00</published>
+    <updated>2015-07-07T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/natural-instinct-compact-mirror-in-gift-box"/>
+    <title>Poppies Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppies-compact-mirror.jpg?v=1601091777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Compact Mirrors Mirror size: 3.5" x 2.63" x 0.5".  Magnetic Closure</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4000005057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>33514NEJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144236097</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppies-note-pad-with-pen"/>
+    <title>Poppies Stationery Desk Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-poppies-stationery-desk-set-1.gif?v=1561400600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Poppies Stationery Desk Set Size: 7.5"h x 4.5"w x 2.5". Set included: diecut pad, designer pen and ceramic holder.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144236097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>07262016-18N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144166273</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-poppies-sticky-notes-pad"/>
+    <title>Poppies Note Block w Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-poppies-note-block-w-pen-1.gif?v=1561400600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poppies Note Block w Pen S<span>ize: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144166273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4000016193</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/natural-instincts-sticky-notes-pad"/>
+    <title>Poppies Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-poppies-sticky-notes-pad-1.gif?v=1561400601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4000016193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33514N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

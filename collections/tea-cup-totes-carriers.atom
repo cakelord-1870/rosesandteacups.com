@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-cup-totes-carriers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-09-26T12:10:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135369025</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/frou-frou-tea-cup-tote"/>
+    <title>Frou Frou Tea Cup Tote</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/frou-frou-tea-cup-tote.jpg?v=1601091337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frou Frou French Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135369025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22383N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1830300614745</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-carrier"/>
+    <title>Postcard Merry Christmas Tea Cup Carrier</title>
+    <s:type>tea cup carrier</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-carrier.png?v=1601094489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup carrier<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Teacup Tote/Carrier w/hot pad &amp; Napkin</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1830300614745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>11112018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1775599681625</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jacobean-mosaic-tea-cup-carrier"/>
+    <title>Jacobean Mosaic Tea Cup Carrier</title>
+    <s:type>tea cup carrier</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jacobean-mosaic-tea-cup-carrier.png?v=1601094417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup carrier<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Christmas  Jacobean Era Mosiac Tea Cup Carrier</p>
+<p>Beautiful rich-looking Jacobean Era Christmas fabric etched in gold around design, on cotton fabric. "</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1775599681625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>11012018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1785079595097</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-blue-jay-tea-cups-and-teapots-tea-cup-carrier-tote"/>
+    <title>Winter Wonderland Blue Jay Tea Cups and Teapots Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-blue-jay-tea-cups-and-teapots-tea-cup-carrier-tote.png?v=1601094430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>winter Wonderland Blue Jay Tea Cups and Teapots Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1785079595097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>11032018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/752946839653</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-blossom-tea-cup-carrier-tote"/>
+    <title>Hydrangea Blossom Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-blossom-tea-cup-carrier-tote.jpg?v=1601094005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea Blossom Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad  Also perfect as a purse!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/752946839653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>04282018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8871217729</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cups-and-teapots-tea-cup-carrier-tote"/>
+    <title>Black Rose Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Black-Rose-Tea-Cup-Carrier-Tote_0a92abad-e9cd-415f-b384-70a4625aa74f.jpg?v=1628728295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Rose Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8871217729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>02172017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446953025</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-upon-roses-tea-cup-carrier-tote"/>
+    <title>Roses Upon Roses Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-upon-roses-tea-cup-carrier-tote.jpg?v=1601088924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses Upon Roses Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446953025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>4650</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446945217</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-and-white-tea-cup-carrier-tote"/>
+    <title>Blue and White Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-and-white-tea-cup-carrier-tote.jpg?v=1601088923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and White Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446945217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446934785</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/violet-fields-tea-cup-carrier-tote"/>
+    <title>Violet Fields Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/violet-fields-tea-cup-carrier-tote.jpg?v=1601088921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Violet Fields Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446934785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>4912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446924225</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dots-n-daisies-tea-cup-carrier-tote"/>
+    <title>Dots N Daisies Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dots-n-daisies-tea-cup-carrier-tote.jpg?v=1601088919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dots N Daisies Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446924225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>8702</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446910785</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-blue-tea-garden-tea-cup-carrier-tote"/>
+    <title>Lavender Blue Tea Garden Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-blue-tea-garden-tea-cup-carrier-tote.jpg?v=1601088918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Blue Tea Garden Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446910785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>5781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446895617</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-time-tea-cup-carrier-tote"/>
+    <title>Pink Tea Time Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-time-tea-cup-carrier-tote.jpg?v=1601088916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Pea Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446895617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2423</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446883457</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-pea-tea-cup-carrier-tote"/>
+    <title>Sweet Pea Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-pea-tea-cup-carrier-tote.jpg?v=1601088915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Pea Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446883457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>5783</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446868737</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/briar-rose-and-paisley-tea-cup-carrier-tote"/>
+    <title>Briar Rose and Paisley Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/briar-rose-and-paisley-tea-cup-carrier-tote.jpg?v=1601088914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Briar Rose and Paisley Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446868737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446856897</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-in-paris-tea-cup-carrier-tote"/>
+    <title>Tea in Paris Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-in-paris-tea-cup-carrier-tote.jpg?v=1601088913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea in Paris Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446856897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6288</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446831809</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-chocolate-and-roses-tea-cup-carrier-tote"/>
+    <title>Tea Cakes Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cakes-tea-cup-carrier-tote.jpg?v=1601088912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea Cakes Tea Cup Carrier Tote with Pink Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446831809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446816833</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-and-roses-tea-cup-carrier-tote"/>
+    <title>Chocolate and Roses Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-and-roses-tea-cup-carrier-tote.jpg?v=1601088911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chocolate and Roses Tea Cup Carrier Tote with Pink Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446816833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446799745</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cupcakes-and-chocolate-tea-cup-carrier-tote"/>
+    <title>Cupcakes and Chocolate Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cupcakes-and-chocolate-tea-cup-carrier-tote.jpg?v=1601088910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupcakes and Chocolate Tea Cup Carrier Tote with Pink Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446799745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446788545</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-lacy-cupcakes-tea-cup-carrier-tote-pink-napkin"/>
+    <title>Lacy Cupcakes Tea Cup Carrier Tote Pink Napkin</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lacy-cupcakes-tea-cup-carrier-tote-pink-napkin.jpg?v=1601088909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lacy Cupcakes Tea Cup Carrier Tote with Pink Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446788545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446754625</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lacy-cupcakes-tea-cup-carrier-tote"/>
+    <title>Lacy Cupcakes Tea Cup Carrier Tote Blue Napkin</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lacy-cupcakes-tea-cup-carrier-tote-blue-napkin.jpg?v=1601088908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lacy Cupcakes Tea Cup Carrier Tote with Blue Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446754625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>6646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446732929</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-tea-cups-and-teapots-tea-cup-carrier-tote"/>
+    <title>Lavender Tea Cups and Teapots Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-tea-cups-and-teapots-tea-cup-carrier-tote.jpg?v=1601088907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Tea Cups and Teapots Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446732929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>8703</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1446728001</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-and-white-tea-cups-and-teapots-tea-cup-carrier-tote"/>
+    <title>Black and White Tea Cups and Teapots Tea Cup Carrier Tote</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-and-white-tea-cups-and-teapots-tea-cup-carrier-tote.jpg?v=1601088906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black and White Tea Cups and Teapots Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1446728001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>8704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/stationery-favors.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-19T13:20:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6563251322969</id>
+    <published>2021-04-19T13:20:35-05:00</published>
+    <updated>2021-04-19T13:20:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Hummingbird Embossed Mini Purse Notepad Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-hummingbird-embossed-mini-purse-notepad-note-pad.jpg?v=1621901513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepad with lovely hummingbirds afloat among bleeding heart flowers with embossment and beautiful foil trimming. Perfect for your purse or tea party favors and gifts! These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6563251322969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>041921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477365190745</id>
+    <published>2020-02-17T12:16:25-06:00</published>
+    <updated>2020-02-17T12:16:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-stem-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Long Stem Rose Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-long-stem-rose-mini-embossed-purse-notepad.png?v=1582071482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477365190745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477363421273</id>
+    <published>2020-02-17T12:13:40-06:00</published>
+    <updated>2020-02-17T12:13:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad"/>
+    <title>Carol Wilson Teacups (Tea Cups) Mini Embossed Purse Pad Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad.jpg?v=1582071481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477363421273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477359358041</id>
+    <published>2020-02-17T12:09:10-06:00</published>
+    <updated>2020-02-17T12:09:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Rose Picket Fence Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad.png?v=1582071480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477359358041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477354672217</id>
+    <published>2020-02-17T12:04:17-06:00</published>
+    <updated>2020-02-17T12:04:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-pretty-pink-roses-mini-purse-notepad"/>
+    <title>Carol Wilson Pretty Pink Roses Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pretty-pink-roses-mini-embossed-purse-notepad.jpg?v=1582071479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477354672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477347299417</id>
+    <published>2020-02-17T11:57:40-06:00</published>
+    <updated>2020-02-17T11:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Soft Hydrangeas Embossed Mini Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad.png?v=1582071478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477347299417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477327671385</id>
+    <published>2020-02-17T11:36:39-06:00</published>
+    <updated>2020-02-17T11:36:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-set-purse-note-pad-stationery"/>
+    <title>Embossed Tea Set Purse Note Pad Stationery by Carol Wilson</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embossed-tea-set-purse-note-pad-stationery-by-carol-wilson.jpg?v=1582071477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477327671385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22475N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130497503321</id>
+    <published>2019-07-10T15:58:51-05:00</published>
+    <updated>2019-07-10T15:58:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-victorian-things-sticky-note-pad"/>
+    <title>Pretty Victorian Things Sticky Note Pad</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-victorian-things-sticky-note-pad.jpg?v=1601094878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victorian Sticky Note Pad<span> featuring vibrant images of Victorian hat, gloves, purse, hat pins, parasol, diary and pen, and elegant lady. Perfect for a tea party or desk use. </span></p>
+<p><span>Each 3 x 3, 50-page Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130497503321</id>
+      <title>Default</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>22406N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130484789337</id>
+    <published>2019-07-10T15:19:40-05:00</published>
+    <updated>2019-07-10T15:19:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-licious-sticky-note-pad-party-favor"/>
+    <title>Old Country Roses Tea-Licious Sticky Note Pad Party Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-tea-licious-sticky-note-pad-party-favor.jpg?v=1601094877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The World's Most Tea-Licious Sticky Note Pads! Our Old Country Roses Sticky Pad makes a great tea party favor or perfect for your desk use.  Each 3 x 3, 50-page Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130484789337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>4096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130457002073</id>
+    <published>2019-07-10T13:39:49-05:00</published>
+    <updated>2019-07-10T13:39:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shoe-die-cut-note-pad-gold-tipped-only-2-left"/>
+    <title>Dance Like No One Is Watching Shoe Die Cut Note Pad - Only 2 Available!</title>
+    <s:type>Assorted &amp; Die Cut</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dance-like-no-one-is-watching-shoe-die-cut-note-pad-only-2-available.jpg?v=1601094876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Assorted &amp; Die Cut<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shoe Die Cut Note Pad - Gold Tipped is a 75 sheet die-cut note pad with colorful and fashionable front cover and coordinating writable interior sheets.</p>
+<p>Size 3"wX5"h</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SAL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130457002073</id>
+      <title>Default</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130313314393</id>
+    <published>2019-07-10T11:32:19-05:00</published>
+    <updated>2019-07-10T11:32:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-teacups-with-lilacs-and-hummingbirds-pad-and-pen-set"/>
+    <title>Stacked Teacups with Lilacs and Hummingbirds Pad and Pen Set</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-teacups-with-lilacs-and-hummingbirds-pad-and-pen-set.jpg?v=1601094874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stacked Teacups with Lilacs and Hummingbirds Pad and Pen Set</p>
+<p><span>Book size: 4" x 5". 75 printed pages. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130313314393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>0710191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1351394328677</id>
+    <published>2018-09-24T13:13:34-05:00</published>
+    <updated>2018-09-24T13:13:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-things-great-love-purse-notepad"/>
+    <title>Small Things Great Love Purse Notepad</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-things-great-love-purse-notepad.png?v=1601094336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This colorful, shimmering butterfly and peonies purse note pad make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Magnetic closure</li>
+<li>Gold Foil &amp; Gem Embellishments</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1351394328677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>092418-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/300508119080</id>
+    <published>2017-11-28T09:37:05-06:00</published>
+    <updated>2017-11-28T09:37:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor"/>
+    <title>Posh Fancy Cat In Paris Purse Notepad Perfect Party Favor</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/posh-fancy-cat-in-paris-purse-notepad-perfect-party-favor.png?v=1617235951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Miss Kitty sits upon her plush pillow all dressed up for Paris! Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/300508119080</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>112817-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/281039306792</id>
+    <published>2017-11-10T12:46:09-06:00</published>
+    <updated>2017-11-10T12:46:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/charlie-the-yorkie-posh-pocket-note-pad"/>
+    <title>Charlie The Yorkie Posh Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/charlie-the-yorkie-posh-pocket-note-pad.png?v=1601093747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our sweet Charlie sits ready in style for his boardwalk troll waiting on you to show him off. Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/281039306792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-10JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280914657320</id>
+    <published>2017-11-10T10:21:53-06:00</published>
+    <updated>2017-11-10T10:21:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/live-simply-bird-decorative-pocket-note-pad"/>
+    <title>Live Simply Bird Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/live-simply-bird-decorative-pocket-note-pad.png?v=1601093744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280914657320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-5JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280911249448</id>
+    <published>2017-11-10T10:07:01-06:00</published>
+    <updated>2017-11-10T10:07:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kitten-and-vase-posh-pets-pocket-note-pad"/>
+    <title>Kitten and Vase Posh Pets Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kitten-and-vase-posh-pets-pocket-note-pad.png?v=1601093743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh my! Isn't she a pretty kitty cat wearing her lovely real jeweled necklace! . Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280911249448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-3JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/491004821544</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-pocket-note-pad"/>
+    <title>Teapot Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-pocket-note-pad.jpg?v=1601093943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>60 Full-Color Sheets</li>
+<li>Inside Pocket</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/491004821544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>032218-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490996596776</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/choose-happiness-pocket-note-pad"/>
+    <title>Choose Happiness Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Choose-Happiness-Pocket-Note-Pad_c90c9fab-0ef7-489e-99c8-083cf6e58a83.jpg?v=1628813622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>60 Full-Color Sheets</li>
+<li>Inside Pocket</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490996596776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>032218-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280903254056</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/follow-your-dreams-pocket-note-pad"/>
+    <title>Follow Your Dreams Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/follow-your-dreams-pocket-note-pad.png?v=1601093741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It never hurts to have a reminder to follow your dreams. This 75-sheet, full-color note pad is happy to remind you. Features a magnetic closure, and gold foil embellishment and gems on the cover.</p>
+<ul>
+<li>75 full-color sheets</li>
+<li>Magnetic closure</li>
+<li>Embellished with gems and gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280903254056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-2JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280902238248</id>
+    <published>2017-11-10T09:44:04-06:00</published>
+    <updated>2017-11-10T09:44:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/good-things-decorative-pocket-note-pad"/>
+    <title>Good Things Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/good-things-decorative-pocket-note-pad.png?v=1601093740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280902238248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-1JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147021953</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-matchbook-notepad-w-pen"/>
+    <title>Purrfect Sunny Day Cat Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-purrfect-sunny-day-cat-matchbook-notepad-w-pen-1.gif?v=1561400644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Nice size Tabby  Kitty Cat Matchbook Notepad with Designer Pen accented with a jewel and die cut closure. Purr-fect size your purse and jotting down notes and lists.</span></p>
+<p><span>size: 4" x 5".  75 printed pages. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147021953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>10127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144474689</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/a-friend-loves-matchbook-notepad-w-pen"/>
+    <title>A Friend Loves Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-a-friend-loves-matchbook-notepad-w-pen-1.gif?v=1561399293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A Friend Loves Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144474689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-20NJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144462401</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-matchbook-notepad-w-pen"/>
+    <title>Lavender Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-lavender-matchbook-notepad-w-pen-1.gif?v=1561400301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lavender Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144462401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-19N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144076481</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/matchbook-notepad-w-pen"/>
+    <title>Poppies Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-poppies-matchbook-notepad-w-pen-1.gif?v=1561400599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Poppies Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144076481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-17NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144043969</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-matchbook-notepad-w-pen"/>
+    <title>Paris Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-paris-matchbook-notepad-w-pen-1.gif?v=1561400483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Paris Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144043969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

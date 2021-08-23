@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tulip-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T12:28:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1366911745</id>
+    <published>2021-06-22T12:28:35-05:00</published>
+    <updated>2021-06-22T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-magnetic-shopping-list-pad-with-pen"/>
+    <title>Tulip Magnetic Shopping List Pad with Pen - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-magnetic-shopping-list-pad-with-pen-very-limited.jpg?v=1624407157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Magnetic List Pad with Pen 8.5 x 3.5  75 pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1366911745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367364353</id>
+    <published>2021-06-22T12:26:06-05:00</published>
+    <updated>2021-06-22T12:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-ceramic-memo-and-pen-set"/>
+    <title>Tulip Ceramic Memo and Pen Set - Only 2 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-ceramic-memo-and-pen-set-only-2-left.jpg?v=1601088516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Ceramic Memo Set Sheet size: 3" x 4", 75 printed sheets Includes Designer pen and ceramic holder.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367364353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4444089712729</id>
+    <published>2020-01-25T11:50:32-06:00</published>
+    <updated>2020-01-25T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen"/>
+    <title>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen.jpg?v=1580043747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad make perfect floral and pretty grocery lists, garden notes and reminders of things to do.  With a magnet on the back to place on steel surfaces you can use in the kitchen, office, she-shed crafting areas and more!  Our feminine shopping list notepads make sweet hostess gifts and party favors all wrapped up in organza ribbon with pen. If you look closely you will notice sweet bumble bees with forget me nots and butterflies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4444089712729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0125201</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997336543321</id>
+    <published>2019-02-18T14:41:50-06:00</published>
+    <updated>2019-02-18T14:41:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-and-tulips-sticky-note-pad"/>
+    <title>Bumble Bee and Tulips Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-sticky-note-pad.jpg?v=1582071407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble and Tulips Sticky Note Pad is perfect for Spring! </p>
+<table border="0" cellspacing="0" cellpadding="0" width="374" height="601">
+<tbody>
+<tr>
+<td height="35" width="200" colspan="5" valign="top">
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>Pad size: 4" x 4.75". </span></span></p>
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>75 printed self adhesive sheets.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997336543321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0218198-J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997296992345</id>
+    <published>2019-02-18T14:19:44-06:00</published>
+    <updated>2019-02-18T14:19:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set"/>
+    <title>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set.jpg?v=1583192238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</p>
+<p>Measures: <span>4.37" x 5.37"</span></p>
+<p><span>75 printed sheets. </span></p>
+<p><span>With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997296992345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0218197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994925932633</id>
+    <published>2019-02-15T19:03:29-06:00</published>
+    <updated>2019-02-15T19:03:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-heart-shaped-pill-box"/>
+    <title>Bumble Bees and Tulips Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Bumble_Bees_and_Tulips_Heart_Shaped_Pill_Box.gif?v=1561399515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bees and Tulips Heart Shaped Pill Box</p>
+<table border="0" cellspacing="0" cellpadding="0" width="480" height="541">
+<tbody>
+<tr>
+<td height="35" colspan="7" valign="top" style="width: 540.243px;"><span face="Arial" color="000000" style="font-family: Arial;"><span>Box size: 2.5" x 2.375" x 0.875". Metal case with epoxy cover.</span></span></td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994925932633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>021519-7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994914332761</id>
+    <published>2019-02-15T18:36:25-06:00</published>
+    <updated>2019-02-15T18:36:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-compact-mirror"/>
+    <title>Bumble Bees and Tulips Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bees-and-tulips-compact-mirror.jpg?v=1601094697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bees and Tulips Compact Mirror is <span>Metal case with faux leather cover.</span></p>
+<p><span>Mirror size: 2.25" x 3.75" x 0.38"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994914332761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>021519-3J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994902241369</id>
+    <published>2019-02-15T18:13:01-06:00</published>
+    <updated>2019-02-15T18:13:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-sticky-pad-pen-set"/>
+    <title>Bumble Bees and Tulips Sticky Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bees-and-tulips-sticky-pad-pen-set.jpg?v=1601094696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable 90 sheet Bumble Bees and Tulips Sticky Pad Pen Set includes 3 different size of sticky notes enclosed in a lovely folded case. Includes designer tulip pen.</p>
+<p>Measurements: <span>6.25" x 4" x 0.75"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994902241369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1455540289</id>
+    <published>2015-07-07T18:18:00-05:00</published>
+    <updated>2015-07-07T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-compact-mirror-in-gift-box"/>
+    <title>Tulip Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-compact-mirror.jpg?v=1601088986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Compact Mirror in Gift Box  Size: 3.5" x 2.63" x 0.5".  Magnetic Closure</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1455540289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7771</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367320705</id>
+    <published>2015-06-26T16:15:00-05:00</published>
+    <updated>2015-06-26T16:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-gift-bag"/>
+    <title>Tulip Gift Bag</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-gift-bag.jpg?v=1601088513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Paper Gift Bag 6.5 x 6 x 4</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367320705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>4368</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

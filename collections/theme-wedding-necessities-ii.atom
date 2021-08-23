@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/theme-wedding-necessities-ii.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-11T22:40:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506650561</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-ring-pillow"/>
+    <title>Peacock Feather Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-ring-pillow.jpg?v=1601089739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Measuring 7" x 7", this elegant ring pillow is covered in cream satin. The front is decorated with a green and teal satin sash, two peacock feathers and a rhinestone ornament. The ornament combines light blue rhinestones with one central dark blue rhinestone and a series of tiny green rhinestones.</span><br>
+<div><span style="color: #000033; font-family: verdana, arial, 'sans serif'; line-height: 17.25px; text-align: center; background-color: #fffafa;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506650561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506642753</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-wedding-pen"/>
+    <title>Peacock Feather Wedding Pen</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-wedding-pen.jpg?v=1601089737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink and a 3.75" x 3.75" pen base. The base is covered in cream satin and decorated with a teal and green satin sash, rhinestone ornament and two peacock feathers. The ornament combines light blue rhinestones with one central dark blue rhinestones.</span><br>
+<div><span style="color: #000033; font-family: verdana, arial, 'sans serif'; line-height: 17.25px; text-align: center; background-color: #fffafa;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506642753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>8530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506591361</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-bridal-bouquet"/>
+    <title>Peacock Feather Bridal Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-bridal-bouquet.jpg?v=1601089731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This exquisite 9" bouquet combines peacock feathers with aqua feathers, green satin and green tulle.The middle flower is decorated with a rhinestone ornament. A 4" long clear acrylic handle allows for easy carrying.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506591361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>8523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506574145</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sea-shell-cake-serving-set"/>
+    <title>Sea Shell Cake Serving Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sea-shell-cake-serving-set.jpg?v=1601089729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set includes one 12" long cake knife and one 9.5" long cake server. Both are made of stainless steel. The handle is made of cream acrylic. Each is accented by a removable seashell and bead decoration.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506574145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>8517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506565185</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sea-shell-wedding-guest-book-and-pen-set"/>
+    <title>Sea Shell Wedding Guest Book and Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sea-shell-wedding-guest-book-and-pen-set.jpg?v=1601089728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set is covered in ivory satin. Both the 8" x 6" guest book and 3.75" pen set are decorated with ivory sheer ribbon, scattered pearls and a cluster of seashells with pearls. The pen is gold with black ink.The guest book has 55 two-sided pages for signatures -- the front and back of each page has the header "Guests" and 9 blank lines. This book fits 990 signature lines total.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506565185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>8516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506523073</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sea-shell-groom-boutonniere"/>
+    <title>Sea Shell Groom Boutonniere</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sea-shell-groom-boutonniere.jpg?v=1601089724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun seashell boutonniere is a perfect accent for the groom's jacket at a beach-themed or seashell wedding. The boutonniere is real shells with white pearls and has a pin in the back. Size: 2.75".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506523073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>8514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506482241</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-rose-hair-clip"/>
+    <title>Sea Shell Bridal Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sea-shell-bridal-bouquet.jpg?v=1601089723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>For beach-themed and destination weddings, this seashell bouquet makes a great accessory for the bride to hold. The clear acrylic handle holds a bouquet made of an ivory satin ruffle and a collection of different real seashells and resin starfish. Size: Width = 6" Length = 6.5".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506482241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>8513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

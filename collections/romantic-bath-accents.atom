@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/romantic-bath-accents.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-03-07T12:16:29-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/467615940648</id>
+    <published>2018-03-07T12:16:29-06:00</published>
+    <updated>2018-03-07T12:16:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-bird-nest-guest-towel-hostess-napkins"/>
+    <title>Spring Bird Nest Guest Towel Hostess Napkins</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-bird-nest-guest-towel-hostess-napkins.jpg?v=1601093909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Bird Nest Guest Towel Hostess Napkins feature lovely birds caring for their nest of blue eggs.  </p>
+<p><span>Folded size: 4.4 x 7.9" / 11 x 20 cm Triple ply paper. Contains 15</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467615940648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/467612401704</id>
+    <published>2018-03-07T11:47:14-06:00</published>
+    <updated>2018-03-07T11:47:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/berry-patch-guest-towel-hostess-napkins"/>
+    <title>Berry Patch Guest Towel Hostess Napkins</title>
+    <s:type>Guest Towels Pink</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/berry-patch-guest-towel-hostess-napkins.png?v=1601093907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Guest Towels Pink<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description"></div>
+<div class="product__section product__section--description">These triple ply guest towel hostess napkins are printed with raspberries, blackberries, and strawberries. Lovely addition for any event, home and bath.</div>
+<div class="product__section product__section--details">
+<div class="product__property product__dimensions"><span class="product__propertyValue">Folded size: 4.4 x 7.9" / 11 x 20 cm</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guest Towels</s:tag>
+    <s:tag>Hostess</s:tag>
+    <s:tag>Napkins</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467612401704</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135338497</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bon-appetit-embroidered-waffle-weave-drying-towel"/>
+    <title>Bon Appetit Embroidered Waffle Weave Drying Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bon-appetit-embroidered-waffle-weave-drying-towel.jpg?v=1601091335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!" White kichen drying towels waffle weave 100% cotton. 16x20</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135338497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22381N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135318209</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eiffel-tower-embroidered-guest-hand-towel"/>
+    <title>Eiffel Tower Embroidered Guest Hand Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/eiffel-tower-embroidered-guest-hand-towel.jpg?v=1601091333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit" Eiffel Tower/Fleur de lis print 100% cotton accent towel with 3" ruffle. 16x25 includes ruffle. </p>
+<p>Choose from Plain - "Bon Appetit!" for the kitchen, or "Le bain" for the powder room.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128369857</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-guest-towel"/>
+    <title>Chic and Shabby Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-guest-towel.jpg?v=1601091312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shabby Roses Guest Towel 100% pure linen in 6 color ways.  Blue on natural; taupe on natural; lavender on natural; pink floral and green stripe on natural, blue damask and taupe damask. Generous 20 x 25</p>
+<p>Choose ruffle or plain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22350N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Lavender Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22353N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22354N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22355N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22356N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126223873</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/embroidered-lavender-linen-guest-towel"/>
+    <title>Embroidered Lavender Linen Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embroidered-lavender-linen-guest-towel.jpg?v=1601091309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% White Cotton Linen  14 x 22<br>Choose from 2 Lovely Lavender Embroidery Styles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126223873</id>
+      <title>Single Color</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22350N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126223873</id>
+      <title>2 Color</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22351N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126221377</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/one-of-a-kind-french-fabric-table-runner"/>
+    <title>One of a Kind French Fabric Table Runner</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/one-of-a-kind-french-fabric-table-runner.jpg?v=1601091306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">One-of-a-Kind Table runner with Paris Eiffel Tower printed on burlap with backing of black silk-like fabric with embroidered Fleur de lis and tassels at each end. 14x48</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126221377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22344N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126218753</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-on-white-embroidered-guest-towel-with-lace"/>
+    <title>Blue on White Embroidered Guest Towel with Lace</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-on-white-embroidered-guest-towel-with-lace.jpg?v=1601091305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Le bain" (the bath) and medallion embroidered in Royal Blue on 100% white linen with 2" French cotton lace edging.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126218753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22343N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126199553</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-embroidered-guest-towel"/>
+    <title>Paris Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paris-embroidered-guest-towel.jpg?v=1601091303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Paris" embroidered on either 100% linen in oatmeal or white. 14x22</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126199553</id>
+      <title>White</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22340N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126199553</id>
+      <title>Oatmeal</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22341N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126096321</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Chic and Shabby Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Decorative "Le bain" (the bath) embroidered on Shabby Roses 100% pure linen in four color ways.  Blue on natural; taupe on natural; lavender on natural; pink floral and green stripe on natural. Generous 20 x 25</p>
+<p> </p>
+<p>Choose ruffle or plain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Pink</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Lavender</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126096321</id>
+      <title>Taupe</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>22340N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511471489</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yuwa-pink-roses-beaded-night-light"/>
+    <title>Pink Roses Beaded  Night Light- Limited Supply!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Good Tidings Creations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-roses-beaded-night-light-limited-supply.jpg?v=1601089912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Good Tidings Creations<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Yuwa Pink Flowers Night Light featuring lovely cottage chic pink yuwa flowers on a white with blushingly faint pink accents, and then it is further embellished with dangling pink beaded trim at the bottom and lt pink scallop faux pearl beading trim at the top and bottom rims. French white gimp covers the sides. The night light shade measures 5 1/2" wide x 4 1/2" long (not including beading). So cute! Simply must see! Adds so much to any shabby, cottage or French Chic decor! Perfect for a kitchen, bathroom or bedroom.  USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511471489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>8872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511381441</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-lace-teapot-nightlight"/>
+    <title>Ivory Lace Teapot Nightlight - Limited Supply!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Good Tidings Creations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-lace-teapot-nightlight-limited-supply.jpg?v=1601089910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Good Tidings Creations<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This lovely shade measures 5 1/2"H x 5" W X 3" D. It has an on/off switch and 5 watt bulb, which is included. The material features a lovely ivory pitcher on a very light pink background surrounded with shabby cottage pink roses! So sweet! There is lovely ivory lace with a med pink ribbon across the top &amp; bottom rims. At the top, there are 2 cottage pink roses with green leaves on an ivory applique with faux ivory beading. Just perfect for a dining room, parlor or boudoir or anywhere you need a pretty little light!</span></p>
+<p><span>USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511381441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>2770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511294273</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cherub-shower-curtain-hooks-set-of-6"/>
+    <title>Cherub Shower / Curtain Hooks Set of 6</title>
+    <s:type>Waste Baskets Tissue Holders</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherub-shower-curtain-hooks-set-of-6.jpg?v=1601089903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Waste Baskets Tissue Holders<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Cameo Shower Curtain Hooks are made from Designer heavy duty chrome-plated metal. They feature romantic cameos and pink roses and are accented with clear beaded tassels.</span><br><span>Measures: 5" long x 2" wide.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511294273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>7088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511284801</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-shower-curtain-hooks-set-of-6"/>
+    <title>Cameo Shower / Curtain Hooks Set of 6</title>
+    <s:type>Waste Baskets Tissue Holders</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-shower-curtain-hooks-set-of-6.jpg?v=1601089901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Waste Baskets Tissue Holders<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Cameo Shower Curtain Hooks are made from Designer heavy duty chrome-plated metal. They feature romantic cameos and pink roses and are accented with clear beaded tassels.</span><br><span>Measures: 5" long x 2" wide.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511284801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>7088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511258561</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/guest-towel-caddy"/>
+    <title>Paper Guest Towel Caddy</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Boston</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paper-guest-towel-caddy.jpg?v=1601089894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Caddy only.  Fits our paper guest towels.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511258561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>2533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511221633</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mary-rose-pink-decorative-guest-towel"/>
+    <title>Mary Rose Pink Decorative Guest Towel-Limited Supply!</title>
+    <s:type>Guest Towels Pink</s:type>
+    <s:vendor>Good Tidings Creations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mary-rose-pink-decorative-guest-towel-limited-supply.jpg?v=1601089888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Good Tidings Creations<br>
+        <strong>Type: </strong>Guest Towels Pink<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>For your consideration, is this embellished Mary Rose Decorative Soft Pink HAND TOWEL. The fabric band features a lovely Mary Rose soft print with a very lt pink background and lovely pink roses. At the top of the fabric band, there is a light pink faux pearl scalloped lace string along the border. Along the bottom border of the band, there is a lovely ivory scalloped lace with a darker pink ribbon woven through it. Measures 28" long x 16" wide. </span><br><br><span>(We recommend hand washing, but it can be machine washed on gentle cycle also.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511221633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>8873</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511201921</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-teapot-guest-towels"/>
+    <title>Tea Set and Roses Pale Pink Decorative Guest Towel</title>
+    <s:type>Guest Towels Pink</s:type>
+    <s:vendor>Good Tidings Creations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-set-and-roses-pale-pink-decorative-guest-towel.jpg?v=1601089881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Good Tidings Creations<br>
+        <strong>Type: </strong>Guest Towels Pink<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The fabric band features a lovely ivory Teapot and pink Roses. The bottom is trimmed with white &amp; ivory laces and a dark pink and ivory lace is at the top of the band. Very lovely towel for displaying.</span></p>
+<p><span>100% Cotton Terry 26 x 11</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511201921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>2540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

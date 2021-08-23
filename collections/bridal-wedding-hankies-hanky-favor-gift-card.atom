@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/bridal-wedding-hankies-hanky-favor-gift-card.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-08-05T17:38:27-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148101652569</id>
+    <published>2019-08-05T17:38:27-05:00</published>
+    <updated>2019-08-05T17:38:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daughter-hankie-with-pretty-pink-roses"/>
+    <title>Daughter Hankie with Pretty Pink Roses - Limited!</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daughter-hankie-with-pretty-pink-roses-limited.jpg?v=1601094923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Daughter Hankie with Pretty Pink Roses has lovely rosy border. Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148101652569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>6903</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2148061151321</id>
+    <published>2019-08-05T16:34:06-05:00</published>
+    <updated>2019-08-05T16:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-bride-scalloped-pink-roses-hankie"/>
+    <title>Beautiful Bride Scalloped Pink Roses Hankie</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-bride-scalloped-pink-roses-hankie.jpg?v=1601094921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Bride Scalloped Pink Roses Hankie is perfect for bridal events such as a gift or favor. Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2148061151321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>6905</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054639878233</id>
+    <published>2019-04-04T10:23:50-05:00</published>
+    <updated>2019-04-04T10:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Pink Fingerless Lace Gloves Perfect for Tea Parties or Bridal Affairs!!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs_a92f4175-a5ca-49b0-91e1-1a158f68be8e.jpg?v=1601094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in soft pink with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054639878233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054624870489</id>
+    <published>2019-04-04T09:58:15-05:00</published>
+    <updated>2019-04-04T09:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-fingerless-lace-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>White Fingerless Lace Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/White-Fingerless-Lace-Gloves-Perfect-for-Tea-Parties-and-Bridal-Affairs_94bab9c1-bce7-404b-b09c-a4abd51dd8d4.jpg?v=1628813630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in white</span><span> with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054624870489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1326442938469</id>
+    <published>2018-08-10T16:59:18-05:00</published>
+    <updated>2018-08-10T16:59:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lady-rose-hankie-gift-greeting-card"/>
+    <title>Lady Rose Hankie Gift Greeting Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lady-rose-hankie-gift-greeting-card.png?v=1601094267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>It's a greeting and a gift all in one! This beautiful card is 5" x 8" and arrives in a clear sleeve to keep for your own or give as a gift. Lovely scalloped Rosebud Hankie included. The handkerchief is a brand new  and measures 14" x 14".  This</span><span> beautiful card is 5" x 8" with envelope included for mailing.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1326442938469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>070320-1</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/413321396264</id>
+    <published>2018-01-23T12:20:41-06:00</published>
+    <updated>2018-01-23T12:20:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-christening-bonnet"/>
+    <title>Hankie Christening Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hankie-christening-bonnet.jpg?v=1582071376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a beautifully embroidered handkerchief, this is the perfect gift for your favorite newborn. Gift box, with poem shown.<br> <br> <em><strong>Poem Text</strong></em><br> I am a little bonnet<br> As you can plainly see.<br> But could you guess a handkerchief<br> Is what I use to be?<br> <br> Wear me home from the hospital<br> And again on Christening Day.<br> Then safely keep me tucked away<br> Until your Wedding Day.<br> <br> For good fortune all brides<br> Must wear something old<br> So just clip a couple of stitches<br> And a wedding hanky will unfold.<br> <br> If perhaps it is a boy<br> On the day he is to wed<br> Won't his bride be proud to use<br> The bonnet worn upon his head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/413321396264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0120201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8019209153</id>
+    <published>2016-09-21T16:30:00-05:00</published>
+    <updated>2016-09-21T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-blue-gingham-hankie-dress-favor-card-white-envelope"/>
+    <title>Floral Blue Gingham Hankie Dress Favor Card White Envelope</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-blue-gingham-hankie-dress-favor-card-white-envelope.jpg?v=1601092618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our hanky favor cards feature a beautiful handkerchief folded to create a darling hankie dress hung on a tiny metal clothes hanger. Each features an Especially For You gift tag and is adorned with a cute satin bow and pretty little button. The hankie card is wrapped in cello and includes a white envelope for gifting.  A fantastic favor for bridal showers and weddings. Perfect to place in the mail to put a smile on anyone's face when received. Once unfolded the recipient will have a gift they can keep forever. </p>
+<p>Hankie: 100% Batiste Cotton 13x13 </p>
+<p>Tag says:  Especially for You</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8019209153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>092116-1J</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505465601</id>
+    <published>2015-07-11T19:24:00-05:00</published>
+    <updated>2015-07-11T19:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-gift-dress-with-pink-envelope-1038"/>
+    <title>Hankie Gift Dress with Pink Envelope #1037</title>
+    <s:type>Bridal Wedding Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bridal-wedding-hankies-hankie-gift-dress-with-pink-envelope-1037-1.gif?v=1561400049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Bridal Wedding Hankies<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our favor hanky cards feature stunning handkerchief folded to create sweet dress featuring an especially for you gift tag each card is wrapped individually in cello with a pink envelope.  A fantastic favor for bridal showers and weddings!</span><br><span>100%  Batiste Cotton 13x13</span></p>
+<p><span>Tag says:  Especially for You</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505465601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6897</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505459265</id>
+    <published>2015-07-11T19:24:00-05:00</published>
+    <updated>2015-07-11T19:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-gift-dress-with-pink-envelope-1042"/>
+    <title>Hankie Gift Dress with Pink Envelope #1042</title>
+    <s:type>Bridal Wedding Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bridal-wedding-hankies-hankie-gift-dress-with-pink-envelope-1042-1.gif?v=1561400050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Bridal Wedding Hankies<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our favor hanky cards feature stunning handkerchief folded to create sweet dress featuring an especially for you gift tag each card is wrapped individually in cello with a pink envelope.  A fantastic favor for bridal showers and weddings!</span><br><span>100%  Batiste Cotton 13x13</span></p>
+<p><span>Tag says:  Especially for You</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505459265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>6896</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505457153</id>
+    <published>2015-07-11T19:24:00-05:00</published>
+    <updated>2015-07-11T19:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-x-15-embroidered-wedding-hankie"/>
+    <title>15 x 15 Embroidered Wedding Hankie</title>
+    <s:type>Bridal Wedding Hankies</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-x-15-embroidered-wedding-hankie.jpg?v=1601089641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Bridal Wedding Hankies<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>100% Pure Irish Linen with French Lace Edge</span><br><span>Embroidered Wedding Date</span><br><span>Embroidered Names of Bride and Groom</span><br><span>Embroidered Tiny Hearts Accents</span><br><span>Embroidery thread color of choice!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505457153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>3912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505456449</id>
+    <published>2015-07-11T19:24:00-05:00</published>
+    <updated>2015-07-11T19:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-lace-hankie-card-bp1005"/>
+    <title>Elegant Scalloped Eyelet Bridal Hankie Favor Card</title>
+    <s:type>Bridal Wedding Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegant-scalloped-eyelet-bridal-hankie-favor-card.jpg?v=1582071156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Bridal Wedding Hankies<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our bridal wedding favor hankie cards feature a beautiful white scalloped eyelet handkerchief folded to create lovely hanky dress. E<span>ach hankie card is wrapped individually in cello and includes a white envelope for mailing to your bride for her special day. </span></span><span>A fantastic favor for bridal showers and weddings!</span><br><span>100% Batiste Cotton 13x13</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505456449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>8795</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

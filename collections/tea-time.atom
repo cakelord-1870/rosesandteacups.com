@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-time.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-07T07:58:24-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6606178254937</id>
+    <published>2021-07-07T07:58:24-05:00</published>
+    <updated>2021-07-07T07:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-ivory-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Ivory Cameo Blush Pink Lace Rose Adorned Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-ivory-cameo-blush-pink-lace-rose-adorned-square-pillow-one-of-a-kind.jpg?v=1626912743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Ivory Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6606178254937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0707211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6593169031257</id>
+    <published>2021-06-10T10:40:13-05:00</published>
+    <updated>2021-06-10T10:40:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/30-individually-wrapped-blueberry-and-honey-naturally-flavored-tea-spoon"/>
+    <title>30 Individually Wrapped Blueberry and Honey Naturally Flavored Tea Spoon Suckers</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Melville</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/30-individually-wrapped-blueberry-and-honey-naturally-flavored-tea-spoon-suckers.jpg?v=1623370319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Melville<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>30 Individually Wrapped Blueberry and Honey Naturally Flavored Tea Spoon Suckers are oh so yummy!!  Perfect for tea parties as flavoring, favors and added table pretties!  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6593169031257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.99</s:price>
+      <s:sku>0610211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077769817</id>
+    <published>2021-04-16T14:23:12-05:00</published>
+    <updated>2021-04-16T14:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-summertime-rose-bone-china-made-in-england-mother-teacup-and-saucer-only-3-sets-available"/>
+    <title>Mother Teacup and Saucer Rare Royal Patrician Summertime Rose Bone China Made in England  - Only 3 Sets Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-teacup-and-saucer-rare-royal-patrician-summertime-rose-bone-china-made-in-england-only-3-sets-available.jpg?v=1618664677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">MOTHER - Imported from England tea cup and saucer</span></li>
+<li><span class="a-list-item">Imported English fine bone china</span></li>
+<li><span class="a-list-item">Summertime Rose Design - pink and red roses</span></li>
+<li><span class="a-list-item">Trimmed in 18 carat, not suitable for microwave</span></li>
+<li><span class="a-list-item">Condition: New</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077769817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562067447897</id>
+    <published>2021-04-16T14:08:37-05:00</published>
+    <updated>2021-04-16T14:08:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-tea-for-one-with-saucer-roses-on-cream-chintz-limited"/>
+    <title>Porcelain Tea For One with Saucer - Roses on Cream Chintz - Limited</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-with-saucer-roses-on-cream-chintz-limited.jpg?v=1618664675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain Tea For One with Saucer - Roses on Cream Chintz Stackable Tea Pot with Lid has beautiful all over rose chintz pattern with lovely scrolling dainty handles. Perfect for Mother's Day, birthday gifts, events and don't forget to one for yourself!<br></span></p>
+<p><span>6" height.  Tea Cup and 6.5" Saucer. Fine White Porcelain. 24K Gold Trimmed. </span></p>
+<p><span>Dishwasher Safe. Do not place in microwave due to gold trim.<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562067447897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562062499929</id>
+    <published>2021-04-16T14:03:04-05:00</published>
+    <updated>2021-04-16T14:03:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-tea-for-one-with-saucer-roses-on-blue-chintz"/>
+    <title>Porcelain Tea For One with Saucer - Roses on Blue Chintz - Limited</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-with-saucer-roses-on-blue-chintz-limited.jpg?v=1618664674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain Tea For One with Saucer - Roses on Blue Chintz Stackable Tea Pot with Lid has beautiful all over rose chintz pattern with lovely scrolling dainty handles. Perfect for Mother's Day, birthday gifts, events and don't forget to one for yourself!<br></span></p>
+<p><span>6" height.  Tea Cup and 6.5" Saucer. Fine White Porcelain. 24K Gold Trimmed. </span></p>
+<p><span>Dishwasher Safe. Do not place in microwave due to gold trim.<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562062499929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556344320089</id>
+    <published>2021-04-06T15:01:25-05:00</published>
+    <updated>2021-04-06T15:01:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/the-most-beautiful-yellow-roses-porcelain-teacup-and-saucer"/>
+    <title>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/The-Most-Beautiful-Yellow-Roses-Fine-Bone-China-Teacup-and-Saucer_82c9b3f4-181e-4cec-aef0-7945de96a78f.jpg?v=1629331974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer (Tea Cup) is truly a work of art both inside and outside this amazing set!  A beautiful bouquet of soft pink, blush and yellow roses pattern with delightful butterflies a flutter that is surely to please oneself or to give as an amazing gift to be treasured. </span></p>
+<p><span>Holds approximately 8oz. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556344320089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0406216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556321185881</id>
+    <published>2021-04-06T13:51:54-05:00</published>
+    <updated>2021-04-06T13:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-roses-and-poppies"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Purple Roses and Poppies</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-purple-roses-and-poppies.jpg?v=1617800709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug - Purple Roses and Poppies with matching gift box adorned with lovely satin bow. Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556321185881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0406212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544322363481</id>
+    <published>2021-03-12T12:10:29-06:00</published>
+    <updated>2021-03-12T12:10:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-tea-for-one-gift-boxed"/>
+    <title>Porcelain Tea for One Gift Box - Purple Rose Elegance</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-gift-box-purple-rose-elegance.jpg?v=1618618312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Rose Elegance Porcelain Tea for One Gift Boxed adorable combination of lidded teapot and tea cup in matching gift box adorned with satin bow. <span>Perfect for Mother's Day, birthday gift, events, and don't forget to gift yourself! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544322363481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>032221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544313483353</id>
+    <published>2021-03-12T11:45:36-06:00</published>
+    <updated>2021-03-12T11:45:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed"/>
+    <title>Blue &amp; Pink Hydrangea Porcelain Tea For One Gift Boxed</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed.jpg?v=1615640651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and Pink Hydrangea with butterfly teapot sits in teacup presented in matching gift box adorned with satin bow. <span>Adorable combination of lidded teapot and tea cup!</span></p>
+<p><span>5.8" Gift Boxed Porcelain Tea For One</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544313483353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>031221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771985490009</id>
+    <published>2021-01-06T18:55:32-06:00</published>
+    <updated>2021-01-06T18:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Majestic Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771985490009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771982868569</id>
+    <published>2021-01-06T18:49:58-06:00</published>
+    <updated>2021-01-06T18:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Pretty Pink Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft blush pink and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771982868569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771980181593</id>
+    <published>2021-01-06T18:43:52-06:00</published>
+    <updated>2021-01-06T18:43:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771980181593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771976937561</id>
+    <published>2021-01-06T18:36:54-06:00</published>
+    <updated>2021-01-06T18:36:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Blue Victorian Cameo Lace and Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameos, roses, bows and beads in soft blue and white create a nightlight dripping in romantic luxury for your home.  Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771976937561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771971399769</id>
+    <published>2021-01-06T18:25:21-06:00</published>
+    <updated>2021-01-06T18:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind"/>
+    <title>Romantic Ivory Cameo Lace and Fringe Large Lampshade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind.jpg?v=1610024592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Romantic Ivory Cameo Lace and Fringe Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771971399769</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771960094809</id>
+    <published>2021-01-06T18:14:00-06:00</published>
+    <updated>2021-01-06T18:14:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-cameo-and-lace-large-lamp-shade"/>
+    <title>Lovely Lavender Cameo and Lace Large Lamp Shade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-cameo-and-lace-large-lamp-shade-one-of-a-kind.jpg?v=1610024591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lovely Lavender Cameo and Lace Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771960094809</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4762108788825</id>
+    <published>2020-12-11T09:58:24-06:00</published>
+    <updated>2020-12-11T09:58:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tree-broken-china-jewelry-pendant-with-sterling-necklace-included-one-of-a-kind"/>
+    <title>Christmas Tree Broken China Jewelry Pendant with Sterling Necklace Included! One of a Kind!</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tree-broken-china-jewelry-pendant-with-sterling-necklace-included-one-of-a-kind.jpg?v=1607778258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beautiful broken china and recycled into a Pendant or Charm with a sweet Christmas Tree. A lead free custom made frame surrounds this vintage piece of china with small signature scallops. Hand polished. A sterling silver split ring was added. Just add to a charm bracelet or add your favorite chain for a great necklace with a connection to the past. Our Mothers, Grandmothers and Great-Grandmothers actually used these beautiful pieces of gorgeous china. Now is your chance to own an affordable heirloom quality piece of jewelry. Measures 3\/4" x 1 1\/4".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4762108788825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1211201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756873871449</id>
+    <published>2020-11-28T13:38:06-06:00</published>
+    <updated>2020-11-28T13:38:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-snow-birds-holiday-christmas-mug-set"/>
+    <title>Winter Snow Birds Holiday Christmas Mug Set</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-snow-birds-holiday-christmas-mug-set.jpg?v=1606608786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Winter Snow Birds Mug Set includes 11oz porcelain mug, spoon, and coaster in matching gift box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756873871449</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1128208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756869152857</id>
+    <published>2020-11-28T13:09:22-06:00</published>
+    <updated>2020-11-28T13:09:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-box-mug-santa-with-snow-globe-snowman"/>
+    <title>Gift Box Mug Santa with Snow Globe Snowman</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-box-mug-santa-with-snow-globe-snowman.jpg?v=1606655055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa with Presents Porcelain Mug Gift Boxed  features Santa giving out presents near a lit Christmas tree.  There is an adorable deer nearby curious as to what they are getting.  Each mug has a rich pattern completely surrounding both mug and gift box and if you look closely you'll even find a little surprise pattern on the bottom.  Our gift boxes are ready for gift giving with a lovely satin bow and terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756869152857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1128205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521099201</id>
+    <published>2020-11-20T14:20:37-06:00</published>
+    <updated>2020-11-20T14:20:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Holiday Wreaths Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1601090326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521099201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4744122630233</id>
+    <published>2020-10-28T18:20:15-05:00</published>
+    <updated>2020-10-28T18:20:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag"/>
+    <title>Holiday Christmas Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag Gift  Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag.jpg?v=1603976605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4744122630233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742730776665</id>
+    <published>2020-10-26T15:11:37-05:00</published>
+    <updated>2020-10-26T15:11:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-pink-peony"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Pink Peony</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-pink-peony.jpg?v=1603757547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug with matching gift box adorned with lovely satin bow.  Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742730776665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1026204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742730186841</id>
+    <published>2020-10-26T15:08:31-05:00</published>
+    <updated>2020-10-26T15:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-gift-boxed-porcelain-tea-for-one-pink-peony"/>
+    <title>Gift Boxed Porcelain Tea For One - Pink Peony</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-pink-peony.jpg?v=1603757542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Peony Gift Boxed Porcelain Tea For One in matching gift box adorned with satin bow. <span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742730186841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>1026203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666489241689</id>
+    <published>2020-06-24T13:01:50-05:00</published>
+    <updated>2020-06-24T13:01:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Jewel Tones Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1593090135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The bold look of jewel tone crystals can be worn with any bright color! Stack with another jewel tone plus a single row clear crystal bracelet for added drama!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666489241689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666476920921</id>
+    <published>2020-06-24T12:36:04-05:00</published>
+    <updated>2020-06-24T12:36:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-mystic-rhinestone-triangle-mesh-necklace-only-1-available"/>
+    <title>Sparkling Mystic Rhinestone  Triangle Mesh Necklace - Only 1 Available</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-mystic-rhinestone-triangle-mesh-necklace-only-1-available.jpg?v=1593090134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" class="pdgmain" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td class="pdgmain" colspan="2"><hr></td>
+</tr>
+<tr>
+<td class="pdgmain" colspan="2">This delicate mesh 18" necklace is available in beautiful AB  crystals. It is folded over like a hankie and feels great! Lobster closure and rhodium plated silver for a long lasting shine.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666476920921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0624201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4657028169817</id>
+    <published>2020-06-12T10:08:38-05:00</published>
+    <updated>2020-06-12T10:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gilded-cherub-opulence-lace-square-pillow"/>
+    <title>Gilded Cherub Opulence Lace Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gilded-cherub-opulence-lace-square-pillow-one-of-a-kind.jpg?v=1601095184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our 17 x 17 Square Gilded Cherub Opulence Lace Pillow are lined with an elegant jacquard in antique gold and soft ivory. They are trimmed to perfection with embroidered and hand beaded lace, custom dyed florals and a sweet gilded cherub.  USA MADE</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4657028169817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.99</s:price>
+      <s:sku>061220-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

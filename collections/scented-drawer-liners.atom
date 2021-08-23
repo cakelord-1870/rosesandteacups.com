@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/scented-drawer-liners.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-10-31T15:34:57-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4324060921945</id>
+    <published>2019-10-31T15:34:57-05:00</published>
+    <updated>2019-10-31T15:34:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rhapsody-scented-drawer-liners"/>
+    <title>Rhapsody Scented Drawer Liners</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rhapsody-scented-drawer-liners.jpg?v=1601095051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Dress up any room’s drawers, shelves, and cabinets with a fresh, feminine touch with these Rhapsody drawer liners. This collection offers a fresh floral landscape, with Lily of the valley, tulips, and other purple and blue flowers. The fragrance is that of a sweet butterfly bush, with accents of honey, carnation, and freshly fallen rain. Each set includes 6 large sheets attractively packaged. Each sheet measures 17" by 23". These drawer liners are made of 100% wood pulp.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4324060921945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4103971962969</id>
+    <published>2019-09-20T15:32:19-05:00</published>
+    <updated>2019-09-20T15:32:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lilac-and-violets-drawer-liners"/>
+    <title>Lovely Lilac and Violets Drawer Liners</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lilac-and-violets-drawer-liners.jpg?v=1601094998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description">
+<h3>DESCRIPTION</h3>
+<p>These flowers are designed to bloom in unexpected places. With their delicate scent and beautiful colors, the six large sheets will dress up shelves, drawers and cabinets throughout the house.</p>
+</div>
+<div class="product__section product__section--details">
+<h3>DETAILS</h3>
+<div class="product__property product__dimensions"><span class="product__propertyValue">Approximately 17 x 23" / 43.2 x 58.4 cm</span></div>
+</div>
+<div class="product__section product__section--scent">
+<h3>SCENT</h3>
+<p>Wild blooming lilacs with undertones of hyacinth, violets and white carnation</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4103971962969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0920193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/469294546984</id>
+    <published>2018-03-08T08:56:45-06:00</published>
+    <updated>2018-03-08T08:56:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-rosemary-scented-drawer-liners"/>
+    <title>Lavender Rosemary Scented Drawer Liners</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-rosemary-scented-drawer-liners.jpg?v=1601093914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description">
+<h3>SCENT</h3>
+<p>Unmistakable scent of lavender with rosemary and a hint of eucalyptus</p>
+<h3>DESCRIPTION</h3>
+<p>These flowers are designed to bloom in unexpected places. With their delicate scent and beautiful colors, the six large sheets will dress up shelves, drawers and cabinets throughout the house.</p>
+</div>
+<div class="product__section product__section--details">
+<h3>DETAILS</h3>
+<div class="product__property product__dimensions"><span class="product__propertyValue">Approximately 17 x 23" / 43.2 x 58.4 cm</span></div>
+</div>
+<div class="product__section product__section--scent">
+<h3></h3>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drawer liners</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/469294546984</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>030818-5J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/469281275944</id>
+    <published>2018-03-08T08:49:48-06:00</published>
+    <updated>2018-03-08T08:49:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-peacock-drawer-liners"/>
+    <title>Pretty Peacock Drawer Liners - Only 1 Available!</title>
+    <s:type>Lavender Drawer Liners</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-peacock-drawer-liners-only-1-available.jpg?v=1607731924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Lavender Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description">
+<h3>DESCRIPTION</h3>
+<p>These flowers are designed to bloom in unexpected places. With their delicate scent and beautiful colors, the six large sheets will dress up shelves, drawers and cabinets throughout the house.</p>
+</div>
+<div class="product__section product__section--details">
+<h3>DETAILS</h3>
+<div class="product__property product__dimensions"><span class="product__propertyValue">Approximately 17 x 23" / 43.2 x 58.4 cm</span></div>
+</div>
+<div class="product__section product__section--scent">
+<h3>SCENT</h3>
+<p>Cypress, cedarwood and patchouli with notes of cinnamon, pine and amber</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/469281275944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>030818-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

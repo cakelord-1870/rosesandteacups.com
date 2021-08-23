@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christmas-cards-vintage-carol-wilson.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-11-20T14:20:37-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521099201</id>
+    <published>2020-11-20T14:20:37-06:00</published>
+    <updated>2020-11-20T14:20:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Holiday Wreaths Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-wreaths-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1601090326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521099201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>8020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4748825100377</id>
+    <published>2020-11-11T15:04:51-06:00</published>
+    <updated>2020-11-11T15:04:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card-1"/>
+    <title>Christmas Wishes Kimberly Shaw Tea in a Tea Cup Christmas Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-wishes-kimberly-shaw-tea-in-a-tea-cup-christmas-card_868e5a06-1dea-4d39-ada1-5a79d6a56371.jpg?v=1605128694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Outside text: "Wishing you a Merry Christmas and a Happy New Year".</span></p>
+<p><span>Inside reads: "<strong>Wishing you and your family a Merry Christmas and a Happy New Year</strong>".</span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong>, a blend of ceylon tea spiced with citrus, almond, clove and cinnamon flavors from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4748825100377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>111220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371563053145</id>
+    <published>2019-12-02T11:11:59-06:00</published>
+    <updated>2019-12-02T11:11:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-cards-8-cards-with-9-envelopes-2"/>
+    <title>Original Carol Wilson Boxed Green Poinsettia 5 x 7 Christmas Holiday Cards 8 Cards with 9 Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-holiday-cards-8-cards-with-9-envelopes.jpg?v=1601095109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Original Carol Wilson Cards - RARE!  8 Cards with 9 Envelopes Inside: "May Joy Surround You Throughout the New Year"</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371563053145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4324050665561</id>
+    <published>2019-10-31T15:34:57-05:00</published>
+    <updated>2019-10-31T15:34:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/baby-jesus-in-manger-holiday-christmas-embroidered-card"/>
+    <title>Baby Jesus in Manger Holiday Christmas Embroidered Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/baby-jesus-in-manger-holiday-christmas-embroidered-card.jpg?v=1601095050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> This exceptional Christmas card reminds us that Jesus is the reason for the season. It depicts a sweet baby Jesus in His cradle with a pretty and charming little bird chirping on the edge of it. Then the beautiful words from Scripture and a hymn are embroidered… Oh come let us adore Him! What a beautiful way to keep our hearts and minds fixed on our Lord and Savior who came to earth to forgive our sins and make away to our heavenly Father. Thank you, Jesus, for all You have done, all You were doing, and all You are going to do. </span></p>
+<p><span>The inside greeting of this card reads: May you be warmed by His love, wrapped in His peace, and filled with His boundless joy.<br>Merry Christmas!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4324050665561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>110420-J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2171760771161</id>
+    <published>2019-09-04T09:13:42-05:00</published>
+    <updated>2019-09-04T09:13:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card"/>
+    <title>Kimberly Shaw Poinsettia Teacup Christmas Music Sheet Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card.png?v=1601094969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A classic poinsettia teacup delivers a warm Holiday tea in a traditional Christmas musical setting. The front music sheet is a hand-drawn illustration of Handel's, "Messiah," duet chorus Part 1, No.12 - For unto us a child is born.<br></span></p>
+<p><span>The inside reads, <strong>"With Christmas carols ringing true, This gift of tea I send to you."<br></strong></span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong> a blend of Ceylon black tea, citrus, almond, clove, and cinnamon from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and comes with a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2171760771161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>343KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363994673253</id>
+    <published>2018-10-26T17:32:06-05:00</published>
+    <updated>2018-10-26T17:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/charming-christmas-holiday-susie-in-bells-hankie-gift-card"/>
+    <title>Charming Christmas Holiday Susie in Bells Hankie Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Charming_Christmas_Holiday_Susie_in_Bells_Hankie_Gift_Card.gif?v=1561399652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Charming Christmas Holiday Susie Hankie Gift Card. Adorable Susie Card is decked out in her fur trimmed Coat &amp; Hat with Christmas Holiday Bells Hanky peaking out from her coat.</span><br><br><span>Holiday Cards have a "TO &amp; FROM" frame on the back of the card to personalize. Cards are mail-able and include an envelope.</span><br><br><span>Card Measures 5" x 10". Hankie Measures 13" x 13" Square Hankie All Cotton Batiste Fabric</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363994673253</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102618-HJ1</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/29260873729</id>
+    <published>2017-11-02T13:13:39-05:00</published>
+    <updated>2017-11-02T13:13:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fancy-ornaments-dimensional-christmas-holiday-greeting-cards"/>
+    <title>Fancy Ornaments Dimensional Christmas Holiday Greeting Cards</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fancy-ornaments-dimensional-christmas-holiday-greeting-cards.png?v=1601093701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send love and holiday greetings in shimmering style with our dimensional Christmas cards. Includes 12 cards with interior greetings and tasteful helpings of gems, gold foil, and glitter.</p>
+<ul>
+<li>Interior Message: "...and a Happy New Year!"</li>
+<li>Layered</li>
+<li>Gold Foil Accents</li>
+<li>Card Size: 5" x 7"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/29260873729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>110217-J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/29254582273</id>
+    <published>2017-11-02T13:03:56-05:00</published>
+    <updated>2017-11-02T13:03:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-journey-dimensional-christmas-holiday-greeting-cards"/>
+    <title>Christmas Journey Dimensional Christmas Holiday Greeting Cards Set of 12 - 1 Left!</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-journey-dimensional-christmas-holiday-greeting-cards-set-of-12-1-left.png?v=1601093699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send love and holiday greetings in shimmering style with our dimensional beautiful Christmas cards. Includes 12 cards with interior greetings and tasteful helpings of gems, gold foil, and glitter.</p>
+<ul>
+<li>Interior Message: "Wishing you a Warm Holiday Season!"</li>
+<li>Layered</li>
+<li>Gem</li>
+<li>Gold Foil Accents</li>
+<li>Card Size: 5" x 7"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/29254582273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>110217-J3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10333614849</id>
+    <published>2017-10-20T16:02:35-05:00</published>
+    <updated>2017-10-20T16:02:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/24-old-fashioned-christmas-cards"/>
+    <title>24 Old Fashioned Christmas Cards</title>
+    <s:type>Pens &amp; Romantic Desk Accessories Stamp Dispenser Business Card Holder</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-old-fashioned-christmas-cards.jpg?v=1601093373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Pens &amp; Romantic Desk Accessories Stamp Dispenser Business Card Holder<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Old-fashioned holiday charm abounds with these collectibles and their colorful portraits of ruddy-cheeked children and Santas. Reproduced directly from rare originals, the images of twinkling stars, shiny toys, and candle-decked trees first appeared in the years between 1900 and 1930. Featured artists include John Winsch and Ellen Clapsaddle, along with creations from the famous house of Raphael Tuck &amp; Sons of London. A joy to send or keep, these nostalgic cards kindle a warm glow of seasonal cheer. Format: Cards Pages: 6 Dimensions: 8 1/4 x 11</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas 2010</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10333614849</id>
+      <title>Default</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>5079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8379216321</id>
+    <published>2016-11-02T16:33:00-05:00</published>
+    <updated>2016-11-02T16:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lets-sing-christmas-holiday-hankie-card"/>
+    <title>Lets Sing Christmas Holiday Hankie Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lets-sing-christmas-holiday-hankie-card.jpg?v=1601092783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Let's Sing Christmas Holiday Hankie Card features a beautiful Victorian lady wearing a lovely hanky dress sitting at the piano with a child singing. . May the season be rich with the warmth of good friends with the closeness of family whose love never ends.......This beautiful card is 5" x 8" and arrives in a clear sleeve, an envelope is also included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8379216321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>110216-1J</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7717857601</id>
+    <published>2016-10-28T12:12:00-05:00</published>
+    <updated>2016-10-28T12:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-amaryllis-wreath-portfolio"/>
+    <title>Carol Wilson Amaryllis Wreath Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-amaryllis-wreath-portfolio.jpg?v=1582071329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Amaryllis Wreath Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7717857601</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8313576001</id>
+    <published>2016-10-24T12:14:00-05:00</published>
+    <updated>2016-10-24T12:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-angel-hankie-gift-card"/>
+    <title>Christmas Angel Hankie Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Christmas-Angel-Hankie-Gift-Card_ff08606d-48a9-4553-9cf9-163eb0e851e5.jpg?v=1629159144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely Christmas Angel Hankie Gift Card is the perfect holiday card and gift.  Your friend or loved one will receive not only a beautiful card for the holiday season but also a keepsake gift.  This lovely angel stands before a candle lit tree in her sweet pink poinsettia hanky dress.  The is card is blank inside and includes white envelope.  Presented in clear cello adorned with tulle bow. Hankie can be removed for use.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8313576001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102416J3</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8732625345</id>
+    <published>2016-10-18T17:33:00-05:00</published>
+    <updated>2016-10-18T17:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tree-and-cat-embroidered-linen-christmas-greeting-card"/>
+    <title>Christmas Tree and Cat Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tree-and-cat-embroidered-linen-christmas-greeting-card.jpg?v=1601092885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a Christmas tree and a cat by the fireplace covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Sending you best wishes for a very Merry Christmas</span><br><span>and a bright and happy new year.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8732625345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>012617N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8275580161</id>
+    <published>2016-10-18T17:33:00-05:00</published>
+    <updated>2016-10-18T17:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-candle-embroidered-linen-christmas-greeting-card"/>
+    <title>Christmas Candle Embroidered Linen Christmas Greeting Card - 1 Left!</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-candle-embroidered-linen-christmas-greeting-card-1-left.jpg?v=1601092737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a holiday candle covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>May the gift of love, faith and hope</span><br><span>be yours, this Christmas and always.</span><br><span>Merry Christmas!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8275580161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>10182016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8275570689</id>
+    <published>2016-10-18T17:33:00-05:00</published>
+    <updated>2016-10-18T17:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/candy-cane-embroidered-linen-christmas-greeting-card"/>
+    <title>Candy Cane Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/candy-cane-embroidered-linen-christmas-greeting-card.jpg?v=1601092736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a candy cane covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Wishing you</span><br><span>the season's best.</span><br><br><span>Merry Christmas!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8275570689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>10182016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8275559041</id>
+    <published>2016-10-18T17:33:00-05:00</published>
+    <updated>2016-10-18T17:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-sleigh-embroidered-linen-christmas-greeting-card"/>
+    <title>Winter Sleigh Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-sleigh-embroidered-linen-christmas-greeting-card.jpg?v=1601092735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a winter sleigh covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>May your home</span><br><span>be filled with His peace</span><br><span>and blessed with His presence.</span><br><br><span>Merry Christmas!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8275559041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>10182016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7017479489</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-and-teapots-holiday-greeting-cards-set-of-10"/>
+    <title>10 Christmas Tea Cups and Teapots Holiday Greeting Cards</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-christmas-tea-cups-and-teapots-holiday-greeting-cards.jpg?v=1601092499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Have a Tea-Lightful Holiday Season!  These Roses and Teacups exclusives are so cheerful!  You'll receive 5 glossy Tea Cup Cards and 5 glossy Teapot Cards all with coordinating Envelopes.  Check out the matching <a href="https://roses-and-teacups.com/collections/bookmarks">Bookmarks</a>, as well!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7017479489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>07192016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6765266561</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cup-holiday-greeting-card"/>
+    <title>Christmas Tea Cup Holiday Greeting Card Set of 10</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cup-holiday-greeting-card-set-of-10.jpg?v=1601092456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet Christmas tea cup card is ready for you to add your personalized greeting!  Images are crisp and bright on glossy card stock. Cards come with white envelopes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6765266561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>06292016-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542213249</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-christmas-tree-embroidered-linen-christmas-greeting-card"/>
+    <title>Cardinals Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cardinals-embroidered-linen-christmas-greeting-card.jpg?v=1601091641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a cardinals, snow covered branches and bright red berries covers the front of the card.</p>
+<p>Inside:</p>
+<p><span class="txt13">Let heaven and nature sing!<br>Merry Christmas</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542213249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22494NJ13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542207425</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-silver-bells-embroidered-linen-christmas-greeting-card"/>
+    <title>Christmas Tree Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tree-embroidered-linen-christmas-greeting-card.jpg?v=1601091640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable for framing!  A panel of embroidered linen with a brightly decorated Christmas Tree covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>His love is the brightest star of Christmas!</span><br><span>Happy Holidays</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542207425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22493N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3542195521</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-cardinals-embroidered-linen-greeting-card"/>
+    <title>Wreath Embroidered Linen Christmas Greeting Card</title>
+    <s:type>Embroidered Linen Greeting Cards</s:type>
+    <s:vendor>Paper Lane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wreath-embroidered-linen-christmas-greeting-card.jpg?v=1601091637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Paper Lane<br>
+        <strong>Type: </strong>Embroidered Linen Greeting Cards<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aren't these precious?  A panel of embroidered linen with a braided holiday wreath covers the front of the card.</p>
+<p>Inside:</p>
+<p><span>Wishing you the blessing of</span><br><span>hope and peace,</span><br><span>at Christmastime,</span><br><span>and all throughout the year.</span><br><br><span>Merry Christmas!</span></p>
+<p><span>Made in the USA!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3542195521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.89</s:price>
+      <s:sku>22491NJ12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1954381441</id>
+    <published>2015-08-28T16:14:00-05:00</published>
+    <updated>2015-08-28T16:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/god-bless-you-and-send-you-a-me"/>
+    <title>God Bless You and Send You a Me by Sandy Clough - Limited Supply - 5 Left</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Christian Bookstore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/god-bless-you-and-send-you-a-me-by-sandy-clough-limited-supply-5-left.jpg?v=1601091146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Bookstore<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            14.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sandy Clough God Bless You and Send You a Merry Christmas Cards!  Inside card: God bless you and send you a Merry Christmas and a Happy New Year.  Scripture at bottom inside of card says: Behold, I bring you good tidings of great joy, which shall be to all people - Luke 2:10</p>
+<p>20 Holiday Cards and Matching Envelopes</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1954381441</id>
+      <title>Default</title>
+      <s:price currency="USD">14.44</s:price>
+      <s:sku>8025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520946113</id>
+    <published>2015-07-13T23:07:00-05:00</published>
+    <updated>2015-07-13T23:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-angel-hankie-card-holly"/>
+    <title>Christmas Angel Hankie Card - Holly</title>
+    <s:type>Christmas Holiday Stationery</s:type>
+    <s:vendor>Luray Hankies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-angel-hankie-card-holly.jpg?v=1601090266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luray Hankies<br>
+        <strong>Type: </strong>Christmas Holiday Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Angel Hankie Card</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520946113</id>
+      <title>Default</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505553281</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-1097"/>
+    <title>Nostalgic Christmas Angel Hankie Card</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>LuRay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/nostalgic-christmas-angel-hankie-card.jpg?v=1601089675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LuRay<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handkerchiefs are 100% Batise Cotton, a lovely soft cloth, very reminiscent of vintage hankies. The square hankies measure approximately 13 inches and the round hankies measure approximately 12 inches in diameter.</span></p>
+<p><span>A lovely white lace hankie forms this sweet little angel's dress and wings. Your card comes cello sleeved along with a white mailing envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505553281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146909761</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cup-return-address-labels"/>
+    <title>Christmas Tea Cup Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cup-return-address-labels.png?v=1601092531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Christmas Tea Cup Return Address Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146909761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07262016-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

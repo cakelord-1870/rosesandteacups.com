@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/novelty-teapots.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-03T22:30:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4221272705</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunny-rabbit-shaped-teapot"/>
+    <title>Bunny Rabbit Shaped Teapot</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bunny-rabbit-shaped-teapot.jpg?v=1601091954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for use during Easter dinner or great for any occasion where you'd like to create a cute, charming atmosphere. This bunny shaped teapot is 7 inches in height and holds 16 oz.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4221272705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4148850881</id>
+    <published>2015-06-11T09:26:00-05:00</published>
+    <updated>2015-06-11T09:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladybug-teapot-2"/>
+    <title>Ladybug Teapot with Adorable Antenna Lid - 1 Left Until August!</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladybug-teapot-with-adorable-antenna-lid-1-left-until-august.jpg?v=1619568678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An adorable black and red ladybug teapot is perfect for collectors, tea parties and play dates!  Arrives in a matching box for gift giving. Ladybugs have been said to bring good luck and don't forget that fun ladybug song we all sang as a child!</p>
+<p><a href="https://rosesandteacups.com/search?type=product&amp;q=*ladybug*" title="Roses And Teacups Ladybug Mugs Teacups Teapots" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Lady_Bug_Ladybug_Gift_Boxed_Mug_480x.jpg?v=1526414252" alt="Lady Bug Gift Boxed Pedestal Mug" width="133" height="119"></a>See our other ladybug pieces here!</p>
+<p>Hand wash<span> only/FDA approved.</span><br><span>Ladybug shape teapot with wire antenna.</span><br><span><span style="color: #cc0000;">Hand painted</span> raised ceramic.</span><br><br><span>6 3/4"H includes antenna x 1 1/2" opening, holds 19 oz.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quanitity Discount Teacups</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4148850881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>33913N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

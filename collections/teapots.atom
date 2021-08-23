@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/teapots.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T12:37:06-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6708090699865</id>
+    <published>2021-08-12T12:37:06-05:00</published>
+    <updated>2021-08-12T12:37:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-holiday-holly-berry-porcelain-teapot-night-light"/>
+    <title>Christmas Holiday Holly Berry Porcelain Teapot Night Light</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Christmas-Holiday-Holly-Berry-Porcelain-Teapot-Night-Light.jpg?v=1628859782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Roses And Teacups is thrilled to present our new Holiday Christmas Tree Teapot Night Light! This Holiday Christmas porcelain Tea Pot Nightlight measures <span>5"x4"x6" and comes with bulb. Makes great gift for family and friends. Stylish decorative accent for any decor!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6708090699865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>0812212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6596572971097</id>
+    <published>2021-06-17T12:58:29-05:00</published>
+    <updated>2021-06-17T12:58:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-camellia-porcelain-teapot-in-gift-box"/>
+    <title>English Camellia Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-camellia-porcelain-teapot-in-gift-box.jpg?v=1624021483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">English Camellia Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6596572971097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0617211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342302093413</id>
+    <published>2021-06-17T12:53:38-05:00</published>
+    <updated>2021-06-17T12:53:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-porcelain-teapot-in-gift-box"/>
+    <title>Poppyseed Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-porcelain-teapot-in-gift-box.jpg?v=1601094288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppyseed Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342302093413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09051018-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2095677735001</id>
+    <published>2021-06-17T12:49:04-05:00</published>
+    <updated>2021-06-17T12:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-glory-gift-boxed-porcelain-teapot"/>
+    <title>Morning Glory Gift Boxed Porcelain Teapot</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-glory-gift-boxed-porcelain-teapot.jpg?v=1601094762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Morning Glory Gift Boxed Porcelain Teapot is an amazingly beautiful floral pattern that includes an adorable tassel and satin bow.</span></p>
+<p><span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  </span></p>
+<p><span>Holds 34 oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2095677735001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>052119J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077343833</id>
+    <published>2021-04-16T14:20:59-05:00</published>
+    <updated>2021-04-16T14:20:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mothers-are-special-hydrangea-large-teapot-rare-only-2"/>
+    <title>Mothers Are Special Hydrangea Large Teapot - Rare Only 2!</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mothers-are-special-hydrangea-large-teapot-rare-only-2.jpg?v=1618664676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mothers Are Special Hydrangea Large Ceramic Teapot has so much personality just like her!  Beautiful blue and green teapot hold 48 ounces.</p>
+<p>Dishwasher safe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077343833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>041621-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556313485401</id>
+    <published>2021-04-06T13:27:07-05:00</published>
+    <updated>2021-04-06T13:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-teapot-in-gift-box"/>
+    <title>Elegance Purple Roses and Poppies Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegance-purple-roses-and-poppies-porcelain-teapot-in-gift-box.jpg?v=1624752716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Purple Rose Elegance Porcelain Teapot in Gift Box has lavender and white roses along with few pretty poppies in a scrolling pattern on both sides. Pattern completely surrounding the teapot and matching gift box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34oz</span>  Also has matching gift boxed teacups,<a href="https://rosesandteacups.com/collections/tea-for-one" title="Lavender and Rose Porcelain Tea For One in Matching Gift Box" target="_blank"> tea for one</a> and mugs: <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556313485401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0406211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771990044761</id>
+    <published>2021-01-06T19:06:20-06:00</published>
+    <updated>2021-01-06T19:06:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-spring-swan-porcelain-teapot"/>
+    <title>Lovely Spring Swan Porcelain Teapot</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-spring-swan-porcelain-teapot.jpg?v=1610024597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">No ugly ducklings here. Enjoy your tea in this beautifully embossed porcelain swan shape teapot. Our swan is 6 1/2" high and holds 20 ounces. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771990044761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0106217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756872265817</id>
+    <published>2020-11-28T13:28:21-06:00</published>
+    <updated>2020-11-28T13:28:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-with-snow-globe-holiday-christmas-porcelain-teapot"/>
+    <title>Santa with Snow Globe Holiday Christmas Porcelain Teapot</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-with-snow-globe-holiday-christmas-porcelain-teapot.jpg?v=1606655055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Santa with Snow Globe Holiday Christmas Porcelain Teapot in Matching Gift Box beautiful butterflies, roses and hydrangea pattern completely surrounding the teapot and the hat box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. 9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 ounces.  Also has <a href="https://rosesandteacups.com/collections/gift-boxed-tea-cups" title="Matching Gift Boxed Teacups" target="_blank">matching gift boxed teacups</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756872265817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1216201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4738878701657</id>
+    <published>2020-10-17T10:40:39-05:00</published>
+    <updated>2020-10-17T10:40:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-wild-roses-and-butterflies-bulk-porcelain-discount-teapot"/>
+    <title>Pretty Wild Roses and Butterflies Bulk Porcelain Discount Teapot</title>
+    <s:type>Discount Teapots</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-wild-roses-and-butterflies-bulk-porcelain-discount-teapot.jpg?v=1603026237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Discount Teapots<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty Wild Roses and Butterflies Bulk Porcelain Discount Teapot <span data-mce-fragment="1">perfect for events, parties and gifts has a beautiful array of lovely colored roses. Cheap price but elegant look! Inexpensive with a classy expensive look at a cheap price.  F DA Food Safe approved. </span>2.75" Opening; 7" Height; 8.5" Spout to Handle</p>
+<p>Has matching teacups:</p>
+<p><a href="https://rosesandteacups.com/collections/discount-tea-cups-cheap-teacups" target="_blank" title="Pretty Wild Roses and Butterflies Discount Teacups" rel="noopener noreferrer"><img alt="Pretty Wild Roses and Butterflies Bulk Porcelain Teacups and Saucers Case of 24 Tea Cup and 24 Saucers-Roses And Teacups" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-wild-roses-and-butterflies-bulk-porcelain-teacups-and-saucers-case-of-24-tea-cup-and-24-saucers_480x.jpg?v=1601095203" width="141" height="118"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4738878701657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>1017201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/478444421160</id>
+    <published>2020-04-18T17:36:47-05:00</published>
+    <updated>2020-04-18T17:36:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feather-and-floral-porcelain-teapot-in-gift-box"/>
+    <title>Feather and Floral Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feather-and-floral-porcelain-teapot-in-gift-box.jpg?v=1601093919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feather and Floral Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/478444421160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>02132017-3N</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388692557913</id>
+    <published>2019-12-14T21:09:42-06:00</published>
+    <updated>2019-12-14T21:09:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/empire-poppy-bone-china-teapot"/>
+    <title>Empire Poppy Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/empire-poppy-bone-china-teapot.jpg?v=1601095171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Empire Poppy Bone China Teapot Holds 4 Cups Made of Fine Bone "Stechol" China </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388692557913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>10272017-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4369583079513</id>
+    <published>2019-11-30T21:13:22-06:00</published>
+    <updated>2019-11-30T21:13:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-9-cup-victorian-style-silver-teapot-only-1-available"/>
+    <title>9 Cup Victorian Style Silver Teapot</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Tea For Two</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/9-cup-victorian-style-silver-teapot.jpg?v=1582072453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tea For Two<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            169.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This teapot is a classic high tea style teapot in silver plate. The pot rests on a fancy stand and is easily lifted for pouring. There is an elaborate crest design engraved on both sides of the pot. It has a generous 9 cup capacity.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4369583079513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.98</s:price>
+      <s:sku>4380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3730797822041</id>
+    <published>2019-09-16T11:31:43-05:00</published>
+    <updated>2019-09-16T11:31:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-kitty-all-dress-up-porcelain-teapot"/>
+    <title>Miss Kitty All Dressed Up Porcelain Teapot</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-kitty-all-dressed-up-porcelain-teapot.jpg?v=1601094986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Miss Kitty All Dressed Up Porcelain Teapot is adorably functional! <span>Your guests will purr with delight when you serve their tea from our elegant Miss Kitty. Dressed in a full gown with ribbons, bows, and hand made roses, she holds 24 ounces and stands 7 1/2" high. Miss Kitty is a must for any porcelain teapot collector and  she is microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3730797822041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>0916192JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2142901108825</id>
+    <published>2019-07-29T09:32:15-05:00</published>
+    <updated>2019-07-29T09:32:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/finch-royal-blue-bird-porcelain-teapot"/>
+    <title>Finch Royal Blue Bird Porcelain Teapot - 1 Left!</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Finch-Royal-Blue-Bird-Porcelain-Teapot-1-Left_de22e039-121f-4c4a-b89a-e59a1e573dd5.jpg?v=1629245814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Finch Royal Blue Bird Porcelain Teapot holds 5 Cup is Oval Shape with Scallop Gold Trimmed Edge. The teapot has a scrolling gold pattern surrounding a pretty bird that shows on each side. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2142901108825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0729191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118085345369</id>
+    <published>2019-06-21T18:09:45-05:00</published>
+    <updated>2019-06-21T18:09:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-bone-china-lauren-pattern-teapot-only-2-available"/>
+    <title>Rare Royal Patrician Bone China Lauren Pattern Teapot - Only 2 Available!</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-bone-china-lauren-pattern-teapot-only-2-available.jpg?v=1601094829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Royal Patrician Bone China Lauren Pattern Teapot hold approximately 40 ounces in new never been used condition.  18K gold trimmed.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118085345369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>062119-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118084558937</id>
+    <published>2019-06-21T17:33:52-05:00</published>
+    <updated>2019-06-21T17:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-bone-china-dogwood-pattern-teapot-only-one-available"/>
+    <title>Rare Royal Patrician Bone China Dogwood Pattern Teapot - Only One Available!</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-bone-china-dogwood-pattern-teapot-only-one-available.jpg?v=1601094828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rare Royal Patrician Bone China Dogwood Pattern Teapot hold approximately 40 ounces in new never been used condition.  18K gold trimmed.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118084558937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>062119-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101327331417</id>
+    <published>2019-05-29T11:54:44-05:00</published>
+    <updated>2019-05-29T11:54:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-garland-bone-china-teapot"/>
+    <title>French Garland Bone China Teapot - Only 1 Left!</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-garland-bone-china-teapot-only-1-left.jpg?v=1621987954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pour yourself and a friend a steaming beverage from our darling teapot. Think of the herbal drink tantalizing your palate with each sip.</span><br><br><span>Rendered to bone china, a floral decal graces the serving piece. Delicate flourishes add a charming touch not to be missed by you or your guests.</span><br><br><span>Picture this teapot for your next tea party. Whether you be hosting a gathering or selecting the perfect gift for your tea-loving friend, our Prim Pastel Teapot will serve you well.</span><br><br><span>Holds 38 fl. oz. </span><br><span>Dishwasher safe. Not microwave safe. Food safe. </span><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101327331417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>0529193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2012965011545</id>
+    <published>2019-03-01T10:25:01-06:00</published>
+    <updated>2019-03-01T10:25:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lace-teacups-and-teapots-on-yellow-handbag"/>
+    <title>Lace Teacups and Teapots on Yellow Handbag</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lace-teacups-and-teapots-on-yellow-handbag.jpg?v=1601094721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lace Doily Purse Handmade in the USA. Tote Bag with lace. This cute tote has 6 pockets inside and 2 small pockets . 12" x 9" x 5" Lined with a coordinating fabric as show. . Magnetic Catch Closure. 100% Cotton.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2012965011545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973936619609</id>
+    <published>2019-01-28T18:31:02-06:00</published>
+    <updated>2019-01-28T18:31:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-pattern-teapot-shaped-purse"/>
+    <title>Peacock Pattern Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-pattern-teapot-shaped-purse.jpg?v=1601094657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot Shaped Purse Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the pink teapot purse there is a removable hard fabric covered insert  that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973936619609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1973931212889</id>
+    <published>2019-01-28T18:26:39-06:00</published>
+    <updated>2019-01-28T18:26:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-teapot-shaped-purse"/>
+    <title>Vintage Rose Tea Party Teapot Shaped Purse</title>
+    <s:type>Teapot Purses</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-tea-party-teapot-shaped-purse.jpg?v=1601094656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Teapot Purses<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Vintage Rose Tea Party Teapot Shaped Purse has beautiful roses and a lovely tea theme pattern. Strap Length measure 12” with 2 pockets inside. There is a Velcro closure on the flap.  On the bottom of the teapot purse there is a removable hard fabric covered insert that makes the purse sturdy when standing which is removable if the customer would like to wash the purse. Teapot purse is fully lined.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1973931212889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>012819-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349272830053</id>
+    <published>2018-09-19T12:36:49-05:00</published>
+    <updated>2018-09-19T12:36:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-fine-bone-china-teapot"/>
+    <title>Pansy Fine Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-fine-bone-china-teapot.jpg?v=1601094330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>40 ounces Cup Teapot. Fine Bone China. 14K Gold Trimmed. Swirl Shape</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349272830053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>091918-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1315292807269</id>
+    <published>2018-07-17T11:52:54-05:00</published>
+    <updated>2018-07-17T11:52:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-roses-11oz-teapot"/>
+    <title>White Roses Galore 11 Ounce Porcelain Teapot</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-roses-galore-11-ounce-porcelain-teapot.jpg?v=1601094192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This beautiful 11 ounce porcelain teapot features hand made and hand applied roses that adorn this classic European shape. The roses are very detailed and because they are hand made and applied, no two pots are identical. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1315292807269</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>2152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306784727141</id>
+    <published>2018-06-30T11:42:33-05:00</published>
+    <updated>2018-06-30T11:42:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shining-star-christmas-tree-teapot"/>
+    <title>Shining Star Christmas Tree Teapot</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shining-star-christmas-tree-teapot.jpg?v=1601094087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handwash only/FDA approved.</p>
+<span>Ivory teapot with a Christmas tree with raised beaded garland and a gold star on top. Individually white gift boxed. </span><br><br><span>6"H X 9 1/2"W X 5 1/2"D. 38oz </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306784727141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>06302018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/429201326120</id>
+    <published>2018-02-06T13:54:54-06:00</published>
+    <updated>2018-02-06T13:54:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-fleur-porcelain-teapot"/>
+    <title>Petite Fleur Porcelain Teapot</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-fleur-porcelain-teapot.jpg?v=1601093893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cream Porcelain Teapot is covered in beautiful petite roses and ornate swags. So beautiful it had to be trimmed in 24K gold!  Holds 4 cups. </p>
+<p><a href="https://rosesandteacups.com/collections/tea-cups-teacups-and-saucers-all-styles-porcelain-bone-china-free-shipping" target="_blank" title="Gracie Petite Fleur Porcelain Teacups Tea Cups" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-fleur-porcelain-teacups-set-of-2-cups-and-2-saucers_480x.jpg?v=1521849252" alt="Petite Fleur Porcelain Teacups - Set of 2 cups and 2 Saucers - Roses And Teacups " width="130" height="130"></a> Get matching teacups here! </p>
+<p> </p>
+<p>Dish washer safe. Please do not microwave due to gold trim.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/429201326120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>020618-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/407489314856</id>
+    <published>2018-01-17T17:59:35-06:00</published>
+    <updated>2018-01-17T17:59:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enjoy-the-little-things-ceramic-teapot"/>
+    <title>Enjoy The Little Things Ceramic Teapot</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enjoy-the-little-things-ceramic-teapot.jpg?v=1601093848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What a wonderful way to start your day!  Enjoy The Little Things Ceramic Teapot is a friendly reminder to enjoy those little things such as a great cup of tea to reflect upon the day at hand. This pretty teapot holds 37 ounces, is FDA approved, dishwasher safe, and microwave safe. </p>
+<p><span>6 1/2" H x 9 3/4" W x 5 3/4" D. 3 1/2" Opening.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/407489314856</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>011718-JW2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

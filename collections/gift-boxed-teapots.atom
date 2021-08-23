@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gift-boxed-teapots.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-17T13:02:59-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6596573986905</id>
+    <published>2021-06-17T13:02:59-05:00</published>
+    <updated>2021-06-17T13:02:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-and-pink-hydrangea-porcelain-teapot-in-gift-box"/>
+    <title>Blue and Pink Hydrangea Porcelain Teapot in Gift Box - Shipping Late July</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-and-pink-hydrangea-porcelain-teapot-in-gift-box-shipping-late-july.jpg?v=1624021484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue and Pink Hydrangea Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6596573986905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0617212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6596572971097</id>
+    <published>2021-06-17T12:58:29-05:00</published>
+    <updated>2021-06-17T12:58:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-camellia-porcelain-teapot-in-gift-box"/>
+    <title>English Camellia Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-camellia-porcelain-teapot-in-gift-box.jpg?v=1624021483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">English Camellia Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6596572971097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0617211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342302093413</id>
+    <published>2021-06-17T12:53:38-05:00</published>
+    <updated>2021-06-17T12:53:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-porcelain-teapot-in-gift-box"/>
+    <title>Poppyseed Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-porcelain-teapot-in-gift-box.jpg?v=1601094288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppyseed Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342302093413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09051018-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2095677735001</id>
+    <published>2021-06-17T12:49:04-05:00</published>
+    <updated>2021-06-17T12:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-glory-gift-boxed-porcelain-teapot"/>
+    <title>Morning Glory Gift Boxed Porcelain Teapot</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-glory-gift-boxed-porcelain-teapot.jpg?v=1601094762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Morning Glory Gift Boxed Porcelain Teapot is an amazingly beautiful floral pattern that includes an adorable tassel and satin bow.</span></p>
+<p><span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  </span></p>
+<p><span>Holds 34 oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2095677735001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>052119J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077343833</id>
+    <published>2021-04-16T14:20:59-05:00</published>
+    <updated>2021-04-16T14:20:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mothers-are-special-hydrangea-large-teapot-rare-only-2"/>
+    <title>Mothers Are Special Hydrangea Large Teapot - Rare Only 2!</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mothers-are-special-hydrangea-large-teapot-rare-only-2.jpg?v=1618664676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mothers Are Special Hydrangea Large Ceramic Teapot has so much personality just like her!  Beautiful blue and green teapot hold 48 ounces.</p>
+<p>Dishwasher safe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077343833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>041621-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556313485401</id>
+    <published>2021-04-06T13:27:07-05:00</published>
+    <updated>2021-04-06T13:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-teapot-in-gift-box"/>
+    <title>Elegance Purple Roses and Poppies Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegance-purple-roses-and-poppies-porcelain-teapot-in-gift-box.jpg?v=1624752716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Purple Rose Elegance Porcelain Teapot in Gift Box has lavender and white roses along with few pretty poppies in a scrolling pattern on both sides. Pattern completely surrounding the teapot and matching gift box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34oz</span>  Also has matching gift boxed teacups,<a href="https://rosesandteacups.com/collections/tea-for-one" title="Lavender and Rose Porcelain Tea For One in Matching Gift Box" target="_blank"> tea for one</a> and mugs: <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556313485401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0406211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756872265817</id>
+    <published>2020-11-28T13:28:21-06:00</published>
+    <updated>2020-11-28T13:28:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-with-snow-globe-holiday-christmas-porcelain-teapot"/>
+    <title>Santa with Snow Globe Holiday Christmas Porcelain Teapot</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-with-snow-globe-holiday-christmas-porcelain-teapot.jpg?v=1606655055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Santa with Snow Globe Holiday Christmas Porcelain Teapot in Matching Gift Box beautiful butterflies, roses and hydrangea pattern completely surrounding the teapot and the hat box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. 9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 ounces.  Also has <a href="https://rosesandteacups.com/collections/gift-boxed-tea-cups" title="Matching Gift Boxed Teacups" target="_blank">matching gift boxed teacups</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756872265817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1216201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742729007193</id>
+    <published>2020-10-26T15:03:29-05:00</published>
+    <updated>2020-10-26T15:03:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-peony-porcelain-teapot-in-gift-box"/>
+    <title>Pink Peony Porcelain Teapot in Gift Box</title>
+    <s:type>Teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-peony-porcelain-teapot-in-gift-box.jpg?v=1603757537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Peony Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742729007193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>1026202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/478444421160</id>
+    <published>2020-04-18T17:36:47-05:00</published>
+    <updated>2020-04-18T17:36:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/feather-and-floral-porcelain-teapot-in-gift-box"/>
+    <title>Feather and Floral Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/feather-and-floral-porcelain-teapot-in-gift-box.jpg?v=1601093919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feather and Floral Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/478444421160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>02132017-3N</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342301470821</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-romance-porcelain-teapot-in-gift-box"/>
+    <title>Blue Romance Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-romance-porcelain-teapot-in-gift-box.jpg?v=1601094287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Romance Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></p>
+<div data-product-id="1342294229093" class="product-block detail-mode-permanent fixed-width main-image-loaded">
+<div class="block-inner">
+<div class="image-cont">
+<div class="image-label-wrap" style="text-align: left;"><a class="product-link" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-blue-romance?_pos=2&amp;_sid=10ef75519&amp;_ss=r"></a></div>
+</div>
+</div>
+</div>
+<div data-product-id="1342668800101" class="product-block detail-mode-permanent fixed-width main-image-loaded">
+<div class="block-inner">
+<div class="product-info">
+<div class="inner"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342301470821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09051018-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181073665</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dragonfly-porcelain-teapot-in-gift-box"/>
+    <title>Dragonfly Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dragonfly-porcelain-teapot-in-gift-box.jpg?v=1601093141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dragonfly Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181073665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04132017-9N</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181066369</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-porcelain-teapot-in-gift-box"/>
+    <title>Tulip Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-porcelain-teapot-in-gift-box.jpg?v=1582071344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tulip Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181066369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04132017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2152081089</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-porcelain-tea-pot-in-gift-box"/>
+    <title>Lavender and Rose Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-and-rose-porcelain-teapot-in-gift-box.jpg?v=1601091368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Porcelain Teapot in Gift Box has a beautiful lavender, rose and butterfly pattern completely surrounding the teapot and the hat box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34oz</span>  Also has matching gift boxed teacups,<a href="https://rosesandteacups.com/collections/tea-for-one" target="_blank" title="Lavender and Rose Porcelain Tea For One in Matching Gift Box" rel="noopener noreferrer"> tea for one</a> and mugs: <br><a href="https://rosesandteacups.com/collections/gift-boxed-porcelain-mugs-gift-holiday-birthday-employee" target="_blank" title="Gift Boxed Porcelain Mugs with Matching Hat Boxes " rel="noopener noreferrer"><img alt="Gift Boxed Porcelain Mug with Tassle - Lavender - Roses And Teacups " src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassle-lavender_480x.jpg?v=1521853803" style="float: left;" width="105" height="173"></a>  <a href="https://rosesandteacups.com/collections/gift-boxed-tea-cups" target="_blank" title="Gift Boxed Teacups and Saucers with Matching Hat Box" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-tea-cup-teacup-saucer-lavender_480x.jpg?v=1507621832" alt="Gift Boxed Tea Cup (Teacup) &amp; Saucer - Lavender - Roses And Teacups " width="237" height="171"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2152081089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22392N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

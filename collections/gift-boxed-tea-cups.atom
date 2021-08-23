@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gift-boxed-tea-cups.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-10-26T14:59:29-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742727532633</id>
+    <published>2020-10-26T14:59:29-05:00</published>
+    <updated>2020-10-26T14:59:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-teacup-and-saucer-peony"/>
+    <title>Gift Boxed Porcelain Teacup and Saucer - Peony</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-teacup-and-saucer-peony.jpg?v=1603757531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742727532633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1026201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726524510297</id>
+    <published>2020-09-25T20:28:00-05:00</published>
+    <updated>2020-09-25T20:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-set-of-4-pink-butterfly-and-roses-teacups-perfect-for-tea-parties-save"/>
+    <title>Set of 4 Pink Butterfly and Roses Teacups Perfect for Tea Parties!</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Lorenzo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-pink-butterfly-and-roses-teacups-perfect-for-tea-parties.jpg?v=1601095213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lorenzo<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Wholesale Priced Full Size Porcelain 4 Tea Cups and 4 Saucers has beautiful Pink Roses and a dainty Butterfly on each teacup. </span><span>This charming tea party set of 4 porcelain teacups and 4 saucer sets is a beautiful addition to any event. Porcelain cups and saucers are used for tea parties yes but our customers use also use them for birthday parties, employee appreciation events, bridal affairs, Girl Scouts, and more!   This set features an elegant pink floral and butterfly border design on the cup as well as the matching saucer. Each box arrives wrapped in plastic to protect the box. Cup measures 2.75" tall X 4" long X 3.25" wide. Saucer is 5.25 in diameter. Holds 6 ounces of your favorite tea. Box measures 12" long x 8.5" wide x 3.5" tall. CCIB certified  and FDA for your safety.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726524510297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>09252011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/478495932456</id>
+    <published>2018-03-15T11:19:23-05:00</published>
+    <updated>2018-03-15T11:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-cup-teacup-saucer-feather-and-floral"/>
+    <title>Gift Boxed Porcelain Tea Cup (Teacup) &amp; Saucer - Feather and Floral</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-cup-teacup-saucer-feather-and-floral.jpg?v=1601093925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain 8oz Tea Cup (Teacup) and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/478495932456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>031518-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392742993960</id>
+    <published>2017-03-15T12:05:00-05:00</published>
+    <updated>2017-03-15T12:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-cup-teacup-saucer-wildflower"/>
+    <title>Gift Boxed Porcelain Tea Cup (Teacup)  &amp; Saucer - Wildflower</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-cup-teacup-saucer-wildflower.jpg?v=1601093832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain 8oz Tea Cup (Teacup) and Saucer has mathcing box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392742993960</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>010517-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342313791589</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-gift-boxed-pitcher"/>
+    <title>Poppyseed Gift Boxed Pitcher</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-gift-boxed-pitcher.jpg?v=1601094296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 5 inch Pitcher has matching box adorned with a lovely satin ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342313791589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09052018-28N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342309236837</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-romance-gift-boxed-pitcher"/>
+    <title>Blue Romance Gift Boxed Milk Pitcher 2 Available</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-romance-gift-boxed-milk-pitcher-2-available.jpg?v=1601094295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 5 inch Pitcher has matching box adorned with a lovely satin ribbon.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342309236837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>09052018-27N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342307926117</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-teacup-and-saucer-poppyseed"/>
+    <title>Gift Boxed Teacup and Saucer - Poppyseed</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-teacup-and-saucer-poppyseed.jpg?v=1601094293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342307926117</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>09052018-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342307336293</id>
+    <published>2015-10-07T08:24:00-05:00</published>
+    <updated>2015-10-07T08:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-teacup-and-saucer-blue-romance"/>
+    <title>Gift Boxed Teacup and Saucer - Blue Romance</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-teacup-and-saucer-blue-romance.jpg?v=1601094292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342307336293</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>09052018-25N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181056321</id>
+    <published>2015-10-07T08:20:00-05:00</published>
+    <updated>2015-10-07T08:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-teacup-and-saucer-tulip"/>
+    <title>Gift Boxed Porcelain Teacup and Saucer - Tulip</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-teacup-and-saucer-tulip.jpg?v=1601093139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181056321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>04132017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181031489</id>
+    <published>2015-10-07T08:20:00-05:00</published>
+    <updated>2015-10-07T08:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-teacup-and-saucer-dragonfly"/>
+    <title>Gift Boxed Teacup and Saucer - Dragonfly and Poppies</title>
+    <s:type>gift boxed teacups</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-teacup-and-saucer-dragonfly-and-poppies.jpg?v=1601093138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teacups<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful Gift Boxed Porcelain 8oz Teacup and Saucer has matching box adorned with a lovely satin ribbon. Perfect for gifting both tea and coffee lovers alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181031489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>04132017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1440700225</id>
+    <published>2015-07-05T13:28:00-05:00</published>
+    <updated>2015-07-05T13:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-chintz-butterfly-handle-demi-teacups-in-gift-box"/>
+    <title>Rose Chintz Butterfly Handle Demi Teacups in Gift Box</title>
+    <s:type>Girls&apos; Porcelain Demi Tea Cup and Saucer Sets in Gift Box</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-chintz-butterfly-handle-demi-teacups-in-gift-box.jpg?v=1601088873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Demi Tea Cup and Saucer Sets in Gift Box<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Rose Chintz Butterfly Handle Demi Tea Cups and Saucers Wow! Butterfly Handles, Rose Chintz, Gold Trim and a Gift Box: What's not for a little girl to love! This stunning set of 4 fine porcelain demi tea cups with saucers are just waiting to delight the most feminine among us! Perfect for grown up espresso, too!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1440700225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>5518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

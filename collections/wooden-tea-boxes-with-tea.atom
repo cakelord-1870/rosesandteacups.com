@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/wooden-tea-boxes-with-tea.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T13:03:13-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6708097286233</id>
+    <published>2021-08-12T13:03:13-05:00</published>
+    <updated>2021-08-12T13:03:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spicy-winterberry-tea-cup-tea-box-favor"/>
+    <title>Spicy Winterberry Tea Cup Tea Box Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Spicy-Winterberry-Tea-Cup-Tea-Box-Favor.png?v=1628859783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea grown in India<br>Packaged in USA<br> Wooden chest made in India<br> Six Winterberry single serve tea bags packaged in a wooden chest<br> Tea chest measures 3.25"x 3.5"<br>100% Organic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6708097286233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>0812213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

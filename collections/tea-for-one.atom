@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-for-one.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-16T14:08:37-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562067447897</id>
+    <published>2021-04-16T14:08:37-05:00</published>
+    <updated>2021-04-16T14:08:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-tea-for-one-with-saucer-roses-on-cream-chintz-limited"/>
+    <title>Porcelain Tea For One with Saucer - Roses on Cream Chintz - Limited</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-with-saucer-roses-on-cream-chintz-limited.jpg?v=1618664675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain Tea For One with Saucer - Roses on Cream Chintz Stackable Tea Pot with Lid has beautiful all over rose chintz pattern with lovely scrolling dainty handles. Perfect for Mother's Day, birthday gifts, events and don't forget to one for yourself!<br></span></p>
+<p><span>6" height.  Tea Cup and 6.5" Saucer. Fine White Porcelain. 24K Gold Trimmed. </span></p>
+<p><span>Dishwasher Safe. Do not place in microwave due to gold trim.<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562067447897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562062499929</id>
+    <published>2021-04-16T14:03:04-05:00</published>
+    <updated>2021-04-16T14:03:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-tea-for-one-with-saucer-roses-on-blue-chintz"/>
+    <title>Porcelain Tea For One with Saucer - Roses on Blue Chintz - Limited</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-with-saucer-roses-on-blue-chintz-limited.jpg?v=1618664674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Porcelain Tea For One with Saucer - Roses on Blue Chintz Stackable Tea Pot with Lid has beautiful all over rose chintz pattern with lovely scrolling dainty handles. Perfect for Mother's Day, birthday gifts, events and don't forget to one for yourself!<br></span></p>
+<p><span>6" height.  Tea Cup and 6.5" Saucer. Fine White Porcelain. 24K Gold Trimmed. </span></p>
+<p><span>Dishwasher Safe. Do not place in microwave due to gold trim.<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562062499929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544322363481</id>
+    <published>2021-03-12T12:10:29-06:00</published>
+    <updated>2021-03-12T12:10:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-tea-for-one-gift-boxed"/>
+    <title>Porcelain Tea for One Gift Box - Purple Rose Elegance</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-gift-box-purple-rose-elegance.jpg?v=1618618312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Rose Elegance Porcelain Tea for One Gift Boxed adorable combination of lidded teapot and tea cup in matching gift box adorned with satin bow. <span>Perfect for Mother's Day, birthday gift, events, and don't forget to gift yourself! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544322363481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>032221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544313483353</id>
+    <published>2021-03-12T11:45:36-06:00</published>
+    <updated>2021-03-12T11:45:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed"/>
+    <title>Blue &amp; Pink Hydrangea Porcelain Tea For One Gift Boxed</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed.jpg?v=1615640651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and Pink Hydrangea with butterfly teapot sits in teacup presented in matching gift box adorned with satin bow. <span>Adorable combination of lidded teapot and tea cup!</span></p>
+<p><span>5.8" Gift Boxed Porcelain Tea For One</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544313483353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>031221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742730186841</id>
+    <published>2020-10-26T15:08:31-05:00</published>
+    <updated>2020-10-26T15:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-gift-boxed-porcelain-tea-for-one-pink-peony"/>
+    <title>Gift Boxed Porcelain Tea For One - Pink Peony</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-pink-peony.jpg?v=1603757542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Peony Gift Boxed Porcelain Tea For One in matching gift box adorned with satin bow. <span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742730186841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>1026203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4164968710233</id>
+    <published>2019-09-25T17:55:50-05:00</published>
+    <updated>2019-09-25T17:55:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-daze-butterfly-porcelain-tea-for-one-gift-boxed"/>
+    <title>Floral Daze Butterfly Porcelain Tea For One Gift Boxed</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-daze-butterfly-porcelain-tea-for-one-gift-boxed.jpg?v=1601095006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Floral Daze Butterfly Porcelain Tea For One Gift Boxed is perfect for gift giving or for yourself to sit down with a lovely cup of tea.  The adorable floral chintz pattern includes dainty flowers and a beautiful butterflies. Your fancy tea for one comes in a matching gift box adorned with a light blue satin bow making it the perfect present pretty storage. The petite pattern surrounds the cup, teapot, lid, box and if you look closely your notice a little surprise pattern on the bottom.  Both teapot and teacup has a nice nice round handle that includes a terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4164968710233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925194J</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1452526401</id>
+    <published>2019-07-11T22:34:34-05:00</published>
+    <updated>2019-07-11T22:34:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-tea-for-one-set-in-gift-box"/>
+    <title>Peacock Tea for One Set in Gift Box</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-tea-for-one-set-in-gift-box.jpg?v=1623975124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Peacock Tea for One Set in Gift Box<br>Dishwasher Safe<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1452526401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8699</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342300586085</id>
+    <published>2019-06-13T15:36:25-05:00</published>
+    <updated>2019-06-13T15:36:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-for-one-lavender-rose"/>
+    <title>Gift Boxed Porcelain Tea For One - Lavender Rose</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-lavender-rose.jpg?v=1601094285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5.8" Gift Boxed Porcelain Tea For One - Lavender Rose in matching gift box adorned with satin bow.<br><span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342300586085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>09052018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2104737398873</id>
+    <published>2019-06-03T14:19:51-05:00</published>
+    <updated>2019-06-03T14:19:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elizabeth-rose-chintz-porcelain-tea-for-one"/>
+    <title>Elizabeth Rose Chintz Porcelain Tea For One</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elizabeth-rose-chintz-porcelain-tea-for-one.jpg?v=1601094783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Just enough coffee or tea for you. This stack-able service will accompany a good read.</span><br><br><span>This rose-print tea set is named after Elizabeth Park, the first public rose garden in the United States. Located in Hartford, Connecticut, the Victorian-style garden opened in 1904.</span><br><br>
+<ul class="bullet_list">
+<li>7".</li>
+<li>Porcelain.</li>
+<li>Set includes teapot, teacup, and saucer.</li>
+<li>Books not included.</li>
+<li>Not microwave-safe.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2104737398873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>0603193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2095671574617</id>
+    <published>2019-05-21T17:40:32-05:00</published>
+    <updated>2019-05-21T17:40:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/summertime-red-and-pink-roses-porcelain-tea-for-one"/>
+    <title>Summertime Red and Pink Roses Porcelain Tea For One</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Summertime-Red-and-Pink-Roses-Porcelain-Tea-For-One_6d33759b-c1b3-4d83-ae15-7156ee75dac1.jpg?v=1629245804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Summertime Red and Pink Roses Porcelain Tea For One is teapot duo with pink pretty pink and red rose pattern with green foliage. 24K gold accents on bottom, handles and rims. Individually boxed in satin lined gift box. <br>Hand wash only FDA approved.<br><span>Made of porcelain. </span><br><br><span>7" H x 9" W x 5 1/2" D. Holds 28 oz </span><br><span>Cup holds 12 oz </span><br><span>Teapot holds 16 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2095671574617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>052119J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1985618051161</id>
+    <published>2019-02-06T17:57:34-06:00</published>
+    <updated>2019-02-06T17:57:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-peony-and-rose-chintz-tea-for-one"/>
+    <title>Pink Peony and Rose Chintz Tea For One</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-peony-and-rose-chintz-tea-for-one.jpg?v=1601094675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Peony and Rose Chintz Tea For One <span>2 Cup Teapot with Cup. Fine Porcelain. Gold Trimmed. 5.5 inch Tall.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1985618051161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>020619-3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1985616576601</id>
+    <published>2019-02-06T17:53:12-06:00</published>
+    <updated>2019-02-06T17:53:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-bird-porcelain-tea-for-one"/>
+    <title>Blue Bird Porcelain Tea For One</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-bird-porcelain-tea-for-one.jpg?v=1601094674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue Bird Porcelain Tea For One <span>2 Cup Teapot with Cup. Fine Porcelain. 14K Gold Trimmed. 5.5 inch Tall.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1985616576601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>020619-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1985614970969</id>
+    <published>2019-02-06T17:44:44-06:00</published>
+    <updated>2019-02-06T17:44:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-violet-bouquet-tea-for-one"/>
+    <title>Blue Violet Bouquet Tea For One - Only 3 Left!</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-violet-bouquet-tea-for-one-only-3-left.jpg?v=1618618307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Blue Violet Bouquet Stack-able Teapot and Teacup Tea For One. White Porcelain with lovely Violets and Daisy Chintz pattern.  Makes great 2 in 1 gift that can be easy stored.</span></p>
+<p><span>24K Gold Trimmed so do not place in microwave due to gold trim. </span></p>
+<p><span>Dishwasher Safe 5.5" height</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1985614970969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>020619-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349475009</id>
+    <published>2017-10-24T12:50:52-05:00</published>
+    <updated>2017-10-24T12:50:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/saddlebrooke-tea-for-one"/>
+    <title>Saddlebrooke Tea for One</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/saddlebrooke-tea-for-one.jpg?v=1601093589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saddlebrooke Tea for One</p>
+<p>Handwash only/FDA approved.</p>
+<p>Hand Painted Gold Accents 6"H X 7"W X 6"D Arrives in Blue Gift Box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spr</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349475009</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>4507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349139201</id>
+    <published>2017-10-24T12:10:18-05:00</published>
+    <updated>2017-10-24T12:10:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-meadows-tea-for-one"/>
+    <title>Morning Meadows Tea for One</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-meadows-tea-for-one.jpg?v=1601093573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Morning Meadows Porcelain Teapot duo in botanical look with butterflies, ladybugs, bees and floral design. Teacup is on top and teacup is on bottom. Teacup: 10 oz. Teapots: 16 oz. 5 1/2" High Arrives in a blue lined gift box. Designs may vary slightly. Hand wash only</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spring 2010</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349139201</id>
+      <title>Default</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342300749925</id>
+    <published>2015-09-30T11:09:00-05:00</published>
+    <updated>2015-09-30T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-for-one-poppyseed"/>
+    <title>Gift Boxed Porcelain Tea For One - Poppyseed</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-poppyseed.jpg?v=1601094286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5.8" Gift Boxed Porcelain Tea For One - Poppyseed in matching gift box adorned with satin bow.<br><span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342300749925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>09052018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181086145</id>
+    <published>2015-09-30T11:09:00-05:00</published>
+    <updated>2015-09-30T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-for-one-tulip"/>
+    <title>Gift Boxed Porcelain Tea For One - Tulip</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-tulip.jpg?v=1601093143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5.8" Gift Boxed Porcelain Tea For One - Tulip in matching gift box adorned with satin bow.<br><span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181086145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04132017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181082497</id>
+    <published>2015-09-30T11:09:00-05:00</published>
+    <updated>2015-09-30T11:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-tea-for-one-dragonfly"/>
+    <title>Gift Boxed Porcelain Tea For One - Dragonfly</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-tea-for-one-dragonfly_b867530d-9c18-44a0-b1ea-6c32a4dd311f.jpg?v=1623975142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">5.8" Gift Boxed Porcelain Tea For One - Dragonfly in matching gift box adorned with satin bow.<br><span>Adorable combination of lidded teapot and tea cup!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181082497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04132017-9N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1452766913</id>
+    <published>2015-07-07T11:49:00-05:00</published>
+    <updated>2015-07-07T11:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-rose-tea-for-one-set"/>
+    <title>Romantic Rose Tea for One Set</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-rose-tea-for-one-set.jpg?v=1601088976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Rose Tea for One Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1452766913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>1023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1452458753</id>
+    <published>2015-07-07T11:49:00-05:00</published>
+    <updated>2015-07-07T11:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-bouquet-chintz-porcelain-tea-for-one"/>
+    <title>Rose Bouquet Chintz Porcelain Tea for One Set</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-bouquet-chintz-porcelain-tea-for-one-set.jpg?v=1601088965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Rose Bouquet Chintz Porcelain <span>Tea for One Set</span><br>6" height. Stackable Tea Pot with Lid, Tea Cup and 6.5" Saucer. White Embossed Porcelain. 24K Gold Trimmed. Dishwasher Safe<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1452458753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>6062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

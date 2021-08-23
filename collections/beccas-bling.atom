@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/beccas-bling.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-06-30T17:20:39-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670688886873</id>
+    <published>2020-06-30T17:20:39-05:00</published>
+    <updated>2020-06-30T17:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable"/>
+    <title>Sparkling Black Stardust Necklace Earrings Set - Just 2 Avaialable!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable.jpg?v=1601095201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This piece is just stunning. Black with a sprinkle of white creates a dressy look, and the oval shapes are reminiscent of cameos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670688886873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670678728793</id>
+    <published>2020-06-30T16:48:28-05:00</published>
+    <updated>2020-06-30T16:48:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-4-row-black-and-clear-crystal-with-silver-bead-stretch"/>
+    <title>Sparkling 4-Row Black and Clear Crystal with Silver Bead Stretch - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-4-row-black-and-clear-crystal-with-silver-bead-stretch-hurry-just-1-available.jpg?v=1601095199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A classic look of hematite and diamonds! This 4-row stretch bracelet can be worn with any ensemble from denim to dressy!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670678728793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670677418073</id>
+    <published>2020-06-30T16:43:22-05:00</published>
+    <updated>2020-06-30T16:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Hematite Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Ultra chic hematite adds a classic look to any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670677418073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670676729945</id>
+    <published>2020-06-30T16:40:21-05:00</published>
+    <updated>2020-06-30T16:40:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-topaz-crystal-and-bead-stretch-bracelet"/>
+    <title>Sparkling Topaz Crystal and Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-topaz-crystal-and-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Light and dark topaz coloring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670676729945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670675583065</id>
+    <published>2020-06-30T16:36:56-05:00</published>
+    <updated>2020-06-30T16:36:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available"/>
+    <title>Sparkling Purple Crystal and Silver Bead Stretch Bracelet - Hurry Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-purple-crystal-and-silver-bead-stretch-bracelet-hurry-just-1-available.jpg?v=1601095193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Shades of Lavender and Violet for those who love purples!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670675583065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670674010201</id>
+    <published>2020-06-30T16:31:00-05:00</published>
+    <updated>2020-06-30T16:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-ruby-crystal-and-silver-bead-stretch-bracelet-just-1-available"/>
+    <title>Sparkling Ruby Red Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-ruby-red-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1601095192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670674010201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9273</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670673715289</id>
+    <published>2020-06-30T16:29:05-05:00</published>
+    <updated>2020-06-30T16:29:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Pink Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-pink-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Go Pink!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670673715289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9275</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666489241689</id>
+    <published>2020-06-24T13:01:50-05:00</published>
+    <updated>2020-06-24T13:01:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Jewel Tones Crystal and Silver Bead Stretch Bracelet - Just 1 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-jewel-tones-crystal-and-silver-bead-stretch-bracelet-just-1-available.jpg?v=1593090135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The bold look of jewel tone crystals can be worn with any bright color! Stack with another jewel tone plus a single row clear crystal bracelet for added drama!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666489241689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666483212377</id>
+    <published>2020-06-24T12:51:18-05:00</published>
+    <updated>2020-06-24T12:51:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-clear-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Clear Crystal and Silver Bead Stretch Bracelet - Only 2 Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-clear-crystal-and-silver-bead-stretch-bracelet-only-2-available.jpg?v=1601095187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Expensive feel and look at a lower price than you would expect for such a long lasting statement piece of quality jewelry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666483212377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0624202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4666476920921</id>
+    <published>2020-06-24T12:36:04-05:00</published>
+    <updated>2020-06-24T12:36:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-mystic-rhinestone-triangle-mesh-necklace-only-1-available"/>
+    <title>Sparkling Mystic Rhinestone  Triangle Mesh Necklace - Only 1 Available</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-mystic-rhinestone-triangle-mesh-necklace-only-1-available.jpg?v=1593090134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" class="pdgmain" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td class="pdgmain" colspan="2"><hr></td>
+</tr>
+<tr>
+<td class="pdgmain" colspan="2">This delicate mesh 18" necklace is available in beautiful AB  crystals. It is folded over like a hankie and feels great! Lobster closure and rhodium plated silver for a long lasting shine.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4666476920921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0624201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8690878209</id>
+    <published>2017-01-19T15:00:00-06:00</published>
+    <updated>2017-01-19T15:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angel-wings-necklace-and-earrings-set"/>
+    <title>Angel Wings Necklace and Earrings Set</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angel-wings-necklace-and-earrings-set.jpg?v=1601092856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Delicate wings are accented with a sparkling crystal dangle in the center. Comes with matching earrings. Necklace is 18 to 22 inches in length.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8690878209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>011917-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1429185409</id>
+    <published>2015-07-03T13:07:00-05:00</published>
+    <updated>2015-07-03T13:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ab-necklace"/>
+    <title>AB Necklace</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ab-necklace.jpg?v=1601088687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="100%" class="pdgmain" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td class="pdgmain" colspan="2"><hr></td>
+</tr>
+<tr>
+<td class="pdgmain" colspan="2">This delicate mesh necklace is available in both AB and Clear crystals. It is folded over like a hankie and feels great!</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1429185409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9285</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1429151553</id>
+    <published>2015-07-03T13:04:00-05:00</published>
+    <updated>2015-07-03T13:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-crystal-stretch-bracelet"/>
+    <title>Vintage Style Crystal Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-crystal-stretch-bracelet.jpg?v=1601088685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Very art deco! You wouldn't expect this to be a stretch bracelet, but it is! Easy on and off! Lots of sparkles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1429151553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1429119169</id>
+    <published>2015-07-03T13:00:00-05:00</published>
+    <updated>2015-07-03T13:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-cross-and-earrings-set"/>
+    <title>Crystal Cross and Earrings Set</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-cross-and-earrings-set.jpg?v=1601088682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll be amazed at how sparkly these are. The camera just can't capture it!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1429119169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>9283</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1429060097</id>
+    <published>2015-07-03T12:37:00-05:00</published>
+    <updated>2015-07-03T12:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girls-crystal-stretch-bracelet"/>
+    <title>Girls Crystal Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-crystal-stretch-bracelet.jpg?v=1601088676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! These girls' bracelets are 2 links smaller than our regular stretch bracelets. Great tea party favors!! Be sure to indicate soft or bright pink.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1429060097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1428990977</id>
+    <published>2015-07-03T11:55:00-05:00</published>
+    <updated>2015-07-03T11:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hematite-crystal-stretch-bracelet"/>
+    <title>Hematite Crystal Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hematite-crystal-stretch-bracelet.jpg?v=1601088661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Ultra chic hematite adds a classic look to any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1428990977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1422344961</id>
+    <published>2015-07-02T14:49:00-05:00</published>
+    <updated>2015-07-02T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/8-row-pink-crystal-stretch-bracelet"/>
+    <title>8-Row Pink Crystal Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-row-pink-crystal-stretch-bracelet.jpg?v=1601088617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For the Diva! You'll grab attention as you sparkle your way into pink land with this amazing stretch bracelet from Becca's Bling.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1422344961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9264</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

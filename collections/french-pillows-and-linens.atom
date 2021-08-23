@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/french-pillows-and-linens.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-11-13T17:28:02-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4749790937177</id>
+    <published>2020-11-13T17:28:02-06:00</published>
+    <updated>2020-11-13T17:28:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/days-of-yore-roses-tablecloth"/>
+    <title>Days of Yore Roses Linen Tablecloth</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/days-of-yore-roses-linen-tablecloth.jpg?v=1605359025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This lovely linen is an exact reproduction of one that underlaid al fresco feasts half a century past. Sumptuously thick cotton as our grandmothers knew.</span>
+<ul class="bullet_list">
+<li>52" sq.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4749790937177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>111320J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806692319321</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-script-accent-pillow-16-x-16-blue-burgundy"/>
+    <title>French Script Accent Pillow 16 x 16 Blue Burgundy</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-script-accent-pillow-16-x-16-blue-burgundy.png?v=1601094484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span> Blue/Burgundy on Tan front and back w/zippered back opening</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806692319321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11072018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806679081049</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-script-accent-pillow-16-x-16-white"/>
+    <title>French Script Accent Pillow 16 x 16 White</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-script-accent-pillow-16-x-16-white.png?v=1601094481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gray French Script on Off white front w/Chevron back</span></p>
+<p><span>Pictured on RIGHT</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806679081049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11072018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806670004313</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-script-accent-pillow-16-x-16-taupe"/>
+    <title>French Script Accent Pillow 16 x 16 Taupe</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-script-accent-pillow-16-x-16-taupe.png?v=1601094480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>French script on taupe background, front and back w/zippered back</span></p>
+<p><span>Pictured on LEFT</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806670004313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11072018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806616100953</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/williamsburg-red-floral-accent-pillow"/>
+    <title>Williamsburg Red Floral  Accent Pillow</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/williamsburg-red-floral-accent-pillow.png?v=1601094478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Williamsburg Red floral on taupe background with Tan Fleur de Lis band and striped flange</span><br>Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806616100953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>11072018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1806604107865</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/williamsburg-red-floral-pillow-cases-set-of-2"/>
+    <title>Williamsburg Red Floral  Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/williamsburg-red-floral-pillow-cases-set-of-2.jpg?v=1601094477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Williamsburg Red floral on taupe background with Tan Fleur de Lis band and striped flange</span><br>Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1806604107865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>11072018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312311181413</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/la-vie-en-rose-pillow-cases"/>
+    <title>La Vie en Rose Pillow Cases</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/la-vie-en-rose-pillow-cases.jpg?v=1601094171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>"La Vie en Rose on Cream w/mauve-pink band - 100% Cotton</span><br>Standard/Queen 20 x 30 or King 20 x 40.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312311181413</id>
+      <title>S/Q</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312311181413</id>
+      <title>King</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312310558821</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cabbage-roses-pillow-cases"/>
+    <title>Cabbage Roses Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cabbage-roses-pillow-cases-set-of-2.jpg?v=1601094168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cabbage Roses on Mint </span><wbr></wbr><span>w/Mint dot Band &amp; Pink dot flange - 100% Satin Cotton</span><br>Standard/Queen 20 x 30 or King 20 x 40.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312310558821</id>
+      <title>S/Q</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312310558821</id>
+      <title>King</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312309870693</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/williamsburg-red-roses-pillow-cases"/>
+    <title>Williamsburg Red Roses Pillow Cases</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/williamsburg-red-roses-pillow-cases.jpg?v=1601094168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>" Williamsburg Red Roses on Cream w/Fleur de Lis band" - 100% Cotton</span><br>Standard/Queen 20 x 30 or King 20 x 40.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312309870693</id>
+      <title>S/Q</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312309870693</id>
+      <title>King</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>07122018N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135433025</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-postcard-vinyl-apron"/>
+    <title>Paris Postcard Vinyl Apron</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paris-postcard-vinyl-apron.jpg?v=1601091342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Paris Postcard print chef apron on vinyl-covered cotton fabric. Great for the messy jobs, even washing the dog! Two generous front pockets. Adjustable neck. Ties in back. 31" long</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135433025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22389N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135403649</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/robyn-pandolph-sommerset-cottage-standard-pillow-cases-set-of-2"/>
+    <title>Robyn Pandolph &quot;Sommerset Cottage&quot; Standard Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/robyn-pandolph-sommerset-cottage-standard-pillow-cases-set-of-2.jpg?v=1601091341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Robyn Pandolph "Sommerset Cottage" print with soft pink roses on yellow background with pink flange and light aqua band.  Standard/Queen 20 x 30</p>
+<p>ONLY 1 SET AVAILABLE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135403649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>22387N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135391169</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mary-rose-print-on-lavender-pillow-cases-set-of-2"/>
+    <title>Mary Rose print on Lavender Standard Pillow Cases Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mary-rose-print-on-lavender-standard-pillow-cases-set-of-2.jpg?v=1601091340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mary Rose delicate roses on soft lavender background with coordinating flange, and soft cream Kona cotton band.  Standard/Queen 20 x 30</p>
+<p>ONLY 1 SET AVAILABLE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135391169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>22386N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135378241</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/frou-frou-tea-cup-cozy-cover"/>
+    <title>Frou Frou Tea Cup Cozy Cover</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/frou-frou-tea-cup-cozy-cover.jpg?v=1601091339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frou Frou French Tea Cup Cozy Cover 7 inches in height not including handle. Insulated.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135378241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22384N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135369025</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/frou-frou-tea-cup-tote"/>
+    <title>Frou Frou Tea Cup Tote</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/frou-frou-tea-cup-tote.jpg?v=1601091337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frou Frou French Tea Cup Carrier Tote with Napkin, Tea Bag Pocket and Saucer Pad</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135369025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22383N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135349697</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bon-appetit-embroidered-kitchen-tea-towel"/>
+    <title>White Bon Appetit Embroidered Kitchen Tea Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-bon-appetit-embroidered-kitchen-tea-towel.jpg?v=1601091336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!"  White kitchen drying towels. 100% cotton 20x26</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135349697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>22382N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135338497</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bon-appetit-embroidered-waffle-weave-drying-towel"/>
+    <title>Bon Appetit Embroidered Waffle Weave Drying Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bon-appetit-embroidered-waffle-weave-drying-towel.jpg?v=1601091335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">"Bon Appetit!" White kichen drying towels waffle weave 100% cotton. 16x20</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135338497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22381N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135318209</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eiffel-tower-embroidered-guest-hand-towel"/>
+    <title>Eiffel Tower Embroidered Guest Hand Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/eiffel-tower-embroidered-guest-hand-towel.jpg?v=1601091333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit" Eiffel Tower/Fleur de lis print 100% cotton accent towel with 3" ruffle. 16x25 includes ruffle. </p>
+<p>Choose from Plain - "Bon Appetit!" for the kitchen, or "Le bain" for the powder room.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Red / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Pink / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Green / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Turquoise / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Purple / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Le Bain</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135318209</id>
+      <title>Yellow / Bon Appetit</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>07032017N-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135283777</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paris-print-apron"/>
+    <title>Paris Print Chef&apos;s Apron</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paris-print-chefs-apron.jpg?v=1601091330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Paris/Eiffel Tower print chef apron. Navy blue on cream heavier-weight cotton. Two generous pockets in front. Adjustable neck. Ties in back. 31" long.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135283777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22372N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135262337</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-french-kitchen-chicken-set-apron-mitt-towel"/>
+    <title>Country French Kitchen Chicken Set Apron Mitt Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-french-kitchen-chicken-set-apron-mitt-towel.jpg?v=1601091328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit!"</p>
+<p>Chef apron, accent towel &amp; insulated oven mitt. Country French Chicken print. Two generous front pockets. Adjustable neck. Ties in back. 16x24 towel. Apron 31" long. 3pc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135262337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22371N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135204417</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-french-kitchen-set-apron-mitt-towel"/>
+    <title>Country French Kitchen Set Apron Mitt Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-french-kitchen-set-apron-mitt-towel.jpg?v=1601091324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bon Appetit!"</p>
+<p>Chef apron, accent towel &amp; insulated oven mitt. Country French red/tan Toile' print. Two generous striped front pockets. Adjustable neck. Ties in back. 16x24 towel. Apron 31" long. 3pc.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135204417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>22370N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2134443073</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterflies-with-polka-dots-girls-standard-pillow-case"/>
+    <title>Butterflies with Polka Dots Girls Standard Pillow Case</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterflies-with-polka-dots-girls-standard-pillow-case.jpg?v=1601091323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Butterflies with yellow polka dot flange and pink polka dot band.<br><br>USA Made of Top Quality Cotton!  Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2134443073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23367N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2134389697</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dots-and-chocolate-girls-standard-pillow-case"/>
+    <title>Dots and Chocolate Girls Standard Pillow Case</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dots-and-chocolate-girls-standard-pillow-case.jpg?v=1601091321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brown polka dots on pink background with pink flange and pink dots on brown background band.<br><br>USA Made of Top Quality Cotton!  Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2134389697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>23366N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2133855681</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-hearts-and-toile-girls-standard-pillow-case"/>
+    <title>Pink Hearts and Toile Girls Standard Pillow Case</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-hearts-and-toile-girls-standard-pillow-case.jpg?v=1601091319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Toile on white background with pink polka dot flange and pink hearts on white band.<span style="line-height: 1.4;">  USA Made of Top Quality Cotton!  Standard/Queen 20 x 30</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133855681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>23364N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2133702465</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/owls-and-flowers-girls-standard-pillow-case"/>
+    <title>Owls and Flowers Girls Standard Pillow Case</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/owls-and-flowers-girls-standard-pillow-case.jpg?v=1601091317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            34.99 - 37.99
+            <a href="https://rosesandteacups.com/products/owls-and-flowers-girls-standard-pillow-case">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So Sweet!  Owls and Flowers, Polka Dots and Swirls are featured on this adorable girl's pillow case.  USA Made of Top Quality Cotton!  Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133702465</id>
+      <title>No Embroidery</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>22361N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133702465</id>
+      <title>Add Embroidery</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>23360N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128369857</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-guest-towel"/>
+    <title>Chic and Shabby Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-guest-towel.jpg?v=1601091312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shabby Roses Guest Towel 100% pure linen in 6 color ways.  Blue on natural; taupe on natural; lavender on natural; pink floral and green stripe on natural, blue damask and taupe damask. Generous 20 x 25</p>
+<p>Choose ruffle or plain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22350N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Lavender Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22353N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22354N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22355N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22356N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

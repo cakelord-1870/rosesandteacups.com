@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/premie-angel-gowns-and-bonnets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-03-27T22:09:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086446465</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-premie-angel-gown-and-bonnet"/>
+    <title>Lavender Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-preemie-angel-gown-and-bonnet.jpg?v=1601093082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086446465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086443713</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mint-premie-angel-gown-and-bonnet"/>
+    <title>Mint Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mint-preemie-angel-gown-and-bonnet.jpg?v=1601093081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086443713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439873</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-premie-angel-gown-and-bonnet"/>
+    <title>Pink Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-preemie-angel-gown-and-bonnet.jpg?v=1601093080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439297</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-premie-angel-gown-and-bonnet"/>
+    <title>Peach Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-preemie-angel-gown-and-bonnet.jpg?v=1601093079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

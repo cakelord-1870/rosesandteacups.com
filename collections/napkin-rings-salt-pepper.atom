@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/napkin-rings-salt-pepper.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-14T19:24:19-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388436148313</id>
+    <published>2019-12-14T19:24:19-06:00</published>
+    <updated>2019-12-14T19:24:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/redoute-rose-bone-china-napkin-rings-set-of-6"/>
+    <title>Redoute Rose Bone China Napkin Rings Made in England Set of 6</title>
+    <s:type>napkin rings</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/redoute-rose-bone-china-napkin-rings-made-in-england-set-of-6.png?v=1601095157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>napkin rings<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Redoute Rose Bone China Napkin Rings Set of 6 are made in England by Roy Kirkham</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388436148313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1214191J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2107589296217</id>
+    <published>2019-06-07T21:26:42-05:00</published>
+    <updated>2019-06-07T21:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-albert-old-country-roses-sculpted-rose-salt-and-pepper-shakers-only-2-available"/>
+    <title>Rare Royal Albert Old Country Roses Sculpted Rose Salt and Pepper Shakers - Only 2 Available!</title>
+    <s:type>Salt And Pepper</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-albert-old-country-roses-sculpted-rose-salt-and-pepper-shakers-only-2-available.jpg?v=1582071414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Salt And Pepper<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features &amp; details</h3>
+<div id="featurebullets_secondary_view_div" class="a-section">
+<div id="feature-bullets" class="a-section a-spacing-small">
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Matching Old Country Roses salt and pepper shakers, 4 inches tall</span></li>
+<li><span class="a-list-item">Bone china with 22 karat gold</span></li>
+<li><span class="a-list-item">White with red and yellow roses on base; large red and yellow sculpted roses on top</span></li>
+<li><span class="a-list-item">Dishwasher-safe</span></li>
+<li><span class="a-list-item">22 karat gold trim</span></li>
+<li>Condition: new never used </li>
+</ul>
+<p> </p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2107589296217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0607191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432339329</id>
+    <published>2015-07-03T22:30:00-05:00</published>
+    <updated>2015-07-03T22:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rabbit-shaped-napkin-rings-set-of-4"/>
+    <title>Rabbit Shaped Napkin Rings Set of 4</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Rabbit-Shaped-Napkin-Rings-Set-of-4_6adf177b-caba-4bde-ad2b-a82e9f331706.jpg?v=1629245580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for use during Easter dinner or great for any occasion where you'd like to create a cute, charming atmosphere. This bunny shaped napkin ring is absolutely delightful. It measures 3 1/2" and is dishwasher safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432339329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1432165953</id>
+    <published>2015-07-03T21:24:00-05:00</published>
+    <updated>2015-07-03T21:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-bow-napkin-rings-set-of-6"/>
+    <title>Porcelain Bow Napkin Rings Set of 6</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-bow-napkin-rings-set-of-6.jpg?v=1601088775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use these bow shaped napkin rings when setting your table for a formal meal. This white porcelain napkin ring matches almost any decor or linen set. Measures 2" wide.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1432165953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>7567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1428437377</id>
+    <published>2015-07-03T09:56:00-05:00</published>
+    <updated>2015-07-03T09:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-teapot-napkin-rings"/>
+    <title>Porcelain Teapot Napkin Rings Set of 4</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-teapot-napkin-rings-set-of-4.jpg?v=1601088652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 White Porcelain Teapot Napkin Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1428437377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>7566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

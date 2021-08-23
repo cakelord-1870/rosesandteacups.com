@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/flower-of-the-month.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-17T19:03:04-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559682305</id>
+    <published>2015-07-17T19:03:04-05:00</published>
+    <updated>2015-07-17T19:03:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-november"/>
+    <title>Flower of the Month Teacup - November</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Flower-of-the-Month-Teacup-November_56a4eb33-e39c-4561-b47c-a1a25cdc10fd.jpg?v=1628813526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559682305</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559683777</id>
+    <published>2015-07-17T19:03:00-05:00</published>
+    <updated>2015-07-17T19:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup"/>
+    <title>Flower of the Month Teacup - December</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Flower-of-the-Month-Teacup-December_feb3a3c6-b401-454e-926e-554c88b3393b.jpg?v=1628813531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559683777</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3649</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559680833</id>
+    <published>2015-07-17T19:02:30-05:00</published>
+    <updated>2015-07-17T19:02:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-october"/>
+    <title>Flower of the Month Birthday Teacup - October</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-birthday-teacup-october.jpg?v=1601091059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>October Flower of the Month Birthday Teacup and Saucer is 24K gold trimmed porcelain has October written on both tea cup and saucer.  Lovely Hydrangeas and lush green foilage adorn both cup and saucer to make this the perfect gift! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthday Teacup Tea Cup Flower Month</s:tag>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559680833</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559677633</id>
+    <published>2015-07-17T19:01:50-05:00</published>
+    <updated>2015-07-17T19:01:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-september"/>
+    <title>Flower of the Month Teacup - September</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-september.jpg?v=1601091058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559677633</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559673601</id>
+    <published>2015-07-17T19:01:03-05:00</published>
+    <updated>2015-07-17T19:01:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-august"/>
+    <title>Flower of the Month Birthday Teacup and Saucer - August</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-birthday-teacup-and-saucer-august.jpg?v=1601091056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>August Flower of the Month Birthday Teacup and Saucer is 24K gold trimmed porcelain has August written on both tea cup and saucer.  Wysteria and Roses with lush green foilage adorn both cup and saucer to make this the perfect gift! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthday Flower of the Month Teacup</s:tag>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559673601</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3645</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559667073</id>
+    <published>2015-07-17T19:00:16-05:00</published>
+    <updated>2015-07-17T19:00:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-july"/>
+    <title>Flower of the Month Teacup - July</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-july.jpg?v=1601091055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559667073</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559663361</id>
+    <published>2015-07-17T18:59:46-05:00</published>
+    <updated>2015-07-17T18:59:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-june"/>
+    <title>Flower of the Month Teacup - June</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-june.jpg?v=1601091054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559663361</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559660737</id>
+    <published>2015-07-17T18:59:16-05:00</published>
+    <updated>2015-07-17T18:59:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-may"/>
+    <title>Flower of the Month Teacup - May</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-may.jpg?v=1601091053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559660737</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3642</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559657409</id>
+    <published>2015-07-17T18:58:40-05:00</published>
+    <updated>2015-07-17T18:58:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-april"/>
+    <title>Flower of the Month Teacup - April</title>
+    <s:type>Flavored Tea Spoons</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-april.jpg?v=1601091051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flavored Tea Spoons<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559657409</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3641</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559654657</id>
+    <published>2015-07-17T18:57:59-05:00</published>
+    <updated>2015-07-17T18:57:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-march"/>
+    <title>Flower of the Month Teacup - March</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-march.jpg?v=1601091050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559654657</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559651777</id>
+    <published>2015-07-17T18:57:30-05:00</published>
+    <updated>2015-07-17T18:57:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-february"/>
+    <title>Flower of the Month Teacup - February</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-february.jpg?v=1601091049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559651777</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3639</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1559647425</id>
+    <published>2015-07-17T18:56:41-05:00</published>
+    <updated>2015-07-17T18:56:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flower-of-the-month-teacup-january"/>
+    <title>Flower of the Month Teacup - January</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-of-the-month-teacup-january.jpg?v=1601091049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flower of the Month Teacup</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1559647425</id>
+      <title>Default</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>3638</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

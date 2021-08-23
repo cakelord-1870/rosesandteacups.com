@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/usa-hand-decorated-tea-cups.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-10-27T14:00:37-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/15970304001</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-snow-people"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Snow People</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-snow-people.jpg?v=1601093623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15970304001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-26N-373-126SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15965782017</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-peony"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Peony</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-peony.jpg?v=1601093622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15965782017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-25N-373-118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15960309761</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-magnolia"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Magnolia</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-magnolia.jpg?v=1601093621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15960309761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-24N-373-160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15954968577</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-lily-of-the-valley"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Lily of the Valley</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-lily-of-the-valley.jpg?v=1601093620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15954968577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-23N-373-157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15949103105</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-white-rose-spray"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer White Rose Spray</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-white-rose-spray.jpg?v=1601093619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15949103105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-22N-373-225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15943237633</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-summer-rose"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Summer Rose</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-summer-rose.jpg?v=1601093618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15943237633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-21N-373-185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15942287361</id>
+    <published>2017-10-27T14:00:37-05:00</published>
+    <updated>2017-10-27T14:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-demitasse-tea-cup-and-saucer-lavender"/>
+    <title>Set of 2 Demitasse Tea Cup and Saucer Lavender</title>
+    <s:type>demitasses</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-demitasse-tea-cup-and-saucer-lavender.jpg?v=1601093617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>demitasses<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">For those who like a smaller cup to refill with piping hot tea, our demitasse cup is 4 ounces and will fit the bill!  Set of 2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15942287361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>10272017-20N-373-155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10340312577</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-shamrock"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Shamrock</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-shamrock.jpg?v=1601093505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10340312577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10222017-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10340309825</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-musical-note"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Musical Note</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-musical-note.jpg?v=1601093504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10340309825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10222017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336446145</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-christmas-santa"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Christmas Santa</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-christmas-santa.jpg?v=1601093459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</p>
+<p>Photos are for Pattern Only.  Original photo shows item style.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Vintage Santa</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Christmas Candles</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Christmas Ribbon Wreath</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Snow People</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Folk Art Snow People</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Musical Christmas</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Christmas Wreath White Flowers</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Christmas Cardinal</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Christmas Kitten</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336446145</id>
+      <title>Poinsettia</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-92N-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336444353</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-wayside-pansy"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Wayside Pansy</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-wayside-pansy.jpg?v=1601093458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336444353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-91N-392-190</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336442305</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-tulips"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Tulips</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-tulips.jpg?v=1601093457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336442305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-90N-392-187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336440705</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-sussex-rose"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Sussex Rose</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-sussex-rose.jpg?v=1601093456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336440705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-392-125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336438721</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-sunflower"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Sunflower</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-sunflower.jpg?v=1601093455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336438721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-88N-392-131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336434881</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-summer-rose"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Summer Rose</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-summer-rose.jpg?v=1601093454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336434881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-87N-392-185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336432001</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-strawberry"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Strawberry</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-strawberry.jpg?v=1601093453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336432001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-86N-392-207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336429825</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-red-hat"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Red Hat</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-red-hat.jpg?v=1601093452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336429825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-85N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336427137</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-peony"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Peony</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-peony.jpg?v=1601093451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336427137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-84N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336425473</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-magnolia"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Magnolia</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-magnolia.jpg?v=1601093450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336425473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-83N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336424001</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-lily-of-the-valley"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Lily of the Valley</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-lily-of-the-valley.jpg?v=1601093448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336424001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-82N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336420737</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-iris"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Iris</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-iris.jpg?v=1601093447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336420737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-81N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336418497</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-iris-spray"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Iris Spray</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-iris-spray.jpg?v=1601093446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336418497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-80N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336416257</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-hydrangea"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Hydrangea</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-hydrangea.jpg?v=1601093445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336416257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-79N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336414529</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-hummingbird"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Hummingbird</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-hummingbird.jpg?v=1601093444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336414529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-78N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336412801</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-guinevere"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Guinevere</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-guinevere.jpg?v=1601093442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336412801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-77N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

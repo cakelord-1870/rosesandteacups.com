@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/scarves-shawls.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-06-11T12:16:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6517073153</id>
+    <published>2016-06-11T12:16:00-05:00</published>
+    <updated>2016-06-11T12:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/florence-scarf"/>
+    <title>Florence Scarf</title>
+    <s:type>Scarf</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/florence-scarf.jpg?v=1601092408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Scarf<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dreamy delicate vintage lace scarf can be worn like a shawl draped across the shoulders. Soft net cotton lace makes this a good staple for your wardrobe.  Available in a soft shade of Pink. <br></span></p>
+<p><span>Please allow extra time for these amazing handcrafted items!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6517073153</id>
+      <title>White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>06072016-105N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6517073153</id>
+      <title>Pink</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>06072016-105N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9035399617</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hot-pink-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Hot Pink Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hot-pink-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601093071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9035399617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>031817N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548755265</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turquoise-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Turquoise Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turquoise-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548755265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548747649</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/olive-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Olive Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/olive-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548747649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2927</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548731073</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Black Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548731073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548715329</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Burgundy Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548715329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>3679</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548704321</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turquoise-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Turquoise Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turquoise-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548704321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548700673</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/olive-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Olive Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/olive-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548700673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

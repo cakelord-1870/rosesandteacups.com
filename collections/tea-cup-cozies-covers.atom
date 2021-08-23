@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-cup-cozies-covers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-02T14:16:52-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371633045593</id>
+    <published>2019-12-02T14:16:52-06:00</published>
+    <updated>2019-12-02T14:16:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-and-white-winter-holiday-toile-tea-cup-cozy-cover"/>
+    <title>Blue and White Winter Holiday Toile Tea Cup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-and-white-winter-holiday-toile-tea-cup-cozy-cover.jpg?v=1601095114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and White Winter Holiday Toile Teacup Cozy Cover is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371633045593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371615088729</id>
+    <published>2019-12-02T13:54:25-06:00</published>
+    <updated>2019-12-02T13:54:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-blue-snowflake-teacup-cozy-cover"/>
+    <title>Silver and Blue Snowflake Teacup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-blue-snowflake-teacup-cozy-cover.jpg?v=1601095111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Blue Snowflake Teacup Cozy Cover Insulated is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371615088729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371587727449</id>
+    <published>2019-12-02T13:32:42-06:00</published>
+    <updated>2019-12-02T13:32:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-and-plaid-tea-cup-cozy-cover"/>
+    <title>Poinsettia and Plaid Tea Cup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-and-plaid-tea-cup-cozy-cover.jpg?v=1601095110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Poinsettia and Plaid Insulated Tea Cup Cozy Cover is the perfectly classy way to keep your tea, coffee and other beverage warm and covered. Each one is hand sewn just for you at the time of your order by one of our talented seamstress Nan.  7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371587727449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371436929113</id>
+    <published>2019-12-02T11:20:15-06:00</published>
+    <updated>2019-12-02T11:20:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy-1"/>
+    <title>Postcard Merry Christmas Tea Cup (Teacup) Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-teacup-cozy.png?v=1601095104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371436929113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2135378241</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/frou-frou-tea-cup-cozy-cover"/>
+    <title>Frou Frou Tea Cup Cozy Cover</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/frou-frou-tea-cup-cozy-cover.jpg?v=1601091339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frou Frou French Tea Cup Cozy Cover 7 inches in height not including handle. Insulated.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2135378241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22384N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1830313099353</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-tea-cup-cozy"/>
+    <title>Postcard Merry Christmas Tea Cup Cozy</title>
+    <s:type>tea cup cozy</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-tea-cup-cozy.png?v=1601094491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup cozy<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)  Insulated Tea Cup Cozy</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1830313099353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8871215233</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-rose-tea-cup-cozy-cover"/>
+    <title>Black Rose Tea Cup Cozy Cover</title>
+    <s:type>tea cup covers</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-rose-tea-cup-cozy-cover.jpg?v=1601092935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup covers<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Rose Insulated Tea Cup Cozy Cover   7 inches in height</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8871215233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>02172017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6653470849</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-tea-cup-fabrics-cream-tea-cups-tea-cup-cozy-cover-1"/>
+    <title>Carol Wilson Tea Cup Fabrics Cream Tea Cups Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-tea-cup-fabrics-cream-tea-cups-tea-cup-cozy-cover_502af9f0-b21b-4af9-8edd-e0bed7ece13b.jpg?v=1601092427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson Tea Cup Fabrics Cream</span><span> Tea Cups Tea Cup Cozy</span>   7 inches in height not including handle.  Insulated.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6653470849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>8709-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447082305</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/briar-rose-tea-cup-cozy-cover"/>
+    <title>Briar Rose Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/briar-rose-tea-cup-cozy-cover.jpg?v=1601088945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Briar Rose Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447082305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>2021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447081025</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-tea-garden-tea-cup-cozy-cover"/>
+    <title>Blue Tea Garden Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-tea-garden-tea-cup-cozy-cover.jpg?v=1601088944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Tea Garden Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447081025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1956</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447079745</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/c-tea-cup-cozy-cover"/>
+    <title>Roses Upon Roses Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-upon-roses-tea-cup-cozy-cover.jpg?v=1601088943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses Upon Roses Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447079745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>4651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447077889</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-upon-roses-tea-cup-cozy-cover"/>
+    <title>Cherries Cherries Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherries-cherries-tea-cup-cozy-cover.jpg?v=1601088942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherries Cherries Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447077889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447075905</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-in-paris-tea-cup-cozy-cover"/>
+    <title>Tea in Paris Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-in-paris-tea-cup-cozy-cover.jpg?v=1601088941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea in Paris Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447075905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6580</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447074625</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-tea-cakes-tea-cup-cozy-cover"/>
+    <title>French Tea Cakes Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-tea-cakes-tea-cup-cozy-cover.jpg?v=1601088940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>French Tea Cakes Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447074625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447066113</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-pea-tea-cup-cozy-cover"/>
+    <title>Sweet Pea Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-pea-tea-cup-cozy-cover.jpg?v=1601088939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Pea Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447066113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>5787</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447059905</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/porcelain-paisley-tea-cup-cozy-cover"/>
+    <title>Porcelain Paisley Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-paisley-tea-cup-cozy-cover.jpg?v=1601088938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Porcelain Paisley Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447059905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>2049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447054273</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-garden-tea-cup-cozy-cover"/>
+    <title>Pink Tea Garden Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-garden-tea-cup-cozy-cover.jpg?v=1601088937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Tea Garden Tea Cup Cozy Cover  7 inches in height not including handle.  Insulated.</p>
+<p><span>You may recognize the Lavender Blue Tea Garden Fabric, but Nannette has changed the lining to a sweet blue with white polka dots and added a lavender tassel.  </span><span>Adorable!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447054273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>1954</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447043585</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-blue-tea-garden-tea-cup-cozy-cover"/>
+    <title>Lavender Blue Tea Garden Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-blue-tea-garden-tea-cup-cozy-cover.jpg?v=1601088936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Blue Tea Garden Tea Cup Cozy Cover  7 inches in height not including handle.  Insulated.</p>
+<p><span>You may recognize the Lavender Blue Tea Garden Fabric, but Nannette has changed the lining to a sweet blue with white polka dots and added a lavender tassel.  </span><span>Adorable!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447043585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>5785</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447040129</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cafe-latte-coffee-cup-cozy-cover"/>
+    <title>Cafe Latte Coffee Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cafe-latte-coffee-cup-cozy-cover.jpg?v=1601088935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cafe Latte Coffee Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447040129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447038273</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cupcakes-and-chocolate-tea-cup-cozy-cover"/>
+    <title>Cupcakes and Chocolate Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cupcakes-and-chocolate-tea-cup-cozy-cover.jpg?v=1601088934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupcakes and Chocolate Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447038273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6667</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447036609</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lacy-cupcakes-pink-tea-cup-cozy-cover"/>
+    <title>Lacy Cupcakes Pink Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lacy-cupcakes-pink-tea-cup-cozy-cover.jpg?v=1601088933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lacy Cupcakes Pink Tea Cup Cozy Coverr   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447036609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447034945</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lacy-cupcakes-blue-tea-cup-cozy-cover"/>
+    <title>Lacy Cupcakes Blue Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lacy-cupcakes-blue-tea-cup-cozy-cover.jpg?v=1601088932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lacy Cupcakes Blue Tea Cup Cozy Coverr   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447034945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447028609</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dots-n-daisies-tea-cup-cozy-cover"/>
+    <title>Dots N Daisies Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dots-n-daisies-tea-cup-cozy-cover.jpg?v=1601088931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dots N Daisies Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447028609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>8705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447020225</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-and-roses-tea-cup-cozy-cover"/>
+    <title>Chocolate and Roses Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-and-roses-tea-cup-cozy-cover.jpg?v=1601088930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chocolate and Roses Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447020225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>6581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1447018241</id>
+    <published>2015-07-06T19:29:00-05:00</published>
+    <updated>2015-07-06T19:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-teapots-and-tea-cups-tea-cup-cozy-cover"/>
+    <title>Lavender Teapots and Tea Cups Tea Cup Cozy Cover</title>
+    <s:type>tea cup totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-teapots-and-tea-cups-tea-cup-cozy-cover.jpg?v=1601088929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>tea cup totes<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender Teapots and Tea Cups Tea Cup Cozy Cover   7 inches in height not including handle.  Insulated.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1447018241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>8707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

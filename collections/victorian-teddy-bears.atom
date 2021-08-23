@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-teddy-bears.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-28T11:23:11-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491682611289</id>
+    <published>2020-02-28T11:23:11-06:00</published>
+    <updated>2020-02-28T11:23:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-hoppy-hankie-dress-bunny-just-3-available"/>
+    <title>Miss Hoppy Hankie Dress Bunny - Just 3 Available!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-hoppy-hankie-dress-bunny-just-3-available.jpg?v=1582981440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Miss Hoppy Hankie Dress Bunny - Wearing an adorable hankie dress featuring a cute bunny theme.  She is wearing a lovely hankie dress with pink ribbons topped with a pretty pink bow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491682611289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0228202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491608981593</id>
+    <published>2020-02-28T10:22:57-06:00</published>
+    <updated>2020-02-28T10:22:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-jelly-bean-hankie-dress-bunny"/>
+    <title>Miss Jelly Bean Hankie Dress Bunny - Just 1 Available!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-jelly-bean-hankie-dress-bunny-just-1-available.jpg?v=1582981439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Bunny - Wearing an adorable hankie dress featuring a cute jelly bean theme.  She's so soft and ready to brighten your day.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491608981593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0228202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491586043993</id>
+    <published>2020-02-28T10:05:28-06:00</published>
+    <updated>2020-02-28T10:05:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-spring-showers-hankie-dress-teddy-bear-blue"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Blue</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-blue.jpg?v=1582981439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely blue bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491586043993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491584405593</id>
+    <published>2020-02-28T09:56:57-06:00</published>
+    <updated>2020-02-28T09:56:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-showers-hankie-dress-teddy-bear-pink"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Pink</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-pink.jpg?v=1582981438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable pink hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely pink bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491584405593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482702573657</id>
+    <published>2020-02-21T19:54:49-06:00</published>
+    <updated>2020-02-21T19:54:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/luck-be-a-lady-shamrock-hankie-dress-teddy-bear-just-1-available-today-1"/>
+    <title>Luck Be a Lady Shamrock Hankie Dress Teddy Bear - Just 1 Available Today!!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/luck-be-a-lady-shamrock-hankie-dress-teddy-bear-just-1-available-today_0c281525-ec2d-4d1f-a399-28b320fdd6f0.jpg?v=1587860230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luck Be a Lady Shamrock Hankie Dress Teddy Bear is all dressed up in her best Iris attire.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482702573657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482600730713</id>
+    <published>2020-02-21T15:15:59-06:00</published>
+    <updated>2020-02-21T15:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eleanor-victorian-teddy-bear-1"/>
+    <title>Valerie Victorian Teddy Bear - One of a Kind!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valerie-victorian-teddy-bear-one-of-a-kind.jpg?v=1582376692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Valerie Victorian Teddy Bear is so elegant in her gown all dressed up ready to delight! Approximately 9” has hair bow and dress of tulle, organza, lace, embellished with satin roses and pearls. She wears rhinestone rings and earrings to finish off her romantic look.<br>Clothes do not come off. Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482600730713</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>12112018-4NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482510225497</id>
+    <published>2020-02-21T12:53:34-06:00</published>
+    <updated>2020-02-21T12:53:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ring-around-the-rosey-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Ring Around the Rosey Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ring-around-the-rosey-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ring Around the Rosey Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482510225497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482430238809</id>
+    <published>2020-02-21T11:25:21-06:00</published>
+    <updated>2020-02-21T11:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-in-lilacs-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Lovely in Lilacs Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-in-lilacs-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lovely in Lilacs Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482430238809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482421489753</id>
+    <published>2020-02-21T11:03:41-06:00</published>
+    <updated>2020-02-21T11:03:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bella-blue-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Bella Blue Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bella-blue-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bella Blue Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482421489753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312875991129</id>
+    <published>2020-01-23T11:53:03-06:00</published>
+    <updated>2020-01-23T11:53:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/faith-victorian-teddy-bear-1"/>
+    <title>Faith Victorian Teddy Bear - Only 1 Available!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/faith-victorian-teddy-bear-only-1-available.jpg?v=1582072438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faith Victorian Teddy Bear<br> Approx 9” has white pearl earrings and bracelets, clothes do not come off, clothing: tulle, organza, lace, embellished with satin roses, pearls and rhinestones<br> Bear and clothing are both made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312875991129</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>9438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4317345415257</id>
+    <published>2019-10-27T07:25:34-05:00</published>
+    <updated>2019-10-27T07:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-winnie-victorian-teddy-bear-1"/>
+    <title>Winter Winnie Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-winnie-victorian-teddy-bear_d98d61de-6d13-4216-84bd-afa34f6cca81.jpg?v=1587860211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Whirl of White!  So soft, so lacy, and so sparkly!  Adorned with rhinestones and dressed in a fine tulle and lace gown.  If you look closely she has her finest jewelry on with lovely earrings, "rings", and necklace.  <br> Approx 9” has hair bow and dress of white tulle, organza, lace, embellished with satin roses and pearls<br>Clothes do not come off<br>Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4317345415257</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12112018-5N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312863834201</id>
+    <published>2019-10-26T14:54:09-05:00</published>
+    <updated>2019-10-26T14:54:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-peaches-victorian-teddy-bear"/>
+    <title>Pretty Peaches Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-peaches-victorian-teddy-bear.jpg?v=1601095045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peaches Victorian Teddy Bear<br> Approx 9” has hair bow with roses and dress made of lace and tull and embellished (embellishments vary) with satin roses, pearls and rhinestones<br><span>Clothes do not come off</span><br> Bear and clothing are both made in the USA</p>
+<p>Sooo sweet!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312863834201</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>49446N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312857509977</id>
+    <published>2019-10-26T14:45:36-05:00</published>
+    <updated>2019-10-26T14:45:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fancy-fiona-victorian-teddy-bear"/>
+    <title>Fancy Fiona Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fancy-fiona-victorian-teddy-bear.png?v=1601095038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deliciously Pink!<br> Approx 9” has hair bow and dress of pink tulle, organza, lace, embellished with satin roses and pearls<br>Clothes do not come off<br>Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312857509977</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312852627545</id>
+    <published>2019-10-26T14:39:13-05:00</published>
+    <updated>2019-10-26T14:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elegant-eleanor-victorian-teddy-bear"/>
+    <title>Joyous Joy Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/joyous-joy-victorian-teddy-bear.png?v=1601095035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So elegant!<br> Approx 9” has hair bow and dress of tulle, organza, lace, embellished with satin roses and pearls<br>Clothes do not come off<br>Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312852627545</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>12112018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312846794841</id>
+    <published>2019-10-26T14:33:08-05:00</published>
+    <updated>2019-10-26T14:33:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-brandy-victorian-teddy-bear"/>
+    <title>Burgundy Brandy Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-brandy-victorian-teddy-bear.jpg?v=1601095031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burgundy Bliss! Brandy has lovely rhinestone earrings and one on each little paw. <br> Approx 9” has hair bow and dress of pink tulle, organza, lace, embellished with satin roses and pearls<br>Clothes do not come off<br>Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312846794841</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>49443N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4312860590169</id>
+    <published>2019-10-26T14:30:13-05:00</published>
+    <updated>2019-10-26T14:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hope-victorian-teddy-bear-1"/>
+    <title>Hope Victorian Teddy Bear</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hope-victorian-teddy-bear_bec7bff7-46dc-4c32-adf2-a80b492fdee4.jpg?v=1601095042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hope Victorian Teddy Bear is accented with rhinestone earrings and one on each little paw. So very soft and sweet.<br> Approx 9” has hair bow with roses, clothes do not come off, clothing: pink tulle, organza, lace, embellished with satin roses and rhinestones<br> Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4312860590169</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>49439N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

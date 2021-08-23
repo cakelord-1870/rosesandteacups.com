@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/magnetic-shopping-list-pads.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T12:28:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1366911745</id>
+    <published>2021-06-22T12:28:35-05:00</published>
+    <updated>2021-06-22T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-magnetic-shopping-list-pad-with-pen"/>
+    <title>Tulip Magnetic Shopping List Pad with Pen - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-magnetic-shopping-list-pad-with-pen-very-limited.jpg?v=1624407157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Magnetic List Pad with Pen 8.5 x 3.5  75 pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1366911745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4444089712729</id>
+    <published>2020-01-25T11:50:32-06:00</published>
+    <updated>2020-01-25T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen"/>
+    <title>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen.jpg?v=1580043747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad make perfect floral and pretty grocery lists, garden notes and reminders of things to do.  With a magnet on the back to place on steel surfaces you can use in the kitchen, office, she-shed crafting areas and more!  Our feminine shopping list notepads make sweet hostess gifts and party favors all wrapped up in organza ribbon with pen. If you look closely you will notice sweet bumble bees with forget me nots and butterflies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4444089712729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0125201</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442712440921</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen"/>
+    <title>Give Thanks Sunflower Garden Magnetic Shopping List To Do Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen.jpg?v=1579957331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give Thanks Sunflowers Pansies &amp; Butterflies Magnetic Shopping List To Do Pad includes Pen and Gift Tag  wrapped in an organza ribbon. Beautiful Floral Magnetic Shopping List Pads perfect for those to do lists! Make </span><span>any </span><span>list a lovely addition to the kitchen or desk using the magnet to place on metal surfaces!  Our feminine pretty shopping list notepads come in a variety of lovely colors with floral and animal graphics.  Sweet as hostess gifts and favors, as well! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442712440921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0124203</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142813057</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-die-cut-notepad-w-pen"/>
+    <title>Home for the Holidays Magnetic List Gift Set</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-list-pad-w-pen-1.gif?v=1561400110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Home for the Holidays Gift Set includes a Magnetic List Pad, Bluebird Notepad and a Designer Pen.<span> Magnetic List Pad: 8.5" x 3.5", Die Cut Notepad: 4.5" x 4.5". 75 printed sheets each. <br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142813057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>07262016-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1388755201</id>
+    <published>2015-06-29T13:01:00-05:00</published>
+    <updated>2015-06-29T13:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cottage-in-bloom-magnetic-shopping-list-notepad-with-pen-1"/>
+    <title>Cottage in Bloom Magnetic Shopping List Notepad with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Cottage-in-Bloom-Magnetic-Shopping-List-Notepad-with-Pen_938bdcb3-09a9-496e-9b00-e5ce32f5ae3d.jpg?v=1629159109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>75 pages 8.5 x 3.5  Includes Designer Pen and Ribbon Accent</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1388755201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1306457473125</id>
+    <published>2015-06-26T18:03:00-05:00</published>
+    <updated>2015-06-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-christmas-tea-cups-magnetic-shopping-list-notepad"/>
+    <title>Stacked Christmas Tea Cups Magnetic Shopping List Notepad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stacked-christmas-tea-cups-magnetic-shopping-list-notepad.jpg?v=1601094082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size 3 ½" x 8 ½". Comes packaged in clear cellophane.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1306457473125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>011818-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/509153443880</id>
+    <published>2015-06-26T18:03:00-05:00</published>
+    <updated>2015-06-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peony-magnetic-shopping-list-notepad"/>
+    <title>Peony Magnetic Shopping List Notepad - Only 4 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peony-magnetic-shopping-list-notepad-only-4-left.jpg?v=1601093961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size 3 ½" x 8 ½". Comes packaged in clear cellophane.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/509153443880</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>032718-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/408704221224</id>
+    <published>2015-06-26T18:03:00-05:00</published>
+    <updated>2015-06-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bird-on-stacked-tea-cups-magnetic-shopping-list-notepad"/>
+    <title>Bird on Stacked Tea Cups Magnetic Shopping List Notepad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bird-on-stacked-tea-cups-magnetic-shopping-list-notepad.jpg?v=1601093850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size 3 ½" x 8 ½". Comes packaged in clear cellophane.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/408704221224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>011818-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/408700125224</id>
+    <published>2015-06-26T18:03:00-05:00</published>
+    <updated>2015-06-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hummingbird-magnetic-shopping-list-notepad"/>
+    <title>Hummingbird Magnetic Shopping List Notepad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbird-magnetic-shopping-list-notepad.jpg?v=1601093849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size 3 ½" x 8 ½". Comes packaged in clear cellophane.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/408700125224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>011818N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1368363585</id>
+    <published>2015-06-26T18:03:00-05:00</published>
+    <updated>2015-06-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-magnetic-shopping-list-notepad"/>
+    <title>Chocolate Magnetic Shopping List Notepad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-magnetic-shopping-list-notepad.jpg?v=1582071081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8.5 x 3.5   75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1368363585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>4228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1524943809</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-moroccan-holiday-cards-in-portfolio"/>
+    <title>Moroccan Matchbook Note Pad &amp; Pen Set - Limited Supply!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/moroccan-matchbook-note-pad-pen-set-limited-supply.jpg?v=1601090336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lovely notepad comes tucked into a portfolio!  75 sheets per note pad, portfolio has magnetic closure  and comes with coordinating black ink pen.  </p>
+<p>Moroccan Design is embellished with a gem and gold foil  Pad Size: 4" W x 4" H Pen size: 4 1/2" H</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1524943809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>9172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521026689</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-stationery-list-pad-with-pen"/>
+    <title>Holiday Tea Time Magnetic List Pad with Pen and Magnet</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-time-magnetic-list-pad-with-pen-and-magnet.jpg?v=1601090296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Holiday Tea Time Magnetic List Pad with Pen and Matching Magnet. Measuring 8.5" x 3.5" Has 75 sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521026689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363307969</id>
+    <published>2015-06-26T11:07:00-05:00</published>
+    <updated>2015-06-26T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/iris-magnetic-list-pad-with-pen"/>
+    <title>Iris Magnetic List Pad with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/iris-magnetic-list-pad-with-pen.jpg?v=1601088499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8.5" x 3.5". 75 printed perforated sheets featuring the rich hues of iris.  With designer pen and ribbon accent.  Magnetic strip on the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363307969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344484933733</id>
+    <published>2015-06-24T12:50:00-05:00</published>
+    <updated>2015-06-24T12:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-magnetic-shopping-list-notepad-and-pen"/>
+    <title>Sweet Violets Magnetic Shopping List Notepad and Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/diecut-list-pad-sv-2.gif?v=1561401097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Die Cut List Pad measures 8.75" x 3.75" and contains 75 sheets</p>
+<p>Magnetic strip on back of pad</p>
+<p>Includes Designer Pen</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344484933733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>09112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

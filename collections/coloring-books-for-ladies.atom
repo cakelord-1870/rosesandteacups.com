@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/coloring-books-for-ladies.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-20T23:53:59-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2138289078361</id>
+    <published>2019-07-20T23:53:59-05:00</published>
+    <updated>2019-07-20T23:53:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-adult-coloring-book"/>
+    <title>Tea Time Adult Coloring Book</title>
+    <s:type>Coloring Book</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-adult-coloring-book.jpg?v=1601094912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Coloring Book<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Inspired by historical tea culture and its modern popularity, 31 original designs to color include beautiful tea settings; whimsical arrangements of stacked tea cups; charming teapots; delicious tea time snacks; and tea-related designs, patterns, and borders. Also included are images of vintage tea advertisements. </span><span>Specially designed for experienced colorists.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2138289078361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0720192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936792961</id>
+    <published>2016-09-01T14:32:00-05:00</published>
+    <updated>2016-09-01T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterflies-tea-party-activity-coloring-book"/>
+    <title>Butterflies Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterflies-tea-party-activity-coloring-book.png?v=1601092325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Let your creativity soar as you color these 31 exquisitely decorated butterfly images. Each of the designs features a unique background of flowers, plants, sunbursts, and clouds that adds to the beauty of the fancifully rendered creatures. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Fantasy Butterflies </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936792961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34679N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936781441</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dragonflies-tea-party-activity-coloring-book"/>
+    <title>Dragonflies Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dragonflies-tea-party-activity-coloring-book.png?v=1601092324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Thirty-one exuberant full-page illustrations to color feature dragonflies in imaginative renditions of natural settings. Inspired by Zentangle, a mode of repetitive patterns, the sweeping designs incorporate a dazzling array of flowers, leaves, and swirling interlocking shapes. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Entangled Dragonflies </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936781441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34678N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936723649</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/art-nouveau-fashions-tea-party-activity-coloring-book"/>
+    <title>Art Nouveau Fashions Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/art-nouveau-fashions-tea-party-activity-coloring-book.png?v=1601092322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>coloring book presents 31 full-page illustrations of women and girls in the broad-shouldered, narrow-waisted fashions in vogue from the 1890s to the early 1900s. Graceful period motifs appear in the backgrounds. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Art Nouveau Fashions</i><span> and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress. </span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936723649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34677N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936522817</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-hand-fans-tea-party-activity-coloring-book"/>
+    <title>Vintage Hand Fans Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-hand-fans-tea-party-activity-coloring-book.jpg?v=1601092321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The stunning artistic details in these 31 vintage hand fans make these illustrations a delightful challenge for experienced colorists. Beautifully rendered by artist Marty Noble, the book also offers historical notes on each image, detailing country of origin, age, and more. Illustrations are printed on one side of the perforated pages for easy removal and display. Specially designed for experienced colorists, </span><i>Vintage Hand Fans </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936522817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34674N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5929823873</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paisley-tea-party-activity-coloring-book"/>
+    <title>Paisley Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paisley-tea-party-activity-coloring-book.png?v=1601092320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These stunning new designs offer a wild take on the twisted teardrop shapes known as Persian pickles or paisleys. Original full-page drawings allow colorists to create contrasts and make the patterns pulse with psychedelic power. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Crazy Paisley </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>Illustrations are printed on one side of the perforated pages for easy removal and display.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5929823873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34672N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5929807937</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacocks-tea-party-activity-coloring-book"/>
+    <title>Peacocks Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-peacocks-tea-party-activity-coloring-book-1.gif?v=1561400508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Any peacock would be proud of these gorgeous designs to color. Many of the 31 dazzling drawings were inspired by traditional arts and antiquities as well as vintage wallpapers, mosaics, and pottery motifs, while others are all-original illustrations created by the imaginative artist Marty Noble. <br>Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</p>
+<p><span>Illustrations are printed on one side of the perforated pages for easy removal and display.</span></p>
+<p><span>For Adults or Older Children</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5929807937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34671N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

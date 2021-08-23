@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/floral-stationery-notepads-note-cards-sticky-notes-bookmarks-journals-with-floral-designs.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T12:28:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1366911745</id>
+    <published>2021-06-22T12:28:35-05:00</published>
+    <updated>2021-06-22T12:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-magnetic-shopping-list-pad-with-pen"/>
+    <title>Tulip Magnetic Shopping List Pad with Pen - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-magnetic-shopping-list-pad-with-pen-very-limited.jpg?v=1624407157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Magnetic List Pad with Pen 8.5 x 3.5  75 pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1366911745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367364353</id>
+    <published>2021-06-22T12:26:06-05:00</published>
+    <updated>2021-06-22T12:26:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulip-ceramic-memo-and-pen-set"/>
+    <title>Tulip Ceramic Memo and Pen Set - Only 2 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulip-ceramic-memo-and-pen-set-only-2-left.jpg?v=1601088516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Tulip Ceramic Memo Set Sheet size: 3" x 4", 75 printed sheets Includes Designer pen and ceramic holder.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367364353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367849665</id>
+    <published>2021-06-22T12:13:28-05:00</published>
+    <updated>2021-06-22T12:13:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-ceramic-desk-set"/>
+    <title>Vegetable Garden Ceramic Desk Set - Only 4 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-ceramic-desk-set-only-4-left.jpg?v=1624407167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Folded Note Cards, Die Cut notepad and Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367849665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446970380377</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-peonies-and-succulents-notepad-and-pen-set"/>
+    <title>Garden Peonies and Succulents Notepad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-peonies-and-succulents-notepad-and-pen-set.jpg?v=1580216568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Garden Peonies and Succulents Notepad and Pen Set is perfect for party favors, gift giving and for personal use to jot down those important messages and notes. Each sheet has a lovely saying: Heaven is a little closer in the garden. Has gift tag and matching pens all wrapped up in a organza ribbon. </p>
+<p><span>Size: 4.37" x 5.37"</span></p>
+<p><span> 75 printed sheets</span></p>
+<p><span> With designer pen</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446970380377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0127203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4444089712729</id>
+    <published>2020-01-25T11:50:32-06:00</published>
+    <updated>2020-01-25T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen"/>
+    <title>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen.jpg?v=1580043747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad make perfect floral and pretty grocery lists, garden notes and reminders of things to do.  With a magnet on the back to place on steel surfaces you can use in the kitchen, office, she-shed crafting areas and more!  Our feminine shopping list notepads make sweet hostess gifts and party favors all wrapped up in organza ribbon with pen. If you look closely you will notice sweet bumble bees with forget me nots and butterflies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4444089712729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0125201</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442712440921</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen"/>
+    <title>Give Thanks Sunflower Garden Magnetic Shopping List To Do Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen.jpg?v=1579957331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give Thanks Sunflowers Pansies &amp; Butterflies Magnetic Shopping List To Do Pad includes Pen and Gift Tag  wrapped in an organza ribbon. Beautiful Floral Magnetic Shopping List Pads perfect for those to do lists! Make </span><span>any </span><span>list a lovely addition to the kitchen or desk using the magnet to place on metal surfaces!  Our feminine pretty shopping list notepads come in a variety of lovely colors with floral and animal graphics.  Sweet as hostess gifts and favors, as well! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442712440921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0124203</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442586710105</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad"/>
+    <title>Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad.jpg?v=1579957329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad has Scripture saying "Give Thanks with a Grateful Heart" Notepad includes 75 die cut sheets and measures a nice size of 4" x 4.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442586710105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0124201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4169588473945</id>
+    <published>2019-09-28T13:45:42-05:00</published>
+    <updated>2019-09-28T13:45:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-can-do-all-things-through-him-hardcover-journal-only-2-available"/>
+    <title>I Can Do All Things Through Him Hardcover Journal - Only 1 Left!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-can-do-all-things-through-him-hardcover-journal-only-1-left.jpg?v=1601095013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our I Can Do All Things Through Him Hardcover Journal  reads <span>"I can do all this through Him who gives me strength. Phil. 4:13" </span><span>Pretty inspirational journal is the perfect place to jot down your thoughts, prayers, important notes, and more.</span><br><br>
+<ul>
+<li>Wirebound</li>
+<li>Hardcover</li>
+<li>192 Lined Pages</li>
+<li>Bible Verse at Bottom of Each Page</li>
+<li>Presentation Page for Gift Giving</li>
+<li>6" (W) x 8 1/4" (H)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4169588473945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4169575759961</id>
+    <published>2019-09-28T09:55:14-05:00</published>
+    <updated>2019-09-28T09:55:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-think-ill-just-be-happy-today-softcover-lined-journal-limited-supply"/>
+    <title>I Think I&apos;ll Just Be Happy Today Softcover Lined Journal - Limited Supply!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-think-ill-just-be-happy-today-softcover-lined-journal-limited-supply.jpg?v=1601095009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our beautiful I Think I'll Just Be Happy Today Softcover Lined Journal is perfect for daily reflection and meditation!</span><br>
+<ul>
+<li>128 Lined Pages</li>
+<li>Different Inspirational<span> </span>Message<span> </span>on Each Page</li>
+<li>Soft Cover</li>
+<li>8.5" Tall x 6" Wide</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4169575759961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0928191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164839120985</id>
+    <published>2019-08-26T16:51:05-05:00</published>
+    <updated>2019-08-26T16:51:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-winter-bluebird-notepad-with-pen-with-trinket-tray-limited-supply"/>
+    <title>Holiday Winter Bluebird Notepad with Pen with Tea Caddy Trinket Tray</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-winter-bluebird-notepad-with-pen-with-tea-caddy-trinket-tray.jpg?v=1601094953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This nice size set includes a porcelain trinket tray or tea bad rest in a beautiful baby blue along with  good size note pad with cute little blue birds upon a gift box.  Also has a pretty bow attaching a full size pen.  You get a lot for a little with this set!! </span></p>
+<p><span>Set Size: 6.5 x 7 x 1  </span><span>75 Printed Sheets with designer pen and ceramic holder.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164839120985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>88842</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164835024985</id>
+    <published>2019-08-26T16:47:13-05:00</published>
+    <updated>2019-08-26T16:47:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/seashell-starfish-shapped-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Seashell Starfish Shapped Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/seashell-starfish-shapped-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Seashell Starfish Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!! Featuring a beautiful Blue Jay and Hummingbird this packed full party bundle you are getting a Starfish shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic birdhouse shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164835024985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164822933593</id>
+    <published>2019-08-26T16:39:36-05:00</published>
+    <updated>2019-08-26T16:39:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/birdhouse-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Birdhouse Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/birdhouse-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Birdhouse Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!! Featuring a beautiful Blue Jay and Hummingbird this packed full party bundle you are getting a Teacup shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic birdhouse shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164822933593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164819296345</id>
+    <published>2019-08-26T16:27:58-05:00</published>
+    <updated>2019-08-26T16:27:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Tea and Rose Garden Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-and-rose-garden-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Tea and Rose Garden Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!!  In this packed full party bundle you are getting a Teacup shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic teapot shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164819296345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997296992345</id>
+    <published>2019-02-18T14:19:44-06:00</published>
+    <updated>2019-02-18T14:19:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set"/>
+    <title>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-die-cut-note-pad-and-pen-set.jpg?v=1583192238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble Bee and Tulips Die Cut Note Pad and Pen Set</p>
+<p>Measures: <span>4.37" x 5.37"</span></p>
+<p><span>75 printed sheets. </span></p>
+<p><span>With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997296992345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0218197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994908827737</id>
+    <published>2019-02-15T18:30:04-06:00</published>
+    <updated>2019-02-15T18:30:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/a-friend-loves-at-all-time-sticky-pad-pen-set"/>
+    <title>A Friend Loves at All Time Sticky Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/A_Friend_Loves_at_All_Time_Sticky_Pad_Pen_Set.gif?v=1561399292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Friend Loves at All Time Sticky Pad Pen Set has lovely butterflies and dragonflies.  There are 3 different sizes of sticky notes with a total of 90 stickies enclosed in a lovely case with designer pen included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994908827737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994905976921</id>
+    <published>2019-02-15T18:25:18-06:00</published>
+    <updated>2019-02-15T18:25:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-and-teacup-sticky-note-pad-pen-set"/>
+    <title>Sweet Violets and Teacup Sticky Note Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Sweet_Violets_and_Teacup_Sticky_Note_Pad_Pen_Set.gif?v=1561401094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Violets and Teacup Sticky Note Pad Pen Set includes 90 sheets of stickies enclosed in a lovely folded case with designer pen. </p>
+<p>Measures: <span>6.25" x 4" x 0.75"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994905976921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994902241369</id>
+    <published>2019-02-15T18:13:01-06:00</published>
+    <updated>2019-02-15T18:13:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-bees-and-tulips-sticky-pad-pen-set"/>
+    <title>Bumble Bees and Tulips Sticky Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bees-and-tulips-sticky-pad-pen-set.jpg?v=1601094696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable 90 sheet Bumble Bees and Tulips Sticky Pad Pen Set includes 3 different size of sticky notes enclosed in a lovely folded case. Includes designer tulip pen.</p>
+<p>Measurements: <span>6.25" x 4" x 0.75"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994902241369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344488734821</id>
+    <published>2018-09-11T09:21:52-05:00</published>
+    <updated>2018-09-11T09:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-pill-box"/>
+    <title>Sweet Violets and Hummingbird Heart Shaped Pill Box</title>
+    <s:type>Pill Box</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pill-box-sv-2.gif?v=1561401094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pill Box<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Beautiful Sweet Violets and Hummingbird Heart Shaped Pill Box has 2 sections.</span></p>
+<p><span>Box size: 2.5" x 2.375" x 0.875". Metal case with epoxy cover.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344488734821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>09112018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342927831141</id>
+    <published>2018-09-07T11:29:45-05:00</published>
+    <updated>2018-09-07T11:29:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen"/>
+    <title>Bathing Birds with Poppies and Dragonflies Note Pad Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bathing-birds-with-poppies-and-dragonflies-note-pad-pen.png?v=1601094307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bathing Birds with Poppies and Dragonflies Note Pad Pen has 75 sheets of printed paper and includes lovely pen for all your note taking needs. </p>
+<p>Measures: 4.37" X 5.37"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342927831141</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>090718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1350865601</id>
+    <published>2018-01-08T15:57:18-06:00</published>
+    <updated>2018-01-08T15:57:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/falling-in-love-with-hydrangea-ceramic-desk-set"/>
+    <title>Falling in Love with Hydrangea Ceramic Desk Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/falling-in-love-with-hydrangea-ceramic-desk-set.jpg?v=1601088474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Falling in Love with Hydrangeas</span><br><span>Folded Note Cards, Die Cut Pad Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1350865601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1455516481</id>
+    <published>2018-01-08T12:15:25-06:00</published>
+    <updated>2018-01-08T12:15:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/iris-compact-mirror-in-gift-box"/>
+    <title>Iris Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/iris-compact-mirror.jpg?v=1601088983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Iris Compact Mirror in Gift Box  Size: 3.5" x 2.63" x 0.5".  Magnetic Closure</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1455516481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7773</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/281039306792</id>
+    <published>2017-11-10T12:46:09-06:00</published>
+    <updated>2017-11-10T12:46:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/charlie-the-yorkie-posh-pocket-note-pad"/>
+    <title>Charlie The Yorkie Posh Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/charlie-the-yorkie-posh-pocket-note-pad.png?v=1601093747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our sweet Charlie sits ready in style for his boardwalk troll waiting on you to show him off. Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/281039306792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-10JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280914657320</id>
+    <published>2017-11-10T10:21:53-06:00</published>
+    <updated>2017-11-10T10:21:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/live-simply-bird-decorative-pocket-note-pad"/>
+    <title>Live Simply Bird Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/live-simply-bird-decorative-pocket-note-pad.png?v=1601093744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280914657320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-5JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280911249448</id>
+    <published>2017-11-10T10:07:01-06:00</published>
+    <updated>2017-11-10T10:07:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kitten-and-vase-posh-pets-pocket-note-pad"/>
+    <title>Kitten and Vase Posh Pets Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kitten-and-vase-posh-pets-pocket-note-pad.png?v=1601093743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Oh my! Isn't she a pretty kitty cat wearing her lovely real jeweled necklace! . Includes 75 full-color pages with gem and gold or silver foil embellishment.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280911249448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-3JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/491004821544</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-pocket-note-pad"/>
+    <title>Teapot Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-pocket-note-pad.jpg?v=1601093943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>60 Full-Color Sheets</li>
+<li>Inside Pocket</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/491004821544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>032218-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

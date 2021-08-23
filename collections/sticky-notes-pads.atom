@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/sticky-notes-pads.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-10T15:58:51-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130497503321</id>
+    <published>2019-07-10T15:58:51-05:00</published>
+    <updated>2019-07-10T15:58:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-victorian-things-sticky-note-pad"/>
+    <title>Pretty Victorian Things Sticky Note Pad</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-victorian-things-sticky-note-pad.jpg?v=1601094878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victorian Sticky Note Pad<span> featuring vibrant images of Victorian hat, gloves, purse, hat pins, parasol, diary and pen, and elegant lady. Perfect for a tea party or desk use. </span></p>
+<p><span>Each 3 x 3, 50-page Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130497503321</id>
+      <title>Default</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>22406N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2130484789337</id>
+    <published>2019-07-10T15:19:40-05:00</published>
+    <updated>2019-07-10T15:19:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-licious-sticky-note-pad-party-favor"/>
+    <title>Old Country Roses Tea-Licious Sticky Note Pad Party Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-tea-licious-sticky-note-pad-party-favor.jpg?v=1601094877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The World's Most Tea-Licious Sticky Note Pads! Our Old Country Roses Sticky Pad makes a great tea party favor or perfect for your desk use.  Each 3 x 3, 50-page Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2130484789337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>4096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1997336543321</id>
+    <published>2019-02-18T14:41:50-06:00</published>
+    <updated>2019-02-18T14:41:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bumble-and-tulips-sticky-note-pad"/>
+    <title>Bumble Bee and Tulips Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bumble-bee-and-tulips-sticky-note-pad.jpg?v=1582071407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bumble and Tulips Sticky Note Pad is perfect for Spring! </p>
+<table border="0" cellspacing="0" cellpadding="0" width="374" height="601">
+<tbody>
+<tr>
+<td height="35" width="200" colspan="5" valign="top">
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>Pad size: 4" x 4.75". </span></span></p>
+<p><span face="Arial" color="000000" style="font-family: Arial;"><span>75 printed self adhesive sheets.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1997336543321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0218198-J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994905976921</id>
+    <published>2019-02-15T18:25:18-06:00</published>
+    <updated>2019-02-15T18:25:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-and-teacup-sticky-note-pad-pen-set"/>
+    <title>Sweet Violets and Teacup Sticky Note Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Sweet_Violets_and_Teacup_Sticky_Note_Pad_Pen_Set.gif?v=1561401094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Violets and Teacup Sticky Note Pad Pen Set includes 90 sheets of stickies enclosed in a lovely folded case with designer pen. </p>
+<p>Measures: <span>6.25" x 4" x 0.75"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994905976921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859368833</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-note-block"/>
+    <title>Lilacs Note Block</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-note-block.jpg?v=1582071343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lilacs Sticky Notes Pad size: 3.5" x 4". 75 printed self adhesive sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859368833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>03022017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7147034049</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-sticky-notes-pad"/>
+    <title>Purrfect Sunny Day Cat Sticky Notes Pad</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-purrfect-sunny-day-cat-sticky-notes-pad-1.gif?v=1561400646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Purrfect Sunny Day Cat Sticky Notes Pad size: 4" x 4.75". 75 printed self adhesive sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7147034049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>07262016-23N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344484048997</id>
+    <published>2016-01-29T13:42:00-06:00</published>
+    <updated>2016-01-29T13:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-die-cut-sticky-notes-pad"/>
+    <title>Sweet Violets Die Cut Sticky Notes Pad</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sticky-notepad-sv-2.gif?v=1561401096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pad size: 4" x 4.75". 75 printed self adhesive sheets. Tea Cup and Violets graphics.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344484048997</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>09112018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3998672385</id>
+    <published>2016-01-29T13:42:00-06:00</published>
+    <updated>2016-01-29T13:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-rose-cottage-die-cut-sticky-notes-pad"/>
+    <title>Tea Rose Cottage Die Cut Sticky Notes Pad</title>
+    <s:type></s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-rose-cottage-die-cut-sticky-notes-pad-1.gif?v=1561401143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pad size: 4" x 4.75". 75 printed self adhesive sheets. Tea Cup and Rose graphics.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3998672385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33511N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2416270529</id>
+    <published>2015-07-11T13:54:00-05:00</published>
+    <updated>2015-07-11T13:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-victorian-sticky-note-pads"/>
+    <title>10 Victorian Sticky Note Pads</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-victorian-sticky-note-pads.jpg?v=1601091610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10 3 x 3, 50-page Victorian Sticky Notes Pad featuring vibrant images of Victorian hat, gloves, purse, hat pins, parasol, diary and pen, and elegant lady.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2416270529</id>
+      <title>Default</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22405N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2406498049</id>
+    <published>2015-07-11T13:54:00-05:00</published>
+    <updated>2015-07-11T13:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/5-victorian-sticky-note-pads"/>
+    <title>5 Victorian Sticky Note Pads Gift Wrapped Party Favors</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/5-victorian-sticky-note-pads-gift-wrapped-party-favors.jpg?v=1601091608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each 3 x 3, 50-page Victorian Sticky Notes Pad comes in a Clear Gift Bag tied with Pink Ribbon. Available in Sets of 5 Favor Bags.  <span> Pads feature vibrant images of Victorian hat, gloves, purse, hat pins, parasol, diary and pen, and elegant lady.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2406498049</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0726161J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1368286977</id>
+    <published>2015-06-26T17:53:00-05:00</published>
+    <updated>2015-06-26T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-sticky-notes-pad"/>
+    <title>Chocolate Strawberries and Cherries Sticky Note Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-strawberries-and-cherries-sticky-note-pad.jpg?v=1582071079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>75 sheets of oh so yummy chocolates and strawberries sticky notes!  This self adhesive sticky pad also has chocolate covered cherries and cakes. Arrive shrink wrapped and measures </span><span>3.5 x 4 75. Great for the office or for gift giving and party favors.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1368286977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>4232</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367755649</id>
+    <published>2015-06-26T17:02:00-05:00</published>
+    <updated>2015-06-26T17:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-die-cut-sticky-notes-pad"/>
+    <title>Vegetable Garden Die Cut Sticky Notes Pad - Just 1 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-die-cut-sticky-notes-pad-just-1-left.jpg?v=1624407162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Vegetable Garden Sticky Notes Pad</span><br><span>3.5 x 4   75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367755649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367448833</id>
+    <published>2015-06-26T16:32:00-05:00</published>
+    <updated>2015-06-26T16:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-sticky-notes-pad"/>
+    <title>Pansy Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-sticky-notes-pad.jpg?v=1582071075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pansy Garden Sticky Notes Pad</span><br><span>3.5 x 4   75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367448833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521135169</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-favorites-die-cut-notepad-and-pen-1"/>
+    <title>Holiday Favorites Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-favorites-sticky-notes-pad.jpg?v=1582071182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.5 x 4.37 75 Sheets</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521135169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521103297</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/skates-sticky-notes-pad"/>
+    <title>Skates Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/skates-sticky-notes-pad.jpg?v=1582071180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>75 Printed Sheets</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521103297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8883</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521039169</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/5-holiday-sticky-notes-pads"/>
+    <title>5 Holiday Sticky Notes Pads</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/5-holiday-sticky-notes-pads.jpg?v=1601090301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3x3 with 50 pp</span><br><span>Individually wrapped in cello bags and tied with holiday ribbon!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521039169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6609</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6643571137</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/a-friend-loves-sticky-notes-pad"/>
+    <title>A Friend Loves Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/a-friend-loves-sticky-notes-pad.jpg?v=1582071319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6643571137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06182016-27N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6643560321</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-jay-sticky-notes-pad"/>
+    <title>Blue Jay Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-jay-sticky-notes-pad.jpg?v=1582071318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6643560321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06182016-25N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6643557185</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/grapes-sticky-notes-pad"/>
+    <title>Grapes Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grapes-sticky-notes-pad.jpg?v=1582071317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6643557185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06182016-24N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6643523073</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/apples-sticky-notes-pad"/>
+    <title>Apples Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/apples-sticky-notes-pad.jpg?v=1582071316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6643523073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06182016-23N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6643512193</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-sticky-notes-pad"/>
+    <title>Lavender Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-lavender-sticky-notes-pad-1.gif?v=1561400303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6643512193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>06182016-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4000022913</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-day-cat-sticky-notes-pad"/>
+    <title>Purrfect Day Cat Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-purrfect-day-cat-sticky-notes-pad-1.gif?v=1561400643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4000022913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33515N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4000016193</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/natural-instincts-sticky-notes-pad"/>
+    <title>Poppies Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-poppies-sticky-notes-pad-1.gif?v=1561400601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4000016193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>33514N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363884033</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-sticky-notes-pad"/>
+    <title>Tea and Rose Garden Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Tea-and-Rose-Garden-Sticky-Notes-Pad_e7bd002d-f430-48c7-bb5c-fd9e8539e7ad.jpg?v=1629418283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363884033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1350729857</id>
+    <published>2015-06-25T11:50:00-05:00</published>
+    <updated>2015-06-25T11:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/falling-in-love-with-hydrangea-die-cut-sticky-notes-notepad"/>
+    <title>Falling in Love with Hydrangea Die Cut Sticky Notes Notepad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/falling-in-love-with-hydrangea-die-cut-sticky-notes-notepad.jpg?v=1582071066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>75 printed self adhesive sheets measuring 3.5" x 4.75"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1350729857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5816</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

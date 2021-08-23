@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/personalized-bridal-wedding-accessories.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-07-11T11:20:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902761153</id>
+    <published>2016-07-11T11:20:00-05:00</published>
+    <updated>2016-07-11T11:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-wedding-ring-bearer-pillow"/>
+    <title>Personalized Wedding Ring Bearer Pillow</title>
+    <s:type>Personalized Wedding Ring Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Personalized-Wedding-Ring-Bearer-Pillow_77910467-01c8-4e9e-beae-a8bcecc47c11.jpg?v=1628813606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Personalized Wedding Ring Pillow<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wedding Keepsake/Ringbearer Pillow. 12x12 Your choice color of text, color of flowers, and color of ribbon design. Has ribbon on back for ringbearer easy to slip hands under for carrying. Please be sure that we have the following information before you place your order: Bride &amp; Groom Name Date &amp; Time Place and/or City, State Color of Text Color of Flowers Color of Ribbon design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902761153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1456126721</id>
+    <published>2015-07-07T19:11:00-05:00</published>
+    <updated>2015-07-07T19:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ecru-moire-taffeta-wedding-purse"/>
+    <title>Ecru Moire Taffeta Wedding Purse</title>
+    <s:type>Purses</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ecru-moire-taffeta-wedding-purse.jpg?v=1601089014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Purses<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fully lined with satin; small interior pocket</span><br><span>Zipper closure with tassel</span><br><span>6 x 7 3/4; Choice of Embroidery Color</span><br><span>Hankie Pocket</span><br><span>Also available in Ivory!</span></p>
+<p>This is a wonderfully elegant way to be ready for tears! Wonderful for bride, mother of bride, or mother of groom, this lovely purse with hanky pocket is ready for the hanky of your choice</p>
+<p><span>.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1456126721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

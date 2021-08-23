@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/silver-spoon-bracelets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-19T15:58:15-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102481870937</id>
+    <published>2019-09-19T15:58:15-05:00</published>
+    <updated>2019-09-19T15:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-spoon-bracelet-with-elephant-charm"/>
+    <title>Silver Spoon Bracelet with Elephant Charm</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-spoon-bracelet-with-elephant-charm.jpg?v=1601094993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Trendy spoon bracelet with elephant charm is sure to be your favorite piece!</span><br>
+<ul>
+<li>Antique Silvertone</li>
+<li>Rose Design</li>
+<li>Spoon Bracelet</li>
+<li>7" Long</li>
+<li>1.25" Long Elephant and Faux Pearl Charms</li>
+<li>Magnetic Closure</li>
+<li>Lead &amp; Nickel Compliant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102481870937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102474760281</id>
+    <published>2019-09-19T15:50:39-05:00</published>
+    <updated>2019-09-19T15:50:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-spoon-bracelet-with-ornate-cross-charm"/>
+    <title>Silver Spoon Bracelet with Ornate Cross Charm</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-spoon-bracelet-with-ornate-cross-charm.jpg?v=1601094992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Trendy spoon bracelet with cross charm is sure to be your favorite piece!</span><br>
+<ul>
+<li>Antique Silvertone</li>
+<li>Rose Design with Ornate Cross Charm</li>
+<li>Spoon Bracelet</li>
+<li>7" Long</li>
+<li>1.75" Long Cross and Faux Pearl Charms</li>
+<li>Magnetic Closure</li>
+<li>Lead &amp; Nickel Compliant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102474760281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102310559833</id>
+    <published>2019-09-19T13:36:42-05:00</published>
+    <updated>2019-09-19T13:36:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tree-of-life-silver-spoon-bracelet"/>
+    <title>Tree of Life Silver Spoon Bracelet</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tree-of-life-silver-spoon-bracelet.jpg?v=1601094989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Trendy spoon bracelet with tree of life charm is sure to be your favorite piece!</span><br>
+<ul>
+<li>Antique Silvertone</li>
+<li>Rose Design</li>
+<li>Spoon Bracelet</li>
+<li>7" Long</li>
+<li>1.25" Long Cross and Faux Pearl Charms</li>
+<li>Magnetic Closure</li>
+<li>Lead &amp; Nickel Compliant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102310559833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0919191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1323245338725</id>
+    <published>2018-08-03T12:31:12-05:00</published>
+    <updated>2018-08-03T12:31:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-spoon-pearl-bracelet"/>
+    <title>English Lace Silver Spoon Pearl Bracelet - Only 2 Left!</title>
+    <s:type>Silver Spoon Jewelry</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-lace-silver-spoon-pearl-bracelet-only-2-left.jpg?v=1601094241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Jewelry<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This elegant silver spoon bracelet features the look of an antique silver pattern and a white Swarovski pearl framed in delicate points. length: 6 1/2" - 8" adjustable width: 5/8" silver plate silver fill toggles Made in the USA</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver Spoon Jewelry</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1323245338725</id>
+      <title>Default</title>
+      <s:price currency="USD">85.99</s:price>
+      <s:sku>4697</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343289294949</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fan-snap-jewel-spoon-bracelet-with-6-jewels-1"/>
+    <title>Fan Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fan-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343289294949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07252018N2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1343265865829</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>Small Flower Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-flower-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1343265865829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09082018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318930022501</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flowers-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>Flowers Snap Jewel Spoon Bracelet with 6 Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flowers-snap-jewel-spoon-bracelet-with-6-jewels.jpg?v=1601094221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">We've added sterling and silver plate findings to these charming Silvertone Spoon Bracelets, then given you the bonus of 6 Snap Jewels to change your look as you wish!  Jewels will be a variety of beautiful styles and colors from our large collection and not necessarily those in the photo.  Adjustable Size.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318930022501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07252018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318928711781</id>
+    <published>2018-07-25T14:50:41-05:00</published>
+    <updated>2018-07-25T14:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fan-snap-jewel-spoon-bracelet-with-6-jewels"/>
+    <title>3 Assorted Snap Jewels</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>aliexpress</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-assorted-snap-jewels.jpg?v=1601094215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>aliexpress<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Want even MORE fun for your Snap Jewelry?  Add 3 more Snap Jewels to your collection from our huge assortment.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318928711781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>09082018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1319427407973</id>
+    <published>2018-07-23T12:31:51-05:00</published>
+    <updated>2018-07-23T12:31:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/antique-silvertone-angel-wings-spoon-style-magnetic-bracelet"/>
+    <title>Antique Silvertone Angel Wings Spoon Style Magnetic Bracelet - Only 2 Available!</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/antique-silvertone-angel-wings-spoon-style-magnetic-bracelet-only-2-available.jpg?v=1601094235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Antique<span> </span>Silvertone</li>
+<li>7.5" Long (Including Closure)</li>
+<li>Flower Textured Spoon Bracelet </li>
+<li>1" x 1.25" Linked<span> Heart</span>
+</li>
+<li>Magnetic Closure</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1319427407973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>07262018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318020284517</id>
+    <published>2018-07-23T12:31:51-05:00</published>
+    <updated>2018-07-23T12:31:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/antique-silvertone-flower-flourish-spoon-style-stretch-bracelet"/>
+    <title>Antique Silvertone Flower Flourish Spoon Style Stretch Bracelet - Very Limited!</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/antique-silvertone-flower-flourish-spoon-style-stretch-bracelet-very-limited.jpg?v=1601094207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Spoon Style Jewelry</li>
+<li>Antique Silvertone</li>
+<li>Comfort Stretch Band</li>
+<li>2.25" Diameter</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318020284517</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>07232018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

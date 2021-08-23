@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/carol-wilson-greeting-cards.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-06-22T12:08:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266747649</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-teapot-quilt-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Teapot Quilt Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-teapot-quilt-birthday-greeting-card.jpg?v=1601088450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Teapot Quilt Birthday Card with Envelope</span></p>
+<p>Inside Message: Warmest Wishes For The Best Birthday Ever! Happy Birthday.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266747649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>6958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266724801</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-flowers-in-teapot-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Flowers in Teapot Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Stationery-Flowers-in-Teapot-Birthday-Greeting-Card_3e55d4eb-2629-4601-8af7-5fc9fa8c9744.jpg?v=1629159099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Flowers in Teapot Birthday Card with Envelope</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Inside Message: Wishing Someone Very Special A Beautiful Day! Happy Birthday!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266724801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>7618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266704257</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-teacup-cake-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Teacup Cake Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-teacup-cake-birthday-greeting-card.jpg?v=1601088447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery 5x7 Teacup Cupcake Birthday Card with Envelope</span></p>
+<p><span>Inside Message: No One Can Hold A Candle To You! Have A Great Birthday!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266704257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>7620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266678657</id>
+    <published>2015-06-22T12:08:00-05:00</published>
+    <updated>2015-06-22T12:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-stationery-stacked-tea-cups-birthday-greeting-card"/>
+    <title>Carol Wilson Stationery Stacked Tea Cups Birthday Greeting Card</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stationery-stacked-tea-cups-birthday-greeting-card.jpg?v=1601088446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Stationery Stacked Teacups Birthday Card with Envelope</span></p>
+<p><span>Inside of card reads:</span><br><span>"Wishing you a birthday filled with warmth, love and sunshine."</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266678657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.29</s:price>
+      <s:sku>6959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

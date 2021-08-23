@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-hats-1.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-07-02T14:33:20-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4672166920281</id>
+    <published>2020-07-02T14:33:20-05:00</published>
+    <updated>2020-07-02T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets"/>
+    <title>Victorian Hat Purse Rose Shoe Umbrella Party Favor Magnets</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets.jpg?v=1593781543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful gifts or perfect party favors. Fine strokes of gold embellish prominent pieces of a Victorian lady's life. As English roses accentuate, so will these magnets upon you refrigerator or magnetic board.</span><br><br><span>These small decorations charmingly secure pictures of loved ones and notes.</span><br><br><span>A charming gift for friends.</span><br><br>
+<ul class="bullet_list">
+<li>Hat, 3". Rose, 2 1/4". Purse, 2". Shoe, 2 3/8". Umbrella, 3 1/4". Teapot, 2 1/2".</li>
+<li>Polyresin and resin.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4672166920281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>5030857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482614067289</id>
+    <published>2020-02-21T15:15:59-06:00</published>
+    <updated>2020-02-21T15:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/on-trend-ladies-beige-large-brim-floppy-felt-hat"/>
+    <title>On Trend Ladies Beige Large Brim Floppy Felt Hat</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/on-trend-ladies-beige-large-brim-floppy-felt-hat.jpg?v=1582376693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies Beige Large Brim Floppy Felt hat hand made at the time of your order here in the USA by one of our very talented crafters.  Her hats have been in block buster movies so we know you'll feel like our star in yours!  Large floppy brim felt hat with 2 tone beige large flower, organza bow and natural feather mixture.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482614067289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372908343385</id>
+    <published>2019-12-03T12:43:04-06:00</published>
+    <updated>2019-12-03T12:43:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-pink-roses-on-mint-green-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1601095121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Pink Roses on Mint Green Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372908343385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372901920857</id>
+    <published>2019-12-03T08:34:30-06:00</published>
+    <updated>2019-12-03T08:34:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply"/>
+    <title>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner - Limited Supply!</title>
+    <s:type>Hat Pin Holder</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hand-painted-blue-roses-porcelain-hat-pin-holder-by-artist-betty-platner-limited-supply.jpg?v=1582071455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Hat Pin Holder<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hand Painted Blue Roses Porcelain Hat Pin Holder by artist Betty Platner is in brand new in box. A rare collectible find indeed!!! Found these beauties deep in the warehouse and so glad we did!!  The hatpin holder was Hand Painted by Betty Platner and is Fine Porcelain. The measurement is 5-1/4" height x 4-14" diameter and the top pin holder measures 1-58" diameter. Excludes hat pins but we do sell those too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372901920857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371362447449</id>
+    <published>2019-12-02T09:50:51-06:00</published>
+    <updated>2019-12-02T09:50:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-blue-silver-teapot-6-inch-set-of-2-hatpins"/>
+    <title>Midnight Blue Silver Teapot 6 inch Set of 2 Hatpins - 4 Sets Available!</title>
+    <s:type>Hatpins</s:type>
+    <s:vendor>Many Horses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-blue-silver-teapot-6-inch-set-of-2-hatpins-4-sets-available.jpg?v=1601095096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Many Horses<br>
+        <strong>Type: </strong>Hatpins<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sparkling swarovski crystal beaded teapot hats! Our USA Handcrafted Hatpins and Stickpins are so lovely!  Hatpins are 6 inches;  Stickpins are 3 inches.  You can request either length for any style.  There will be slight variations in beading depending on the length chosen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371362447449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>3750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2133429616729</id>
+    <published>2019-07-15T21:45:28-05:00</published>
+    <updated>2019-07-15T21:45:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thats-just-grape-tea-party-teacup-favor-set-of-2"/>
+    <title>That&apos;s Just Grape Tea Party Teacup Favor Set of 2</title>
+    <s:type>Tea Cup Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thats-just-grape-tea-party-teacup-favor-set-of-2.jpg?v=1601094882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Favors<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>That's Just Grape Tea Party Teacup Favor is a porcelain full size teacup trimmed with gold and has all over grape chintz pattern. Each favor is carefully wrapped in clear cellophane topped with satin and organza bow. Includes yummy black tea so it's party ready! Decorate the table with this lovely favor, then use for the party and gift as a favor.....that's a 3 in one deal!</p>
+<p>Listing is for 2 favors. Holds approximately 6 ounces. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133429616729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>07151915</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120515190873</id>
+    <published>2019-06-25T16:32:09-05:00</published>
+    <updated>2019-06-25T16:32:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-in-pink-tea-party-dress-up-hat-for-girls"/>
+    <title>Little Girls Pretty in Pink Tea Party Dress Up Hat</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-girls-pretty-in-pink-tea-party-dress-up-hat.jpg?v=1601094837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty in Pink Tea Party Dress Up Hat has beautiful lovely soft pink feathers and a big beautiful rose to match.  Perfect for dress up play and tea parties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120515190873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041219-J1P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063755640921</id>
+    <published>2019-04-15T17:28:43-05:00</published>
+    <updated>2019-04-15T17:28:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-victorian-bridal-hat-with-white-roses-506w"/>
+    <title>White Victorian Bridal Hat with White Roses #506W</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-victorian-bridal-hat-with-white-roses-506w.jpg?v=1601094750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ladies White Victorian Touring Hat with white Roses. This is one of our designs from our first collection. It has been a best seller for many years. It has a white satin pleated top with white satin roses in front with white feathers and a white ribbon and white lace bow on the side. Finished off with a white English netting bow on the back..</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063755640921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>202N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063750987865</id>
+    <published>2019-04-15T17:06:23-05:00</published>
+    <updated>2019-04-15T17:06:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-ivory-victorian-touring-hat-with-pink-crown-16012"/>
+    <title>Ladies Ivory Victorian Touring Hat with Pink Crown #16012</title>
+    <s:type>Pink Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-ivory-victorian-touring-hat-with-pink-crown-16012.jpg?v=1601094749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Pink Victorian Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Ivory Victorian Touring Hat with Pink Crown. This is our classic Touring hat that has a pink satin pleated top with pink and Ivory roses, pearl accents and Ivory feather. Finished off with an Ivory English netting bow and train down the back.</span></p>
+<p><span>This amazingly elegant hat is hand made just for you at the time of your order.  This process includes hand dyed materials and is hand assembled which may take 7-10 days.  This is not a big box store hat but one that is made with great skill and talent.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063750987865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>5562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063737946201</id>
+    <published>2019-04-15T16:33:16-05:00</published>
+    <updated>2019-04-15T16:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-victorian-hat-525"/>
+    <title>Ladies Black Victorian Touring Hat with Burgundy #525</title>
+    <s:type>Black Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-black-victorian-touring-hat-with-burgundy-525.jpg?v=1601094746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Black Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Black Victorian Touring Hat with Burgundy. This hat is from our first collection and has been a best seller for many years. It has a burgundy satin pleated crown with a burgundy and mauve floral garland in front. It also has burgundy feathers and a burgundy satin and black ribbon lace bow on the side. It is finished off with a black English netting bow in the back.</span></p>
+<p><span>This hat is made just for you!!  It is made at the time of your order with hand dyed materials and hand assembled here in the USA.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063737946201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-5J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063734243417</id>
+    <published>2019-04-15T16:24:53-05:00</published>
+    <updated>2019-04-15T16:24:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-black-victorian-touring-hat-with-plum-617"/>
+    <title>Ladies Black Victorian Touring Hat with Plum #617</title>
+    <s:type>Black Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-black-victorian-touring-hat-with-plum-617.jpg?v=1601094744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Black Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Black Victorian Touring Hat with Plum. It has a plum pleated satin top with deep purple &amp; black flowers, black pleated lace brim and plum feathers. It is finished off with a black bow on the back.</span></p>
+<p><span>This hat is made just for you!  Our hats are hand made with the most care and attention to detail at the time of your order.  This process can take 7-10 days so please give yourself extra time. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063734243417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-4JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063730114649</id>
+    <published>2019-04-15T16:12:04-05:00</published>
+    <updated>2019-04-15T16:12:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-black-touring-hat-with-red-16080"/>
+    <title>Ladies Victorian Black Touring Hat with Red #16080</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-black-touring-hat-with-red-16080.jpg?v=1601094743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Victorian Black Touring Hat with Red. This is one of our new classic ladies Victorian Touring Hats in black with a red satin pleated crown, black ruffled lace around the brim, black satin bow, black and red roses, red feathers and black satin bow on the back.</span></p>
+<p><span>This hat is made just for you!  Our hats are hand made with the most care and attention to detail at the time of your order.  This process can take 7-10 days so please give yourself extra time.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063730114649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-2JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063726837849</id>
+    <published>2019-04-15T16:06:10-05:00</published>
+    <updated>2019-04-15T16:06:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-black-touring-hat-with-purple-16081"/>
+    <title>Ladies Victorian Black Touring Hat with Purple #16081</title>
+    <s:type>Black Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-black-touring-hat-with-purple-16081.jpg?v=1601094742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Black Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Victorian Black Touring Hat with Purple. This is one of our new classic ladies Victorian Touring Hats in black with a purple satin pleated crown, black ruffled lace around the brim, black satin bow, black and purple roses, purple feathers and black satin bow on the back.</span></p>
+<p><span>This hat is made just for you!  Our hats are hand made with the most care and attention to detail at the time of your order.  This process can take 7-10 days so please give yourself extra time.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063726837849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-1JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2061530333273</id>
+    <published>2019-04-12T16:32:44-05:00</published>
+    <updated>2019-04-12T16:32:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-tea-hat-petits-fours-only-available-through-mothers-day-shipping-first-week-of-may-hurry-they-wont-last-long"/>
+    <title>15 Tea Hat Petits Fours (Only available through Mother&apos;s Day - Shipping First Week of May) Hurry they won&apos;t last long!!</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-tea-hat-petits-fours-only-available-through-mothers-day-shipping-first-week-of-may-hurry-they-wont-last-long_9402543e-8866-424f-a50a-8526af69f7f7.jpg?v=1601094741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            78.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our tea hats begin with a shortbread cookie topped with delicious layers of moist cake. Next they are covered with chocolate and adorned with a hand cut flower fashioned from chocolate fondant. Varieties include; Chocolate Mint, Banana and Coconut Creme, Raspberry, and Lime, 15 confections are presented in an elegant gift box and tied with a beautiful bow. (13ozs.)</span></p>
+<p><span>(All Petits Fours must be shipped UPS 2nd Day.  2-Day Refrigerated Shipping Fee is included in price.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2061530333273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.35</s:price>
+      <s:sku>1250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2061519880281</id>
+    <published>2019-04-12T15:18:00-05:00</published>
+    <updated>2019-04-12T15:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-purple-tea-party-dress-up-hat-for-girls"/>
+    <title>Pretty Purple Tea Party Dress Up Hat for Girls</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-purple-tea-party-dress-up-hat-for-girls.jpg?v=1601094740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty Purple Tea Party Dress Up Hat has beautiful deep purple feathers and crystal adorned flower.  Perfect for dress up play and tea parties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2061519880281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041219-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054661144665</id>
+    <published>2019-04-04T11:14:19-05:00</published>
+    <updated>2019-04-04T11:14:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bold-red-lace-gloves-with-ruffles-perfect-for-red-hat-tea-parties-and-dress-up-fun"/>
+    <title>Bold Red Lace Gloves with Ruffles Perfect for Red Hat Tea Parties and Dress Up Fun</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bold-red-lace-gloves-with-ruffles-perfect-for-red-hat-tea-parties-and-dress-up-fun.jpg?v=1601094727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bold red lace gloves with ruffles at the wrist. Limited Supply!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054661144665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287147065384</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2867"/>
+    <title>Victorian Red Hat #2867</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2867.jpg?v=1601093765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This red hat boasts loads of feathers plus red beading and roses.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287147065384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287144312872</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2865"/>
+    <title>Victorian Red Hat #2865</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2865_315523ce-d950-46dd-92f0-d5455b5360c8.jpg?v=1601093764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A red crochet crown is the focal point of this feather-brimmed hat.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287144312872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287123439656</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2672pu"/>
+    <title>Victorian Red Hat #2672PU</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2672pu.jpg?v=1601093763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287123439656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287122554920</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2672"/>
+    <title>Victorian Red Hat #2672</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2672.jpg?v=1601093762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287122554920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287119343656</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2014"/>
+    <title>Victorian Red Hat #2014</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2014.jpg?v=1601093761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This red hat features a red chiffon crown plus lace, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287119343656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287119015976</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-536"/>
+    <title>Victorian Red Hat #536</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-536.jpg?v=1601093760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287119015976</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287102435368</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-535"/>
+    <title>Victorian Red Hat #535</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-535.jpg?v=1601093759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It's all about the bow on this elegant red hat with lace brim, feathers roses and train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287102435368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287102107688</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-533"/>
+    <title>Victorian Red and Purple Hat #533</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-and-purple-hat-533.jpg?v=1601093758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Red Hat with just a touch of purple roses feathers and ribbon.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287102107688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287101190184</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-victorian-red-hat-532"/>
+    <title>Victorian Red Hat #532</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-532.jpg?v=1601093757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You'll love this Red Hat piled high with feathers and roses and accented with red beads!  Lace brim and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287101190184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

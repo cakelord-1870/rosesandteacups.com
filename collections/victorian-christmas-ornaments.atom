@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/victorian-christmas-ornaments.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-05-21T14:29:44-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628800471129</id>
+    <published>2020-05-21T14:29:44-05:00</published>
+    <updated>2020-05-21T14:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-in-pearls-decorative-bird"/>
+    <title>Pretty Pink in Pearls Decorative Bird</title>
+    <s:type>Victorian Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-in-pearls-decorative-bird.jpg?v=1590152538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Ornaments<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty Pink in Pearls Decorative Bird has gator style clip to place wherever your heart desires. This pretty birdie is all dressed up with pearls and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628800471129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0615191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627165773913</id>
+    <published>2020-05-20T23:00:40-05:00</published>
+    <updated>2020-05-20T23:00:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-purple-gold-rhinestone-victorian-ornament-round-shape"/>
+    <title>Royal Purple Gold Rhinestone Victorian Ornament Round Shape</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-purple-gold-rhinestone-victorian-ornament-round-shape.jpg?v=1590066182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Purple Gold Rhinestone Victorian Ornament is hand made in the USA with great attention to detail. Glass ornament adorned with clusters of satin roses, velvet metallic ribbons along with stunning gold and rhinestone trimming. Limited edition.</p>
+<p><span>*The image shows front and back this listing is for one ornament only</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627165773913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku/>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627150536793</id>
+    <published>2020-05-20T22:54:30-05:00</published>
+    <updated>2020-05-20T22:54:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rhinestone-gold-and-royal-purple-victorian-ornament-tear-drop-shape"/>
+    <title>Royal Purple Gold Rhinestone Victorian Ornament Tear Drop Shape</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-purple-gold-rhinestone-victorian-ornament-tear-drop-shape.jpg?v=1590066180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Purple Gold Rhinestone Victorian Ornament is hand made in the USA with great attention to detail. Glass ornament adorned with clusters of satin roses, velvet metallic ribbons along with stunning gold and rhinestone trimming. Limited edition.</p>
+<p><span>*The image shows front and back this listing is for one ornament only</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627150536793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627125600345</id>
+    <published>2020-05-20T22:40:05-05:00</published>
+    <updated>2020-05-20T22:40:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rhinestone-gold-and-burgundy-victorian-ornament-round-shape"/>
+    <title>Rhinestone Gold and Burgundy Victorian Ornament Round Shape</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rhinestone-gold-and-burgundy-victorian-ornament-round-shape.jpg?v=1590066178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone Gold and Burgundy Victorian Ornament is hand made in the USA with great attention to detail. Glass ornament adorned with clusters of satin roses, velvet metallic ribbons along with stunning gold and rhinestone trimming. Limited edition.</p>
+<p>*The image shows front and back this listing is for one ornament only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627125600345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>0520202</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627107446873</id>
+    <published>2020-05-20T22:16:16-05:00</published>
+    <updated>2020-05-20T22:16:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rhinestone-gold-and-burgundy-victorian-ornament"/>
+    <title>Rhinestone Gold and Burgundy Victorian Ornament Tear Drop Shape</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rhinestone-gold-and-burgundy-victorian-ornament-tear-drop-shape.jpg?v=1590066175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rhinestone Gold and Burgundy Victorian Ornament is hand made in the USA with great attention to detail. Glass ornament adorned with clusters of satin roses, velvet metallic ribbons along with stunning gold and rhinestone trimming. Limited edition.</p>
+<p><span>*The image shows front and back this listing is for one ornament only</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627107446873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>052020</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371410452569</id>
+    <published>2019-12-02T10:47:26-06:00</published>
+    <updated>2019-12-02T10:47:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available"/>
+    <title>Glistening Gold and Pearls Pink Velvet Ribbon Victorian Holiday Christmas Ornament - Only 2 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/glistening-gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available.jpg?v=1601095100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold and Pearls Pink Velvet Ribbon Victorian Ornament - beautiful glistening gold, pearls and velvet ribbon is just breath taking. Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 9 inches in diameter. Most of the ornaments measure around 9 inches in height with pearl tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371410452569</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4363914281049</id>
+    <published>2019-11-26T18:28:13-06:00</published>
+    <updated>2019-11-26T18:28:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sarah-victorian-holiday-christmas-ornament"/>
+    <title>Sarah Victorian Holiday Christmas Ornament - Only 3 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sarah-victorian-holiday-christmas-ornament-only-3-available.jpg?v=1601095091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Victorian Ornament - Sara is just breath taking with its lovely pearls and royal gold trim. Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 3 inches in diameter. Most of the ornaments measure 4 inches in height without tassels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4363914281049</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4363908120665</id>
+    <published>2019-11-26T17:04:33-06:00</published>
+    <updated>2019-11-26T17:04:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-crown-handcrafted-beaded-victorian-christmas-ornament"/>
+    <title>Winter Crown Handcrafted Beaded Victorian Christmas Ornament</title>
+    <s:type>Victorian Ornaments</s:type>
+    <s:vendor>Ornamentz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-crown-handcrafted-beaded-victorian-christmas-ornament.jpg?v=1601095090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ornamentz<br>
+        <strong>Type: </strong>Victorian Ornaments<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 3 inches in diameter. Most of the ornaments measure 4 inches in height without tassels.</p>
+<p>Many of our Victorian Christmas Ornaments are limited editions due to the use of rare finds in trims. You will not want to miss your chance to enjoy and give these amazing creations, so order early as they do sell out!</p>
+<p><span>Our "Cone" and "Top" Style Victorian Ornaments feature irridescent glass and are accented with hand dyed doilies, ribbon rose embellishments and glass tassels. They measure 5 inches in length and 5-6 inches across. Gift Boxed!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4363908120665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>7876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2158471938137</id>
+    <published>2019-08-18T12:25:12-05:00</published>
+    <updated>2019-08-18T12:25:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lacy-lavender-teacup-ornament-sachet"/>
+    <title>Lovely Lacy Lavender Teacup Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lacy-lavender-teacup-ornament-sachet.jpg?v=1601094926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Lovely Lacy Lavender Teacup Ornament Sachet is filled with real lavender so each smell divine. There is adorable porcelain teacup ornaments on each side and satin pearly roses at the top. Pictured is a beautiful blue bird, pretty pink roses sitting in s Tiffany blue tea cup all with a hint of irredessent glitter.</p>
+<p>Made on the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2158471938137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0818191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904413605977</id>
+    <published>2018-12-06T15:39:22-06:00</published>
+    <updated>2018-12-06T15:39:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/may-you-have-a-merry-christmas-sachet-ornament-one-of-a-kind"/>
+    <title>May You Have a Merry Christmas Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/may-you-have-a-merry-christmas-sachet-ornament-one-of-a-kind.jpg?v=1601094561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">May You Have a Merry Christmas Sachet Ornament has long lovely sequin fringe. It's double trimmed in metallic silver and sequins. Measures: 4x8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904413605977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>120519-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904403906649</id>
+    <published>2018-12-06T15:29:40-06:00</published>
+    <updated>2018-12-06T15:29:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/to-wish-you-a-merry-christmas-one-of-a-kind"/>
+    <title>To Wish You a Merry Christmas Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/to-wish-you-a-merry-christmas-sachet-ornament-one-of-a-kind.jpg?v=1601094560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>To Wish You a Merry Christmas has lovely long sequin fringe and glittering silver border. Accented with crystals and satin. Message says: To wish you a Merry Christmas.</p>
+<p>Measures: 4x9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904403906649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>120518-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904399614041</id>
+    <published>2018-12-06T15:20:54-06:00</published>
+    <updated>2018-12-06T15:20:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wishing-you-christmas-cheer-sachet-ornament-one-of-a-kind"/>
+    <title>Wishing You Christmas Cheer Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wishing-you-christmas-cheer-sachet-ornament-one-of-a-kind.jpg?v=1601094559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This lovely greetings sachet ornament has long sequin fringe and faux pearl border. Greeting says: Wishing you Christmas Cheer. Holly and Mistletoe young voices bright; Make merry your Christmas add to the delight .</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904399614041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>120518-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904394043481</id>
+    <published>2018-12-06T15:15:15-06:00</published>
+    <updated>2018-12-06T15:15:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-madiens-sachet-ornament-one-of-a-kind"/>
+    <title>Holiday Madiens Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-madiens-sachet-ornament-one-of-a-kind.jpg?v=1582071400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Holiday Madiens Sachet Ornament has vintage style lace and hand beaded crystal trim. Measures: 4 1/2x6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904394043481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>120518&amp;2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1891406610521</id>
+    <published>2018-11-30T11:22:06-06:00</published>
+    <updated>2018-11-30T11:22:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-santa-and-child-christmas-sachet-ornament-one-of-a-kind"/>
+    <title>Vintage Santa and Child Christmas Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-santa-and-child-christmas-sachet-ornament-one-of-a-kind.jpg?v=1601094557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This lovely holiday sachet ornament has a beautiful vintage scene with Santa and child. Ornament has lovely holiday scent and is trimmed in vintage style lace, organaza ribbon and tear drop faux pearl trim. Measures: 4x5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1891406610521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112918-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1891387048025</id>
+    <published>2018-11-30T11:17:36-06:00</published>
+    <updated>2018-11-30T11:17:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-letter-to-santa-sachet-ornament-one-of-a-kind"/>
+    <title>Vintage Letter to Santa Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-letter-to-santa-sachet-ornament-one-of-a-kind.jpg?v=1601094556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautiful sachet ornament has a lovely holiday scent and us accented with pretty sequin fringe. Measures: 3 x 9</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1891387048025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>113018-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1891375546457</id>
+    <published>2018-11-30T11:10:56-06:00</published>
+    <updated>2018-11-30T11:10:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-girl-chimney-surprise-sachet-ornament-one-of-a-kind"/>
+    <title>Vintage Girl Chimney Surprise Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-girl-chimney-surprise-sachet-ornament-one-of-a-kind.jpg?v=1601094555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sachet ornament has a lovely holiday scent with vintage lace trim and glass beaded trim.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1891375546457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>113018-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1882121338969</id>
+    <published>2018-11-27T09:01:43-06:00</published>
+    <updated>2018-11-27T09:01:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-cherub-and-roses-scented-sachet-ornament-one-of-a-kind"/>
+    <title>Large Romantic Cherub and Roses Scented Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/large-romantic-cherub-and-roses-scented-sachet-ornament-one-of-a-kind.jpg?v=1601094554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Romantic Cherub and Roses Scented Sachet Ornament has beautiful beaded crystal trim along with glittering sequin fringe. This is one of our larger sachets measuring 4 3/4 x 9 with a lovely Lily of the Valley scent.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1882121338969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>112718-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1882112131161</id>
+    <published>2018-11-27T08:47:34-06:00</published>
+    <updated>2018-11-27T08:47:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-christmas-tree-surprise-one-of-a-kind"/>
+    <title>Large Vintage Christmas Tree Surprise - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/large-vintage-christmas-tree-surprise-one-of-a-kind.jpg?v=1601094553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our holiday scented sachet ornament features this sweet girl walking in on a sparkling Christmas tree surprise. One of our larger sachets measuring 5 1/4 x 8 Balsam fir scent with vintage style lace and hand beaded trim.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1882112131161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>112718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1877400027225</id>
+    <published>2018-11-25T21:51:09-06:00</published>
+    <updated>2018-11-25T21:51:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-greetings-ornament-sachet-happy-days-one-of-a-kind"/>
+    <title>Vintage Greetings Ornament Sachet - Happy Days - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-greetings-ornament-sachet-happy-days-one-of-a-kind.jpg?v=1601094552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This ornament sachet has a lovely holiday scent with vintage lace and hand beaded trim. Measures: 4x5 1/2 Greeting says: May all your days be happy but added blessings fall upon to-day that it may brighten them all.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1877400027225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112518-3j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1877386592345</id>
+    <published>2018-11-25T21:41:30-06:00</published>
+    <updated>2018-11-25T21:41:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-greetings-ornament-sachet-snowy-umbrellas-one-of-a-kind"/>
+    <title>Vintage Greetings Ornament Sachet - Snowy Umbrellas - One of a Kind!</title>
+    <s:type>Christmas Tea Ornaments Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-greetings-ornament-sachet-snowy-umbrellas-one-of-a-kind.jpg?v=1601094551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Christmas Tea Ornaments Favors<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This ornament sachet has a lovely holiday scent with vintage lace and hand beaded trim. Greeting says: The good old greeting take fron me. Happy and glad may your Christmas be.  Measures: 4x5 1/2</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1877386592345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112518-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1877361393753</id>
+    <published>2018-11-25T21:27:17-06:00</published>
+    <updated>2018-11-25T21:27:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-greetings-ornament-sachet-good-wishes-girl-one-of-a-kind"/>
+    <title>Vintage Greetings Ornament Sachet - Good Wishes Girl - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-greetings-ornament-sachet-good-wishes-girl-one-of-a-kind.jpg?v=1601094550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This ornament sachet has a lovely holiday scent with vintage lace trim and glass beaded trim . Greeting says: All Good Wishes for Christmas Measures: 4x5 1/2</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1877361393753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112518-1j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1865834889305</id>
+    <published>2018-11-21T09:53:22-06:00</published>
+    <updated>2018-11-21T09:53:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-telephone-greeting-scented-sachet-ornament"/>
+    <title>Santa Telephone Greeting Scented Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-telephone-greeting-scented-sachet-ornament-one-of-a-kind.jpg?v=1601094546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Santa Telephone Greeting Scented Sachet Ornament has little girl giving Santa her Christmas list over vintage telephone. This ornament sachet has a lovely holiday scent with vintage lace trim and glass beaded trim . Measures: 4x5 1/2</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1865834889305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112118-2j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1865812148313</id>
+    <published>2018-11-21T09:41:07-06:00</published>
+    <updated>2018-11-21T09:41:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snow-babies-greeting-scented-sachet-ornament-one-of-a-kind"/>
+    <title>Snow Babies Greeting Scented Sachet Ornament  - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Julie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snow-babies-greeting-scented-sachet-ornament-one-of-a-kind.jpg?v=1601094545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Julie<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Snow Babies Greeting Scented Sachet Ornament has adorable sledding babies all dressed up for a fun day in the snow. Ornament has a lovely holiday scent along with hand beaded trim and pretty glitter accents Measurements: 4x5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1865812148313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>112118-1j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2004597637209</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-sisters-scented-sachet-one-of-a-kind"/>
+    <title>Vintage Sisters Scented Sachet</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-sisters-scented-sachet.jpeg?v=1601094718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This darling scented sachet is a generous 5.75 x 3  inches with beading and are handcrafted in the USA.  Lily of the Valley Scent</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2004597637209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>11172018-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2004590035033</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-girl-with-kitties-scented-sachet-ornament-one-of-a-kind"/>
+    <title>Vintage Girl with Kitties Scented Sachet Ornament</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-girl-with-kitties-scented-sachet-ornament_6d1cdedc-c5b4-4257-9a5b-80341f2a94a7.png?v=1601094717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This darling scented sachet is a generous 5.75 x 3  inches with beading and are handcrafted in the USA.  Lily of the Valley Scent</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2004590035033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>11172018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

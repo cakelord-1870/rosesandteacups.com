@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/carol-wilson-notepads-carols-rose-garden-notepads.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-19T13:20:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6563251322969</id>
+    <published>2021-04-19T13:20:35-05:00</published>
+    <updated>2021-04-19T13:20:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Hummingbird Embossed Mini Purse Notepad Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-hummingbird-embossed-mini-purse-notepad-note-pad.jpg?v=1621901513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepad with lovely hummingbirds afloat among bleeding heart flowers with embossment and beautiful foil trimming. Perfect for your purse or tea party favors and gifts! These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6563251322969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>041921-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477365190745</id>
+    <published>2020-02-17T12:16:25-06:00</published>
+    <updated>2020-02-17T12:16:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-stem-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Long Stem Rose Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-long-stem-rose-mini-embossed-purse-notepad.png?v=1582071482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477365190745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477363421273</id>
+    <published>2020-02-17T12:13:40-06:00</published>
+    <updated>2020-02-17T12:13:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad"/>
+    <title>Carol Wilson Teacups (Tea Cups) Mini Embossed Purse Pad Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-teacups-tea-cups-mini-embossed-purse-pad-notepad.jpg?v=1582071481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477363421273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477359358041</id>
+    <published>2020-02-17T12:09:10-06:00</published>
+    <updated>2020-02-17T12:09:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad"/>
+    <title>Carol Wilson Rose Picket Fence Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-picket-fence-mini-embossed-purse-notepad.png?v=1582071480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477359358041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477354672217</id>
+    <published>2020-02-17T12:04:17-06:00</published>
+    <updated>2020-02-17T12:04:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-pretty-pink-roses-mini-purse-notepad"/>
+    <title>Carol Wilson Pretty Pink Roses Mini Embossed Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pretty-pink-roses-mini-embossed-purse-notepad.jpg?v=1582071479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477354672217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>07242017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477347299417</id>
+    <published>2020-02-17T11:57:40-06:00</published>
+    <updated>2020-02-17T11:57:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad"/>
+    <title>Carol Wilson Soft Hydrangeas Embossed Mini Purse Notepad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-soft-hydrangeas-embossed-mini-purse-notepad.png?v=1582071478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477347299417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>032318-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1307856044133</id>
+    <published>2018-07-03T06:08:20-05:00</published>
+    <updated>2018-07-03T06:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stacked-tea-cups-notebook"/>
+    <title>Carol Wilson Stacked Tea Cups Notebook - Limited Supply!</title>
+    <s:type>notebook</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-stacked-tea-cups-notebook-limited-supply.jpeg?v=1601094095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>notebook<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet Carol Wilson tea themed notebook features 224 lined pages.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1307856044133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>07032018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/495840362536</id>
+    <published>2017-01-19T15:00:00-06:00</published>
+    <updated>2017-01-19T15:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-daisy-rose-hardcover-notepad-with-designer-pen-carols-rose-garden"/>
+    <title>Carol Wilson Daisy Rose Hardcover Memo Pad with Designer Pen Carol&apos;s Rose Garden</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-daisy-rose-hardcover-memo-pad-with-designer-pen-carols-rose-garden.png?v=1601093949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Tea Cups Hardcover Memo Pad with Designer Pen  5 x 5</p>
+<p>150 Sheet Carol's Rose Garden Memo Pad features White Sheets with Pastel edging.</p>
+<p>Photo of open memo pad with pen is not necessarily this pattern.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/495840362536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>032318-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/495834431528</id>
+    <published>2017-01-19T15:00:00-06:00</published>
+    <updated>2017-01-19T15:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-tea-cups-hardcover-notepad-with-designer-pen-carols-rose-garden"/>
+    <title>Carol Wilson Tea Cups Hardcover Memo Pad with Designer Pen Carol&apos;s Rose Garden</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-tea-cups-hardcover-memo-pad-with-designer-pen-carols-rose-garden.png?v=1601093947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Tea Cups Hardcover Memo Pad with Designer Pen  5 x 5</p>
+<p>150 Sheet Carol's Rose Garden Memo Pad features White Sheets with Pastel edging.</p>
+<p>Photo of open memo pad with pen is not necessarily this pattern.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/495834431528</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>032318-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8690808961</id>
+    <published>2017-01-19T15:00:00-06:00</published>
+    <updated>2017-01-19T15:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-rose-boutique-hardcover-notepad-with-designer-pen-carols-rose-garden"/>
+    <title>Carol Wilson Rose Boutique Hardcover Memo Pad with Designer Pen Carol&apos;s Rose Garden</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-boutique-hardcover-memo-pad-with-designer-pen-carols-rose-garden.jpg?v=1601092855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Rose Boutique Hardcover Memo Pad with Designer Pen  5 x 5</p>
+<p>150 Sheet Carol's Rose Garden Memo Pad features White Sheets with Pastel edging.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8690808961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>011917N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

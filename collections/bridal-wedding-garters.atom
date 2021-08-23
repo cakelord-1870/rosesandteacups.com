@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/bridal-wedding-garters.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-05-15T12:52:22-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615765196889</id>
+    <published>2020-05-15T12:52:22-05:00</published>
+    <updated>2020-05-15T12:52:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter"/>
+    <title>Purple and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant purple and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615765196889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615758938201</id>
+    <published>2020-05-15T12:47:57-05:00</published>
+    <updated>2020-05-15T12:47:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hot-pink-tulle-and-rhinestone-garter"/>
+    <title>Hot Pink Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hot-pink-tulle-and-rhinestone-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615758938201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615737409625</id>
+    <published>2020-05-15T12:33:51-05:00</published>
+    <updated>2020-05-15T12:33:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/radiant-flower-purple-tulle-garter"/>
+    <title>Radiant Flower Purple Tulle Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/radiant-flower-purple-tulle-garter.jpg?v=1589634266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lovely ruffles add a touch of romance to this purple tulle wedding garter featuring smaller purple and pink flowers accented with rhinestones. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615737409625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615745372249</id>
+    <published>2020-05-15T12:18:58-05:00</published>
+    <updated>2020-05-15T12:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-and-black-sequin-satin-garter"/>
+    <title>Aqua and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant aqua and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615745372249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4614073057369</id>
+    <published>2020-05-14T18:22:48-05:00</published>
+    <updated>2020-05-14T18:22:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-tulle-and-rhinestone-garter"/>
+    <title>Aqua Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-tulle-and-rhinestone-garter.jpg?v=1589547829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4614073057369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>0514201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054654984281</id>
+    <published>2019-04-04T11:00:54-05:00</published>
+    <updated>2019-04-04T11:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs.jpg?v=1601094726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in bold red</span><span> with ruffles and bows. Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs or Dress Up Fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054654984281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054652264537</id>
+    <published>2019-04-04T10:49:20-05:00</published>
+    <updated>2019-04-04T10:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-lace-fingerless-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Black Lace Fingerless Gloves Perfect for Tea Parties or Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Black-Lace-Fingerless-Gloves-Perfect-for-Tea-Parties-or-Bridal-Affairs_f462aff3-3f41-44ef-ad36-73ba0d843c37.jpg?v=1628728474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ultra feminine fingerless black lace gloves with bows and ruffles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054652264537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054639878233</id>
+    <published>2019-04-04T10:23:50-05:00</published>
+    <updated>2019-04-04T10:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Pink Fingerless Lace Gloves Perfect for Tea Parties or Bridal Affairs!!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs_a92f4175-a5ca-49b0-91e1-1a158f68be8e.jpg?v=1601094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in soft pink with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054639878233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054624870489</id>
+    <published>2019-04-04T09:58:15-05:00</published>
+    <updated>2019-04-04T09:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-fingerless-lace-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>White Fingerless Lace Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/White-Fingerless-Lace-Gloves-Perfect-for-Tea-Parties-and-Bridal-Affairs_94bab9c1-bce7-404b-b09c-a4abd51dd8d4.jpg?v=1628813630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in white</span><span> with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054624870489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536461185</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-taupe-rose-vintage-lace-garter-1"/>
+    <title>Ivory Taupe Rose Vintage Lace Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-taupe-rose-vintage-lace-garter_fe8d8d12-5ed0-4282-b1aa-2418c98b9092.jpg?v=1601090666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This stylish garter combines ivory lace with light ivory feathers and a pair of satin flowers. The smaller flower is a light taupe satin accented by a single rhinestone. The larger flower is dark taupe satin combined with tulle and a single pearl.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536461185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536386689</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-garter-with-blue-flower"/>
+    <title>White Garter with Blue Flower</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-garter-with-blue-flower.jpg?v=1601090661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This white satin and sheer garter is decorated with a white bow, white ribbon strands and a blue flower ornament.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536386689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536372993</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/plum-tulle-flower-garter"/>
+    <title>Plum Tulle Flower Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/plum-tulle-flower-garter.jpg?v=1601090658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This leg garter is made of a stylish plum tulle and accented by a light plum sheer flower.  The flower is decorated in the middle by a single rhinestone.  A cluster of three crystals on both sides of the flower complete the design.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536372993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536367169</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tulle-flower-garter"/>
+    <title>Pink Tulle Flower Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tulle-flower-garter.jpg?v=1601090657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This leg garter is made of a stylish pink tulle and accented by a light pink sheer flower.  The flower is decorated in the middle by a single rhinestone.  A cluster of three crystals on both sides of the flower complete the design.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536367169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536357633</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-satin-garter"/>
+    <title>Pink Satin Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-satin-garter.jpg?v=1601090656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This beautiful leg garter combines white sheer with pink satin and a pink satin bow.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536357633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536318913</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jeweled-black-garter"/>
+    <title>Jeweled Black Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jeweled-black-garter.jpg?v=1601090652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This classy black garter is made of soft lace and decorated with a beaded jeweled applique.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536318913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>8550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536263169</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-vintage-lace-garter"/>
+    <title>Black Vintage Lace Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-vintage-lace-garter.jpg?v=1601090647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This stylish black garter combines black lace with black feathers and a pair of satin flowers.  The smaller flower is black satin accented by a single rhinestone.  The larger flower is white accented by black decorations and white tulle. </span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536263169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536257153</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-tulle-jeweled-garter"/>
+    <title>Black Tulle Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-tulle-jeweled-garter.jpg?v=1601090646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This black leg garter combines black tulle and black satin with a pair of satin roses (one black, one white).  Rhinestones and pearls decorate the front.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536257153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

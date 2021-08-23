@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/everyday-romance-home-collection.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-07T07:58:24-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6606178254937</id>
+    <published>2021-07-07T07:58:24-05:00</published>
+    <updated>2021-07-07T07:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-ivory-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Ivory Cameo Blush Pink Lace Rose Adorned Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-ivory-cameo-blush-pink-lace-rose-adorned-square-pillow-one-of-a-kind.jpg?v=1626912743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Ivory Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6606178254937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0707211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771985490009</id>
+    <published>2021-01-06T18:55:32-06:00</published>
+    <updated>2021-01-06T18:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Majestic Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771985490009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771982868569</id>
+    <published>2021-01-06T18:49:58-06:00</published>
+    <updated>2021-01-06T18:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Pretty Pink Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft blush pink and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771982868569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771980181593</id>
+    <published>2021-01-06T18:43:52-06:00</published>
+    <updated>2021-01-06T18:43:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771980181593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771976937561</id>
+    <published>2021-01-06T18:36:54-06:00</published>
+    <updated>2021-01-06T18:36:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Blue Victorian Cameo Lace and Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameos, roses, bows and beads in soft blue and white create a nightlight dripping in romantic luxury for your home.  Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771976937561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771971399769</id>
+    <published>2021-01-06T18:25:21-06:00</published>
+    <updated>2021-01-06T18:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind"/>
+    <title>Romantic Ivory Cameo Lace and Fringe Large Lampshade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind.jpg?v=1610024592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Romantic Ivory Cameo Lace and Fringe Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771971399769</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771960094809</id>
+    <published>2021-01-06T18:14:00-06:00</published>
+    <updated>2021-01-06T18:14:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-cameo-and-lace-large-lamp-shade"/>
+    <title>Lovely Lavender Cameo and Lace Large Lamp Shade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-cameo-and-lace-large-lamp-shade-one-of-a-kind.jpg?v=1610024591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lovely Lavender Cameo and Lace Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771960094809</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628736016473</id>
+    <published>2020-05-21T13:44:33-05:00</published>
+    <updated>2020-05-21T13:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow.jpg?v=1590152536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628736016473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628632502361</id>
+    <published>2020-05-21T12:19:18-05:00</published>
+    <updated>2020-05-21T12:19:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow-1"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628632502361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628603175001</id>
+    <published>2020-05-21T12:06:01-05:00</published>
+    <updated>2020-05-21T12:06:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures: 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628603175001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628593147993</id>
+    <published>2020-05-21T11:57:50-05:00</published>
+    <updated>2020-05-21T11:57:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628593147993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628566212697</id>
+    <published>2020-05-21T11:31:40-05:00</published>
+    <updated>2020-05-21T11:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628566212697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628523155545</id>
+    <published>2020-05-21T11:01:06-05:00</published>
+    <updated>2020-05-21T11:01:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628523155545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628460208217</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628460208217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628386283609</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-gold-ivory-cameo-lace-rose-adornedsquare-pillow"/>
+    <title>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-gold-ivory-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose AdornedSquare Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628386283609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

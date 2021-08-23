@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/wedding-by-theme.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-05-15T12:52:22-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615765196889</id>
+    <published>2020-05-15T12:52:22-05:00</published>
+    <updated>2020-05-15T12:52:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter"/>
+    <title>Purple and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant purple and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615765196889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615758938201</id>
+    <published>2020-05-15T12:47:57-05:00</published>
+    <updated>2020-05-15T12:47:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hot-pink-tulle-and-rhinestone-garter"/>
+    <title>Hot Pink Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hot-pink-tulle-and-rhinestone-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615758938201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615737409625</id>
+    <published>2020-05-15T12:33:51-05:00</published>
+    <updated>2020-05-15T12:33:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/radiant-flower-purple-tulle-garter"/>
+    <title>Radiant Flower Purple Tulle Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/radiant-flower-purple-tulle-garter.jpg?v=1589634266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lovely ruffles add a touch of romance to this purple tulle wedding garter featuring smaller purple and pink flowers accented with rhinestones. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615737409625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615745372249</id>
+    <published>2020-05-15T12:18:58-05:00</published>
+    <updated>2020-05-15T12:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-and-black-sequin-satin-garter"/>
+    <title>Aqua and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant aqua and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615745372249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4614073057369</id>
+    <published>2020-05-14T18:22:48-05:00</published>
+    <updated>2020-05-14T18:22:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-tulle-and-rhinestone-garter"/>
+    <title>Aqua Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-tulle-and-rhinestone-garter.jpg?v=1589547829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4614073057369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>0514201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536461185</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-taupe-rose-vintage-lace-garter-1"/>
+    <title>Ivory Taupe Rose Vintage Lace Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-taupe-rose-vintage-lace-garter_fe8d8d12-5ed0-4282-b1aa-2418c98b9092.jpg?v=1601090666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This stylish garter combines ivory lace with light ivory feathers and a pair of satin flowers. The smaller flower is a light taupe satin accented by a single rhinestone. The larger flower is dark taupe satin combined with tulle and a single pearl.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536461185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536386689</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-garter-with-blue-flower"/>
+    <title>White Garter with Blue Flower</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-garter-with-blue-flower.jpg?v=1601090661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This white satin and sheer garter is decorated with a white bow, white ribbon strands and a blue flower ornament.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536386689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536372993</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/plum-tulle-flower-garter"/>
+    <title>Plum Tulle Flower Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/plum-tulle-flower-garter.jpg?v=1601090658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This leg garter is made of a stylish plum tulle and accented by a light plum sheer flower.  The flower is decorated in the middle by a single rhinestone.  A cluster of three crystals on both sides of the flower complete the design.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536372993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536367169</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tulle-flower-garter"/>
+    <title>Pink Tulle Flower Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tulle-flower-garter.jpg?v=1601090657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This leg garter is made of a stylish pink tulle and accented by a light pink sheer flower.  The flower is decorated in the middle by a single rhinestone.  A cluster of three crystals on both sides of the flower complete the design.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536367169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536357633</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-satin-garter"/>
+    <title>Pink Satin Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-satin-garter.jpg?v=1601090656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This beautiful leg garter combines white sheer with pink satin and a pink satin bow.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536357633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>8556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536318913</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/jeweled-black-garter"/>
+    <title>Jeweled Black Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/jeweled-black-garter.jpg?v=1601090652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This classy black garter is made of soft lace and decorated with a beaded jeweled applique.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536318913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>8550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536263169</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-vintage-lace-garter"/>
+    <title>Black Vintage Lace Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-vintage-lace-garter.jpg?v=1601090647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This stylish black garter combines black lace with black feathers and a pair of satin flowers.  The smaller flower is black satin accented by a single rhinestone.  The larger flower is white accented by black decorations and white tulle. </span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536263169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8543</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536257153</id>
+    <published>2015-07-15T10:59:00-05:00</published>
+    <updated>2015-07-15T10:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-tulle-jeweled-garter"/>
+    <title>Black Tulle Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-tulle-jeweled-garter.jpg?v=1601090646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This black leg garter combines black tulle and black satin with a pair of satin roses (one black, one white).  Rhinestones and pearls decorate the front.</span></p>
+<p><span>One size fits most.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536257153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536221185</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-petals-for-weddings-approx-250"/>
+    <title>Pink Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-petals-for-weddings-approx-250.jpg?v=1601090644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536221185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536218113</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-petals-for-weddings-approx-250"/>
+    <title>White Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-petals-for-weddings-approx-250.jpg?v=1601090643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536218113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536214465</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-petals-for-weddings-approx-250"/>
+    <title>Red Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-petals-for-weddings-approx-250.jpg?v=1601090641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536214465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536211393</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-petals-for-weddings-approx-250"/>
+    <title>Purple Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-petals-for-weddings-approx-250.jpg?v=1601090640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536211393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536205953</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/orange-pink-petals-for-weddings-approx-250"/>
+    <title>Orange Pink Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/orange-pink-petals-for-weddings-approx-250.jpg?v=1601090639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange Pink Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536205953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536200001</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-petals-for-weddings-approx-250"/>
+    <title>Ivory Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-petals-for-weddings-approx-250.jpg?v=1601090634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ivory Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536200001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536196225</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fall-petals-for-weddings-approx-250"/>
+    <title>Fall Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-petals-for-weddings-approx-250.jpg?v=1601090633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fall Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536196225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536195073</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-green-petals-for-weddings-approx-250"/>
+    <title>Blue Green Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-green-petals-for-weddings-approx-250.jpg?v=1601090632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fill the flower girl baskets or decorate the reception table with blue/green colored petals.  The package contains approximately 250 petals.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536195073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6850342721</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-rhinestone-ivory-bouquet"/>
+    <title>Pearl Rhinestone Ivory Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-rhinestone-ivory-bouquet.jpg?v=1601092462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 8.5" gorgeous bouquet is comprised of cream satin roses, elegant pearls and stunning rhinestone accents that encircle the entire bouquet.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850342721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.99</s:price>
+      <s:sku>07072016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6850229249</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-flower-bouquet-in-white-or-ivory"/>
+    <title>Crystal Flower Bouquet in White or Ivory</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-flower-bouquet-in-white-or-ivory.jpg?v=1601092460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This amazing crystal flower bouquet mixes ivory satin roses and dazzling crystals for a one of a kind look. The handle is wrapped in crocheted lace and pearls. A satin bow with rhinestones adds to this glamorous bouquet. Bouquet measures 7".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850229249</id>
+      <title>White</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>07072016N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850229249</id>
+      <title>Ivory</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>07072016N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506650561</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-ring-pillow"/>
+    <title>Peacock Feather Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-ring-pillow.jpg?v=1601089739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Measuring 7" x 7", this elegant ring pillow is covered in cream satin. The front is decorated with a green and teal satin sash, two peacock feathers and a rhinestone ornament. The ornament combines light blue rhinestones with one central dark blue rhinestone and a series of tiny green rhinestones.</span><br>
+<div><span style="color: #000033; font-family: verdana, arial, 'sans serif'; line-height: 17.25px; text-align: center; background-color: #fffafa;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506650561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506642753</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-wedding-pen"/>
+    <title>Peacock Feather Wedding Pen</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-wedding-pen.jpg?v=1601089737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink and a 3.75" x 3.75" pen base. The base is covered in cream satin and decorated with a teal and green satin sash, rhinestone ornament and two peacock feathers. The ornament combines light blue rhinestones with one central dark blue rhinestones.</span><br>
+<div><span style="color: #000033; font-family: verdana, arial, 'sans serif'; line-height: 17.25px; text-align: center; background-color: #fffafa;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506642753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>8530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

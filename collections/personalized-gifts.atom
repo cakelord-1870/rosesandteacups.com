@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/personalized-gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-07-11T11:20:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902761153</id>
+    <published>2016-07-11T11:20:00-05:00</published>
+    <updated>2016-07-11T11:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-wedding-ring-bearer-pillow"/>
+    <title>Personalized Wedding Ring Bearer Pillow</title>
+    <s:type>Personalized Wedding Ring Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Personalized-Wedding-Ring-Bearer-Pillow_77910467-01c8-4e9e-beae-a8bcecc47c11.jpg?v=1628813606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Personalized Wedding Ring Pillow<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wedding Keepsake/Ringbearer Pillow. 12x12 Your choice color of text, color of flowers, and color of ribbon design. Has ribbon on back for ringbearer easy to slip hands under for carrying. Please be sure that we have the following information before you place your order: Bride &amp; Groom Name Date &amp; Time Place and/or City, State Color of Text Color of Flowers Color of Ribbon design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902761153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5482114049</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aunt-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Aunt Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aunt-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lovely "Catherine" style porcelain tea cup with "Aunt" in gold font.  Choose from a variety of floral patterns.  (No image available of "Aunt" cup, but it is similar to the others.)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-1-392-185AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-2-392-157AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-3-392-166AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-4-392-156AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-5-392-127AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-6-392-233AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-8-392-219AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5482114049</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34311N-9-392-190AUNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481170689</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daughter-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Daughter Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daughter-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Daughter" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-1-392-185DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-2-392-157DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-3-392-166DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-4-392-156DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-5-392-127DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-6-392-233DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-8-392-219DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481170689</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34310N-9-392-190DA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481144769</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/happy-birthday-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Happy Birthday Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/happy-birthday-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Happy Birthday" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-1-392-185HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-2-392-157HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-3-392-166HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-4-392-156HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-5-392-127HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-6-392-233HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-8-392-219HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481144769</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34309N-9-392-190HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481129985</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/friend-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Friend Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/friend-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Friend" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-1-392-185FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-2-392-157FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-3-392-166FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-4-392-156FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-5-392-127FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-6-392-233FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-8-392-219FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481129985</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34308N-9-392-190FR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481114369</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girlfriend-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Girlfriend Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girlfriend-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Girlfriend" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-1-392-185GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-2-392-15fGF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-3-392-166GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-4-392-156GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-5-392-127GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-6-392-233GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-8-392-219GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481114369</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34307N-9-392-190GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481070273</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mother-in-law-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Mother in Law Personalized Porcelain Tea Cup (teacup) and Saucer - Hand Decorated in the USA</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-in-law-personalized-porcelain-tea-cup-teacup-and-saucer-hand-decorated-in-the-usa.jpg?v=1601092060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Mother in Law" in gold font.  Choose from a variety of floral patterns.  Both the teacup and saucer are hand decorated just for you!!!  Our artist apply each pattern by hand here in the USA and then kiln fires the porcelain before shipping to you.  This makes this item extra special for gift giving or collecting! Please allow a little extra time for decorating to allow him time for this process.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-1-392-185MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-2-392-157MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-3-392-166MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-4-392-156MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-5-392-127MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-6-392-233-MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-8-392-219MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481070273</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34306N-9-392-190MIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481059137</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sister-in-law-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Sister in Law Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sister-in-law-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Sister in Law" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-1-392-185SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-2-392-157SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-3-392-166SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-4-392-156SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-5-392-127SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-6-392-233SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-8-392-219SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481059137</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34305N-9-392-190SIL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481037761</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sister-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Sister Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sister-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Sister" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-1-392-185SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-2-392-157SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-3-392-166SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-4-392-156SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-5-392-127SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-6-392-233SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-8-392-219SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481037761</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34304N-9-392-190SIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481014529</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/granddaughter-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Granddaughter Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/granddaughter-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Granddaughter" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-1-392-185GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-2-392-157GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-3-392-166GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-4-392-156GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-5-392-127GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-6-392-233GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-8-392-219GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481014529</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34302N-9-392-190GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481010689</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/grandmother-personalized-porcelain-tea-cup-teacup-and-saucer-1"/>
+    <title>Grandmother Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grandmother-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely "Catherine" style porcelain tea cup with "Grandmother" in gold font.  Choose from a variety of floral patterns.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-1-392-185GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-2-392-157GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-3-392-166GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-4-392-156GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-5-392-127GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-6-392-233GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-8-392-219GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481010689</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34303N-9-392-190GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5481004673</id>
+    <published>2016-03-19T16:29:00-05:00</published>
+    <updated>2016-03-19T16:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mother-personalized-porcelain-tea-cup-teacup-and-saucer"/>
+    <title>Mother Personalized Porcelain Tea Cup (teacup) and Saucer</title>
+    <s:type>Porcelain Teacups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-personalized-porcelain-tea-cup-teacup-and-saucer.jpg?v=1601092009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Teacups<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lovely "Catherine" style porcelain tea cup with "Mother" in gold font.  Choose from a variety of floral patterns. <span>Both the teacup and saucer are hand decorated just for you!!!  Our artist apply each pattern by hand here in the USA and then kiln fires the porcelain before shipping to you.  This makes this item extra special for gift giving or collecting! Please allow a little extra time for decorating to allow him time for this process.</span></p>
+<p>*The images shown are the floral patterns offered you may select from. The pattern image may show text other than Mother as this listing is for the Mother cup and saucer.  Will do have each you see in another listing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-1-392-185M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-2-392-157M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Pansy</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-3-392-166M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-4-392-156M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Claremont</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-5-392-127M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Rose and Heather</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-6-392-233M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Roses and Wisteria</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-8-392-219M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5481004673</id>
+      <title>Wayside Pansies</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>34301N-9-392-190M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5619110593</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-garden-favor-boxes-set-of-24"/>
+    <title>English Garden Personalized Favor Boxes Set of 24</title>
+    <s:type>Wedding &amp; Personalized Favors</s:type>
+    <s:vendor>Kate Aspen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-garden-personalized-favor-boxes-set-of-24.jpg?v=1601092174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kate Aspen<br>
+        <strong>Type: </strong>Wedding &amp; Personalized Favors<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Semigloss cardstock favor box in ivory, pink, purple, and green</li>
+<li>Measures 3.3" w x 1.2" h x 2.4" d</li>
+<li>Personalized coordinating quatrefoil sticker </li>
+<li>Some assembly required (stickers)</li>
+<li>Contents not Included:  Add your own treats, soaps, tea lights, etc.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5619110593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>34431N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556071681</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pink"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pink</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pink-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556071681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556067777</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-burgundy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Burgundy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-burgundy-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556067777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556062145</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-yellow"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Yellow</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-yellow-1.gif?v=1561400522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556062145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556053249</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-blue"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Blue</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-blue-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556053249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556026305</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pansy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pansy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pansy-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556026305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548811521</id>
+    <published>2015-07-16T13:44:00-05:00</published>
+    <updated>2015-07-16T13:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-engraving"/>
+    <title>Personalized Engraving on Stem</title>
+    <s:type>Personalized Stem</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/personalized-engraving-on-stem.jpg?v=1601090808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Personalized Stem<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Photos are magnified.  Engravings will be quite small.  Please DOUBLE check what you type into the box for your message.  There are NO RETURNS on engraved roses.  Thanks for your understanding!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548811521</id>
+      <title>Default</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>888N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1497382977</id>
+    <published>2015-07-10T21:53:00-05:00</published>
+    <updated>2015-07-10T21:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-victorianbookmarks"/>
+    <title>Set of 50 Personalized Victorian Bookmarks</title>
+    <s:type>Bookmarks</s:type>
+    <s:vendor>Iprint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-50-personalized-victorian-bookmarks.jpg?v=1582071122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iprint<br>
+        <strong>Type: </strong>Bookmarks<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Bookmark Designs are created from special graphics which we have commissioned and/or purchased a license to use! They make wonderful gifts and favors, are easy to mail, and are very inexpensive!</p>
+<p>Bookmarks are made from 14pt card stock with a clear UV coating. They are 2 inches by 6.5 inches in size.</p>
+<p>These are perfect for "Save the Date" reminders!</p>
+<p><span style="background-color: #cccccc;">To personalize:</span></p>
+<p>***Simply add your text of choice in our comments boxes as you checkout. You will receive a proof of your text for your approval! In order for a custom order to be printed the proof must be approved so please be sure to check your email for this information.  If you do not receive a proof approval  email please contact customer service at 866-998-2877 or info@rosesandteacups.com Please allow 2-3 weeks or ask for RUSH shipping.***<br><br> Watermarks will NOT appear on your bookmarks! Click drop down box to select your pattern and then add to cart to purchase.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens &amp; Tea Stationery</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Old Country Rose</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Victorian Hand</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Flower Girls</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Roses</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Teacups</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Doilies</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Pink Teacups</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Purple Teacups</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Teapots</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Floral Crosses</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>7034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Vintage Roses</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>7035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497382977</id>
+      <title>Baskets</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>6988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1492386497</id>
+    <published>2015-07-09T21:12:00-05:00</published>
+    <updated>2015-07-09T21:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/custom-personalized-tea-bag-stickers"/>
+    <title>24 Custom Personalized Bridal Tea Bag Stickers</title>
+    <s:type>Bridal Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-custom-personalized-bridal-tea-bag-stickers.jpg?v=1601089244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bridal Favors<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize your tea bag favors with our custom stickers! </span><br><span>Our darling 1.5 inch round stickers fit perfectly on tea bags!</span></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1492386497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

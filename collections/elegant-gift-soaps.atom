@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/elegant-gift-soaps.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-03-11T14:24:15-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506142670937</id>
+    <published>2020-03-11T14:24:15-05:00</published>
+    <updated>2020-03-11T14:24:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Madame Bunny Teapot and Teacup Soap Party Favors Set of 4</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-4.jpg?v=1584018364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations features our lovely Madame Bunny pattern. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 8 soaps with 2 in each favor. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506142670937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-SJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2178146697305</id>
+    <published>2019-09-11T13:10:58-05:00</published>
+    <updated>2019-09-11T13:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Pumpkin Spice Scented Fall Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Pumpkin Spice Scented Fall teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great for Fall gifts!  Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2178146697305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPumpkin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2131781124185</id>
+    <published>2019-07-12T10:34:27-05:00</published>
+    <updated>2019-07-12T10:34:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cinderellas-blue-slipper-shoe-soap-favors-gift-bag-and-box-set"/>
+    <title>Cinderella&apos;s Blue Slipper Shoe Soap Favors Gift Bag and Box Set</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cinderellas-blue-slipper-shoe-soap-favors-gift-bag-and-box-set.jpg?v=1601094881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We've found Cinderella's Slippers!  Perfect for tea party favors and gift giving. You'll receive two lovely lavender scented Victorian shoe shaped soaps in a stunning decorative gift box.</p>
+<p>Soaps measure: 4 inches and weigh 1.5 oz </p>
+<p>Box measure: 4.5 inches long and 3 3/3 inches wide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2131781124185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>0122164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122722902105</id>
+    <published>2019-06-28T17:56:40-05:00</published>
+    <updated>2019-06-28T17:56:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lady-in-blue-cameo-gift-boxed-soap-favor"/>
+    <title>Lady in Blue Cameo Gift Boxed Soap Favor</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lady-in-blue-cameo-gift-boxed-soap-favor.jpg?v=1601094859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lovely Lady in Blue Gift Box included a light scented beautiful cameo soap wrapped on cello with bow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122722902105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122707140697</id>
+    <published>2019-06-28T17:08:57-05:00</published>
+    <updated>2019-06-28T17:08:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pastels-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Pretty Pastels Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pastels-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor. 2 sets of each color.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122707140697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPastels</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122646519897</id>
+    <published>2019-06-28T13:45:56-05:00</published>
+    <updated>2019-06-28T13:45:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/marvelvous-mint-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Marvelous Mint Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/marvelous-mint-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122646519897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJMint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122596286553</id>
+    <published>2019-06-28T10:48:41-05:00</published>
+    <updated>2019-06-28T10:48:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-blue-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Beautiful Blue Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-blue-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122596286553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJBlue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2121716760665</id>
+    <published>2019-06-27T13:04:56-05:00</published>
+    <updated>2019-06-27T13:04:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Lovely Lavender Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2121716760665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJLavender</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959530528857</id>
+    <published>2019-01-14T14:30:26-06:00</published>
+    <updated>2019-01-14T14:30:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-boxed-gift-soap-peacock"/>
+    <title>Romantic Boxed Gift Soap - Peacock</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-boxed-gift-soap-peacock.jpg?v=1601094624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Romantic Boxed Gift Soap - Peacock - Green Tea Soap is triple milled, vegetable based luxury soap bar, made from the finest ingredients, infused with the fragrant scent of green tea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soaps</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959530528857</id>
+      <title>Default</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>9713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1760137511001</id>
+    <published>2018-10-29T09:07:23-05:00</published>
+    <updated>2018-10-29T09:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-and-teacup-soap-favors-set-of-8"/>
+    <title>Pretty in Pink Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-in-pink-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1760137511001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/285091692584</id>
+    <published>2017-11-15T10:09:56-06:00</published>
+    <updated>2017-11-15T10:09:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/best-friends-a-little-soap"/>
+    <title>Best Friends A Little Soap</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>MDW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/best-friends-a-little-soap.jpg?v=1601093751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MDW<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>"A Little Soap," an adorable box, one delicious scent. These 3.5 ounce / 100 gram bars contain only the finest ingredients: pure vegetable palm oil, glycerine, and rich, moisturizing shea butter. Each piece is triple-milled and handmade in Sussex, England, where our artisanal soap maker oversees every step of the process. Such painstaking care ensures a product that is thoroughly-blended, firm, long lasting, and silky smooth.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/285091692584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>111517-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/285091299368</id>
+    <published>2017-11-15T10:09:56-06:00</published>
+    <updated>2017-11-15T10:09:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girlfriends-a-little-soap"/>
+    <title>Girlfriends A Little Soap</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>MDW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girlfriends-a-little-soap.jpg?v=1601093750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MDW<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>"A Little Soap," an adorable box, one delicious scent. These 3.5 ounce / 100 gram bars contain only the finest ingredients: pure vegetable palm oil, glycerine, and rich, moisturizing shea butter. Each piece is triple-milled and handmade in Sussex, England, where our artisanal soap maker oversees every step of the process. Such painstaking care ensures a product that is thoroughly-blended, firm, long lasting, and silky smooth.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/285091299368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>111517-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8984020417</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/baby-bootie-gift-soap-favors-pink"/>
+    <title>Baby Bootie Gift Soap Favors Pink</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/baby-bootie-gift-soap-favors-pink.jpg?v=1601093053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You'll receive two lovely pink baby powder scented </span><span>baby bootie</span><span> shaped soaps in a </span><span>sweet gift bag.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8984020417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>03092017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8984017281</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/baby-bootie-gift-soap-favors-blue"/>
+    <title>Baby Bootie Gift Soap Favors Blue</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/baby-bootie-gift-soap-favors-blue.jpg?v=1601093051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You'll receive two lovely blue baby powder scented </span><span>baby bootie</span><span> shaped soaps in a </span><span>sweet gift bag.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8984017281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>03092017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6998309121</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-rose-soap-favor-in-gift-box"/>
+    <title>Pink Rose Soap Favor in Gift Box</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-soap-favor-in-gift-box.jpg?v=1601092498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 pink rose soap in each sweet round gift box.  Soaps are USA handcrafted and are 2.5 oz. each.  Rose Petal Fragrance
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6998309121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07172016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6998274113</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-rose-soap-favors-in-gift-box-6-boxes"/>
+    <title>Pink Rose Soap Favors in Gift Box 6 Boxes</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-soap-favors-in-gift-box-6-boxes.jpg?v=1601092497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">6 boxes with 1 pink rose soap in each sweet round gift box.  Soaps are USA handcrafted and are 2.5 oz. each.  Rose Petal Fragrance
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6998274113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07172016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6918189505</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-soap-favors-in-gift-box-set-of-6"/>
+    <title>Tea Cup Soap Favors in Gift Box Set of 6</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-soap-favors-in-gift-box-set-of-6.jpg?v=1601092482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You will receive 6 Favor Boxes of Soaps.  These adorable Tea Cup Soap Favors feature 2 tea cup soaps, 1 pink and 1 lavender handcrafted in the USA and presented in a gift box.  Delicate Lavender fragrance.  Soaps are plastic wrapped for freshness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6918189505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07122016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6918145729</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-teacup-soap-favors-in-gift-box"/>
+    <title>Teacup Soap Favors in Gift Box</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teacup-soap-favors-in-gift-box.jpg?v=1601092481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable Teacup Soap Favors feature 2 tea cup soaps, 1 pink and 1 lavender handcrafted in the USA and presented in a gift box.  Delicate Lavender fragrance.  Soaps are plastic wrapped for freshness.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6918145729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07122016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902665665</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-soap-favors-in-gift-box-6-boxes"/>
+    <title>Teapot Soap Favors in Gift Box 6 Boxes</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-soap-favors-in-gift-box-6-boxes.jpg?v=1601092473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">6 boxes with 1 teapot soap in each sweet pink gift box with heart closure.  Soaps are USA handcrafted and are 2 oz. each.
+<p>You choice of colors and fragrance!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902665665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902503041</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-boxes-elegant-fans-soap-favors-in-gift-box"/>
+    <title>Elegant Fans Soap Favors in Gift Box 6 Boxes</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegant-fans-soap-favors-in-gift-box-6-boxes.jpg?v=1601092471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">6 boxes with 3 fans in each sweet gift box shown here with our tea cup soaps.  Soaps are USA handcrafted and are 1 oz. each.
+<p>You choice of colors and fragrance!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902503041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07112016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6886070209</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-soap-favors-in-gift-box"/>
+    <title>Teapot Soap Favor in Gift Box</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-soap-favor-in-gift-box.jpg?v=1601092466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This adorable 2 oz Teapot Soap Favor is handcrafted in the USA and comes in a sweet pink gift box with heart closure.  Yummy Lavender fragrance. Choose White or Pink Teapots</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6886070209</id>
+      <title>White</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07092016-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6886070209</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07092016-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6886037249</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elegant-fans-soap-favors-in-gift-box"/>
+    <title>Elegant Fans Soap Favors in Gift Box</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Savon Marie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegant-fans-soap-favors-in-gift-box.jpg?v=1601092464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savon Marie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1 Pink, 1 Blue and 1 White Soap Fan in each sweet gift box shown here with our tea cup soaps.  Soaps are USA handcrafted and are 1 oz. each.
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6886037249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07092016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5656007041</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bonnet-hat-box-gift-soap-in-gift-bag"/>
+    <title>Yellow Bonnet Hat Box Gift Soap in Gift Bag</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-bonnet-hat-box-gift-soap-in-gift-bag.jpg?v=1601092214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gift includes the 3" round  gift box, soap and gift bag.  Gift Bag measures 4" x 5" the soap weighs 2.0 oz. Bonnet  soaps are available in blue, lavender, pink, green and yellow.  Great Mother's Day Gift, Party Gift, or  Shower Gift.  Lavender Scented.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5656007041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34486N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655973441</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-hat-box-gift-soap-in-gift-bag"/>
+    <title>Pink Bonnet Hat Box Gift Soap in Gift Bag</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-bonnet-hat-box-gift-soap-in-gift-bag.jpg?v=1601092212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gift includes the 3" round  gift box, soap and gift bag.  Gift Bag measures 4" x 5" the soap weighs 2.0 oz. Bonnet  soaps are available in blue, lavender, pink, green and yellow.  Great Mother's Day Gift, Party Gift, or  Shower Gift.  Lavender Scented.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655973441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34484N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655955713</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-victorian-corset-gift-soap-in-gift-bag"/>
+    <title>White Victorian Corset Gift Soap in Gift Bag - Only 3 Left</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-victorian-corset-gift-soap-in-gift-bag-only-3-left.jpg?v=1601092208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gift includes the gift box, soap and gift bag.  Gift Bag measures 4" x 5" the soap weighs 2.5 oz.  Corset soaps are available in blue, lavender, pink and white.  Great Mother's Day Gift, Party Gift, or Shower Gift.  Lavender Scented.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655955713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34482N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/lace-satin-gloves.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-06-27T13:15:08-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2121767583833</id>
+    <published>2019-06-27T13:15:08-05:00</published>
+    <updated>2019-06-27T13:15:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-girls-lace-tea-party-dress-up-gloves"/>
+    <title>Little Girls Lace Tea Party Dress Up Gloves</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Darice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-girls-lace-tea-party-dress-up-gloves.jpg?v=1601094840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darice<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our children's white lace gloves are perfect for little girls.  Gloves have bow embellishments and stretch elastic on each wrist.  Measures 6 inches long.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2121767583833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>0627192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054661144665</id>
+    <published>2019-04-04T11:14:19-05:00</published>
+    <updated>2019-04-04T11:14:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bold-red-lace-gloves-with-ruffles-perfect-for-red-hat-tea-parties-and-dress-up-fun"/>
+    <title>Bold Red Lace Gloves with Ruffles Perfect for Red Hat Tea Parties and Dress Up Fun</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bold-red-lace-gloves-with-ruffles-perfect-for-red-hat-tea-parties-and-dress-up-fun.jpg?v=1601094727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bold red lace gloves with ruffles at the wrist. Limited Supply!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054661144665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>2363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054654984281</id>
+    <published>2019-04-04T11:00:54-05:00</published>
+    <updated>2019-04-04T11:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs.jpg?v=1601094726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in bold red</span><span> with ruffles and bows. Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs or Dress Up Fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054654984281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054652264537</id>
+    <published>2019-04-04T10:49:20-05:00</published>
+    <updated>2019-04-04T10:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-lace-fingerless-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Black Lace Fingerless Gloves Perfect for Tea Parties or Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Black-Lace-Fingerless-Gloves-Perfect-for-Tea-Parties-or-Bridal-Affairs_f462aff3-3f41-44ef-ad36-73ba0d843c37.jpg?v=1628728474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ultra feminine fingerless black lace gloves with bows and ruffles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054652264537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054639878233</id>
+    <published>2019-04-04T10:23:50-05:00</published>
+    <updated>2019-04-04T10:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Pink Fingerless Lace Gloves Perfect for Tea Parties or Bridal Affairs!!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs_a92f4175-a5ca-49b0-91e1-1a158f68be8e.jpg?v=1601094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in soft pink with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054639878233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054624870489</id>
+    <published>2019-04-04T09:58:15-05:00</published>
+    <updated>2019-04-04T09:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-fingerless-lace-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>White Fingerless Lace Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/White-Fingerless-Lace-Gloves-Perfect-for-Tea-Parties-and-Bridal-Affairs_94bab9c1-bce7-404b-b09c-a4abd51dd8d4.jpg?v=1628813630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in white</span><span> with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054624870489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

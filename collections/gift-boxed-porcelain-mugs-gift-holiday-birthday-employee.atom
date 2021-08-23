@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gift-boxed-porcelain-mugs-gift-holiday-birthday-employee.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-04-06T13:51:54-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556321185881</id>
+    <published>2021-04-06T13:51:54-05:00</published>
+    <updated>2021-04-06T13:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-roses-and-poppies"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Purple Roses and Poppies</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-purple-roses-and-poppies.jpg?v=1617800709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug - Purple Roses and Poppies with matching gift box adorned with lovely satin bow. Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556321185881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0406212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756873871449</id>
+    <published>2020-11-28T13:38:06-06:00</published>
+    <updated>2020-11-28T13:38:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-snow-birds-holiday-christmas-mug-set"/>
+    <title>Winter Snow Birds Holiday Christmas Mug Set</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-snow-birds-holiday-christmas-mug-set.jpg?v=1606608786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Winter Snow Birds Mug Set includes 11oz porcelain mug, spoon, and coaster in matching gift box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756873871449</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>1128208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4756869152857</id>
+    <published>2020-11-28T13:09:22-06:00</published>
+    <updated>2020-11-28T13:09:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-box-mug-santa-with-snow-globe-snowman"/>
+    <title>Gift Box Mug Santa with Snow Globe Snowman</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-box-mug-santa-with-snow-globe-snowman.jpg?v=1606655055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa with Presents Porcelain Mug Gift Boxed  features Santa giving out presents near a lit Christmas tree.  There is an adorable deer nearby curious as to what they are getting.  Each mug has a rich pattern completely surrounding both mug and gift box and if you look closely you'll even find a little surprise pattern on the bottom.  Our gift boxes are ready for gift giving with a lovely satin bow and terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4756869152857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1128205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4742730776665</id>
+    <published>2020-10-26T15:11:37-05:00</published>
+    <updated>2020-10-26T15:11:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-pink-peony"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Pink Peony</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-pink-peony.jpg?v=1603757547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug with matching gift box adorned with lovely satin bow.  Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4742730776665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1026204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421591367769</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-heart-porcelain-mug-in-matching-gift-box"/>
+    <title>Floral Heart Porcelain Mug in Matching Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-heart-porcelain-mug-in-matching-gift-box.jpg?v=1601095178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Floral Heart Porcelain Mug in Matching Gift Box is ready for gift giving with tassel all boxed up with decorative pattern and satin bow.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421591367769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0108204</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4184806686809</id>
+    <published>2019-10-07T10:03:03-05:00</published>
+    <updated>2019-10-07T10:03:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-christmas-holiday-porcelain-mug-spoon-coaster-gift-boxed-set"/>
+    <title>Santa Christmas Holiday Porcelain Mug Spoon Coaster Gift Boxed Set</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-christmas-holiday-porcelain-mug-spoon-coaster-gift-boxed-set.jpg?v=1601095023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa Christmas Holiday Porcelain Mug Spoon Coaster Gift Boxed Set has presents and poinsettias abound.  Each satin bow adorned matching gift box is perfect for gift giving or displaying for the holidays.  The adorable Santa pattern surrounds both mug and box and if you look closely you can see the pattern on the spoon, inside the mug, and even on the bottom of the box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4184806686809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>1007192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4176882663513</id>
+    <published>2019-10-02T15:48:26-05:00</published>
+    <updated>2019-10-02T15:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/santa-with-presents-porcelain-mug-gift-boxed"/>
+    <title>Santa with Presents Porcelain Mug Gift Boxed</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/santa-with-presents-porcelain-mug-gift-boxed.jpg?v=1582072426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Santa with Presents Porcelain Mug Gift Boxed  features Santa giving out presents near a lit Christmas tree.  There is an adorable deer nearby curious as to what they are getting.  Each mug has a rich pattern completely surrounding both mug and gift box and if you look closely you'll even find a little surprise pattern on the bottom.  Our gift boxes are ready for gift giving with a lovely satin bow and terrific tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4176882663513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>1002195J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4172856557657</id>
+    <published>2019-09-30T08:52:08-05:00</published>
+    <updated>2019-09-30T08:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-camellia-porcelain-mug-in-matching-gift-box"/>
+    <title>English Camellia Porcelain Mug in Matching Gift Box - Only 1 Left!</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-camellia-porcelain-mug-in-matching-gift-box-only-1-left.jpg?v=1601095018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our English Camellia Porcelain Mug in Matching Gift Box is rich with color.  Each mug has lovely camellias and more colorful florals. See the dainty scrolling handle with a terrific tassel and the satin bow which makes this item perfect for giving as a gift.  The matching pattern on the box surrounds all the around, on the lid as well and if you look closely you will find a hidden pattern on the bottom.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4172856557657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0930195J</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4172848070745</id>
+    <published>2019-09-30T08:41:11-05:00</published>
+    <updated>2019-09-30T08:41:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-hydrangea-and-butterflies-porcelain-mug-in-matching-gift-box"/>
+    <title>Blue Hydrangea and Butterflies Porcelain Mug in Matching Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-hydrangea-and-butterflies-porcelain-mug-in-matching-gift-box.jpg?v=1601095017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Blue Hydrangea and Butterflies Porcelain Mug in Matching Gift Box is rich with color.  Each mug has a happy hydrangeas with fluttering butterflies about.  See the dainty scrolling handle with a terrific tassel and the satin bow which makes this item perfect for giving as a gift.  The matching pattern on the box surrounds all the around, on the lid as well and if you look closely you will find a hidden pattern on the bottom.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4172848070745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0930193J</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054707675225</id>
+    <published>2019-04-04T12:59:36-05:00</published>
+    <updated>2019-04-04T12:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy"/>
+    <title>Hydrangea and Butterflies Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hydrangea-and-butterflies-bone-china-mug-purse-carrying-caddy.jpg?v=1601094730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydrangea and Butterfles Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054707675225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054704037977</id>
+    <published>2019-04-04T12:33:20-05:00</published>
+    <updated>2019-04-04T12:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy"/>
+    <title>Pretty Pink Roses and Floral Bone China Mug Purse Carrying Caddy</title>
+    <s:type>Mugs and Tankards</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-roses-and-floral-bone-china-mug-purse-carrying-caddy.jpg?v=1601094728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Mugs and Tankards<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pretty in Pink Floral Bone China Mug Purse Caddy is the perfect gift for Mother's Day, to show a friend how much you care or just as lovely gift to yourself. :) </p>
+<p>Mug is Bone China and holds a generous 12 ounces includes a beautiful caddy that allows you to carry your mug via handle.  </p>
+<p>Would be really cute to add yummy chocolates or candies to enhance your gift further! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054704037977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>040419-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2000942104665</id>
+    <published>2019-02-20T12:24:25-06:00</published>
+    <updated>2019-02-20T12:24:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-peacock-porcelain-mug-with-tassel"/>
+    <title>Gift Boxed Peacock Porcelain Mug with Tassel</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-peacock-porcelain-mug-with-tassel.jpg?v=1601094711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gift Boxed Peacock Porcelain Mug with Tassel hold approximately 11 ounces and is amazingly gorgeous!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2000942104665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0220193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2000937320537</id>
+    <published>2019-02-20T12:18:49-06:00</published>
+    <updated>2019-02-20T12:18:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-peacock-porcelain-mug-spoon-and-coaster-set"/>
+    <title>Gift Boxed Peacock Porcelain Mug Spoon and Coaster Set</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-peacock-porcelain-mug-spoon-and-coaster-set.jpg?v=1601094710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gift Boxed Peacock Porcelain Mug Spoon and Coaster Set is a whole lot of goodies all packed perfect for you or to give as a gift!  It even has a satin box to complete the look.  Look closer at the porcelain spoon as it even has a lovely peacock design as well.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2000937320537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0220192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/760631066725</id>
+    <published>2018-05-15T14:50:42-05:00</published>
+    <updated>2018-05-15T14:50:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lady-bug-gift-boxed-pedestal-mug"/>
+    <title>Lady Bug Gift Boxed Pedestal Mug</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lady-bug-gift-boxed-pedestal-mug.jpg?v=1601094045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pedestal Ladybugs &amp; Swirls is a lovely hand-painted raised ceramic mug that holds 8 oz of your favorite beverage. Gift boxes included  Hand wash only.
+<p>FDA approved.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/760631066725</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>51518-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342296293477</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-lavender-rose"/>
+    <title>Gift Boxed Mug with Tassel - Lavender Rose</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-lavender-rose.jpg?v=1582071396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342296293477</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>09052018-6N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342295900261</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-flamingo"/>
+    <title>Gift Boxed Mug with Tassel - Flamingo - Only 1 Left!</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-flamingo-only-1-left.jpg?v=1626307960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342295900261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>09052018-5N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342295146597</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-poppyseed"/>
+    <title>Gift Boxed Mug with Tassel - Poppyseed</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-poppyseed.jpg?v=1601094280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342295146597</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>09052018-3N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342294589541</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-butterfly"/>
+    <title>Gift Boxed Mug with Tassel - Butterfly</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-butterfly.jpg?v=1601094279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342294589541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>09052018-2N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342294229093</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassel-blue-romance"/>
+    <title>Gift Boxed Mug with Tassel - Blue Romance</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-blue-romance.jpg?v=1601094278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342294229093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>09052018N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392680144936</id>
+    <published>2018-04-18T18:41:10-05:00</published>
+    <updated>2018-04-18T18:41:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassle-partridge"/>
+    <title>Gift Boxed Mug with Tassel - Partridge</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassel-partridge.jpg?v=1601093824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Porcelain Mug in matching box adorned with tassel and satin ribbon.<br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392680144936</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>010517-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/478466080808</id>
+    <published>2018-03-15T10:44:58-05:00</published>
+    <updated>2018-03-15T10:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassle-pheasant"/>
+    <title>Gift Boxed Mug with Tassle - Pheasant</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassle-pheasant.jpg?v=1601093921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Mug in hat box. <br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. Click drop down box to select pattern then add to cart for purchase.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/478466080808</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>031518-7N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/478459068456</id>
+    <published>2018-03-15T10:44:58-05:00</published>
+    <updated>2018-03-15T10:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassle-feather-and-floral"/>
+    <title>Gift Boxed Mug with Tassle - Feather and Floral - Limited!</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassle-feather-and-floral-limited.jpg?v=1626307956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Mug in hat box. <br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. Click drop down box to select pattern then add to cart for purchase.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/478459068456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>031518-5N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392680964136</id>
+    <published>2018-01-07T13:38:34-06:00</published>
+    <updated>2018-01-07T13:38:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-mug-with-tassle-wildflower"/>
+    <title>Gift Boxed Mug with Tassle - Wildflower</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-mug-with-tassle-wildflower.jpg?v=1601093825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift Boxed Mug in hat box. <br> Beautiful porcelain mug arrives in matching hat box perfect for gifting and events. Click drop down box to select pattern then add to cart for purchase.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392680964136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>010517-9N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9310076673</id>
+    <published>2016-12-28T13:41:00-06:00</published>
+    <updated>2016-12-28T13:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-roses-mug-in-gift-box"/>
+    <title>Pink Roses Mug in Gift Box</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-roses-mug-in-gift-box.jpg?v=1601093172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Dishwasher safe/FDA approved/Microwave safe.</span><br><span>Porcelain mug with large pink rose blooms and green leaves all around. White interior. Individual gift box.</span><br><br><span>Holds 16oz.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9310076673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>04282017-9N</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342670962789</id>
+    <published>2015-09-29T08:42:00-05:00</published>
+    <updated>2015-09-29T08:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-set-of-two-3-2-inches-lavender-rose"/>
+    <title>Gift Boxed Porcelain Mug Set of Two - Lavender Rose</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-set-of-two-lavender-rose.jpg?v=1601094306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Gift Boxed Porcelain Mug Set - Lavender Rose includes 2 porcelain Mugs and 2 Spoons enclosed in a lovely matching box adorned with a satin bow.  Holds 11 oz.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342670962789</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>09062018-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

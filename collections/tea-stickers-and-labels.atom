@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-stickers-and-labels.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-12-31T17:06:04-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1940063322201</id>
+    <published>2018-12-31T17:06:04-06:00</published>
+    <updated>2018-12-31T17:06:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/quilt-gift-labels"/>
+    <title>8 Quilt Gift Labels - Limited Supply!</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/8-quilt-gift-labels-limited-supply.jpg?v=1601094575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our 8 Quilt Gift Labels are perfect for just about any occasion, these dainty, decorative labels--reminiscent of familiar quilt patterns--depict floral wreaths, geometric designs, animals, quaint buildings and more.  With space for address or brief message, they will perk up even the simplest packages.  Just peel and apply!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens &amp; Tea Stationery</s:tag>
+    <s:tag>quilt labels</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1940063322201</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1480970369</id>
+    <published>2018-11-21T12:52:26-06:00</published>
+    <updated>2018-11-21T12:52:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-china-victorian-stickers"/>
+    <title>French China Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-china-victorian-2-sheets-of-stickers.jpg?v=1601089122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1480970369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>8749</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7983365569</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/1-sheet-of-62-1-inch-round-gold-trimmed-pastel-tea-cup-and-teapot-stickers"/>
+    <title>1 Sheet of 62 1-inch Round Gold Trimmed Pastel Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-sheet-of-62-1-inch-round-gold-trimmed-pastel-tea-cup-and-teapot-stickers.jpg?v=1601092617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> So adorable!  These pastel tea cups and teapots are exclusive to Roses and Teacups, and we know you'll love them!  You'll receive an 8.5 x 11 sheet of 1-inch pastel, gold-trimmed tea cup and teapot stickers.  They are easy to reposition if needed.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7983365569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>09172016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7021574913</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sheet-of-63-1-inch-round-christmas-tea-cup-and-teapot-stickers"/>
+    <title>1 Sheet of 62 1-inch Round Christmas Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-sheet-of-62-1-inch-round-christmas-tea-cup-and-teapot-stickers.png?v=1601092508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> So adorable!  These holiday tea cups and teapots are exclusive to Roses and Teacups, and we know you'll love them!  You'll receive an 8.5 x 11 sheet of 1-inch Christmas tea cup and teapot stickers.  They are easy to reposition if needed.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7021574913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07182016-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481246145</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sheet-of-62-1-inch-round-tea-cup-and-teapot-stickers"/>
+    <title>Sheet of 62 1-inch Round Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sheet-of-62-1-inch-round-tea-cup-and-teapot-stickers.jpg?v=1601089142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Sheet of 62 1-inch Round Tea Cup and Teapot Stickers Gorgeous images of tea cups and teapots!  Use as envelope seals or place card decorations!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481246145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8747</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146909761</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cup-return-address-labels"/>
+    <title>Christmas Tea Cup Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cup-return-address-labels.png?v=1601092531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Christmas Tea Cup Return Address Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146909761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07262016-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146872257</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-teapot-return-address-labels"/>
+    <title>Christmas Teapot Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-teapot-return-address-labels.png?v=1601092530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Christmas Teapot Return Address Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146872257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07262016-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481458881</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-country-roses-return-address-labels"/>
+    <title>Old Country Roses Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-return-address-labels.jpg?v=1601089149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481458881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481457217</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-teapot-return-address-labels"/>
+    <title>Yellow Teapot Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-teapot-return-address-labels.jpg?v=1601089148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481457217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481455233</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-teapot-return-address-labels"/>
+    <title>Pink Teapot Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-teapot-return-address-labels.jpg?v=1601089147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481455233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>4099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481452801</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-cup-return-address-labels"/>
+    <title>Pink Tea Cup Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-cup-return-address-labels.jpg?v=1601089146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481452801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>3652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481452481</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-return-address-labels"/>
+    <title>Tea Cup Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-return-address-labels.jpg?v=1601089145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481452481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>3651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5325973761</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dogs-in-tea-cups-victorian-stickers"/>
+    <title>Dogs in Tea Cups Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dogs-in-tea-cups-victorian-2-sheets-of-stickers.jpg?v=1601091989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers  3.75 x 7.75.  Stickers are acid free and perfect for card making, correspondence, scrap booking and paper crafts of all types.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5325973761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>34030N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481224641</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-garden-tea-stickers"/>
+    <title>Kimberly Shaw Garden Tea Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Kimberly-Shaw-Garden-Tea-Stickers_0ab0d9a7-773c-40d8-9f01-611b6e9e2ca1.jpg?v=1629418295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            2.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Sheets of Stickers</p>
+<ul>
+<li><span size="2;">Each set includes one sheet of <strong>over 30</strong> tea par<span>ty</span> stickers.<em></em></span></li>
+<li><span size="2;">Stickers can safely be used in scrapbooks, with photos, or to decorate envelopes and invitations.</span></li>
+<li><span size="2;">Sheet size is 5 1/2 inches wide by 9 1/2 inches tall.</span></li>
+<li><span size="2;">Acid and lignin free.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481224641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.59</s:price>
+      <s:sku>327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481116865</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-tea-stickers"/>
+    <title>Kimberly Shaw Tea Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-tea-stickers.jpg?v=1601089139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            2.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Sheets of Stickers</p>
+<ul>
+<li><span size="2;">Each set includes one sheet of <strong>over 30</strong> tea par<span>ty</span> stickers.<em></em></span></li>
+<li><span size="2;">Stickers can safely be used in scrapbooks, with photos, or to decorate envelopes and invitations.</span></li>
+<li><span size="2;">Sheet size is 5 1/2 inches wide by 9 1/2 inches tall.</span></li>
+<li><span size="2;">Acid and lignin free.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481116865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.59</s:price>
+      <s:sku>326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481108993</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cups-and-roses-victorian-stickers"/>
+    <title>Tea Cups and Roses Victorian Floral 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Tea-Cups-and-Roses-Victorian-Floral-2-Sheets-of-Stickers_e6a68532-bc93-4891-aff2-e2e2d2d27950.jpg?v=1629418289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481108993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481101377</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-tea-cup-stickers"/>
+    <title>Victorian Tea Cup 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Victorian-Tea-Cup-2-Sheets-of-Stickers_28198198-0c3d-4987-98a3-209ed8f715bf.jpg?v=1628899899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victorian Tea Cup 2 Sheets of Stickers 2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481101377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1480963521</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bunnies-in-tea-cups-victorian-stickers"/>
+    <title>24 Bunnies in Tea Cups Victorian 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/24-bunnies-in-tea-cups-victorian-2-sheets-of-stickers.jpg?v=1601089121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets of Stickers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1480963521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>8729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521061825</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-christmas-tea-stickers"/>
+    <title>Kimberly Shaw Christmas Tea Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Kimberly-Shaw-Christmas-Tea-Stickers_038a937c-d973-4009-891f-34e262c55f87.jpg?v=1628899909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521061825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christian-jewelry-scripture-bracelet-necklace.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-06-06T08:18:13-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312496517221</id>
+    <published>2020-06-06T08:18:13-05:00</published>
+    <updated>2020-06-06T08:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tri-tone-magnetic-serenity-prayer-bracelet"/>
+    <title>Tri Tone Magnetic Serenity Prayer Bracelet</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tri-tone-magnetic-serenity-prayer-bracelet.jpg?v=1601094178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>8" Long</li>
+<li>Magnetic Closure</li>
+<li>Silvertone</li>
+<li>Silvertone, Goldtone, and Coppertone Multi Strand Wire</li>
+<li>1.5"<span> </span>Bar with Engraved Text</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312496517221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1993046032473</id>
+    <published>2019-02-14T09:38:43-06:00</published>
+    <updated>2019-02-14T09:38:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-silverware-cross-with-necklace"/>
+    <title>Vintage Silverware Cross with Necklace</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>34Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-silverware-cross-with-necklace.jpg?v=1601094692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>34Roses<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This beautiful Cross pendant was made from vintage silverware recycled into a wearable piece of art. It hangs from a silver ring on a 30” ball chain necklaces.  Our Mothers, Grandmothers and Great-Grandmothers actually used these beautiful pieces of vintage silverware.  Now is your chance to own an affordable heirloom quality piece of jewelry.   Measures 2 3/4" long x 2 1/4" wide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1993046032473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312623427685</id>
+    <published>2018-07-12T13:16:03-05:00</published>
+    <updated>2018-07-12T13:16:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tri-tone-magnetic-philippians-4-13-bracelet"/>
+    <title>Tri Tone Magnetic Philippians 4:13 Bracelet</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tri-tone-magnetic-philippians-413-bracelet.jpg?v=1601094191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<form method="post" enctype="multipart/form-data" class="clearfix product_form init AVAST_PAM_nonloginform" id="product-form-1327830663237" data-money-format="${{amount}}" data-product-id="1327830663237" data-shop-currency="USD" data-select-id="product-select-1327830663237productproduct-template" data-enable-state="true" data-product="{&quot;id&quot;:1327830663237,&quot;title&quot;:&quot;Silvertone 'Philippians 4:13' Bar Tri-Tone Piano Wire Magnetic Bracelet&quot;,&quot;handle&quot;:&quot;silvertone-philippians-4-13-bar-tri-tone-piano-wire-magnetic-bracelet&quot;,&quot;description&quot;:&quot;\u003cspan\u003e\&quot;I can do everything through him who gives me strength. Philippians 4:13\&quot;\u003cbr\u003eThis captivating bracelet is the perfect accessory for any outfit!\u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e8\&quot; Long\u003c\/li\u003e\n\u003cli\u003eMagnetic Closure\u003c\/li\u003e\n\u003cli\u003eSilvertone\u003c\/li\u003e\n\u003cli\u003eSilvertone, Goldtone, and Coppertone Multi Strand Wire\u003c\/li\u003e\n\u003cli\u003e1.5\&quot;\u003cspan\u003e \u003c\/span\u003eBar with Engraved Text\u003c\/li\u003e\n\u003cli\u003eLead Compliant\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e&quot;,&quot;published_at&quot;:&quot;2018-07-03T10:56:01-05:00&quot;,&quot;created_at&quot;:&quot;2018-06-29T10:18:40-05:00&quot;,&quot;vendor&quot;:&quot;z-Oori Trading, Inc.&quot;,&quot;type&quot;:&quot;Jewelry&quot;,&quot;tags&quot;:[&quot;Bracelets&quot;,&quot;Christian Jewelry&quot;,&quot;NEW! Fashion Jewelry&quot;,&quot;Scripture Verses&quot;],&quot;price&quot;:590,&quot;price_min&quot;:590,&quot;price_max&quot;:590,&quot;available&quot;:true,&quot;price_varies&quot;:false,&quot;compare_at_price&quot;:null,&quot;compare_at_price_min&quot;:0,&quot;compare_at_price_max&quot;:0,&quot;compare_at_price_varies&quot;:false,&quot;variants&quot;:[{&quot;id&quot;:12216403132485,&quot;title&quot;:&quot;Default Title&quot;,&quot;option1&quot;:&quot;Default Title&quot;,&quot;option2&quot;:null,&quot;option3&quot;:null,&quot;sku&quot;:&quot;OB08039-3T&quot;,&quot;requires_shipping&quot;:true,&quot;taxable&quot;:true,&quot;featured_image&quot;:null,&quot;available&quot;:true,&quot;name&quot;:&quot;Silvertone 'Philippians 4:13' Bar Tri-Tone Piano Wire Magnetic Bracelet&quot;,&quot;public_title&quot;:null,&quot;options&quot;:[&quot;Default Title&quot;],&quot;price&quot;:590,&quot;weight&quot;:26,&quot;compare_at_price&quot;:null,&quot;inventory_quantity&quot;:21,&quot;inventory_management&quot;:&quot;shopify&quot;,&quot;inventory_policy&quot;:&quot;deny&quot;,&quot;barcode&quot;:null}],&quot;images&quot;:[&quot;\/\/cdn.shopify.com\/s\/files\/1\/1250\/2653\/products\/ob08039-3t.jpg?v=1530631401&quot;,&quot;\/\/cdn.shopify.com\/s\/files\/1\/1250\/2653\/products\/ob08039-3t-add.jpg?v=1530631398&quot;],&quot;featured_image&quot;:&quot;\/\/cdn.shopify.com\/s\/files\/1\/1250\/2653\/products\/ob08039-3t.jpg?v=1530631401&quot;,&quot;options&quot;:[&quot;Title&quot;],&quot;content&quot;:&quot;\u003cspan\u003e\&quot;I can do everything through him who gives me strength. Philippians 4:13\&quot;\u003cbr\u003eThis captivating bracelet is the perfect accessory for any outfit!\u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e8\&quot; Long\u003c\/li\u003e\n\u003cli\u003eMagnetic Closure\u003c\/li\u003e\n\u003cli\u003eSilvertone\u003c\/li\u003e\n\u003cli\u003eSilvertone, Goldtone, and Coppertone Multi Strand Wire\u003c\/li\u003e\n\u003cli\u003e1.5\&quot;\u003cspan\u003e \u003c\/span\u003eBar with Engraved Text\u003c\/li\u003e\n\u003cli\u003eLead Compliant\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e\n\u003cul\u003e\u003c\/ul\u003e&quot;}" data-rv-handle="silvertone-philippians-4-13-bar-tri-tone-piano-wire-magnetic-bracelet" action="https://www.wholesaleaccessorymarket.com/cart/add">
+<div class="purchase clearfix inline_purchase">"I can do everything through him who gives me strength. Philippians 4:13"</div>
+</form>
+<div class="description bottom" itemprop="description">
+<span>This captivating bracelet is the perfect accessory for any outfit!</span><br><br>
+<ul>
+<li>8" Long</li>
+<li>Magnetic Closure</li>
+<li>Silvertone</li>
+<li>Silvertone, Goldtone, and Coppertone Multi Strand Wire</li>
+<li>1.5"<span> </span>Bar with Engraved Text</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312623427685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-30N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312618020965</id>
+    <published>2018-07-12T13:16:03-05:00</published>
+    <updated>2018-07-12T13:16:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spoon-necklace-blessed-faith-hope-pray"/>
+    <title>Spoon Necklace Choose from:  Blessed * Faith * Hope * Pray</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spoon-necklace-choose-from-blessed-faith-hope-pray.jpg?v=1601094187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<ul>
+<li>30" Necklace with 3" Extender</li>
+<li>Lobster Claw Closure</li>
+<li>Burnished Silvertone</li>
+<li>3" Spoon Head and Intricately Designed Handle Pendant</li>
+<li>Faux Pearl</li>
+<li>Choose Blessed, Faith, Hope, Pray</li>
+</ul>
+<ul></ul>
+<ul></ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312618020965</id>
+      <title>Blessed - Only 1 Available</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-27N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312618020965</id>
+      <title>Faith - Only 3 Available</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-27N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312618020965</id>
+      <title>Hope - 10 Available</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-27N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312618020965</id>
+      <title>Pray - Only 3 Available</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>7122018-27N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312615891045</id>
+    <published>2018-07-12T13:16:03-05:00</published>
+    <updated>2018-07-12T13:16:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/john-3-16-stretch-spoon-bracelet"/>
+    <title>John 3:16 Stretch Spoon Bracelet</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/john-316-stretch-spoon-bracelet.jpg?v=1601094186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<p><span>This intricately designed "John 3:16" bracelet has an antiqued look that will accentuate any outfit.</span><br><br></p>
+<ul>
+<li>Antique Silvertone</li>
+<li>Inscribed "John 3:16"</li>
+<li>Spoon Style Design with Cross Accents</li>
+<li>2.25" Diameter</li>
+<li>Comfort Stretch Band</li>
+</ul>
+<ul></ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312615891045</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7122018-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312615268453</id>
+    <published>2018-07-12T13:16:03-05:00</published>
+    <updated>2018-07-12T13:16:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tone-faith-spoon-necklace"/>
+    <title>2 Tone Faith Spoon Necklace</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tone-faith-spoon-necklace.jpg?v=1601094184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<p>"Now faith is being sure of what we hope for and being certain of what we do not see. Hebrews 11:1"</p>
+<ul>
+<li>Burnished Silvertone</li>
+<li>Flower Design</li>
+<li>.5" Wide</li>
+<li>2.5" Diameter</li>
+<li>Comfort Stretch Band</li>
+<li>No Closure</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312615268453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7122018-25N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312613040229</id>
+    <published>2018-07-12T13:16:03-05:00</published>
+    <updated>2018-07-12T13:16:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/faith-hope-love-spoon-bracelet"/>
+    <title>Faith Hope Love Spoon Bracelet</title>
+    <s:type>Christian Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/faith-hope-love-spoon-bracelet.jpg?v=1601094182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Christian Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<span>"Faith, hope, love, the greatest of these is love."<br>Whimsical twisting charm with an inspirational message will easily pair with any of your favorite outfits.</span><br><br>
+<ul>
+<li>Worn Goldtone or Silvertone</li>
+<li>1.25"<span> Twisting</span><span> </span>Pendant with Inscribed Text</li>
+<li>No Closure - Pull-Tied Bead Adjustable Band</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312613040229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7122018-20N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

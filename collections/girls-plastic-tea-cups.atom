@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/girls-plastic-tea-cups.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-05T13:34:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1440723585</id>
+    <published>2015-07-05T13:34:00-05:00</published>
+    <updated>2015-07-05T13:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-white-premium-cups"/>
+    <title>10 White Premium Little Girls Tea Cups</title>
+    <s:type>Girls&apos; Porcelain Demi Tea Cup and Saucer Sets in Gift Box</s:type>
+    <s:vendor>Party Essentials</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-white-premium-little-girls-tea-cups.jpg?v=1601088882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Party Essentials<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Demi Tea Cup and Saucer Sets in Gift Box<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10 White Plastic 8 oz Cups</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1440723585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7695</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1440716097</id>
+    <published>2015-07-05T13:32:00-05:00</published>
+    <updated>2015-07-05T13:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/clear-premium-cups"/>
+    <title>Clear Premium Cups</title>
+    <s:type>Girls&apos; Porcelain Demi Tea Cup and Saucer Sets in Gift Box</s:type>
+    <s:vendor>New Party</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/clear-premium-cups.jpg?v=1601088880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Party<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Demi Tea Cup and Saucer Sets in Gift Box<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10 Clear Plastic 8 oz Cups</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1440716097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7694</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

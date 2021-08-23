@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/wedding-flower-rose-petals.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-15T10:50:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536221185</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-petals-for-weddings-approx-250"/>
+    <title>Pink Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-petals-for-weddings-approx-250.jpg?v=1601090644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536221185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536218113</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-petals-for-weddings-approx-250"/>
+    <title>White Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-petals-for-weddings-approx-250.jpg?v=1601090643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536218113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536214465</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-petals-for-weddings-approx-250"/>
+    <title>Red Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-petals-for-weddings-approx-250.jpg?v=1601090641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536214465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536211393</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-petals-for-weddings-approx-250"/>
+    <title>Purple Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-petals-for-weddings-approx-250.jpg?v=1601090640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536211393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536205953</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/orange-pink-petals-for-weddings-approx-250"/>
+    <title>Orange Pink Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/orange-pink-petals-for-weddings-approx-250.jpg?v=1601090639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange Pink Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536205953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536200001</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-petals-for-weddings-approx-250"/>
+    <title>Ivory Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-petals-for-weddings-approx-250.jpg?v=1601090634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ivory Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536200001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536196225</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fall-petals-for-weddings-approx-250"/>
+    <title>Fall Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-petals-for-weddings-approx-250.jpg?v=1601090633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fall Petals for Weddings (approx 250)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536196225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1536195073</id>
+    <published>2015-07-15T10:50:00-05:00</published>
+    <updated>2015-07-15T10:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-green-petals-for-weddings-approx-250"/>
+    <title>Blue Green Petals for Weddings (approx 250)</title>
+    <s:type>Wedding Flower Petals</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-green-petals-for-weddings-approx-250.jpg?v=1601090632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Wedding Flower Petals<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Fill the flower girl baskets or decorate the reception table with blue/green colored petals.  The package contains approximately 250 petals.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1536195073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

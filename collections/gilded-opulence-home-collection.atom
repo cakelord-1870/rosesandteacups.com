@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gilded-opulence-home-collection.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-07T07:58:24-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6606178254937</id>
+    <published>2021-07-07T07:58:24-05:00</published>
+    <updated>2021-07-07T07:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-ivory-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Ivory Cameo Blush Pink Lace Rose Adorned Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-ivory-cameo-blush-pink-lace-rose-adorned-square-pillow-one-of-a-kind.jpg?v=1626912743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Ivory Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6606178254937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0707211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4657028169817</id>
+    <published>2020-06-12T10:08:38-05:00</published>
+    <updated>2020-06-12T10:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gilded-cherub-opulence-lace-square-pillow"/>
+    <title>Gilded Cherub Opulence Lace Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gilded-cherub-opulence-lace-square-pillow-one-of-a-kind.jpg?v=1601095184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our 17 x 17 Square Gilded Cherub Opulence Lace Pillow are lined with an elegant jacquard in antique gold and soft ivory. They are trimmed to perfection with embroidered and hand beaded lace, custom dyed florals and a sweet gilded cherub.  USA MADE</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4657028169817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.99</s:price>
+      <s:sku>061220-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628736016473</id>
+    <published>2020-05-21T13:44:33-05:00</published>
+    <updated>2020-05-21T13:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow.jpg?v=1590152536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628736016473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628632502361</id>
+    <published>2020-05-21T12:19:18-05:00</published>
+    <updated>2020-05-21T12:19:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow-1"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628632502361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628603175001</id>
+    <published>2020-05-21T12:06:01-05:00</published>
+    <updated>2020-05-21T12:06:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures: 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628603175001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628593147993</id>
+    <published>2020-05-21T11:57:50-05:00</published>
+    <updated>2020-05-21T11:57:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628593147993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628566212697</id>
+    <published>2020-05-21T11:31:40-05:00</published>
+    <updated>2020-05-21T11:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628566212697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628523155545</id>
+    <published>2020-05-21T11:01:06-05:00</published>
+    <updated>2020-05-21T11:01:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628523155545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628460208217</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628460208217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628386283609</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-gold-ivory-cameo-lace-rose-adornedsquare-pillow"/>
+    <title>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-gold-ivory-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose AdornedSquare Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628386283609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/beaded-lace-hangers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-06-03T14:11:02-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2104734744665</id>
+    <published>2019-06-03T14:11:02-05:00</published>
+    <updated>2019-06-03T14:11:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-blue-rose-pattern-padded-clothes-hangers"/>
+    <title>Set of 3 Blue Rose Pattern Padded Clothes Hangers</title>
+    <s:type>Hangers</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-blue-rose-pattern-padded-clothes-hangers.jpg?v=1601094780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Hangers<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Set of 3 Blue Rose Pattern Padded Clothes Hangers are the perfect addition to your closet.  Don't hang your pretty blouses on ugly wire hangers ladies!  Don't do it! :) </p>
+<p><span>1 1/4 l x 16 w x 5" h</span><br><span>Fits 5" rod</span><br><span>Cotton</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2104734744665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>0603192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8925897857</id>
+    <published>2015-07-15T10:53:00-05:00</published>
+    <updated>2015-07-15T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-beaded-lace-hanger-1"/>
+    <title>Chocolate Beaded Lace Hanger #1</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-beaded-lace-hanger-1.jpg?v=1601093035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Our original design, exquisite Victorian Lace Hangers are l</span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">ovely for hanging your vintage dresses, wedding gowns, bridesmaids gowns, shawls or to layer accessories. A perfect substitute if you don't have room for a dress form! Great gift idea for that special bride.</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">One of a Kind!  USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8925897857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02282017-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8925878273</id>
+    <published>2015-07-15T10:53:00-05:00</published>
+    <updated>2015-07-15T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chocolate-beaded-lace-hanger-2"/>
+    <title>Chocolate Beaded Lace Hanger #2</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chocolate-beaded-lace-hanger-2.jpg?v=1601093034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Our original design, exquisite Victorian Lace Hangers are l</span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">ovely for hanging your vintage dresses, wedding gowns, bridesmaids gowns, shawls or to layer accessories. A perfect substitute if you don't have room for a dress form! Great gift idea for that special bride.</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">One of a Kind!  USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8925878273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02282017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

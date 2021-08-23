@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-spoons.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-09T10:38:05-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6699578523737</id>
+    <published>2021-08-09T10:38:05-05:00</published>
+    <updated>2021-08-09T10:38:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-jeweled-silver-plate-teapot-handle-spoons-set-of-4"/>
+    <title>Crystal Jeweled Silver Plate Teapot Handle Spoons Set of 4</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-jeweled-silver-plate-teapot-handle-spoons-set-of-4.jpg?v=1628600643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This set of 4 silver plate spoons has teapot handles in four styles and tiny colored inlaid crystals.  They make a lovely gift, or a splendid addition to your tea service.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6699578523737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0809211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118016893017</id>
+    <published>2019-06-21T13:32:04-05:00</published>
+    <updated>2019-06-21T13:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-silver-plated-rose-stamped-fork-only-4-available"/>
+    <title>Rare Royal Patrician Silver Plated Rose Stamped Fork - Only 4 Available!</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rare-royal-patrician-silver-plated-rose-stamped-fork-only-4-available.jpg?v=1601094816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rare Royal Patrician Silver Plated Rose Stamped Fork</p>
+<p>5 1/2" long </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118016893017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>062119-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101288763481</id>
+    <published>2019-05-29T11:08:38-05:00</published>
+    <updated>2019-05-29T11:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/coming-up-roses-teatime-teacup-tea-spoons-set-of-4"/>
+    <title>Coming Up Roses Teatime Teacup Tea Spoons Set of 4</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/coming-up-roses-teatime-teacup-tea-spoons-set-of-4.jpg?v=1601094767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Style your tea tray or table with an assortment of novelty spoons. Though each cup and saucers is graced with hand painted rosettes, scalloped rims, and embellished with dots, their unique designs leave room for no confusion whose spoon is whose at brunch.</span><br><br><span>You'll blend in many a pour of cream and sprinkle sugar to fashion the perfect cup.</span><br><br><span>As both functional and decorative in nature, our Coming Up Roses Teatime Spoons will delight tea lovers.</span><br><br><span>Set of 4. </span><br><span>6 l x 1 w x 1/2 dia. </span><br><span>Stainless steel and hand painted resin. </span><br><span>Food safe</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101288763481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0529191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10303068673</id>
+    <published>2017-10-13T14:40:37-05:00</published>
+    <updated>2017-10-13T14:40:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-jeweled-silver-plate-teapot-handle-spoons-from-england"/>
+    <title>Set of 4 Jeweled Silver Plate Teapot Handle Spoons from England</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Metro Tea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-jeweled-silver-plate-teapot-handle-spoons-from-england.jpg?v=1601093350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro Tea<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This set of 4 silver plate spoons has teapot handles in four styles and tiny colored inlaid crystals.  They make a lovely gift, or a splendid addition to your tea service.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10303068673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>10132017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3777414081</id>
+    <published>2015-12-30T14:48:00-06:00</published>
+    <updated>2015-12-30T14:48:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-gold-heart-demi-spoons"/>
+    <title>6 Gold Heart Demi Spoons</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-gold-heart-demi-spoons.jpeg?v=1601091756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heart Demi Spoons</p>
+<p>View more the rest of our spoon collection here: <a href="http://roses-and-teacups.com/collections/tea-spoons" title="Teaspoons Tea Spoons">http://roses-and-teacups.com/collections/tea-spoons</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3777414081</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>7527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094733889</id>
+    <published>2015-12-01T16:13:00-06:00</published>
+    <updated>2015-12-01T16:13:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/1-gold-plated-rose-tea-spoon"/>
+    <title>1 Gold Plated Rose Tea Spoon</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-gold-plated-rose-tea-spoon.jpeg?v=1615335091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Plated Rose Stamped Demi Tea Spoons. Beautiful Gold Plated Demi Tea Spoons will charm Ladies of any age and create a very special look for your tea table. 4 1/2 inches in length</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094733889</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>2618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094753153</id>
+    <published>2015-09-21T07:56:00-05:00</published>
+    <updated>2015-09-21T07:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-teapot-handle-stainles-spoon"/>
+    <title>6 Teapot Handle Stainless Spoon</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-teapot-handle-stainless-spoon.jpeg?v=1601091223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Teapot Handle Demi Spoon</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094753153</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/303874342952</id>
+    <published>2015-09-21T07:53:00-05:00</published>
+    <updated>2015-09-21T07:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-stainless-steel-angel-spoons"/>
+    <title>6 Stainless Steel Angel Spoons</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-stainless-steel-angel-spoons.jpg?v=1601093806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Angel Handle Demi Tea Spoons Set of 6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/303874342952</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>120117N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094749121</id>
+    <published>2015-09-21T07:53:00-05:00</published>
+    <updated>2015-09-21T07:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-stainless-steel-teacup-spoons"/>
+    <title>6 Stainless Steel Teacup Spoons</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-stainless-steel-teacup-spoons.jpeg?v=1601091222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Tea Cup and Saucer Handle Demi Tea Spoons Set of 6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094749121</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094734913</id>
+    <published>2015-09-21T07:45:00-05:00</published>
+    <updated>2015-09-21T07:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-gold-plated-rose-tea-spoons"/>
+    <title>Set of 6 Gold Plated Rose Tea Spoons</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-gold-plated-rose-tea-spoons.jpeg?v=1582071257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Plated Rose Stamped Demi Tea Spoons. Beautiful Gold Plated Demi Tea Spoons will charm Ladies of any age and create a very special look for your tea table. 4 1/2 inches in length</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094734913</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094647873</id>
+    <published>2015-09-21T07:23:00-05:00</published>
+    <updated>2015-09-21T07:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-gold-plated-teapot-demi-tea-spoon"/>
+    <title>Set of 6 Gold Plated Teapot Demi Tea Spoons</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-gold-plated-teapot-demi-tea-spoons.jpg?v=1601091221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Plated Teapot Demi Tea Spoons. Beautiful Gold Plated Demi Tea Spoons with Teapot Handles will charm Ladies of any age and create a very special look for your tea table.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094647873</id>
+      <title>Default</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>3965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2094638785</id>
+    <published>2015-09-21T07:21:00-05:00</published>
+    <updated>2015-09-21T07:21:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-plated-teapot-demi-tea-spo"/>
+    <title>1 Gold Plated Teapot Demi Tea Spoon</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-gold-plated-teapot-demi-tea-spoon.jpg?v=1582071255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold Plated Teapot Demi Tea Spoons. Beautiful Gold Plated Demi Tea Spoons with Teapot Handles will charm Ladies of any age and create a very special look for your tea table.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2094638785</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>3964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1939435393</id>
+    <published>2015-08-26T10:24:00-05:00</published>
+    <updated>2015-08-26T10:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/grape-demi-spoon-ss"/>
+    <title>Grape Stainless Steel Demi Spoon</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grape-stainless-steel-demi-spoon.jpg?v=1601091135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            3.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta content="IE=11.0000" http-equiv="X-UA-Compatible">Stainless Steel Grape Demi Spoon  
+<div id="a-page">
+<div class="a-container">
+<div class="centerColAlign" id="centerCol">
+<div class="feature" id="featurebullets_feature_div" data-feature-name="featurebullets">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Dimensions: 4-1/2"</span></li>
+<li><span class="a-list-item"> Stainless steel</span></li>
+<li><span class="a-list-item"> Classic demi-sized spoon.</span></li>
+<li><span class="a-list-item"> Perfect for espresso drinks, tea and small desserts.</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Ware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1939435393</id>
+      <title>Default</title>
+      <s:price currency="USD">3.14</s:price>
+      <s:sku>9518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520069633</id>
+    <published>2015-07-11T23:34:00-05:00</published>
+    <updated>2015-07-11T23:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-gold-angel-demi-tea-spoons"/>
+    <title>Set of 6 Gold Angel Demi Tea Spoons</title>
+    <s:type>Christmas Tea Necessities</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-gold-angel-demi-tea-spoons.jpg?v=1601090212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Christmas Tea Necessities<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>There's something different about our Christmas Tea Party Favors this year! Our Holly Tea Cup with Tea and Spoon uses a gold demi spoon with an Angel Handle!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520069633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>6537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1437149697</id>
+    <published>2015-07-04T11:29:00-05:00</published>
+    <updated>2015-07-04T11:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sugar-tong"/>
+    <title>Gold Rose Sugar Tong</title>
+    <s:type>Silver Teaware</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-rose-sugar-tong.jpg?v=1601088792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Silver Teaware<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sugar Tong with a classic rose design easily picks up and delivers sugar cubes for sweetening tea, coffee, cereal, fruit, desserts and more. It's spring action makes it easy to use. Simply squeeze the Sugar Tong to pick up the cube, release where needed and enjoy. Perfect for cubes made of all types of sugar, like granulated sugar, sugar in the raw, turbinado sugar, brown sugar, sugar substitutes, even homemade sugar cubes and decorated sugar cubes. A helpful addition to flatware and tea accessories, this stainless steel Sugar Tong is up to the task for everyday dining, holiday meals, parties, even outdoor entertaining. Tongs are made from gold-plated stainless steel and is dishwasher safe for easy cleanup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silver Teaware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1437149697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425628161</id>
+    <published>2015-07-02T23:46:00-05:00</published>
+    <updated>2015-07-02T23:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stainless-steel-rose-demi-spoon-1"/>
+    <title>Stainless Steel Rose Demi Spoon - 1 - Restocking Jan 2022</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Stainless-Steel-Rose-Demi-Spoon-1-Restocking-Jan-2022.jpg?v=1629245575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            3.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel Rose Demi Spoon - 1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425628161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.14</s:price>
+      <s:sku>3962</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425593601</id>
+    <published>2015-07-02T23:42:00-05:00</published>
+    <updated>2015-07-02T23:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stainless-steel-rose-demi-spoon-set-of-6"/>
+    <title>Stainless Steel Rose Demi Spoon - Set of 6 - Restocking Jan 2022</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Stainless-Steel-Rose-Demi-Spoon-Set-of-6-Restocking-Jan-2022.jpg?v=1629245569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            18.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel Rose Demi Spoon - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425593601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.79</s:price>
+      <s:sku>3963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425570817</id>
+    <published>2015-07-02T23:40:00-05:00</published>
+    <updated>2015-07-02T23:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-plated-teacup-spoons-set-of-6"/>
+    <title>Gold Plated Teacup Spoons - Set of 6</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-plated-teacup-spoons-set-of-6.jpeg?v=1601088648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Plated Teacup Spoons - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425570817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>6089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425541185</id>
+    <published>2015-07-02T23:37:00-05:00</published>
+    <updated>2015-07-02T23:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-plated-teapot-demi-tea-spoons-set-of-6"/>
+    <title>Silver Plated Teapot Demi Tea Spoons - Set of 6</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-plated-teapot-demi-tea-spoons-set-of-6.jpg?v=1601088647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Plated Teapot Demi Tea Spoons - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425541185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>3967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425522817</id>
+    <published>2015-07-02T23:36:00-05:00</published>
+    <updated>2015-07-02T23:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-plated-teapot-demi-teaspoon-1"/>
+    <title>Silver Plated Teapot Demi Teaspoon - 1</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-plated-teapot-demi-teaspoon-1.jpg?v=1601088646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Plated Teapot Demi Teaspoon - 1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425522817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>6331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425202625</id>
+    <published>2015-07-02T23:11:00-05:00</published>
+    <updated>2015-07-02T23:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-plated-teacup-spoons-set-of-6"/>
+    <title>Silver Plated Teacup Spoons - Set of 6</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-plated-teacup-spoons-set-of-6.jpg?v=1601088645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Plated Teacup Spoons - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425202625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425185985</id>
+    <published>2015-07-02T23:10:00-05:00</published>
+    <updated>2015-07-02T23:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-plated-teacup-spoon-1"/>
+    <title>Silver Plated Teacup Spoon - 1</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-plated-teacup-spoon-1.jpg?v=1601088644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver Plated Teacup Spoon - 1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425185985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>8434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425158145</id>
+    <published>2015-07-02T23:07:00-05:00</published>
+    <updated>2015-07-02T23:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stainless-steel-classic-spoon-set-of-6"/>
+    <title>Stainless Steel Classic Spoon - Set of 6</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stainless-steel-classic-spoon-set-of-6.jpg?v=1601088643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel Classic Spoon - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425158145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>9178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425140737</id>
+    <published>2015-07-02T23:05:00-05:00</published>
+    <updated>2015-07-02T23:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stainless-steel-classic-spoon-1"/>
+    <title>Stainless Steel Classic Spoon - 1</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stainless-steel-classic-spoon-1.jpg?v=1601088642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            3.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel Classic Spoon - 1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425140737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.14</s:price>
+      <s:sku>9177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1425124993</id>
+    <published>2015-07-02T23:04:00-05:00</published>
+    <updated>2015-07-02T23:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-plated-classic-spoon-set-of-6"/>
+    <title>Gold Plated Classic Spoon - Set of 6</title>
+    <s:type>Tea Spoons</s:type>
+    <s:vendor>Harold Import</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-plated-classic-spoon-set-of-6.jpeg?v=1601088641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harold Import<br>
+        <strong>Type: </strong>Tea Spoons<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gold Plated Classic Spoon - Set of 6</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1425124993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>9180</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

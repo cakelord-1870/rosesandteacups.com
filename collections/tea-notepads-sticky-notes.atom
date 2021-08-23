@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-notepads-sticky-notes.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-17T11:36:39-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477327671385</id>
+    <published>2020-02-17T11:36:39-06:00</published>
+    <updated>2020-02-17T11:36:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-set-purse-note-pad-stationery"/>
+    <title>Embossed Tea Set Purse Note Pad Stationery by Carol Wilson</title>
+    <s:type>Purse Pads</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/embossed-tea-set-purse-note-pad-stationery-by-carol-wilson.jpg?v=1582071477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Purse Pads<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson notepads perfect for your purse or tea party favors and gifts!  These embossed 3 x 4 magnetic closure purse pads contain 90 beautiful pages for all of your day to day notes and reminders.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477327671385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>22475N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164835024985</id>
+    <published>2019-08-26T16:47:13-05:00</published>
+    <updated>2019-08-26T16:47:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/seashell-starfish-shapped-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Seashell Starfish Shapped Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/seashell-starfish-shapped-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Seashell Starfish Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!! Featuring a beautiful Blue Jay and Hummingbird this packed full party bundle you are getting a Starfish shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic birdhouse shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164835024985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164822933593</id>
+    <published>2019-08-26T16:39:36-05:00</published>
+    <updated>2019-08-26T16:39:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/birdhouse-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Birdhouse Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/birdhouse-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Birdhouse Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!! Featuring a beautiful Blue Jay and Hummingbird this packed full party bundle you are getting a Teacup shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic birdhouse shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164822933593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2164819296345</id>
+    <published>2019-08-26T16:27:58-05:00</published>
+    <updated>2019-08-26T16:27:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen"/>
+    <title>Tea and Rose Garden Note Pad with Gift Caddy and Trinket Tray Plus Designer Pen</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-and-rose-garden-note-pad-with-gift-caddy-and-trinket-tray-plus-designer-pen.jpg?v=1601094950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Tea and Rose Garden Note Pad with Gift Caddy and Trinket Tray Plus Pen makes one heck of a gift slash favor item!!  In this packed full party bundle you are getting a Teacup shaped notepad fill with lovely roses perfect for lists, notes, and more!  Also included is a ceramic teapot shaped tray that can be used at parties for a tea bag rest or as a party favor as a trinket tray plus you getting a designer pen all wrapped up with a bow for the perfect gift giving item. </p>
+<p><span>Set size: 7.5" x 5.75" x 1". Pad size: 4.5" x 4.25", 75 sheets. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2164819296345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0826191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994905976921</id>
+    <published>2019-02-15T18:25:18-06:00</published>
+    <updated>2019-02-15T18:25:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-and-teacup-sticky-note-pad-pen-set"/>
+    <title>Sweet Violets and Teacup Sticky Note Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Sweet_Violets_and_Teacup_Sticky_Note_Pad_Pen_Set.gif?v=1561401094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet Violets and Teacup Sticky Note Pad Pen Set includes 90 sheets of stickies enclosed in a lovely folded case with designer pen. </p>
+<p>Measures: <span>6.25" x 4" x 0.75"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994905976921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8859368833</id>
+    <published>2017-02-15T13:31:00-06:00</published>
+    <updated>2017-02-15T13:31:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilacs-note-block"/>
+    <title>Lilacs Note Block</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilacs-note-block.jpg?v=1582071343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lilacs Sticky Notes Pad size: 3.5" x 4". 75 printed self adhesive sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8859368833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>03022017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363884033</id>
+    <published>2015-06-26T11:43:00-05:00</published>
+    <updated>2015-06-26T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-rose-garden-sticky-notes-pad"/>
+    <title>Tea and Rose Garden Sticky Notes Pad</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Tea-and-Rose-Garden-Sticky-Notes-Pad_e7bd002d-f430-48c7-bb5c-fd9e8539e7ad.jpg?v=1629418283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pad size: 3.5" x 4". 75 printed self adhesive sheets.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363884033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1610</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344483754085</id>
+    <published>2015-06-24T12:53:00-05:00</published>
+    <updated>2015-06-24T12:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violetse-large-die-cut-notepad-with-pen"/>
+    <title>Sweet Violets in Teacup Large Die Cut Notepad with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/diecut-notepad-teacup-sv-2.gif?v=1561401099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful violets sit inside a blue and white teacup with saucer die cut notepad. Includes Designer Pen attached with satin ribbon and gift tag making it perfect for gifting or party favor.</p>
+<p>Measures 4.5" x 6.75" and contains 75 printed sheets<br><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344483754085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>09112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1339102529</id>
+    <published>2015-06-24T12:53:00-05:00</published>
+    <updated>2015-06-24T12:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-rose-cottage-die-cut-notepad-with-pen"/>
+    <title>Tea Rose Cottage Large Die Cut Notepad with Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-rose-cottage-large-die-cut-notepad-with-pen.jpg?v=1601088470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Die Cut Notepad measures 4.5" x 6.75" and contains 75 printed sheets<br>Includes Designer Pen</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1339102529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>8607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1344484933733</id>
+    <published>2015-06-24T12:50:00-05:00</published>
+    <updated>2015-06-24T12:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-violets-magnetic-shopping-list-notepad-and-pen"/>
+    <title>Sweet Violets Magnetic Shopping List Notepad and Pen</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/diecut-list-pad-sv-2.gif?v=1561401097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Die Cut List Pad measures 8.75" x 3.75" and contains 75 sheets</p>
+<p>Magnetic strip on back of pad</p>
+<p>Includes Designer Pen</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1344484933733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>09112018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

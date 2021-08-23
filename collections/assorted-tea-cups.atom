@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/assorted-tea-cups.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-13T15:42:51-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1249040641</id>
+    <published>2021-06-13T15:42:51-05:00</published>
+    <updated>2021-06-13T15:42:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-peacock-blue-bird-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers"/>
+    <title>2 Peacock Blue Bird Porcelain Tea Cups and Saucers (2 Teacups and 2 Saucers) - Only 1 Set Left!</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-peacock-blue-bird-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers-only-1-set-left.jpg?v=1623629524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 oz Cup and Saucer Set, Fine Porcelain. 24K Gold Trimmed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1249040641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>7459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562077769817</id>
+    <published>2021-04-16T14:23:12-05:00</published>
+    <updated>2021-04-16T14:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rare-royal-patrician-summertime-rose-bone-china-made-in-england-mother-teacup-and-saucer-only-3-sets-available"/>
+    <title>Mother Teacup and Saucer Rare Royal Patrician Summertime Rose Bone China Made in England  - Only 3 Sets Available!</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mother-teacup-and-saucer-rare-royal-patrician-summertime-rose-bone-china-made-in-england-only-3-sets-available.jpg?v=1618664677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">MOTHER - Imported from England tea cup and saucer</span></li>
+<li><span class="a-list-item">Imported English fine bone china</span></li>
+<li><span class="a-list-item">Summertime Rose Design - pink and red roses</span></li>
+<li><span class="a-list-item">Trimmed in 18 carat, not suitable for microwave</span></li>
+<li><span class="a-list-item">Condition: New</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562077769817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>041621-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556344320089</id>
+    <published>2021-04-06T15:01:25-05:00</published>
+    <updated>2021-04-06T15:01:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/the-most-beautiful-yellow-roses-porcelain-teacup-and-saucer"/>
+    <title>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/The-Most-Beautiful-Yellow-Roses-Fine-Bone-China-Teacup-and-Saucer_82c9b3f4-181e-4cec-aef0-7945de96a78f.jpg?v=1629331974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Most Beautiful Yellow Roses Fine Bone China Teacup and Saucer (Tea Cup) is truly a work of art both inside and outside this amazing set!  A beautiful bouquet of soft pink, blush and yellow roses pattern with delightful butterflies a flutter that is surely to please oneself or to give as an amazing gift to be treasured. </span></p>
+<p><span>Holds approximately 8oz. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556344320089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0406216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6554828210265</id>
+    <published>2021-04-02T13:32:14-05:00</published>
+    <updated>2021-04-02T13:32:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lemon-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers"/>
+    <title>Lovely Lemon Porcelain Tea Cups and Saucers (2 Teacups and 2 Saucers)</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lemon-porcelain-tea-cups-and-saucers-2-teacups-and-2-saucers.jpg?v=1617455114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 Lovely Lemon fine porcelain tea cup and saucer trimmed in beautiful 14K gold. Teacups are full size holding approximately 8 ounces.  The lemon pattern is the hot trend of the year!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6554828210265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>040221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482630910041</id>
+    <published>2020-02-21T17:34:15-06:00</published>
+    <updated>2020-02-21T17:34:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/elegant-white-embossed-footed-porcelain-teacup-and-saucer-very-limited"/>
+    <title>Elegant White Embossed Footed Porcelain Teacup and Saucer - Very Limited!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegant-white-embossed-footed-porcelain-teacup-and-saucer-very-limited.jpg?v=1582376696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elegant White Embossed Footed Teacup and Saucer  
+Dishwasher and Microwave Safe Holds 4 ounces and the sSaucer is 6 inches wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482630910041</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>2069</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287574638681</id>
+    <published>2019-10-18T13:25:03-05:00</published>
+    <updated>2019-10-18T13:25:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-tea-cups-teacups-and-saucers-set-of-4"/>
+    <title>Snowman Chintz Tea Cups (Teacups) and Saucers Set of 4</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-tea-cups-teacups-and-saucers-set-of-4.jpg?v=1601095029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>6 ounce Scallop Edge Tea Cup Saucer. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p><strong><a href="https://rosesandteacups.com/products/snowman-teapot" title="Snowman Porcelain Teapot">Matching Teapot Available!</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287574638681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>10282017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4287504318553</id>
+    <published>2019-10-18T12:14:56-05:00</published>
+    <updated>2019-10-18T12:14:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-chintz-porcelain-tea-cups-teacups-and-saucers-set-of-2"/>
+    <title>Snowman Chintz Porcelain Tea Cups (Teacups) and Saucers Set of 2</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-chintz-porcelain-tea-cups-teacups-and-saucers-set-of-2.jpg?v=1601095026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>6 ounce Scallop Edge Teacup and Saucer. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p><strong><a href="https://rosesandteacups.com/products/snowman-teapot" title="Snowman Porcelain Teapot">Matching Teapot Available!</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4287504318553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11022017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122689085529</id>
+    <published>2019-06-28T16:27:52-05:00</published>
+    <updated>2019-06-28T16:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-2-available"/>
+    <title>White Roses and Lilacs Chintz Porcelain Teacup and Saucer - Only 4 Available</title>
+    <s:type>Porcelain Teacups</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-4-available.jpg?v=1601094856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Porcelain Teacups<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful white roses and lovely purple lilac chintz pattern wrap both cup and saucer. This is a full size teacup holding approximately 6 ounces. Trimmed in 14k gold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122689085529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0627194J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2121996206169</id>
+    <published>2019-06-27T20:05:22-05:00</published>
+    <updated>2019-06-27T20:05:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-2-available"/>
+    <title>Yellow Roses and Lilacs Chintz Porcelain Teacup and Saucer - Only 1 Available</title>
+    <s:type>Porcelain Teacups</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-roses-and-lilacs-chintz-porcelain-teacup-and-saucer-only-1-available.jpg?v=1601094843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Porcelain Teacups<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful yellow roses and lovely purple lilac chintz pattern wrap both cup and saucer. This is a full size teacup holding approximately 6 ounces. Trimmed in 14k gold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2121996206169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0627194J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111011815513</id>
+    <published>2019-06-11T13:04:42-05:00</published>
+    <updated>2019-06-11T13:04:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available"/>
+    <title>Love Flourish Scrolling Heart Teacup and Saucer - Only 1 Available!</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available_d7e9093e-0ad7-4186-a345-291e307f7fe5.jpg?v=1601094805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Flourish Hand-painted Ceramic Teacup and Saucer</p>
+<p>Hand-wash only</p>
+<p>FDA approved.</p>
+<p>2 1/2"H X 3 1/4" Opening.</p>
+<p>Holds 7 oz. Saucer: 5 3/4"Diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111011815513</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101327331417</id>
+    <published>2019-05-29T11:54:44-05:00</published>
+    <updated>2019-05-29T11:54:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-garland-bone-china-teapot"/>
+    <title>French Garland Bone China Teapot - Only 1 Left!</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-garland-bone-china-teapot-only-1-left.jpg?v=1621987954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pour yourself and a friend a steaming beverage from our darling teapot. Think of the herbal drink tantalizing your palate with each sip.</span><br><br><span>Rendered to bone china, a floral decal graces the serving piece. Delicate flourishes add a charming touch not to be missed by you or your guests.</span><br><br><span>Picture this teapot for your next tea party. Whether you be hosting a gathering or selecting the perfect gift for your tea-loving friend, our Prim Pastel Teapot will serve you well.</span><br><br><span>Holds 38 fl. oz. </span><br><span>Dishwasher safe. Not microwave safe. Food safe. </span><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101327331417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>0529193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349258969189</id>
+    <published>2018-09-19T11:59:44-05:00</published>
+    <updated>2018-09-19T11:59:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-bone-china-tea-cup-teacup-and-saucer"/>
+    <title>Pansy Bone China Tea Cup (Teacup) and Saucer</title>
+    <s:type>Bone China Tea Cups and Saucers</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-bone-china-tea-cup-teacup-and-saucer.jpg?v=1601094328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Tea Cups and Saucers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pansy Bone China Teacup (Tea Cup) holds approximately 8oz. Swirl design and is trimmed in 14K gold. Has matching teapot. Dishwasher not recommended due to gold trim</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349258969189</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>091918-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1325570195557</id>
+    <published>2018-08-08T14:43:05-05:00</published>
+    <updated>2018-08-08T14:43:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-bone-china-embossed-teacups-saucers"/>
+    <title>Set of 6 White Bone China Bulk Embossed Teacups &amp; Saucers</title>
+    <s:type>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)</s:type>
+    <s:vendor>Springhill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-white-bone-china-bulk-embossed-teacups-saucers.jpg?v=1601094266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Springhill<br>
+        <strong>Type: </strong>Bulk Discount Inexpensive Wholesale Tea Cups (Teacups)<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our White Bone China Embossed Teacups &amp; Saucers are perfect for all events such as tea parties, wedding and bridal events, birthday parties and more!  Includes 6 teacups with 6 matching saucers.  Each teacup holds approximately 6 ounces.  24K gold trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1325570195557</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/445842227240</id>
+    <published>2018-02-20T13:27:50-06:00</published>
+    <updated>2018-02-20T13:27:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/emma-porcelain-tea-cup-and-saucer-olympia-rose-set-of-2"/>
+    <title>Emma Porcelain Tea Cup and Saucer - Olympia Rose  Set of 2</title>
+    <s:type>porcelain tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/emma-porcelain-tea-cup-and-saucer-olympia-rose-set-of-2.jpg?v=1601093897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>porcelain tea cups<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A lovely Rose pattern and gold trim on this set of 2 softly curved porcelain tea cups and saucers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/445842227240</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>022018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/445842063400</id>
+    <published>2018-02-20T13:27:50-06:00</published>
+    <updated>2018-02-20T13:27:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/emma-porcelain-tea-cup-and-saucer-iris-set-of-2"/>
+    <title>Emma Porcelain Tea Cup and Saucer - Iris  Set of 2</title>
+    <s:type>porcelain tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/emma-porcelain-tea-cup-and-saucer-iris-set-of-2.jpg?v=1601093896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>porcelain tea cups<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A lovely iris pattern and gold trim on this set of 2 softly curved porcelain tea cups and saucers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/445842063400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>022018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/18457821185</id>
+    <published>2017-10-28T15:00:19-05:00</published>
+    <updated>2017-10-28T15:00:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-ramble-rose-porcelain-tea-cup-and-saucer"/>
+    <title>Victorian Ramble Rose Porcelain Tea Cup and Saucer - Only 2 Available!</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-ramble-rose-porcelain-tea-cup-and-saucer-only-2-available.jpg?v=1624061537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>1- 6oz scalloped edge teacup with saucer.  Made of Porcelain.  Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/18457821185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>10282017-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/16406839297</id>
+    <published>2017-10-20T17:53:02-05:00</published>
+    <updated>2017-10-20T17:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-rose-green-porcelain-tea-cups-and-saucers-set-of-4"/>
+    <title>Shabby Rose Green Porcelain Tea Cups and Saucers Set of 4</title>
+    <s:type>Porcelain Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-rose-green-porcelain-tea-cups-and-saucers-set-of-4.jpg?v=1601093626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Tea Cups<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 Cup Scallop Edge Teapot. Made of Porcelain. Gold Trimmed. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/16406839297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-33N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/16403300353</id>
+    <published>2017-10-20T17:53:02-05:00</published>
+    <updated>2017-10-20T17:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-rose-turquoise-porcelain-tea-cups-and-saucers"/>
+    <title>Shabby Rose Turquoise Porcelain Tea Cups and Saucers</title>
+    <s:type>porcelain tea cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-rose-turquoise-porcelain-tea-cups-and-saucers.jpg?v=1601093625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>porcelain tea cups<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 Cup Scallop Edge Teapot. Made of Porcelain. Gold Trimmed. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/16403300353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-30N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/20307574785</id>
+    <published>2015-11-16T15:40:00-06:00</published>
+    <updated>2015-11-16T15:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-heart-swag-tea-cups-and-saucers-set-of-4"/>
+    <title>Rose Heart Swag Tea Cups and Saucers  Set of 4</title>
+    <s:type>Porcelain Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-heart-swag-tea-cups-and-saucers-set-of-4.jpg?v=1601093692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Tea Cups<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7 ounce Tea Cup. Gold Trimmed. Fine Porcelain  Set of 4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/20307574785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>10292017-27N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/20278181889</id>
+    <published>2015-11-16T15:40:00-06:00</published>
+    <updated>2015-11-16T15:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-daisy-tea-cups-set-of-4"/>
+    <title>Pink Daisy Tea Cups Set of 4</title>
+    <s:type>Porcelain Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-daisy-tea-cups-set-of-4.jpg?v=1601093687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Tea Cups<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>6 ounce Footed Embossed Tea Cup Saucer. Gold Trimmed. Fine Porcelain  Set of 4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/20278181889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>10292017-24N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541424321</id>
+    <published>2015-07-15T22:31:00-05:00</published>
+    <updated>2015-07-15T22:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-albert-10-piece-collectible-anniversary-set-1900-1940"/>
+    <title>Royal Albert 10-Piece Collectible Anniversary Set 1900-1940- ONLY 1 LEFT!</title>
+    <s:type>Royal Albert</s:type>
+    <s:vendor>Royal Doulton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-albert-10-piece-collectible-anniversary-set-1900-1940-only-1-left.jpg?v=1582071198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Doulton<br>
+        <strong>Type: </strong>Royal Albert<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541424321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>2274</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541423361</id>
+    <published>2015-07-15T22:31:00-05:00</published>
+    <updated>2015-07-15T22:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/royal-albert-10-piece-collectible-anniversary-set-1940-1990"/>
+    <title>Royal Albert 10-Piece  Collectible Anniversary Set 1940-1990-ONLY 3 LEFT!</title>
+    <s:type>Royal Albert</s:type>
+    <s:vendor>Royal Doulton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/royal-albert-10-piece-collectible-anniversary-set-1940-1990-only-3-left.jpg?v=1601090754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Doulton<br>
+        <strong>Type: </strong>Royal Albert<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541423361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>3561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1256646977</id>
+    <published>2015-06-20T14:14:00-05:00</published>
+    <updated>2015-06-20T14:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/saddlebrooke-porcelain-teacup-and-saucer"/>
+    <title>Saddlebrooke Porcelain Teacup and Saucer</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/saddlebrooke-porcelain-teacup-and-saucer.jpg?v=1601088322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Saddlebrooke Teacup and Saucer Holds 5oz Handwash only/FDA approved 3 1/2"H X 6"D Hand painted gold accents on the handle ~ Arrives in a blue satin lined gift box! ~  includes 1 teacup and 1 saucer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1256646977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>4469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1256599361</id>
+    <published>2015-06-20T14:07:00-05:00</published>
+    <updated>2015-06-20T14:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-meadow-porcelain-teacup-saucer"/>
+    <title>Morning Meadow Porcelain Teacup &amp; Saucer - Restocking August</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-meadow-porcelain-teacup-saucer-restocking-august.jpg?v=1617235925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 2 porcelain teacups and saucer sets Each cup holds 5 oz FDA approved/Hand washing recommended Pattern may differ from picture as each set is unique</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1256599361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>5889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1248890433</id>
+    <published>2015-06-19T16:52:00-05:00</published>
+    <updated>2015-06-19T16:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-dahlia-porcelain-tea-cups-and-saucers-2-teacups-2-saucers"/>
+    <title>2 Dahlia Porcelain Tea Cups and Saucers (2 Teacups &amp; 2 Saucers)</title>
+    <s:type>Assorted Tea Cups</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-dahlia-porcelain-tea-cups-and-saucers-2-teacups-2-saucers.jpg?v=1601088310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Assorted Tea Cups<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 oz Tea Cup and Saucer Set in a beautiful Dahlia pattern and other lovely florals. Ribbon Gift Pack. Fine Porcelain. 24K Gold Trimmed</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1248890433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>7457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

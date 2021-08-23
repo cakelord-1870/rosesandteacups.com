@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/holiday-sale-items-discounted-christmas-and-holiday-items.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T13:22:49-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6598000181337</id>
+    <published>2021-06-22T13:22:49-05:00</published>
+    <updated>2021-06-22T13:22:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchanted-garden-address-book"/>
+    <title>Enchanted Garden Address Book</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchanted-garden-address-book.jpg?v=1624453462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Roses, Butterflies and Pretty Floral pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6598000181337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268749697</id>
+    <published>2021-06-22T13:15:16-05:00</published>
+    <updated>2021-06-22T13:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-address-book"/>
+    <title>Vintage Garden Address Book - Just 1 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-address-book-just-1-available.jpg?v=1624407151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268749697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268131201</id>
+    <published>2021-06-22T13:10:02-05:00</published>
+    <updated>2021-06-22T13:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-note-cards"/>
+    <title>Vintage Garden Note Cards - Only 1 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-note-cards-only-1-left.jpg?v=1624407142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace</p>
+<p>8 Note Cards with Pink Foil and 2 Layer Embossing</p>
+<p>Pink Envelopes</p>
+<p>Approx 4x5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268131201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268278657</id>
+    <published>2021-06-22T13:08:15-05:00</published>
+    <updated>2021-06-22T13:08:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-memo-pad-with-pen"/>
+    <title>Vintage Garden Memo Pad with Pen - Just 2 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-memo-pad-with-pen-just-2-available.jpg?v=1624407146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll fine gorgeous Pink Florals, Butterflies and Lace and even Pink Foil on this Memo Pad and Pen Set.</p>
+<p>65 Sheets <span>Approx 5.3x5.5 inches</span></p>
+<p>Coordinating Pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268278657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376569249881</id>
+    <published>2019-12-05T17:18:06-06:00</published>
+    <updated>2019-12-05T17:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-christmas-envelope-scented-sachet-angel-limited"/>
+    <title>Set of 3 Christmas Envelope Scented Sachet - Angel - Limited Sets!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-christmas-envelope-scented-sachet-angel-limited-sets.jpg?v=1601095143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Christmas Angel Individually Wrapped Large Christmas Cinnamon Stick Scent Envelope Sachets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376569249881</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371563053145</id>
+    <published>2019-12-02T11:11:59-06:00</published>
+    <updated>2019-12-02T11:11:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-cards-8-cards-with-9-envelopes-2"/>
+    <title>Original Carol Wilson Boxed Green Poinsettia 5 x 7 Christmas Holiday Cards 8 Cards with 9 Envelopes</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/original-carol-wilson-boxed-green-poinsettia-5-x-7-christmas-holiday-cards-8-cards-with-9-envelopes.jpg?v=1601095109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Original Carol Wilson Cards - RARE!  8 Cards with 9 Envelopes Inside: "May Joy Surround You Throughout the New Year"</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371563053145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4363884396633</id>
+    <published>2019-11-26T17:52:20-06:00</published>
+    <updated>2019-11-26T17:52:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chevron-stacked-teacup-vase"/>
+    <title>Chevron Stacked Teacup Vase</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chevron-stacked-teacup-vase.jpg?v=1582071446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous Chevron Stacked Teacup Ceramic Vase Stands 8 inches in a beautiful red and white polka a dot, stripe and chevron pattern.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4363884396633</id>
+      <title>Default</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2110519083097</id>
+    <published>2019-06-10T14:47:40-05:00</published>
+    <updated>2019-06-10T14:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-nativity-envelope-sachets-limited-supply"/>
+    <title>Set of 3 Nativity Envelope Sachets - Limited Supply!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-nativity-envelope-sachets-limited-supply.jpg?v=1601094795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Nativity Individually Wrapped Large Christmas Cinnamon Stick Scent Envelope Sachets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2110519083097</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1457</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904413605977</id>
+    <published>2018-12-06T15:39:22-06:00</published>
+    <updated>2018-12-06T15:39:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/may-you-have-a-merry-christmas-sachet-ornament-one-of-a-kind"/>
+    <title>May You Have a Merry Christmas Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/may-you-have-a-merry-christmas-sachet-ornament-one-of-a-kind.jpg?v=1601094561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">May You Have a Merry Christmas Sachet Ornament has long lovely sequin fringe. It's double trimmed in metallic silver and sequins. Measures: 4x8</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904413605977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>120519-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904403906649</id>
+    <published>2018-12-06T15:29:40-06:00</published>
+    <updated>2018-12-06T15:29:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/to-wish-you-a-merry-christmas-one-of-a-kind"/>
+    <title>To Wish You a Merry Christmas Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/to-wish-you-a-merry-christmas-sachet-ornament-one-of-a-kind.jpg?v=1601094560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>To Wish You a Merry Christmas has lovely long sequin fringe and glittering silver border. Accented with crystals and satin. Message says: To wish you a Merry Christmas.</p>
+<p>Measures: 4x9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904403906649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>120518-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904399614041</id>
+    <published>2018-12-06T15:20:54-06:00</published>
+    <updated>2018-12-06T15:20:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wishing-you-christmas-cheer-sachet-ornament-one-of-a-kind"/>
+    <title>Wishing You Christmas Cheer Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wishing-you-christmas-cheer-sachet-ornament-one-of-a-kind.jpg?v=1601094559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This lovely greetings sachet ornament has long sequin fringe and faux pearl border. Greeting says: Wishing you Christmas Cheer. Holly and Mistletoe young voices bright; Make merry your Christmas add to the delight .</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904399614041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>120518-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1904394043481</id>
+    <published>2018-12-06T15:15:15-06:00</published>
+    <updated>2018-12-06T15:15:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-madiens-sachet-ornament-one-of-a-kind"/>
+    <title>Holiday Madiens Sachet Ornament - One of a Kind!</title>
+    <s:type>Victorian Christmas Ornaments Hand Beaded USA Made</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-madiens-sachet-ornament-one-of-a-kind.jpg?v=1582071400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments Hand Beaded USA Made<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Holiday Madiens Sachet Ornament has vintage style lace and hand beaded crystal trim. Measures: 4 1/2x6</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1904394043481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>120518&amp;2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/294469042216</id>
+    <published>2017-11-22T10:28:06-06:00</published>
+    <updated>2017-11-22T10:28:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-paper-block"/>
+    <title>Holiday Tea Time Paper Block - Very Limited Supply</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-time-paper-block-very-limited-supply.jpg?v=1582071370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">#24040 Holiday Tea Time Paper Block with Designer Pen Block size: 3" x 3" x 3" 580 sheets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHR</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/294469042216</id>
+      <title>Default</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>5082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/294461767720</id>
+    <published>2017-11-22T10:25:27-06:00</published>
+    <updated>2017-11-22T10:25:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-paper-block-with-pen"/>
+    <title>Poinsettia Paper Block with Pen - Only 4 Left</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-paper-block-with-pen-only-4-left.jpg?v=1601093771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3x3x3 Poinsettia Paper Block with 580 Sheets &amp; Designer Pen</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/294461767720</id>
+      <title>Default</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>1153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8379216321</id>
+    <published>2016-11-02T16:33:00-05:00</published>
+    <updated>2016-11-02T16:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lets-sing-christmas-holiday-hankie-card"/>
+    <title>Lets Sing Christmas Holiday Hankie Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lets-sing-christmas-holiday-hankie-card.jpg?v=1601092783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Let's Sing Christmas Holiday Hankie Card features a beautiful Victorian lady wearing a lovely hanky dress sitting at the piano with a child singing. . May the season be rich with the warmth of good friends with the closeness of family whose love never ends.......This beautiful card is 5" x 8" and arrives in a clear sleeve, an envelope is also included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8379216321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>110216-1J</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8313576001</id>
+    <published>2016-10-24T12:14:00-05:00</published>
+    <updated>2016-10-24T12:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-angel-hankie-gift-card"/>
+    <title>Christmas Angel Hankie Gift Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Christmas-Angel-Hankie-Gift-Card_ff08606d-48a9-4553-9cf9-163eb0e851e5.jpg?v=1629159144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our lovely Christmas Angel Hankie Gift Card is the perfect holiday card and gift.  Your friend or loved one will receive not only a beautiful card for the holiday season but also a keepsake gift.  This lovely angel stands before a candle lit tree in her sweet pink poinsettia hanky dress.  The is card is blank inside and includes white envelope.  Presented in clear cello adorned with tulle bow. Hankie can be removed for use.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8313576001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102416J3</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5685059969</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-set-of-4-cat-on-pumpkin-spiced-mug-and-tea-cup-mat"/>
+    <title>Gift Boxed Set of 4 Cat on Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-set-of-4-cat-on-fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5   Set of 4 Mats <span>Tied with Ribbon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5685059969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34520NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5684584257</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cat-on-pumpkin-spiced-mug-and-tea-cup-mat"/>
+    <title>Cat on Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cat-on-fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5684584257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>34512NET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1989565185</id>
+    <published>2015-09-02T18:10:00-05:00</published>
+    <updated>2015-09-02T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-glitter-post-card-ornaments"/>
+    <title>10 Glitter Post Card Ornaments - Only 1 Set Left!</title>
+    <s:type>Christmas Tea Ornaments</s:type>
+    <s:vendor>Great Lookz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-glitter-post-card-ornaments-only-1-set-left.jpg?v=1601091173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Lookz<br>
+        <strong>Type: </strong>Christmas Tea Ornaments<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Glitter Post Card Ornaments!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1989565185</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1954381441</id>
+    <published>2015-08-28T16:14:00-05:00</published>
+    <updated>2015-08-28T16:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/god-bless-you-and-send-you-a-me"/>
+    <title>God Bless You and Send You a Me by Sandy Clough - Limited Supply - 5 Left</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Christian Bookstore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/god-bless-you-and-send-you-a-me-by-sandy-clough-limited-supply-5-left.jpg?v=1601091146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christian Bookstore<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            14.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sandy Clough God Bless You and Send You a Merry Christmas Cards!  Inside card: God bless you and send you a Merry Christmas and a Happy New Year.  Scripture at bottom inside of card says: Behold, I bring you good tidings of great joy, which shall be to all people - Luke 2:10</p>
+<p>20 Holiday Cards and Matching Envelopes</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1954381441</id>
+      <title>Default</title>
+      <s:price currency="USD">14.44</s:price>
+      <s:sku>8025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520930369</id>
+    <published>2015-07-13T22:59:45-05:00</published>
+    <updated>2015-07-13T22:59:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-die-cut-pad-with-pen-moroccan"/>
+    <title>Holiday Die-Cut Pad with Pen - Moroccan</title>
+    <s:type>Christmas Stationery</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-die-cut-pad-with-pen-moroccan.jpg?v=1601090255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Christmas Stationery<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Christmas Note Pads with Designer Pen</p>
+<p>Die-cut list pad with pen has 75 full color printed sheets. Each includes a coordination designer pen and is tied with a ribbon bow. Fabulous Gift, Favor and Stocking Stuffer!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520930369</id>
+      <title>Default</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8834</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518293441</id>
+    <published>2015-07-13T12:29:00-05:00</published>
+    <updated>2015-07-13T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-pumpkin-tea-cup-and-saucer-1"/>
+    <title>White Fall Pumpkin Tea Cup and Saucer - FREE Pumpkin Spice Tea Included!</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-fall-pumpkin-tea-cup-and-saucer-free-pumpkin-spice-tea-included.jpg?v=1601090075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Treat your guests to an unusual cup of coffee or tea with our hand made pumpkin shaped cup and saucer. The round fluted cup holds 7 ounces and is accented with hand applied leaves and vines. The saucer is leaf shaped and measures 6 1/4". This is a perfect complement to our very popular pumpkin teapot. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518293441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1524943809</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-moroccan-holiday-cards-in-portfolio"/>
+    <title>Moroccan Matchbook Note Pad &amp; Pen Set - Limited Supply!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/moroccan-matchbook-note-pad-pen-set-limited-supply.jpg?v=1601090336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lovely notepad comes tucked into a portfolio!  75 sheets per note pad, portfolio has magnetic closure  and comes with coordinating black ink pen.  </p>
+<p>Moroccan Design is embellished with a gem and gold foil  Pad Size: 4" W x 4" H Pen size: 4 1/2" H</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1524943809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>9172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521071041</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-stitches-holiday-cards-in-portfolio"/>
+    <title>Winter Stitches Holiday Cards in Portfolio - Only 4 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-stitches-holiday-cards-in-portfolio-only-4-left.jpg?v=1601090318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Card greeting reads "Wishing You a Bright and Beautiful Season"</span><br><span>Winter Stitches Design is embellished with Glitter</span></p>
+<p>Decorative pouch contains 10 embellished holiday cards and coordinating envelopes.<br>Card Size: 3 1/2" H x 5" W Pouch size: 6 3/8" W x 4 1/4" H x 7/8" D</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521071041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>9165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521026689</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-stationery-list-pad-with-pen"/>
+    <title>Holiday Tea Time Magnetic List Pad with Pen and Magnet</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-time-magnetic-list-pad-with-pen-and-magnet.jpg?v=1601090296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Holiday Tea Time Magnetic List Pad with Pen and Matching Magnet. Measuring 8.5" x 3.5" Has 75 sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521026689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

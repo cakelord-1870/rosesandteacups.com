@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/birds-butterfly-dragonfly-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-01-26T18:33:51-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4446970380377</id>
+    <published>2020-01-26T18:33:51-06:00</published>
+    <updated>2020-01-26T18:33:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/garden-peonies-and-succulents-notepad-and-pen-set"/>
+    <title>Garden Peonies and Succulents Notepad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/garden-peonies-and-succulents-notepad-and-pen-set.jpg?v=1580216568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Garden Peonies and Succulents Notepad and Pen Set is perfect for party favors, gift giving and for personal use to jot down those important messages and notes. Each sheet has a lovely saying: Heaven is a little closer in the garden. Has gift tag and matching pens all wrapped up in a organza ribbon. </p>
+<p><span>Size: 4.37" x 5.37"</span></p>
+<p><span> 75 printed sheets</span></p>
+<p><span> With designer pen</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4446970380377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>0127203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2167778017369</id>
+    <published>2019-08-30T12:44:44-05:00</published>
+    <updated>2019-08-30T12:44:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-bird-porcelain-birdhouse-nightlight-1"/>
+    <title>Blue Bird Porcelain Birdhouse Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-bird-porcelain-birdhouse-nightlight_0c2b6ff5-2c39-4265-808d-a2fab9575f23.jpg?v=1601094955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Blue Birds, Blue Bells and Forget Me Nots decorate this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2167778017369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>101218-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1994908827737</id>
+    <published>2019-02-15T18:30:04-06:00</published>
+    <updated>2019-02-15T18:30:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/a-friend-loves-at-all-time-sticky-pad-pen-set"/>
+    <title>A Friend Loves at All Time Sticky Pad Pen Set</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/A_Friend_Loves_at_All_Time_Sticky_Pad_Pen_Set.gif?v=1561399292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Friend Loves at All Time Sticky Pad Pen Set has lovely butterflies and dragonflies.  There are 3 different sizes of sticky notes with a total of 90 stickies enclosed in a lovely case with designer pen included.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1994908827737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>021519-3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1967514189913</id>
+    <published>2019-01-22T10:19:18-06:00</published>
+    <updated>2019-01-22T10:19:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-laugh-love-ceramic-wall-hanging-sign"/>
+    <title>Love Laugh Love Ceramic Wall Hanging Sign</title>
+    <s:type>Signs</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Ceramic_Wall_Hanging_Sign_Love_Laugh_Love.gif?v=1561400332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Signs<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Laugh Love Ceramic Wall Hanging Sign has beautiful poppies, resting bird, and dragonfly.  Each sign is embossed with a lovely scrolling design.  Our wire hanger is white and not yellow as shown. </p>
+<p>Measures: 8.5" Wide and 4.5" High</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1967514189913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>012219-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280914657320</id>
+    <published>2017-11-10T10:21:53-06:00</published>
+    <updated>2017-11-10T10:21:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/live-simply-bird-decorative-pocket-note-pad"/>
+    <title>Live Simply Bird Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/live-simply-bird-decorative-pocket-note-pad.png?v=1601093744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280914657320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-5JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/491004821544</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-pocket-note-pad"/>
+    <title>Teapot Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-pocket-note-pad.jpg?v=1601093943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>60 Full-Color Sheets</li>
+<li>Inside Pocket</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/491004821544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>032218-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490996596776</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/choose-happiness-pocket-note-pad"/>
+    <title>Choose Happiness Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Choose-Happiness-Pocket-Note-Pad_c90c9fab-0ef7-489e-99c8-083cf6e58a83.jpg?v=1628813622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>60 Full-Color Sheets</li>
+<li>Inside Pocket</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490996596776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>032218-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280903254056</id>
+    <published>2017-11-10T09:51:59-06:00</published>
+    <updated>2017-11-10T09:51:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/follow-your-dreams-pocket-note-pad"/>
+    <title>Follow Your Dreams Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/follow-your-dreams-pocket-note-pad.png?v=1601093741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It never hurts to have a reminder to follow your dreams. This 75-sheet, full-color note pad is happy to remind you. Features a magnetic closure, and gold foil embellishment and gems on the cover.</p>
+<ul>
+<li>75 full-color sheets</li>
+<li>Magnetic closure</li>
+<li>Embellished with gems and gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280903254056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-2JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/280902238248</id>
+    <published>2017-11-10T09:44:04-06:00</published>
+    <updated>2017-11-10T09:44:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/good-things-decorative-pocket-note-pad"/>
+    <title>Good Things Decorative Pocket Note Pad</title>
+    <s:type>Mini Purse Notepads</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/good-things-decorative-pocket-note-pad.png?v=1601093740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Mini Purse Notepads<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colorful, shimmering note pads make scribbling the smallest reminders a delight. Each note pad features 75 full-color pages, a magnetic closure, and embellishments of gems and gold foil or glossy highlights.</p>
+<ul>
+<li>75 Full-Color Printed Sheets</li>
+<li>Gem Embellishment</li>
+<li>Gold Foil Accents</li>
+<li>Size: 3" x 4"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/280902238248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>111017-1JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8275742145</id>
+    <published>2016-10-18T17:57:00-05:00</published>
+    <updated>2016-10-18T17:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/brooch-embellished-hardcover-journal-bird"/>
+    <title>Brooch Embellished Hardcover Journal - Bird - Only 1 Left!</title>
+    <s:type>Writing Journals</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/brooch-embellished-hardcover-journal-bird-only-1-left.jpg?v=1582071331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Writing Journals<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>104 full-color lined sheets per linen-texture embossed journal</p>
+<p>Size: 6" x 81 ⁄2"</p>
+<p>Magnetic closure</p>
+<p>(Brooches are not removable)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8275742145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4000057025</id>
+    <published>2015-07-07T18:18:00-05:00</published>
+    <updated>2015-07-07T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purrfect-sunny-day-cat-compact-mirror-in-gift-box"/>
+    <title>Bathing Birds Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bathing-birds-compact-mirror.jpg?v=1601091778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Bathing Birds Compact Mirror Size: 3.5" x 2.63" x 0.5". </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4000057025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>053016-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1455486593</id>
+    <published>2015-07-07T18:18:00-05:00</published>
+    <updated>2015-07-07T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/friend-compact-mirror-in-gift-box"/>
+    <title>Friend Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/friend-compact-mirror.jpg?v=1601088980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Friend Compact Mirror in Gift Box Size: 3.5" x 2.63" x 0.5". </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1455486593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1455473793</id>
+    <published>2015-07-07T18:18:00-05:00</published>
+    <updated>2015-07-07T18:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterfly-compact-mirror-in-gift-box"/>
+    <title>Butterfly Compact Mirror</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterfly-compact-mirror.jpg?v=1601088979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Butterfly Compact Mirror in Gift Box Size: 3.5" x 2.63" x 0.5". </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1455473793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7768</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

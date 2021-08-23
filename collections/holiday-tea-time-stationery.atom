@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/holiday-tea-time-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-05T17:18:06-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376569249881</id>
+    <published>2019-12-05T17:18:06-06:00</published>
+    <updated>2019-12-05T17:18:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-christmas-envelope-scented-sachet-angel-limited"/>
+    <title>Set of 3 Christmas Envelope Scented Sachet - Angel - Limited Sets!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-christmas-envelope-scented-sachet-angel-limited-sets.jpg?v=1601095143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Christmas Angel Individually Wrapped Large Christmas Cinnamon Stick Scent Envelope Sachets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HaS</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376569249881</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1456</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762672312409</id>
+    <published>2018-10-29T17:59:52-05:00</published>
+    <updated>2018-10-29T17:59:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-with-cardinals-and-wreath-magnetic-list-pad"/>
+    <title>Red Truck Hauling Christmas Tree with Cardinals and Wreath Magnetic List Pad</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_with_Cardinals_and_Wreath_Magnetic_List_Pad.gif?v=1561400682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Truck Hauling Christmas Tree with Cardinals and Wreath Magnetic List Pad</p>
+<p>Size: 8.75" x 3.75". 75 printed sheets. With designer pen.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762672312409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1104201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762659795033</id>
+    <published>2018-10-29T17:56:19-05:00</published>
+    <updated>2018-10-29T17:56:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-with-cardinals-and-wreath-note-block-and-pen-set"/>
+    <title>Red Truck Hauling Christmas Tree with Cardinals and Wreath Note Block and Pen Set</title>
+    <s:type>note block</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_with_Cardinals_and_Wreath_Note_Block_and_Pen_Set.gif?v=1561400683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>note block<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Truck Hauling Christmas Tree with Cardinals and Wreath Note Block and Pen Set</p>
+<p>Block size: 3" x 3" x 3". 580 sheets. With designer pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762659795033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-JS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1762630729817</id>
+    <published>2018-10-29T17:44:35-05:00</published>
+    <updated>2018-10-29T17:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-truck-hauling-christmas-tree-note-pad-and-pen-set"/>
+    <title>Red Truck Hauling Christmas Tree with Red Cardinals Note Pad and Pen Set</title>
+    <s:type>notepads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Red_Truck_Hauling_Christmas_Tree_Note_Pad_and_Pen_Set.gif?v=1561400683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>notepads<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Red Truck Hauling Christmas Tree Pictured with Red Cardinals Note Pad and Pen Set.  The Red Truck theme is so popular and in trend this holiday.  Adorned with red ribbon and wreath gift tag. Perfect for gift giving this season. </span></p>
+<p><span>Size: 4.37" x 5.37"</span></p>
+<p><span> 75 printed sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1762630729817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>102918-JS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7144039617</id>
+    <published>2016-07-26T14:43:00-05:00</published>
+    <updated>2016-07-26T14:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-matchbook-notepad-w-pen"/>
+    <title>Home for the Holidays Matchbook Notepad w Pen</title>
+    <s:type>Matchbook Notepad</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/matchbook-notepad-home-for-the-holidays-matchbook-notepad-w-pen-1.gif?v=1561400111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Matchbook Notepad<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Home for the Holidays Matchbook Notepad w Pen size: 4" x 5".  75 printed pages. With designer pen.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7144039617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>07262016-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142835905</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-note-block-w-pen"/>
+    <title>Home for the Holidays Note Block w Pen</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-note-block-w-pen-1.gif?v=1561400111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Home for the Holidays Note Block w Pen</p>
+<p><span>Block size: 3" x 3" x 3". 580 sheets. With designer pen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142835905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>07262016-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7142813057</id>
+    <published>2016-07-26T13:35:00-05:00</published>
+    <updated>2016-07-26T13:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/home-for-the-holidays-die-cut-notepad-w-pen"/>
+    <title>Home for the Holidays Magnetic List Gift Set</title>
+    <s:type>Compact Mirrors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/compact-mirrors-home-for-the-holidays-list-pad-w-pen-1.gif?v=1561400110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Compact Mirrors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Home for the Holidays Gift Set includes a Magnetic List Pad, Bluebird Notepad and a Designer Pen.<span> Magnetic List Pad: 8.5" x 3.5", Die Cut Notepad: 4.5" x 4.5". 75 printed sheets each. <br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7142813057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>07262016-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7017479489</id>
+    <published>2015-11-17T15:47:00-06:00</published>
+    <updated>2015-11-17T15:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-and-teapots-holiday-greeting-cards-set-of-10"/>
+    <title>10 Christmas Tea Cups and Teapots Holiday Greeting Cards</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-christmas-tea-cups-and-teapots-holiday-greeting-cards.jpg?v=1601092499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Have a Tea-Lightful Holiday Season!  These Roses and Teacups exclusives are so cheerful!  You'll receive 5 glossy Tea Cup Cards and 5 glossy Teapot Cards all with coordinating Envelopes.  Check out the matching <a href="https://roses-and-teacups.com/collections/bookmarks">Bookmarks</a>, as well!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7017479489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>07192016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521026689</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-tea-time-stationery-list-pad-with-pen"/>
+    <title>Holiday Tea Time Magnetic List Pad with Pen and Magnet</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-tea-time-magnetic-list-pad-with-pen-and-magnet.jpg?v=1601090296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Holiday Tea Time Magnetic List Pad with Pen and Matching Magnet. Measuring 8.5" x 3.5" Has 75 sheets.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521026689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

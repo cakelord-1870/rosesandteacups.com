@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/christmas-stickers.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-20T23:48:10-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2138286325849</id>
+    <published>2019-07-20T23:48:10-05:00</published>
+    <updated>2019-07-20T23:48:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-time-christmas-stickers"/>
+    <title>17 Old Time Christmas Stickers</title>
+    <s:type>Christmas Stationery</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/17-old-time-christmas-stickers.jpg?v=1601094910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Christmas Stationery<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Charming illustrations, selected from turn-of-the-century sources, make up this delightfully nostalgic collection of 17 full-color holiday stickers. Ready to spread Christmas cheer are rosy-cheeked, gift-laden youngsters dressed in night-clothes, peasant outfits, and stylish winter wear; figures of Santa Claus and of Father Christmas (the character who predated the more familiar fellow); bags of toys, holly, trees, and much more.</span><br><span>These easy-to-apply stickers are sure to enhance Christmastime cards, envelopes, place settings, and gift packages.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2138286325849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>0720191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111653761</id>
+    <published>2019-07-20T23:43:58-05:00</published>
+    <updated>2019-07-20T23:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/glitter-old-time-christmas-stickers"/>
+    <title>Glitter Old Time Christmas Holiday Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/glitter-old-time-christmas-holiday-stickers.jpg?v=1582071258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 4 Old Time Christmas Stickers Booklets Thirteen glistening Christmas stickers recall those charming visions of Christmas past. Included are images of an old-fashioned Santa bearing gifts, rosy-cheeked children dressed warmly against winter's cold, excited moppets gathered around a festive tree, and other heartwarming scenes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas 2010</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111653761</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>5080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7021574913</id>
+    <published>2016-03-17T15:16:00-05:00</published>
+    <updated>2016-03-17T15:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sheet-of-63-1-inch-round-christmas-tea-cup-and-teapot-stickers"/>
+    <title>1 Sheet of 62 1-inch Round Christmas Tea Cup and Teapot Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/1-sheet-of-62-1-inch-round-christmas-tea-cup-and-teapot-stickers.png?v=1601092508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> So adorable!  These holiday tea cups and teapots are exclusive to Roses and Teacups, and we know you'll love them!  You'll receive an 8.5 x 11 sheet of 1-inch Christmas tea cup and teapot stickers.  They are easy to reposition if needed.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7021574913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>07182016-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111711233</id>
+    <published>2015-09-23T17:45:00-05:00</published>
+    <updated>2015-09-23T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-time-christmas-angels-holiday-stickers"/>
+    <title>21 Old Time Christmas Angels Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/21-old-time-christmas-angels-stickers.jpg?v=1601091226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add a heavenly touch to gift packages, cards, letters, and more with the colorful holiday stickers in this charming collection. Celestial beauties—both single figures and groups—abound in 21 angelic scenes from Christmases past. Some of the winged creatures pose pensively among candles and boughs of holly. Others are framed attractively by holiday wreaths, and still others playfully encircle a Christmas tree. Selected from rare turn-of-the-century archives, these delightful peel-and-apply illustrations will brighten any number of flat surfaces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHR</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111711233</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1742051009</id>
+    <published>2015-08-04T13:35:03-05:00</published>
+    <updated>2015-08-04T13:35:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-advent-calendar"/>
+    <title>Christmas Advent Calendar</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-advent-calendar.jpg?v=1601091103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With this charming Christmas Advent Sticker Calendar children can start getting ready for Christmas on December 1. Each day, they add a numbered sticker illustration to a lovely backdrop of a Victorian-era village. Includes 25 full-color stickers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holidays and Seasons</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1742051009</id>
+      <title>Default</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>1854</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146909761</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cup-return-address-labels"/>
+    <title>Christmas Tea Cup Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cup-return-address-labels.png?v=1601092531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Christmas Tea Cup Return Address Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146909761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07262016-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7146872257</id>
+    <published>2015-07-09T16:02:00-05:00</published>
+    <updated>2015-07-09T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-teapot-return-address-labels"/>
+    <title>Christmas Teapot Return Address Labels</title>
+    <s:type>Return Address Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-teapot-return-address-labels.png?v=1601092530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Return Address Labels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>140 Christmas Teapot Return Address Labels</p>
+<p>Please put your desired address in the comments box as you checkout.  We will email you a proof for your approval.</p>
+<p><span>(The fuzziness of the electronic proof will NOT be on your labels.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7146872257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>07262016-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521061825</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-christmas-tea-stickers"/>
+    <title>Kimberly Shaw Christmas Tea Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Kimberly-Shaw-Christmas-Tea-Stickers_038a937c-d973-4009-891f-34e262c55f87.jpg?v=1628899909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521061825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku>328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521060801</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-ginger-santa-stickers"/>
+    <title>Victorian Christmas Ginger Santa 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-christmas-ginger-santa-2-sheets-of-stickers.jpg?v=1601090311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521060801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521059073</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-ladies-stickers"/>
+    <title>Victorian Christmas Ladies 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-christmas-ladies-2-sheets-of-stickers.jpg?v=1601090308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521059073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521055041</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-roses-and-poinsettias-stickers"/>
+    <title>Victorian Christmas Roses and Poinsettias 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-christmas-roses-and-poinsettias-2-sheets-of-stickers.jpg?v=1601090307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521055041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521052033</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-merry-cherry-santas-stickers"/>
+    <title>Victorian Christmas Merry Cherry Santas 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-victorian-christmas-merry-cherry-santas-stickers-1.gif?v=1561401219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521052033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9116EJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521049857</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-ginger-elves-and-children-stickers"/>
+    <title>Victorian Christmas Ginger Elves and Children 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stationery-victorian-christmas-ginger-elves-and-children-stickers-1.gif?v=1561401218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521049857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1521044417</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-tree-stickers"/>
+    <title>Victorian Christmas Tree 2 Sheets of Stickers</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-christmas-tree-2-sheets-of-stickers.jpg?v=1601090302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Sheets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1521044417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>9115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

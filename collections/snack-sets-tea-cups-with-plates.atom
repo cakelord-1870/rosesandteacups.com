@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/snack-sets-tea-cups-with-plates.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-01-05T18:45:52-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/393039446056</id>
+    <published>2018-01-05T18:45:52-06:00</published>
+    <updated>2018-01-05T18:45:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-fleur-2-piece-tea-and-toast-snack-set"/>
+    <title>Petite Fleur 2 Piece Tea or Coffee Snack Set</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-fleur-2-piece-tea-or-coffee-snack-set.jpg?v=1601093836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Scallop Edge 4 ounce Tea Cup with a 9 inch Snack Plate. Cream Porcelain. Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/393039446056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-18N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/393039151144</id>
+    <published>2018-01-05T18:45:52-06:00</published>
+    <updated>2018-01-05T18:45:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/green-vintage-rose-2-piece-tea-and-toast-snack-set"/>
+    <title>Green Vintage Rose 2 Piece Tea or Coffee Snack Set</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/green-vintage-rose-2-piece-tea-or-coffee-snack-set.jpg?v=1601093835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Scallop Edge 4 ounce Tea Cup with a 9 inch Snack Plate. Cream Porcelain. Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/393039151144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/393038823464</id>
+    <published>2018-01-05T18:45:52-06:00</published>
+    <updated>2018-01-05T18:45:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-vintage-rose-2-piece-tea-and-toast-snack-set"/>
+    <title>Blue Vintage Rose 2 Piece Tea or Coffee Snack Set</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-vintage-rose-2-piece-tea-or-coffee-snack-set.jpg?v=1601093834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Scallop Edge 4 ounce Tea Cup with a 9 inch Snack Plate. Cream Porcelain. Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/393038823464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/393038102568</id>
+    <published>2018-01-05T18:45:52-06:00</published>
+    <updated>2018-01-05T18:45:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-red-2-piece-tea-and-toast-snack-set"/>
+    <title>Red Vintage Rose 2 Piece Tea or Coffee Snack Set</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-vintage-rose-2-piece-tea-or-coffee-snack-set.jpg?v=1601093833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Scallop Edge 4 ounce Tea Cup with a 9 inch Snack Plate. Cream Porcelain. Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/393038102568</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/390473613352</id>
+    <published>2017-10-28T11:03:37-05:00</published>
+    <updated>2017-10-28T11:03:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/snowman-snack-sets"/>
+    <title>Snowman Tea or Coffee Snack Set</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/snowman-tea-or-coffee-snack-set.jpg?v=1601093816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Scallop Edge 4 ounce Tea Cup with a 9 inch Snack Plate. Cream Porcelain. Metallic Decal with Gold Trimmed.</span></p>
+<p><strong><a href="https://rosesandteacups.com/products/snowman-tea-cups-and-saucers-set-of-4" title="Snowman Tea Cups and Saucers">Matching Tea Cups Available!</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/390473613352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>010318-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342305206373</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-tea-and-toast-snack-set-in-gift-box"/>
+    <title>Poppyseed Tea or Coffee Snack Set in Gift Box</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-tea-or-coffee-snack-set-in-gift-box.jpg?v=1601094291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.2 x 9" Porcelain Tea &amp; Toast Snack Set in Gift Box</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342305206373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>09052018-22N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342304518245</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-rose-tea-and-toast-snack-set-in-gift-box"/>
+    <title>Lavender Rose Tea or Coffee Snack Set in Gift Box</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-rose-tea-or-coffee-snack-set-in-gift-box.jpg?v=1601094290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.2 x 9" Porcelain Tea &amp; Toast Snack Set in Gift Box</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342304518245</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>09052018-21N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342304256101</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-romance-tea-and-toast-snack-set-in-gift-box"/>
+    <title>Blue Romance Tea or Coffee Snack Set in Gift Box</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-romance-tea-or-coffee-snack-set-in-gift-box.jpg?v=1601094289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.2 x 9" Porcelain Tea &amp; Toast Snack Set in Gift Box</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342304256101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>09052018-20N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392740438056</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wildflower-tea-and-toast-snack-set-in-gift-box"/>
+    <title>Wildflower Tea or Coffee Snack Set in Gift Box</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wildflower-tea-or-coffee-snack-set-in-gift-box.jpg?v=1601093830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.2 x 9" Porcelain Tea &amp; Toast Snack Set in Gift Box</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392740438056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>010517-14N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392740175912</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/partridge-bird-porcelain-teacup-and-toast-snack-set-in-gift-box"/>
+    <title>Songbird Porcelain Teacup Tea or Coffee Snack Set in Gift Box</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/songbird-porcelain-teacup-tea-or-coffee-snack-set-in-gift-box.jpg?v=1601093829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Songbird Porcelain Full Size Teacup &amp; Toast Snack Set has Matching Gift Box. Box is adorned with a lovely satin ribbon.  </span></p>
+<p><span>Box size: 4.2 x 9" </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392740175912</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/392737914920</id>
+    <published>2015-10-01T12:51:00-05:00</published>
+    <updated>2015-10-01T12:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-blue-snack-set-in-gift-box"/>
+    <title>English Blue Tea or Coffee Snack Set in Gift Box - 1 Left!</title>
+    <s:type>snack sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-blue-tea-or-coffee-snack-set-in-gift-box-1-left.jpg?v=1601093827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>snack sets<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4.2 x 9" Porcelain Tea &amp; Toast Snack Set in Gift Box</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/392737914920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>010517-12N</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518167425</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lush-roses-chintz-4-piece-porcelain-snack-set-satin-lined-gift-box"/>
+    <title>Lush Roses Chintz 4 Piece Porcelain Tea or Coffee Snack Set Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lush-roses-chintz-4-piece-porcelain-tea-or-coffee-snack-set-satin-lined-gift-box.jpg?v=1601090063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518167425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.50</s:price>
+      <s:sku>1146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518127489</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-piece-porcelain-snack-set-in-gift-box-pink-roses-and-lilacs-on-white-chintz"/>
+    <title>4 Piece Porcelain Tea or Coffee Snack Set in Gift Box Pink Roses and Lilacs on White Chintz</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-piece-porcelain-tea-or-coffee-snack-set-in-gift-box-pink-roses-and-lilacs-on-white-chintz.jpg?v=1582071167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518127489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>3198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518107457</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-piece-porcelain-snack-set-in-gift-box-yellow-roses-and-lilacs-on-white-chintz"/>
+    <title>4 Piece Porcelain Tea or Coffee Snack Set in Gift Box Yellow Roses and Lilacs on White Chintz</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-piece-porcelain-tea-or-coffee-snack-set-in-gift-box-yellow-roses-and-lilacs-on-white-chintz.jpg?v=1582071165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518107457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>3193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

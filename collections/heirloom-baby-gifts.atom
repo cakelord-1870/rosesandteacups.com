@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/heirloom-baby-gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-01-09T10:12:18-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4422887669849</id>
+    <published>2020-01-09T10:12:18-06:00</published>
+    <updated>2020-01-09T10:12:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/welcome-baby-hankie-bonnet-gift-card"/>
+    <title>Welcome Baby Hankie Bonnet Gift Card</title>
+    <s:type>Vintage Style Hankies</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/welcome-baby-hankie-bonnet-gift-card.jpg?v=1578661302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Vintage Style Hankies<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome Baby Hankie Bonnet Gift Card is an adorable way to welcome baby with both a greeting and keepsake gift.  Card is printed and hankie hand sewn in the USA. Bonnet has made from a beautiful hankie with lovely ribbons and cutely fashion into a gift to be treasured for many years to come.</p>
+<p>Inside card text reads: </p>
+<p class="yiv6809635359MsoNormal">A Tiny Square of Linen and a Dainty</p>
+<p class="yiv6809635359MsoNormal">Edge of Lace, Designed into a Bonnet</p>
+<p class="yiv6809635359MsoNormal">To Frame Your Baby’s Face.</p>
+<p class="yiv6809635359MsoNormal"> </p>
+<p class="yiv6809635359MsoNormal">After Baby’s Worn it, Fold and Tuck</p>
+<p class="yiv6809635359MsoNormal">Away… and it Becomes a Hankie for Your</p>
+<p class="yiv6809635359MsoNormal">Daughter’s Wedding Day,</p>
+<p class="yiv6809635359MsoNormal">Or if the Baby is a Boy, on the Day</p>
+<p class="yiv6809635359MsoNormal">He Marries this can be the “Something Old” for His Joyful Bride to Be.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4422887669849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0109201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421584978009</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set"/>
+    <title>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set.jpg?v=1601095174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set is cute gift boxed set that includes beautiful USA hand sewn hankie with ribbons.  This is sure to be a cherished keepsake</p>
+<p>Inside text reads:</p>
+<p class="yiv6809635359MsoNormal">A Tiny Square of Linen and a Dainty</p>
+<p class="yiv6809635359MsoNormal">Edge of Lace, Designed into a Bonnet</p>
+<p class="yiv6809635359MsoNormal">To Frame Your Baby’s Face.</p>
+<p class="yiv6809635359MsoNormal"> </p>
+<p class="yiv6809635359MsoNormal">After Baby’s Worn it, Fold and Tuck</p>
+<p class="yiv6809635359MsoNormal">Away… and it Becomes a Hankie for Your</p>
+<p class="yiv6809635359MsoNormal">Daughter’s Wedding Day,</p>
+<p class="yiv6809635359MsoNormal">Or if the Baby is a Boy, on the Day</p>
+<p class="yiv6809635359MsoNormal">He Marries this can be the “Something Old” for His Joyful Bride to Be.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421584978009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0108203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/413321396264</id>
+    <published>2018-01-23T12:20:41-06:00</published>
+    <updated>2018-01-23T12:20:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-christening-bonnet"/>
+    <title>Hankie Christening Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hankie-christening-bonnet.jpg?v=1582071376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a beautifully embroidered handkerchief, this is the perfect gift for your favorite newborn. Gift box, with poem shown.<br> <br> <em><strong>Poem Text</strong></em><br> I am a little bonnet<br> As you can plainly see.<br> But could you guess a handkerchief<br> Is what I use to be?<br> <br> Wear me home from the hospital<br> And again on Christening Day.<br> Then safely keep me tucked away<br> Until your Wedding Day.<br> <br> For good fortune all brides<br> Must wear something old<br> So just clip a couple of stitches<br> And a wedding hanky will unfold.<br> <br> If perhaps it is a boy<br> On the day he is to wed<br> Won't his bride be proud to use<br> The bonnet worn upon his head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/413321396264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0120201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10346504129</id>
+    <published>2017-10-23T17:54:17-05:00</published>
+    <updated>2017-10-23T17:54:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-floral-latte-mugs-heirloom-magnolia"/>
+    <title>Set of 2 Floral Latte Mugs - Heirloom Magnolia</title>
+    <s:type>floral mugs</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-floral-latte-mugs-heirloom-magnolia.jpg?v=1601093553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>floral mugs<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 12 oz Floral Pedestal Mugs with beautiful floral design and half heart handles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10346504129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10232017-38N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086446465</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-premie-angel-gown-and-bonnet"/>
+    <title>Lavender Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-preemie-angel-gown-and-bonnet.jpg?v=1601093082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086446465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086443713</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mint-premie-angel-gown-and-bonnet"/>
+    <title>Mint Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/mint-preemie-angel-gown-and-bonnet.jpg?v=1601093081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086443713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439873</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-premie-angel-gown-and-bonnet"/>
+    <title>Pink Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-preemie-angel-gown-and-bonnet.jpg?v=1601093080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9086439297</id>
+    <published>2017-03-27T22:09:00-05:00</published>
+    <updated>2017-03-27T22:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-premie-angel-gown-and-bonnet"/>
+    <title>Peach Preemie Angel Gown and Bonnet</title>
+    <s:type>Premie Angel Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-preemie-angel-gown-and-bonnet.jpg?v=1601093079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Premie Angel Gowns<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This sweet little set is for teeny weenies from 2-6 lbs.  Easy snaps in the back.  Bonnet adjusts with ties in the back as well.  Lovely embroidery and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9086439297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.99</s:price>
+      <s:sku>03272017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085751809</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-rose-baby-bonnet"/>
+    <title>Petite Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-rose-baby-bonnet.jpg?v=1601093076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">About the girliest bonnet you'll ever find, our Petite Roses Baby Bonnet has roses inside and out!  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085738881</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-rose-baby-bonnet"/>
+    <title>Sweet Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-rose-baby-bonnet.jpg?v=1601093075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Polka Dots and Roses are the theme of this sweet baby bonnet.  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085737665</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fun-flowers-baby-bonnet"/>
+    <title>Fun Flowers Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fun-flowers-baby-bonnet.jpg?v=1601093073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flowers are blooming and colors are popping (and dragonflies and flying!) on this adorable summer bonnet for baby girls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9808655425</id>
+    <published>2016-03-07T10:15:00-06:00</published>
+    <updated>2016-03-07T10:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dotted-swiss-white-baby-bonnet"/>
+    <title>Dotted Swiss White Baby Bonnet</title>
+    <s:type>Alice in Wonderland Teaware</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dotted-swiss-white-baby-bonnet.jpg?v=1601093230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Alice in Wonderland Teaware<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">All white cotton dotted Swiss fabric and cotton French laces.  Embroidered Swiss edging lace and silk ribbons.  Dainty specialty mother of pearl buttons. Ties in back making it adjustable.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9808655425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>07032017-2N</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367882433</id>
+    <published>2016-03-07T10:15:00-06:00</published>
+    <updated>2016-03-07T10:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dotted-swiss-rose-white-bonnet"/>
+    <title>Dotted Swiss Rose White Bonnet</title>
+    <s:type>Alice in Wonderland Teaware</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dotted-swiss-rose-white-bonnet.jpg?v=1601092003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Alice in Wonderland Teaware<br>
+        <strong>Price: </strong>
+            46.00 - 51.00
+            <a href="https://rosesandteacups.com/products/dotted-swiss-rose-white-bonnet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Dotted Swiss Rose Collection of Baby Bonnets features Cotton Dotted Swiss fabric from Switzerland, French Cotton laces, Swiss rose embroidered entredeux, silk ribbons, and Mother-of-pearl buttons.</p>
+<p>Choose from Front Ruffle or No Front Ruffle</p>
+<p>Hand made in the USA at the time of your order.</p>
+<p> </p>
+<p>Customer Review: The bonnet arrived and I received a very excited reply from my daughter as to how it looked, she then brought it with her for a visit so I was able to see it and it indeed was incredibly lovely - thank you so much Helen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367882433</id>
+      <title>No Ruffle</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5531</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367882433</id>
+      <title>Add Ruffle</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>5530</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367825153</id>
+    <published>2016-03-07T10:10:00-06:00</published>
+    <updated>2016-03-07T10:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heirloom-collection-yellow-baby-bonnet"/>
+    <title>Heirloom Collection Yellow Baby Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-collection-yellow-baby-bonnet.jpg?v=1601092002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% cotton batiste fabric * Front ruffle * Swiss embroideries Silk ribbons * Mother-of-pearl buttons * Adjustable back ribbon casing</p>
+<p>Choose White or Ecru Lace</p>
+<p>Hand made in the USA at the time of your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367825153</id>
+      <title>White Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367825153</id>
+      <title>Ecru Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367726657</id>
+    <published>2016-03-07T10:00:00-06:00</published>
+    <updated>2016-03-07T10:00:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heirloom-collection-lavender-baby-bonnet"/>
+    <title>Heirloom Collection Lavender Baby Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-collection-lavender-baby-bonnet.jpg?v=1601092001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% cotton batiste fabric * Front ruffle * Swiss embroideries Silk ribbons * Mother-of-pearl buttons * Adjustable back ribbon casing</p>
+<p>Choose White or Ecru Lace</p>
+<p>Hand made in the USA at the time of your order.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367726657</id>
+      <title>White Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5232</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367726657</id>
+      <title>Ecru Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5233</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367624065</id>
+    <published>2016-03-07T09:47:00-06:00</published>
+    <updated>2016-03-07T09:47:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lily-of-the-valley-bonnet"/>
+    <title>Lily of the Valley Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lily-of-the-valley-bonnet.jpg?v=1601092000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heirloom Collection Lily of the Valley All White Baby Bonnet 100% cotton batiste fabric Front ruffle Swiss embroideries Silk ribbons Mother-of-pearl buttons Adjustable back ribbon casing Choose White or Ecru Lace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367624065</id>
+      <title>White Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367624065</id>
+      <title>Ecru Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367544321</id>
+    <published>2016-03-07T09:37:00-06:00</published>
+    <updated>2016-03-07T09:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/horseshoe-white-bonnet"/>
+    <title>Horseshoe White Heirloom Baby Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/horseshoe-white-heirloom-baby-bonnet.jpg?v=1601091998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When looking at the back set-in section of these sweet bonnets, it resembles a horseshoe. This bonnet style has no front ruffle and uses extra wide Swiss embroidered cotton fabric with scalloped edges, French laces, silk ribbons and tiny rosebuds</p>
+<p>Choose from White Dotted Swiss with Pink Rosebuds and Ribbon and White Eyelet with Lavender Rosebuds and Ribbon.</p>
+<p>Hand made in the USA at the time of your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367544321</id>
+      <title>Lavender Ribbon</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>5535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367544321</id>
+      <title>Pink Ribbon</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>55352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367180225</id>
+    <published>2016-03-07T08:48:00-06:00</published>
+    <updated>2016-03-07T08:48:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heirloom-collection-peach-baby-bonnet"/>
+    <title>Heirloom Collection Peach Baby Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-collection-peach-baby-bonnet.jpg?v=1601091997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heirloom Collection Peach Baby Bonnet</p>
+<p>100% cotton batiste fabric * Front ruffle * Swiss embroideries Silk ribbons * Mother-of-pearl buttons </p>
+<p>Adjustable back ribbon casing Choose White or Ecru Lace</p>
+<p>Hand made in the USA at the time of your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367180225</id>
+      <title>White Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367180225</id>
+      <title>Ecru Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5242</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5367091585</id>
+    <published>2016-03-07T08:38:00-06:00</published>
+    <updated>2016-03-07T08:38:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-baby-bonnet"/>
+    <title>Heirloom Collection Pink Baby Bonnet</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-collection-pink-baby-bonnet.jpg?v=1601091996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heirloom Collection Pink Baby Bonnet with Ecru Lace</p>
+<p>100% cotton batiste fabric * Front ruffle * Swiss embroideries Silk ribbons * Mother-of-pearl buttons *</p>
+<p>Adjustable back ribbon casing Choose White or Ecru Lace</p>
+<p>Hand made in the USA at the time of your order.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367091585</id>
+      <title>White Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5367091585</id>
+      <title>Ecru Lace</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>5240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5656007041</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-bonnet-hat-box-gift-soap-in-gift-bag"/>
+    <title>Yellow Bonnet Hat Box Gift Soap in Gift Bag</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-bonnet-hat-box-gift-soap-in-gift-bag.jpg?v=1601092214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gift includes the 3" round  gift box, soap and gift bag.  Gift Bag measures 4" x 5" the soap weighs 2.0 oz. Bonnet  soaps are available in blue, lavender, pink, green and yellow.  Great Mother's Day Gift, Party Gift, or  Shower Gift.  Lavender Scented.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5656007041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34486N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5655973441</id>
+    <published>2016-01-22T16:28:00-06:00</published>
+    <updated>2016-01-22T16:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-hat-box-gift-soap-in-gift-bag"/>
+    <title>Pink Bonnet Hat Box Gift Soap in Gift Bag</title>
+    <s:type>Soap Favors</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-bonnet-hat-box-gift-soap-in-gift-bag.jpg?v=1601092212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Soap Favors<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gift includes the 3" round  gift box, soap and gift bag.  Gift Bag measures 4" x 5" the soap weighs 2.0 oz. Bonnet  soaps are available in blue, lavender, pink, green and yellow.  Great Mother's Day Gift, Party Gift, or  Shower Gift.  Lavender Scented.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5655973441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>34484N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959047233</id>
+    <published>2015-08-29T12:17:00-05:00</published>
+    <updated>2015-08-29T12:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/heirloom-tea-susan-rios-keepsake-tea-art"/>
+    <title>Heirloom Tea Susan Rios Keepsake Tea Art</title>
+    <s:type>Susan Rios</s:type>
+    <s:vendor>Susan Rios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/heirloom-tea-susan-rios-keepsake-tea-art.jpg?v=1601091149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Susan Rios<br>
+        <strong>Type: </strong>Susan Rios<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You can almost smell the heady scent of roses and lilacs in this romantic tea time painting!  A hand painted tea cup and matching vase are showcased on a delicate lace tablecloth and ready for your afternoon tea.  Perfect for a kitchen or dining room or small alcove.   10 x 6</p>
+<p>Susan Rios has been a professional artist for over 30 years. You will find her romantic illustrations in many of Emilie Barnes Tea Books and her tranquil paintings in the homes of art collectors around the world.</p>
+<p>Susan's focus is on peace, hope and beauty... Now you can add a bit of these qualities to every corner of your home!</p>
+<p>We are so delighted to offer her line of "Keepsakes," which are smaller, affordable versions of her paintings.</p>
+<p>The incredible richness of Susan's work is not adequately captured in our photos! Each piece of keepsake art is wrapped around the canvas creating a very elegant and finished look. These offerings are ready to hang or stand.</p>
+<p>You are welcome to inquire about purchasing larger, limited editions, and originals of these pieces!</p>
+<p>The inviting images of tea parties and gardens are sure to add a touch of romantic beauty to your home.</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959047233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>1555N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9106687617</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rebecca-heirloom-christening-gown-with-bonnet-and-slip"/>
+    <title>Rebecca Heirloom Christening Gown with Bonnet and Slip</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rebecca-heirloom-christening-gown-with-bonnet-and-slip.jpg?v=1601093088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            252.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3-pc. Rebecca - Rosebud &amp; Dots Baby Dedication / Christening Gown made of White Eyelet Cotton/Poly for easy care.  (Slip not shown)</p>
+<p>Rosebuds and dots embroidered motif on front bodice, with matching motif on sleeves.  Sleeves are tied with silk ribbons making them adjustable.  Rosebuds and dots repeated on skirt front along with Cross motif.  Length of gown from front neckline is 35". </p>
+<p>Gown and slip open in back all the way down for easy on and off, and making it easy to hold baby for pictures. </p>
+<p>Matching lined eyelet bonnet.  French cotton laces and Mother-of-Pearl buttons used throughout.  Sizes: 3, 6, 9 mo.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9106687617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">252.99</s:price>
+      <s:sku>03302017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557177857</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-sweet-sydney-christening-dress-ensemble"/>
+    <title>3-Piece Sweet Sydney Christening Dress Ensemble</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-sweet-sydney-christening-dress-ensemble.jpg?v=1601091017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            207.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Choose from white or yellow dotted swiss</strong> for this sweet embroidered dress, slip and bonnet combination. Dress has a voile underlayer, and bonnet and slip are both edged in French lace. Embroidery includes a cross (see below) which is optional.</span></p>
+<p>The Victorian women would often hand sew elaborate christening gowns while pregnant with their first child. These gowns, always white and with varying modes of delicate elaboration, would be carefully packed away and used again for each subsequent child. Lace, embroidery, tucks and insertions were common.</p>
+<p>When purchasing an heirloom christening gown, be aware that cotton and silk (natural fibers) will preserve their beauty far longer than man-made materials.</p>
+<p><span>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing)~~ for an additional $25.00.</span></p>
+<p><span>Christening Gowns will have a "History of Gown" description along with several sheets for passing down information as to when &amp; by whom these Heirloom Gowns are worn for future generations. </span><br><br><span>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</span></p>
+<p><span>Available in Newborn (8-13 lbs.) Small (13-15 lbs.) Medium (16-18 lbs.) and Large (19-21 lbs.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>newborn</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>small</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>medium</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557177857</id>
+      <title>large</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>2519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1557143169</id>
+    <published>2015-07-17T11:33:00-05:00</published>
+    <updated>2015-07-17T11:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-antique-replica-heirloom-christening-gown-ensemble"/>
+    <title>3-Piece Antique Replica Heirloom Christening Gown Ensemble</title>
+    <s:type>Heirloom Christening Gowns</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-antique-replica-heirloom-christening-gown-ensemble.jpg?v=1601091013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Heirloom Christening Gowns<br>
+        <strong>Price: </strong>
+            237.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This gorgeous Heirloom Christening Gown is an exact replica of an antique! It features white voile with tiny tucks in the front and back and lace-trimmed long sleeves and hem. Front has added "bolero" style layer at shoulders edged in lace. This ensemble comes complete with matching slip and bonnet.</span></p>
+<p>The Victorian women would often hand sew elaborate christening gowns while pregnant with their first child. These gowns, always white and with varying modes of delicate elaboration, would be carefully packed away and used again for each subsequent child. Lace, embroidery, tucks and insertions were common.</p>
+<p>When purchasing an heirloom christening gown, be aware that cotton and silk (natural fibers) will preserve their beauty far longer than man-made materials.</p>
+<p><span>Christening Gowns will be approximately 27" in length UNLESS you specify 36" length (extra long &amp; flowing)~~ for an additional $25.00.</span></p>
+<p><span>Christening Gowns will have a "History of Gown" description along with several sheets for passing down information as to when &amp; by whom these Heirloom Gowns are worn for future generations. </span><br><br><span>Baby's Name, Date of Birth, and Date of Christening can be embroidered into the slip for an additional $15.</span></p>
+<p><span>Available in Newborn (8-13 lbs.) Small (13-15 lbs.) Medium (16-18 lbs.) and Large (19-21 lbs.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>newborn</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>small</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>medium</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1557143169</id>
+      <title>large</title>
+      <s:price currency="USD">237.99</s:price>
+      <s:sku>2515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

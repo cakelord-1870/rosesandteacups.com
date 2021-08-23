@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/custom-bridal-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-06-30T17:00:45-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482481422425</id>
+    <published>2020-02-21T12:20:21-06:00</published>
+    <updated>2020-02-21T12:20:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/deep-blue-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set"/>
+    <title>Deep Blue Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/deep-blue-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set.jpg?v=1582376688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deep Blue Lamp Work Bead and Silver Necklace, Bracelet and Earring Set is perfect for completing that look of classy and put together for anything that may come whether it's business, church, or just because you love it.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482481422425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>022120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482477654105</id>
+    <published>2020-02-21T12:03:39-06:00</published>
+    <updated>2020-02-21T12:03:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-rose-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set"/>
+    <title>Pink Rose Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set.jpg?v=1582376687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Rose Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set is perfect for completing that look of classy and put together for anything that may come whether it's business, church, or just because you love it.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482477654105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>022120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377497895001</id>
+    <published>2019-12-06T10:46:41-06:00</published>
+    <updated>2019-12-06T10:46:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind"/>
+    <title>Coming Up Roses Hand Bead Ribbon Bracelet - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/coming-up-roses-hand-bead-ribbon-bracelet-one-of-kind.jpg?v=1601095146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coming Up Roses Hand Bead Ribbon Bracelet - Hand twirled ribbon with hand beaded roses and flowers.  This piece has beautiful floral and foliage beads along with luscious rich rose colored ribbons. Has stretch button closure and soft backing. This is something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377497895001</id>
+      <title>Default</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4377483608153</id>
+    <published>2019-12-06T10:29:34-06:00</published>
+    <updated>2019-12-06T10:29:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/avalon-rose-ribbon-necklace"/>
+    <title>Avalon Rose Ribbon Necklace - One of Kind!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/avalon-rose-ribbon-necklace-one-of-kind.jpg?v=1601095145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Avalon Rose Beaded Ribbon Necklace - Hand twirled ribbon with hand beading, lobster closure and shiny ribbon make this pretty necklace something special for gift giving or to keep.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady&apos;s Delight</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4377483608153</id>
+      <title>Default</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>6861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054654984281</id>
+    <published>2019-04-04T11:00:54-05:00</published>
+    <updated>2019-04-04T11:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs.jpg?v=1601094726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in bold red</span><span> with ruffles and bows. Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs or Dress Up Fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054654984281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054652264537</id>
+    <published>2019-04-04T10:49:20-05:00</published>
+    <updated>2019-04-04T10:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-lace-fingerless-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Black Lace Fingerless Gloves Perfect for Tea Parties or Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Black-Lace-Fingerless-Gloves-Perfect-for-Tea-Parties-or-Bridal-Affairs_f462aff3-3f41-44ef-ad36-73ba0d843c37.jpg?v=1628728474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ultra feminine fingerless black lace gloves with bows and ruffles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054652264537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054639878233</id>
+    <published>2019-04-04T10:23:50-05:00</published>
+    <updated>2019-04-04T10:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Pink Fingerless Lace Gloves Perfect for Tea Parties or Bridal Affairs!!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs_a92f4175-a5ca-49b0-91e1-1a158f68be8e.jpg?v=1601094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in soft pink with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054639878233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054624870489</id>
+    <published>2019-04-04T09:58:15-05:00</published>
+    <updated>2019-04-04T09:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-fingerless-lace-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>White Fingerless Lace Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/White-Fingerless-Lace-Gloves-Perfect-for-Tea-Parties-and-Bridal-Affairs_94bab9c1-bce7-404b-b09c-a4abd51dd8d4.jpg?v=1628813630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in white</span><span> with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054624870489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1975138386009</id>
+    <published>2019-01-29T12:28:31-06:00</published>
+    <updated>2019-01-29T12:28:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-necklace"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Necklace</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-necklace.jpg?v=1601094659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This vintage inspired Victorian romance heart necklace features a prong set genuine Swarovski Austrian crystal filigree heart drop on an exquisite limited edition Victorian flower motif chevron. The chevron has 5 additional Swarovski Elements in Amethyst to complete the look. The necklace chain measures 16 inches in length and features 24 kt. antique gold plated Figaro link chain with matching antique connectors that can be found on the matching earrings.</span></p>
+<p><a href="https://rosesandteacups.com/collections/latest-arrivals-new-items-products/products/vintage-style-austrian-crystal-chandelier-heart-earrings" target="_blank" title="Matching Vintage Heart Earrings" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage_Style_Austrian_Crystal_Chandelier_Heart_Earrings_480x.jpg?v=1547507254" alt="Vintage Style Austrian Crystal Chandelier Heart Earrings" width="143" height="156"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1975138386009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>012919-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9134789633</id>
+    <published>2018-07-03T12:03:29-05:00</published>
+    <updated>2018-07-03T12:03:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bridal-pearls-bracelet-bf111"/>
+    <title>Bridal Pearls Bracelet BF111</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bridal-pearls-bracelet-bf111.jpg?v=1601093106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made by white freshwater natural Biwa pearls, classic pearls and crystal. Biwa pearls size: L: 8-9mm W: 2-3mm. Bracelet 7 inches with 2 inches of chain extension.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9134789633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>04052017-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309066625125</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-pearl-drop-necklace-set-with-vintage-cz-3045s-g"/>
+    <title>Gold Pearl Drop Necklace Set with Vintage CZ 3045S-G</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-pearl-drop-necklace-set-with-vintage-cz-3045s-g.jpg?v=1601094139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This classic gold bridal or bridesmaid necklace and earrings set has vintage pave CZ petals and soft creme pearl drops. This bridal set has an adjustable 16" -19" necklace with a 12mm pearl drop. The dainty earrings feature 10mm pearls and are 3/4" h. This set will add a touch of class to any wedding at a fabulous price!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309066625125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>07052018-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309066100837</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-cz-pave-ribbons-necklace-set-3033s"/>
+    <title>Vintage CZ Pave Ribbons Necklace Set 3033S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-cz-pave-ribbons-necklace-set-3033s.jpg?v=1601094138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This magnificent silver rhodium bridal necklace and earrings set has a shimmering pave ribbon design featuring inlaid CZ's and soft crème pearl drops. This exquisite bridal set has a 16" necklace and drops 2" at the center. The earrings measure 1 3/8" h.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309066100837</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>07052018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309065248869</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-and-cz-baguettes-necklace-set-261s"/>
+    <title>Pearl and CZ Baguettes Necklace Set 261S</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-and-cz-baguettes-necklace-set-261s.jpg?v=1601094137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This regal wedding necklace and earrings set sparkles with beautiful cubic zirconia baguettes and soft creme pearls in an Art Nouveau design. This rhodium plated jewelry also makes a great bridesmaid necklace set. The necklace measures 16" with a 1 1/4" pendant and the  earrings are a dainty 3/4" h. This set includes a complimentary leatherette store display easel.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309065248869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>07052018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309064331365</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/best-selling-rose-gold-vintage-floral-bridal-brooch-471p-rg"/>
+    <title>Best Selling Rose Gold Vintage Floral Bridal Brooch 471P-RG</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/best-selling-rose-gold-vintage-floral-bridal-brooch-471p-rg.jpg?v=1601094135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This best-selling Rose Gold bridal brooch is this magnificent geometric floral design bursting with sparkling crystals. This popular wedding pin measures 2 7/8" w and 2" h and is a beautiful accessory for your bridal gown or your bridesmaids' dresses. It is plated in high quality Rose Gold and is also available in antique Hematite as 471P-HM or Silver as 471P.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309064331365</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07052018-9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309063053413</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/best-selling-vintage-floral-bridal-brooch-471p-hm"/>
+    <title>Best Selling Vintage Floral Bridal Brooch 471P-HM</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/best-selling-vintage-floral-bridal-brooch-471p-hm.jpg?v=1601094134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span> This best-selling wedding brooch is this magnificent geometric floral design bursting with sparkling hematite crystals. This popular wedding pin measures 2 7/8" w and 2" h and is a beautiful accessory for bridesmaids, prom or mother of the bride dresses.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309063053413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07052018-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309062529125</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-rose-special-occasion-brooch-971p-as"/>
+    <title>Vintage Rose Special Occasion Brooch 971P-AS</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-rose-special-occasion-brooch-971p-as.jpg?v=1601094133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Accessorize your special occasion dress with our vintage rose brooch featuring antique silver and inlaid black diamond Austrian crystals.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309062529125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>07052018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309055909989</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/art-deco-fan-design-cubic-zirconia-wedding-earrings-4073e"/>
+    <title>Art Deco &quot;Fan&quot; Design Cubic Zirconia Wedding Earrings 4073E</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/art-deco-fan-design-cubic-zirconia-wedding-earrings-4073e.jpg?v=1601094132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This heirloom quality Cubic Zirconia bridal earrings are 1 5/8" h x 3/4" w and feature intricate jewel encrusted Art Deco fan designs. They are plated in Genuine Silver Rhodium and are sure to look like priceless family jewels at your wedding!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309055909989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>07052018-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309055516773</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/art-deco-fan-design-cubic-zirconia-wedding-necklace-4073ne"/>
+    <title>Art Deco &quot;Fan&quot; Design Cubic Zirconia Wedding Necklace 4073NE</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/art-deco-fan-design-cubic-zirconia-wedding-necklace-4073ne.jpg?v=1601094131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            269.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 16" Art Deco Cubic Zirconia Bridal Necklace has a stunning design of 7 fans with a 1" center drop. Our genuine silver rhodium wedding necklace has Marquis CZ's fully spanning the back of the neck.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309055516773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">269.99</s:price>
+      <s:sku>07052018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309052993637</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-pearl-chandelier-wedding-earrings-with-cubic-zirconia-encrusted-french-wires-4067e"/>
+    <title>Vintage Pearl Chandelier Wedding Earrings with Cubic Zirconia Encrusted French Wires 4067E</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-pearl-chandelier-wedding-earrings-with-cubic-zirconia-encrusted-french-wires-4067e.jpg?v=1601094130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These graceful Wedding Earrings have 3mm Ivory Pearls cascading from a vintage jewel encrusted Cubic Zirconia motif &amp; bejeweled French wire. Wear these 2 3/4" h x 7/8" w lacy Bridal earrings and adorn your wedding gown with Old Hollywood glamour!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309052993637</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07052018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309046210661</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/icing-on-the-cake-chandelier-earrings-with-pink-gems-4365e-pch-g"/>
+    <title>Icing on the Cake Chandelier Earrings with Pink Gems 4365E-PCH-G</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/icing-on-the-cake-chandelier-earrings-with-pink-gems-4365e-pch-g.jpg?v=1601094129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These glorious statement earrings have the sweet look of a dreamy wedding cake iced to perfection. Our chandeliers are hand-adorned with intricate Pink Crystal gems, baby pearls and bead chain for a blissful marriage of glamour and whimsy. 2 1/2" h 1 1/4" w</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309046210661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>07052018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1309044047973</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-gold-coral-color-bridal-or-prom-stretch-bracelet-with-crystals-532b-rg"/>
+    <title>Rose-Gold Coral Color Bridal or Prom Stretch Bracelet with Crystals 532B-RG</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-gold-coral-color-bridal-or-prom-stretch-bracelet-with-crystals-532b-rg.jpg?v=1601094127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our stretch bracelet with shimmering blush colored crystals!  It's the perfect accessory for couture bridal gowns, bridesmaids, proms or homecomings. Our 1/2" w stretch bracelet  plated in striking Rose Gold is available at a great price!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1309044047973</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>07052018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308658860133</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/top-selling-handmade-tiara-necklace-earrings-set-with-genuine-crystals-4005ts"/>
+    <title>Top-Selling Handmade Tiara, Necklace &amp; Earrings Set with Genuine Crystals 4005TS</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/top-selling-handmade-tiara-necklace-earrings-set-with-genuine-crystals-4005ts.jpg?v=1601094124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our handmade 3-piece Genuine Crystal Wedding Set includes a Tiara with a 9 1/2" w x 1 1/2" abstract design, an adj. 14" to 17" Necklace with a 1 1/2" h center &amp; 1 3/4" h dangle earrings. Own this chic Bridal Tiara, Neck &amp; Earrings set at a great low price!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308658860133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07042018-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308657975397</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-row-clear-gold-rhinestone-wedding-or-prom-stretch-bracelet-4124b-g"/>
+    <title>10-Row Clear Gold Rhinestone Wedding or Prom Stretch Bracelet 4124B-G</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-row-clear-gold-rhinestone-wedding-or-prom-stretch-bracelet-4124b-g.jpg?v=1601094123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>If you love Old Hollywood, you'll love this stunning rhinestone jewelry.  With 10 rows of sparkling rhinestones, this 7" stretch bracelet measures 1 1/4" wide and gives you all the glamour and style of real diamond jewelry.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308657975397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>07042018-14N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1308655157349</id>
+    <published>2018-07-03T11:25:28-05:00</published>
+    <updated>2018-07-03T11:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/5-row-stretch-ab-rhinestone-prom-or-bridesmaid-bracelet-1009b-ab"/>
+    <title>5-Row Stretch AB Rhinestone Prom or Bridesmaid Bracelet 1009B-AB</title>
+    <s:type>Bridal Prom Jewelry</s:type>
+    <s:vendor>Mariell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/5-row-stretch-ab-rhinestone-prom-or-bridesmaid-bracelet-1009b-ab.jpg?v=1601094122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mariell<br>
+        <strong>Type: </strong>Bridal Prom Jewelry<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>For fabulous sparkle, wear this top-selling 5-row AB rhinestone stretch bracelet measuring 3/4' w and plated in silver rhodium. This one size fits all rhinestone bracelet will match with any bridal, prom or bridesmaids dress.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1308655157349</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>07042018-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

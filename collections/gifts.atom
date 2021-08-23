@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T10:18:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6598000181337</id>
+    <published>2021-06-22T13:22:49-05:00</published>
+    <updated>2021-06-22T13:22:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchanted-garden-address-book"/>
+    <title>Enchanted Garden Address Book</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchanted-garden-address-book.jpg?v=1624453462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Roses, Butterflies and Pretty Floral pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6598000181337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268749697</id>
+    <published>2021-06-22T13:15:16-05:00</published>
+    <updated>2021-06-22T13:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-address-book"/>
+    <title>Vintage Garden Address Book - Just 1 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-address-book-just-1-available.jpg?v=1624407151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268749697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268131201</id>
+    <published>2021-06-22T13:10:02-05:00</published>
+    <updated>2021-06-22T13:10:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-note-cards"/>
+    <title>Vintage Garden Note Cards - Only 1 Left</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-note-cards-only-1-left.jpg?v=1624407142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace</p>
+<p>8 Note Cards with Pink Foil and 2 Layer Embossing</p>
+<p>Pink Envelopes</p>
+<p>Approx 4x5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268131201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268278657</id>
+    <published>2021-06-22T13:08:15-05:00</published>
+    <updated>2021-06-22T13:08:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-memo-pad-with-pen"/>
+    <title>Vintage Garden Memo Pad with Pen - Just 2 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-memo-pad-with-pen-just-2-available.jpg?v=1624407146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll fine gorgeous Pink Florals, Butterflies and Lace and even Pink Foil on this Memo Pad and Pen Set.</p>
+<p>65 Sheets <span>Approx 5.3x5.5 inches</span></p>
+<p>Coordinating Pen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268278657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1497755841</id>
+    <published>2021-06-14T12:20:45-05:00</published>
+    <updated>2021-06-14T12:20:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-tiffany-bookmark"/>
+    <title>12 Tiffany Stained Glass Bookmarks in Booklet</title>
+    <s:type>Bookmarks</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-tiffany-stained-glass-bookmarks-in-booklet.jpg?v=1601089426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Bookmarks<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add a touch of elegance to any reading material with these Tiffany-inspired bookmarks. Twelve glorious designs, based on the stylish stained glass creations of Louis Comfort Tiffany, include details from a window of trellised trumpet vines, a floral skylight, sulphur-crested cockatoos, a peacock window, a domestic panel with parrots and hibiscus, and seven other magnificent motifs. </p>
+<p>Stained glass enthusiasts , admirers of Tiffany's art, and bibliophiles will treasure these captivating decorative accents. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>VSI</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1497755841</id>
+      <title>Default</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4772895162457</id>
+    <published>2021-01-08T13:40:28-06:00</published>
+    <updated>2021-01-08T13:40:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue and Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-and-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1610197443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4772895162457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4744122630233</id>
+    <published>2020-10-28T18:20:15-05:00</published>
+    <updated>2020-10-28T18:20:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag"/>
+    <title>Holiday Christmas Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag Gift  Bird on Stacked Tea Cups Spiced Mug and Tea Cup Mat with Tea Bag</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holiday-christmas-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag-gift-bird-on-stacked-tea-cups-spiced-mug-and-tea-cup-mat-with-tea-bag.jpg?v=1603976605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. Pocket across the front of the mat holds a packet of Celestial Seasonings Tea.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4744122630233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726503637081</id>
+    <published>2020-09-25T18:05:47-05:00</published>
+    <updated>2020-09-25T18:05:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Burgundy Lace Tassel Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-burgundy-lace-tassel-purse-lavender-sachet-only-1-available.jpg?v=1601095206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet! Pink lace, lovely soft tassels, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726503637081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726502195289</id>
+    <published>2020-09-25T18:02:14-05:00</published>
+    <updated>2020-09-25T18:02:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-blue-lace-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Blue Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-blue-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Blue lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726502195289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4726500753497</id>
+    <published>2020-09-25T17:56:00-05:00</published>
+    <updated>2020-09-25T17:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-pink-purse-lavender-sachet-only-1-available"/>
+    <title>Victorian Pink Lace Purse Lavender Sachet  - Only 1 Available!</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-pink-lace-purse-lavender-sachet-only-1-available.jpg?v=1601095204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant lace purse sachet!  Pink lace, florals, faux pearls, glass beading, sequins,  and sparkles add that special touch of romantic beauty to your home!  USA  Handmade by an amazing artist!  You'll LOVE it!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4726500753497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>0925201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4686333837401</id>
+    <published>2020-07-18T15:00:21-05:00</published>
+    <updated>2020-07-18T15:00:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/moms-are-like-buttons-lace-wall-hanger-included"/>
+    <title>Moms Are Like Buttons Lace Wall Hanger Included</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/moms-are-like-buttons-lace-wall-hanger-included.jpg?v=1595163721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Welcome Friends Lace Wall Hanger Included</strong></p>
+<p><span class="Green"><b>DETAILS</b></span></p>
+<ul>
+<li>Wall hanging measures 12" x 15"</li>
+<li>May all who enter as guests leave as Friends<br>
+</li>
+<li>Graphic art transfer</li>
+<li>Wire and wood hanger included</li>
+</ul>
+<span class="Green"><b>CARE &amp; CONTENT</b></span><br>
+<p>100% polyester. Machine wash cold, gentle. Do not bleach. Lay flat or hang to dry. Touch up with cool iron if desired.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4686333837401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4686333247577</id>
+    <published>2020-07-18T14:58:03-05:00</published>
+    <updated>2020-07-18T14:58:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/friends-lace-wall-hanger-included"/>
+    <title>Welcome Friends Lace Wall Hanger Included</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/welcome-friends-lace-wall-hanger-included.jpg?v=1595163720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Welcome Friends Lace Wall Hanger Included</strong></p>
+<p><span class="Green"><b>DETAILS</b></span></p>
+<ul>
+<li>Wall hanging measures 12" x 15"</li>
+<li>May all who enter as guests leave as Friends<br>
+</li>
+<li>Graphic art transfer</li>
+<li>Wire and wood hanger included</li>
+</ul>
+<span class="Green"><b>CARE &amp; CONTENT</b></span><br>
+<p>100% polyester. Machine wash cold, gentle. Do not bleach. Lay flat or hang to dry. Touch up with cool iron if desired.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4686333247577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4686332493913</id>
+    <published>2020-07-18T14:52:59-05:00</published>
+    <updated>2020-07-18T14:52:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/live-laugh-love-friend-lace-inspirational-wall-hanger"/>
+    <title>Live Laugh Love Friend Lace Inspirational Wall Hanger</title>
+    <s:type>Lace Accents</s:type>
+    <s:vendor>Heritage Lace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/live-laugh-love-friend-lace-inspirational-wall-hanger.jpg?v=1595163719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heritage Lace<br>
+        <strong>Type: </strong>Lace Accents<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Live Laugh Love Friend Lace Inspirational Wall Hanger</strong></p>
+<p><span class="Green"><b>DETAILS</b></span></p>
+<ul>
+<li>Wall hanging measures 12" x 27"</li>
+<li>A Friend Loves At All Times<br>
+</li>
+<li>Graphic art transfer</li>
+<li>Wire and wood hanger included</li>
+</ul>
+<span class="Green"><b>CARE &amp; CONTENT</b></span><br>
+<p>100% polyester. Machine wash cold, gentle. Do not bleach. Lay flat or hang to dry. Touch up with cool iron if desired.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4686332493913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0718201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670677418073</id>
+    <published>2020-06-30T16:43:22-05:00</published>
+    <updated>2020-06-30T16:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet"/>
+    <title>Sparkling Hematite Crystal and Silver Bead Stretch Bracelet</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-hematite-crystal-and-silver-bead-stretch-bracelet.jpg?v=1601095198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our single row stretch bracelets from Becca's Bling feel fabulous on the arm! The sparkle is amazing, and the color selection is fantastic! Ultra chic hematite adds a classic look to any outfit.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670677418073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>9271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4652489539673</id>
+    <published>2020-06-06T12:50:26-05:00</published>
+    <updated>2020-06-06T12:50:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/woman-of-god-bookmark-pen-gift-set"/>
+    <title>Woman of God Bookmark Pen Gift Set</title>
+    <s:type>Christian Gifts</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Woman-of-God-Bookmark-Pen-Gift-Set_4c5d2fd7-2630-4ef2-b874-883ce7f7841d.jpg?v=1629159172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Woman of God Bookmark Pen Gift Set includes a thinner, sleeker profile click pen with inspirational scripture bookmark. The gift box has been re-designed to fit more easily in a purse or tote.
+<p><br>Gift Set includes:</p>
+<ul>
+<li>Click pen is 5-1/2" in length and has black ink.</li>
+<li>Bookmark measures 1-1/2" x 5-7/8"</li>
+<li>Packaged together in a Wrapped &amp; Ready acrylic box.</li>
+</ul>
+<p><br><em>We are his workmanship created in Christ Jesus.</em><span> </span>Ephesians 2:10 KJV</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4652489539673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0606201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491586043993</id>
+    <published>2020-02-28T10:05:28-06:00</published>
+    <updated>2020-02-28T10:05:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-spring-showers-hankie-dress-teddy-bear-blue"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Blue</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-blue.jpg?v=1582981439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely blue bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491586043993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4491584405593</id>
+    <published>2020-02-28T09:56:57-06:00</published>
+    <updated>2020-02-28T09:56:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-showers-hankie-dress-teddy-bear-pink"/>
+    <title>Spring Showers Hankie Dress Teddy Bear - Pink</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-showers-hankie-dress-teddy-bear-pink.jpg?v=1582981438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring Showers Hankie Dress Teddy Bear - Wearing an adorable pink hankie dress featuring umbrellas and a spring showers theme.  She is wearing a lovely pink bow and holding her own umbrella.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4491584405593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2406539201</id>
+    <published>2020-02-28T09:56:57-06:00</published>
+    <updated>2020-02-28T09:56:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-10-victorian-bookmarks"/>
+    <title>Set of 10 Victorian Bookmarks</title>
+    <s:type>Bookmarks</s:type>
+    <s:vendor>Iprint</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-10-victorian-bookmarks.jpg?v=1601091609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iprint<br>
+        <strong>Type: </strong>Bookmarks<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10 Quantity Bookmarks<br> Our Bookmark Designs are created from special graphics which we have commissioned and/or purchased a license to use! They make wonderful gifts and favors, are easy to mail, and are very inexpensive!</p>
+<p>Bookmarks are made from 14pt card stock with a clear UV coating. They are 2 inches by 6.5 inches in size.</p>
+<p>Bookmarks feature <span>vibrant images of Victorian gloves, purse, hat pins, parasol, diary and pen, cameo jewelry and elegant lady.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pens &amp; Tea Stationery</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2406539201</id>
+      <title>Default</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>22401N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482702573657</id>
+    <published>2020-02-21T19:54:49-06:00</published>
+    <updated>2020-02-21T19:54:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/luck-be-a-lady-shamrock-hankie-dress-teddy-bear-just-1-available-today-1"/>
+    <title>Luck Be a Lady Shamrock Hankie Dress Teddy Bear - Just 1 Available Today!!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/luck-be-a-lady-shamrock-hankie-dress-teddy-bear-just-1-available-today_0c281525-ec2d-4d1f-a399-28b320fdd6f0.jpg?v=1587860230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luck Be a Lady Shamrock Hankie Dress Teddy Bear is all dressed up in her best Iris attire.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482702573657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482600730713</id>
+    <published>2020-02-21T15:15:59-06:00</published>
+    <updated>2020-02-21T15:15:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/eleanor-victorian-teddy-bear-1"/>
+    <title>Valerie Victorian Teddy Bear - One of a Kind!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valerie-victorian-teddy-bear-one-of-a-kind.jpg?v=1582376692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Valerie Victorian Teddy Bear is so elegant in her gown all dressed up ready to delight! Approximately 9” has hair bow and dress of tulle, organza, lace, embellished with satin roses and pearls. She wears rhinestone rings and earrings to finish off her romantic look.<br>Clothes do not come off. Bear and clothing are both made in the USA</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482600730713</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>12112018-4NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482510225497</id>
+    <published>2020-02-21T12:53:34-06:00</published>
+    <updated>2020-02-21T12:53:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ring-around-the-rosey-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Ring Around the Rosey Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ring-around-the-rosey-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ring Around the Rosey Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482510225497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482433679449</id>
+    <published>2020-02-21T11:29:08-06:00</published>
+    <updated>2020-02-21T11:29:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-floral-and-butterflies-tea-cup-candle"/>
+    <title>Lovely Lavender Floral and Butterflies Tea Cup Candle - 2 Gifts in 1!!</title>
+    <s:type>Tea Cup Candles</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-floral-and-butterflies-tea-cup-candle-2-gifts-in-1.jpg?v=1582376684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Cup Candles<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our full-size Floral Porcelain Tea Cup Candles come Gift Wrapped and ready to give!</span><br><span>They are very lightly scented with a floral blend and the soy wax burns beautifully. When the candle is gone, a quick wash up allows you to enjoy the tea cup for your tea or coffee!  Just 3 Available!!!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482433679449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>6536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482430238809</id>
+    <published>2020-02-21T11:25:21-06:00</published>
+    <updated>2020-02-21T11:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-in-lilacs-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Lovely in Lilacs Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-in-lilacs-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lovely in Lilacs Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482430238809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482421489753</id>
+    <published>2020-02-21T11:03:41-06:00</published>
+    <updated>2020-02-21T11:03:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bella-blue-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today"/>
+    <title>Bella Blue Soft and Fuzzy Hankie Dress Teddy Bear - Just 1 Available Today!</title>
+    <s:type>Victorian Teddy Bears</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bella-blue-soft-and-fuzzy-hankie-dress-teddy-bear-just-1-available-today.jpg?v=1582376681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Victorian Teddy Bears<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bella Blue Soft and Fuzzy Hankie Dress Teddy Bear are so soft and ready for play or posing on your shelf.  Her dress is a made from real vintage style hankies and she measure a large and fuzzy 11 inches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482421489753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>02211\201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

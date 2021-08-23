@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/cameo-jewelry-cameo-earrings-bracelets-necklace.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-12T09:57:27-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2131772571737</id>
+    <published>2019-07-12T09:57:27-05:00</published>
+    <updated>2019-07-12T09:57:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shes-a-lady-cameo-scrolling-frame-and-sparkle-earrings-limited-supply"/>
+    <title>She&apos;s a Lady Cameo Scrolling Frame and Sparkle Earrings - Limited Supply!</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shes-a-lady-cameo-scrolling-frame-and-sparkle-earrings-limited-supply.jpg?v=1601094879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our She's a Lady Cameo Scrolling Frame and Sparkle Earrings shows a lovely cameo lady set in a crystal detailed frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2131772571737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0712191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2124691669081</id>
+    <published>2019-07-02T16:50:07-05:00</published>
+    <updated>2019-07-02T16:50:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sew-cute-sewing-scissor-pin"/>
+    <title>Sew Cute Sewing Scissor Pin</title>
+    <s:type>Brass Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sew-cute-sewing-scissor-pin.jpg?v=1601094864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Brass Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our handcrafted antiqued natural brass sewing theme scissors charm pin measures 2.5 inches long. It features Swarovski Austrian crystals and sewing theme charms- thread spool, sewing machine,thimble and pin cushion.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2124691669081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>070219-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120479670361</id>
+    <published>2019-06-25T15:32:51-05:00</published>
+    <updated>2019-06-25T15:32:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/my-fair-lady-cameo-brooch-pendant-antiqued-silver-very-limited"/>
+    <title>My Fair Lady Cameo Brooch Pendant - Antiqued Silver - Very Limited!</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-fair-lady-cameo-brooch-pendant-antiqued-silver-very-limited.jpg?v=1601094835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">My Fair Lady Cameo Brooch Pendant - Antiqued Silver has overwhelming beauty to the beholder with it's lovely black and grey crystals and elegant setting.  This item can be worn as brooch or hung as a pendant on a necklace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120479670361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>062519-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2085021581401</id>
+    <published>2019-05-08T12:12:50-05:00</published>
+    <updated>2019-05-08T12:12:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lady-on-cameo-silver-brooch-pin"/>
+    <title>Lady on Blue Cameo Silver Brooch Pin - Only 1 Available!</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lady-on-blue-cameo-silver-brooch-pin-only-1-available.jpg?v=1601094751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our antique reproduction cameo brooches below give you an elegant look at an amazingly low price. Each cameo is set in a lace edged bezel on an antiqued silver plated decorative brass frame. Pin frames measure 2.25 inches long by 1.75 inches wide.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Jewelry &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2085021581401</id>
+      <title>Default</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959742373977</id>
+    <published>2019-01-14T17:03:15-06:00</published>
+    <updated>2019-01-14T17:03:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-earrings"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Earrings</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-earrings.jpg?v=1582071406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These vintage inspired Victorian romance heart earrings measure 2.25" in length. These gorgeous earrings are made in antiqued natural brass with our special anti tarnish lacquer finish. The heart drops feature hand pronged genuine Swarovski Austrian crystals and hypo allergenic surgical steel genuine Swarovski Austrian crystal earring posts too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959742373977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>011419-7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/750056407141</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-cameo-necklace"/>
+    <title>Cameo Necklace in 3 Colors</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>CharmedOne Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-necklace-in-3-colors.jpg?v=1601093986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CharmedOne Etsy<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Cameo Necklace in 3 Color Choices.  Gold leaf frames, Swarovski crystals.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/750056407141</id>
+      <title>Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04202018-7N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/750056407141</id>
+      <title>Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04202018-7N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/750056407141</id>
+      <title>Carnelain</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>04202018-7N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/750045823077</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-cameo-brooch-in-silver-scroll-frame"/>
+    <title>Blue Cameo Brooch in Silver Scroll Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>CharmedOne Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-cameo-brooch-in-silver-scroll-frame.jpg?v=1601093985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CharmedOne Etsy<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This antique reproduction pin gives you a real heirloom look and feel at a great price! The matte blue sapphire porcelain flowers stone is set in a lace edged bezel on an antique silver plated brass frame with safety catch pin. Pin measures 2.25 inches long by 1.75 inches wide.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/750045823077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>04202018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504446465</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-antique-rose-porcelain-crystal-earrings-in-leaf-frame"/>
+    <title>Cameo Antique Rose Porcelain Crystal Earrings in Leaf Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-antique-rose-porcelain-crystal-earrings-in-leaf-frame.jpg?v=1601089518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Cameo Antique Rose Porcelain Crystal Earrings in Leaf Frame USA MADE using oxidized brass and porcelain cameo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504446465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504441089</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-antique-rose-porcelain-drop-earrings-in-leaf-frame"/>
+    <title>Cameo Antique Rose Porcelain Drop Earrings in Leaf Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-antique-rose-porcelain-drop-earrings-in-leaf-frame.jpg?v=1601089517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Cameo Antique Rose Porcelain Drop Earrings in Leaf Frame  USA made using oxydized brass and porcelain rose cameo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504441089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>5997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504434305</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-antique-rose-porcelain-button-earrings-in-leaf-frame"/>
+    <title>Cameo Antique Rose Porcelain Button Earrings in Leaf Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-antique-rose-porcelain-button-earrings-in-leaf-frame.jpg?v=1601089516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Cameo Antique Rose Porcelain Button Earrings in Leaf Frame  Hypoallergenic posts, USA Made, sweet rose image set in oxydized brass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504434305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504429249</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-bright-rose-porcelain-button-earrings-in-leaf-frame"/>
+    <title>Cameo Bright Rose Porcelain Button Earrings in Leaf Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-bright-rose-porcelain-button-earrings-in-leaf-frame.jpg?v=1601089515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Cameo Bright Rose Porcelain Button Earrings in Leaf Frame  USA made with hypoallergenic posts and oxydized brass with porcelain cameos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504429249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504424321</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-porcelain-cameo-earrings-in-lace-scroll-frame"/>
+    <title>Rose Porcelain Cameo Earrings in Lace Scroll Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-porcelain-cameo-earrings-in-lace-scroll-frame.jpg?v=1601089514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504424321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504417665</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-cameo-and-crystal-post-earrings"/>
+    <title>Black Cameo and Crystal Post Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-cameo-and-crystal-post-earrings.jpg?v=1601089513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Black Cameo and Crystal Post Earrings Oxydized Brass USA MADE Hypoallergenic posts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504417665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>2703</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504412865</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-blue-dangle-earrings"/>
+    <title>Cameo Blue Dangle Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-blue-dangle-earrings.jpg?v=1601089512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cameo earrings with crystal connectors in classic colors will add a vintage look to your attire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504412865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504390977</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cameo-lilac-crystal-drop-earrings"/>
+    <title>Cameo Lilac Crystal Drop Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cameo-lilac-crystal-drop-earrings.jpg?v=1601089511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cameo earrings with crystal connectors in classic colors will add a vintage look to your attire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504390977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504380929</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carnelian-cameo-dangle-earrings"/>
+    <title>Carnelian Cameo Dangle Earrings - 2 Left</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carnelian-cameo-dangle-earrings-2-left.jpg?v=1601089510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Cameo earrings with crystal connectors in classic colors will add a vintage look to your attire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504380929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>6015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504358785</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-cameo-dangle-earrings"/>
+    <title>Black Cameo Dangle Earrings - 2 Left!</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-cameo-dangle-earrings-2-left.jpg?v=1582071155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sweet little black cameo earrings with crystal connectors will add a classic look to your attire.  USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504358785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>2700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504312961</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-cameo-and-crystal-drop-earrings"/>
+    <title>Black Cameo and Crystal Drop Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-cameo-and-crystal-drop-earrings_966d0a93-3285-4228-a799-3c2b3c34ece9.jpg?v=1624457793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These antique reproduction black cameo drop earrings are set in an antique style frame and accented with crystals. Hand crafted in the USA! </span><span>The cameo is set in a lace edged bezel on an antiqued natural brass frame with Austrian crystal earring posts and drop. Earrings measure 2.75 inches long.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504312961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504269185</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/green-cameo-and-crystal-drop-earrings"/>
+    <title>Green Cameo and Crystal Drop Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/green-cameo-and-crystal-drop-earrings.jpg?v=1601089507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These antique reproduction green cameo drop earrings are set in an antique style frame and accented with crystals.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504269185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>5990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504238401</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cornelian-cameo-and-crystal-drop-earrings"/>
+    <title>Cornelian Cameo and Crystal Drop Earrings _ Only 2 left!</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cornelian-cameo-and-crystal-drop-earrings-_-only-2-left.jpg?v=1601089505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These antique reproduction earrings are set in an antique style frame and accented with crystals. Posts are surgical steel. Matching Cameo Pins are found below!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504238401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>6015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504233281</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-cameo-and-crystal-drop-earrings"/>
+    <title>Blue Cameo and Crystal Drop Earrings - Only 3 Left</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-cameo-and-crystal-drop-earrings-only-3-left.jpg?v=1601089503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <span>These antique reproduction earrings are set in an antique style frame and accented with crystals. Posts are surgical steel. Matching Cameo Pins are found below!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504233281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>062221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504228801</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-cameo-dangle-earrings"/>
+    <title>Pink Cameo Dangle Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-cameo-dangle-earrings.jpg?v=1601089501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504228801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504225729</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lilac-cameo-dangle-earrings"/>
+    <title>Lilac Cameo Dangle Earrings</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lilac-cameo-dangle-earrings.jpg?v=1601089499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The porcelain flowers limoge stone is set in a romantic scroll frame.</span><br><span>The connectors are antiqued natural brass with Austrian crystals.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504225729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504220673</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/antique-roses-porcelain-cameo-jewelry-necklace-scroll-frame"/>
+    <title>Antique Roses Porcelain Cameo Jewelry Necklace Scroll Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/antique-roses-porcelain-cameo-jewelry-necklace-scroll-frame_76cf28f3-2845-4e4c-ab15-3b50a09e0e04.jpg?v=1624457792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The porcelain flowers limoge stone is set in a romantic scroll frame.</span><br><span>The connectors are antiqued natural brass with Austrian crystals.</span></p>
+<p><span>USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504220673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504216833</id>
+    <published>2015-07-11T12:54:00-05:00</published>
+    <updated>2015-07-11T12:54:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-roses-porcelain-cameo-jewelry-necklace-leaf-frame"/>
+    <title>Pink Roses Porcelain Cameo Jewelry Necklace Leaf Frame</title>
+    <s:type>Cameo Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-roses-porcelain-cameo-jewelry-necklace-leaf-frame.jpg?v=1601089495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Cameo Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The porcelain flowers limoge stone is set in a lace edged bezel on an antiqued natural brass flower frame.</span><br><span>The 24" Figaro link necklace chain is antique gold plated.</span><br><span>The connectors are antiqued natural brass with Austrian crystals.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504216833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>5981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

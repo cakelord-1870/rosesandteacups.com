@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/boutique.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-10T14:08:06-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177275035737</id>
+    <published>2019-09-10T14:08:06-05:00</published>
+    <updated>2019-09-10T14:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ribbon-awareness-party-favors-set-of-3-sachets"/>
+    <title>Pink Ribbon Awareness Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ribbon-awareness-party-favors-set-of-3-sachets.jpg?v=1601094972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Ribbon Awareness Party Favors Set of 3 Sachets are filled with divine smelling real lavender buds. This sweet little gift has a pretty pink ribbon thoughtfully attached for hanging. </p>
+<p>FMeasures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177275035737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177271038041</id>
+    <published>2019-09-10T12:43:58-05:00</published>
+    <updated>2019-09-10T12:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peter-rabbit-fall-party-favors-set-of-3-sachets"/>
+    <title>Peter Rabbit Fall Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peter-rabbit-fall-party-favors-set-of-3-sachets.jpg?v=1601094971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peter Rabbit Fall Party Favors Set of 3 Sachets with Pumpkin Spice Scent! Perfect Fall party gifts! </p>
+<p>Measures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177271038041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169292947545</id>
+    <published>2019-09-01T15:58:06-05:00</published>
+    <updated>2019-09-01T15:58:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gossiping-tea-ladies-lavender-teacup-teapot-ornament-sachet"/>
+    <title>Gossiping Tea Ladies Lavender Teacup &amp; Teapot Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gossiping-tea-ladies-lavender-teacup-teapot-ornament-sachet.jpg?v=1601094960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Gossiping Tea Ladies Lavender Teacup &amp; Teapot Ornament Sachet is lacy, feminine, and functional. It is filled with divine smelling real lavender buds and decorated with little porcelain teacups and teapot. Hangs by a strand of faux pearls and adorned with heart shaped beading and satin bows.</p>
+<p>Roses And Teacups Exclusive</p>
+<p>Made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169292947545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>090119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2162215125081</id>
+    <published>2019-08-23T12:05:23-05:00</published>
+    <updated>2019-08-23T12:05:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cherub-lacy-lavender-ornament-sachet"/>
+    <title>Cherub Lacy Lavender Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherub-lacy-lavender-ornament-sachet.jpg?v=1601094944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Cherub Lacy Lavender Ornament Sachet is simply divine! Filled with real lavender buds, decorated with satin &amp; shimmering jewels plus accented with irredessent glitter. Hangs by a strand of faux pearls. Makes an amazing gift, party favor and perfect for decor. </p>
+<p>Made in the USA </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2162215125081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0823196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2161449861209</id>
+    <published>2019-08-22T12:12:08-05:00</published>
+    <updated>2019-08-22T12:12:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-pretty-kitty-in-pink-teacup-ornament-lavender-sachet"/>
+    <title>Miss Pretty Kitty in Pink Teacup Ornament Lavender Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-pretty-kitty-in-pink-teacup-ornament-lavender-sachet.jpg?v=1601094935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Miss Pretty Kitty in Pink Teacup Ornament Lavender Sachet is filled with divine smelling lavender buds, surrounded by glittered lace, and accented with sparkly mirror trim. Hang by a strand faux of pearls and watch the dance of sparkles and enjoy the lovely scent of lavender. </p>
+<p>Made in the USA </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2161449861209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0822191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2160663724121</id>
+    <published>2019-08-21T12:01:25-05:00</published>
+    <updated>2019-08-21T12:01:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-blue-bird-lacy-lavender-ornament-sachet"/>
+    <title>Beautiful Blue Bird Lacy Lavender Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-blue-bird-lacy-lavender-ornament-sachet.jpg?v=1601094934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Beautiful Blue Bird Lacy Lavender Ornament Sachet is so dainty and so pretty! Did you know <span>Bluebird symbolism is often associated with positivity. Blue birds also symbolize knowledge, hope, pleasure, good health, prosperity, enlightenment, growth, fertility, birth, renewal, change, new beginnings, messages from God, our spirit guides, or your departed loved ones, the victory of good over evil, and they have many other beneficial meanings. This lovely sachet is filled with real lavender buds and smell fabulous! Hangs by a strand of faux pearls and has heart shaped beading. The little bird is hand made and absolutely adorable! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2160663724121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0821191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2159932997721</id>
+    <published>2019-08-20T13:08:32-05:00</published>
+    <updated>2019-08-20T13:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/miss-pretty-kitty-lavender-ornament-sachet"/>
+    <title>Miss Pretty Kitty Lavender Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/miss-pretty-kitty-lavender-ornament-sachet.jpg?v=1601094930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Miss Pretty Kitty Lavender Ornament Lace Sachet is just lovely! Filled with real divine smelling lavender, adorned with ribbon bows and hearts. Miss Pretty Kitty is joined by a beautiful blue bird and had roses all around. The crocheted lace is lightly dusted with glitter and so is the roses, birdie and her ribbon. Hangs by a small strand of pearls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2159932997721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0820191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2158548451417</id>
+    <published>2019-08-18T15:30:19-05:00</published>
+    <updated>2019-08-18T15:30:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shes-a-lady-lavender-ornament-sachet"/>
+    <title>She&apos;s A Lady Lavender Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shes-a-lady-lavender-ornament-sachet.jpg?v=1601094928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our She's A Lady Lavender Ornament Sachet is all dressed up with satin, gold and sparkle! Each is filled with divine smelling real lavender and adorned with heart shaped beading.</p>
+<p>Made in the USA </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2158548451417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0828292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2158471938137</id>
+    <published>2019-08-18T12:25:12-05:00</published>
+    <updated>2019-08-18T12:25:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lacy-lavender-teacup-ornament-sachet"/>
+    <title>Lovely Lacy Lavender Teacup Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lacy-lavender-teacup-ornament-sachet.jpg?v=1601094926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Lovely Lacy Lavender Teacup Ornament Sachet is filled with real lavender so each smell divine. There is adorable porcelain teacup ornaments on each side and satin pearly roses at the top. Pictured is a beautiful blue bird, pretty pink roses sitting in s Tiffany blue tea cup all with a hint of irredessent glitter.</p>
+<p>Made on the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2158471938137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0818191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1999710912601</id>
+    <published>2019-02-19T19:57:47-06:00</published>
+    <updated>2019-02-19T19:57:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-lace-purse-sachet-lavender-limited-supply"/>
+    <title>Victorian Lace Purse Sachet Lavender - Limited Supply!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-lace-purse-sachet-lavender-limited-supply.jpeg?v=1601094706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant purse sachet! Lovely lace, florals, beading and sparkles add that special touch of romantic beauty to your home! USA MADE. Colors limited!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1999710912601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>921919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1999682633817</id>
+    <published>2019-02-19T19:57:47-06:00</published>
+    <updated>2019-02-19T19:57:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-lace-purse-sachet-limited-supply"/>
+    <title>Victorian Lace Purse Sachet Peach - Limited Supply!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-lace-purse-sachet-peach-limited-supply.jpeg?v=1601094704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The scent of fresh lavender will fill your rooms wherever you hang this elegant purse sachet! Lovely lace, florals, beading and sparkles add that special touch of romantic beauty to your home! USA MADE. Colors limited!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1999682633817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>921919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969219928153</id>
+    <published>2019-01-24T10:23:21-06:00</published>
+    <updated>2019-01-24T10:23:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-burgundy-roses-and-tear-drop-pearl-on-ivory-lace-scented-sachets"/>
+    <title>Set of 3 Burgundy Roses and Tear Drop Pearl on Ivory Lace Scented Sachet Party Favors</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-burgundy-roses-and-tear-drop-pearl-on-ivory-lace-scented-sachet-party-favors.jpg?v=1601094636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Burgundy Roses and Tear Drop Pearl on Ivory Lace Scented Sachets has a soft lovely Lily of the Valley scent.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969219928153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>012419-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7386531457</id>
+    <published>2016-08-11T13:53:00-05:00</published>
+    <updated>2016-08-11T13:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/boxed-lace-bowtie-sachets"/>
+    <title>Boxed Lace Bowtie Sachets</title>
+    <s:type>Lace Bowtie Sachets</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/boxed-lace-bowtie-sachets.jpg?v=1601092539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Lace Bowtie Sachets<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vintage lace pocket sachets filled with concentrated rose oil potpourri beads.</p>
+<p>Scent lasts for up to 3 years!</p>
+<p>Decorated with a vintage diamante button and satin bow.</p>
+<p>Sachets come in a gift box.</p>
+<p> </p>
+<p>Dimensions: 5.5 x 3.5 inches</p>
+<p><span>Please allow extra time for these extraordinary handcrafted items.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7386531457</id>
+      <title>Pink</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>08112016-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7386531457</id>
+      <title>Cream</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>08112016-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6517526209</id>
+    <published>2016-06-11T12:16:00-05:00</published>
+    <updated>2016-06-11T12:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tutu-brooch"/>
+    <title>Pink Tutu Brooch</title>
+    <s:type>Tutu Brooch</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tutu-brooch.jpg?v=1601092411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Tutu Brooch<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for the ballerina, the mother of a ballerina, those who love ballerinas, those who dream of being ballerinas...Please allow extra time for these amazing handcrafted items!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6517526209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>06072016-106N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6517073153</id>
+    <published>2016-06-11T12:16:00-05:00</published>
+    <updated>2016-06-11T12:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/florence-scarf"/>
+    <title>Florence Scarf</title>
+    <s:type>Scarf</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/florence-scarf.jpg?v=1601092408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Scarf<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dreamy delicate vintage lace scarf can be worn like a shawl draped across the shoulders. Soft net cotton lace makes this a good staple for your wardrobe.  Available in a soft shade of Pink. <br></span></p>
+<p><span>Please allow extra time for these amazing handcrafted items!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6517073153</id>
+      <title>White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>06072016-105N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6517073153</id>
+      <title>Pink</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>06072016-105N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6515826753</id>
+    <published>2016-06-11T11:43:00-05:00</published>
+    <updated>2016-06-11T11:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearls-and-flowers-zip-clutch-bag"/>
+    <title>Lace Zip Clutch Bag Large</title>
+    <s:type>Lace Clutch Purse</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lace-zip-clutch-bag-large.jpg?v=1601092405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Lace Clutch Purse<br>
+        <strong>Price: </strong>
+            21.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lace zip clutch bag large. Measures 6.5 x 8.5 inches. Available in Cream,  and Pink </span></p>
+<p><span>Please allow extra time for these extraordinary handcrafted items.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6515826753</id>
+      <title>Pink - Only 6 left</title>
+      <s:price currency="USD">21.28</s:price>
+      <s:sku>06072016-99N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6516284609</id>
+    <published>2016-06-07T20:13:00-05:00</published>
+    <updated>2016-06-07T20:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lace-tea-cups"/>
+    <title>Crocheted Lace Tea Cup</title>
+    <s:type>Lace Tea Cups</s:type>
+    <s:vendor>Miss Rose Sister Violet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crocheted-lace-tea-cup.jpg?v=1601092406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miss Rose Sister Violet<br>
+        <strong>Type: </strong>Lace Tea Cups<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Lacy Teacup is the same size as a regular Tea cup complete with saucer!  Perfect for holding your favors such as candles, candies, or sachets!</p>
+<p>Pink, Cream or White</p>
+<p><span>Please allow extra time for these extraordinary handcrafted items.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6516284609</id>
+      <title>Pink</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>06072016-100N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6516284609</id>
+      <title>White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>06072016-100N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6516284609</id>
+      <title>Cream</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>06072016-100N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

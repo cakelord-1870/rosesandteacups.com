@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/totes-and-travel-by-nannette.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-07-11T19:04:25-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312104448101</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-and-white-gingham-3-piece-monogrammed-travel-set"/>
+    <title>Black and White Gingham 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-and-white-gingham-3-piece-monogrammed-travel-set.jpg?v=1601094163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 pc set or separate...</p>
+<p>"Black/White Gingham with pink polka dot trim - Embroidered with Black Fleur de Lis design...</p>
+<p>Tote fully lined in B/W gingham with inside zipper pocket.</p>
+<p>Make up Bag fully lined with pink polka dots.</p>
+<p>Boxy Travel Pouch fully lined with pink polka dots.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312104448101</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312095895653</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lavender-eiffel-tower-3-piece-monogrammed-travel-set"/>
+    <title>Lavender Eiffel Tower 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lavender-eiffel-tower-3-piece-monogrammed-travel-set.jpg?v=1601094159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 pc. set/or separate</p>
+<p>"Lavender Eiffel Tower and Dainty Damask print -</p>
+<p>Tote Bag with inside pocket and fully lined w/dainty damask print.</p>
+<p>Matching Make up Bag fully lined with Lavender Fleur de Lis print..</p>
+<p>Coordinating Boxy Travel Pouch fully lined with Lavender Fleur de Lis print.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312095895653</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1312091897957</id>
+    <published>2018-07-11T19:04:25-05:00</published>
+    <updated>2018-07-11T19:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ava-rose-3-piece-monogrammed-travel-set"/>
+    <title>Pink Ava Rose 3 Piece Monogrammed Travel Set</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ava-rose-3-piece-monogrammed-travel-set.jpg?v=1601094155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Pink Ava Rose on Aqua w/polka dot trim - </p>
+<p>Tote Bag - fully lined with inside zipper pocket.</p>
+<p>Make up bag - lined with coordinating color polka dots.</p>
+<p>Boxy Travel pouch - lined with coordinating color polka dots.</p>
+<p>Tote...16x13x4</p>
+<p>Makeup...11x7x3</p>
+<p>Boxy Pouch...9x6x4</p>
+<p>Monogrammed with 1, 2 or 3 initials on each tote and make up bag.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1312091897957</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>07112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1520952065</id>
+    <published>2015-07-13T22:53:00-05:00</published>
+    <updated>2015-07-13T22:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/courier-style-monogrammed-handbag"/>
+    <title>Courier-style Monogrammed Handbag Carol Wilson Fabric</title>
+    <s:type>Handbags and Totes</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/courier-style-monogrammed-handbag-carol-wilson-fabric.jpg?v=1601090270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Handbags and Totes<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>IPad/Kindle, or small laptop computer etc., would fit nicely also in this Carol Wilson fabric purse. </span><br><span>5 inside pockets, adjustable shoulder strap. Magnetic closure. Washable. <br>May choose one, two or three initials in whatever color desired, and any CW fabric choice (9"high x 10.5" wide x 3" deep)</span></p>
+<p><span>(Nancy has one of these and LOVES it!)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1520952065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>7540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

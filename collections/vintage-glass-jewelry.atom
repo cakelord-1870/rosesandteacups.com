@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/vintage-glass-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T10:18:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2166168846425</id>
+    <published>2019-08-28T15:22:02-05:00</published>
+    <updated>2019-08-28T15:22:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/amethyst-broken-reclaimed-antique-glass-cage-earrings"/>
+    <title>Amethyst Broken Reclaimed Antique Glass Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/amethyst-broken-reclaimed-antique-glass-cage-earrings.jpg?v=1601094954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Amethyst Broken Reclaimed Antique Glass Cage Earrings, from early 1900's medicine bottles are absolutely AMAZING!  Beautiful pale lavender glass originally made clear, but after years in the sun turns purple in the sunlight.  These are fun to watch them instantly change colors as inside away from the sun they are a pale blue but once sun hits them they instantly turn an amazing lavender color. A light and airy way to wear a little bit of American history! A petite 1/2" silver-tone cage holds a few nuggets of beautiful antique glass bottles reclaimed from wooded environments, hammered and fired for gloss and smoothness. Cage is silver plated steel, ear wires are sterling plated surgical steel.</span></p>
+<p><span>Has matching necklace! </span></p>
+<p><a href="https://rosesandteacups.com/collections/vintage-glass-jewelry" target="_blank" title="Vintage Glass Jewelry Benefits Survivors of Domestic Violence" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-amethyst-cage-necklace_480x.jpg?v=1521856213" alt="Reclaimed Glass Amethyst Cage Necklace - Roses And Teacups " width="98" height="159"></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2166168846425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>0828191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2162117214297</id>
+    <published>2019-08-23T10:15:42-05:00</published>
+    <updated>2019-08-23T10:15:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-butterfly-antique-porcelain-thimble-necklace-one-of-a-kind"/>
+    <title>Beautiful Butterfly Antique Porcelain Thimble Necklace - One of a Kind!</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-butterfly-antique-porcelain-thimble-necklace-one-of-a-kind.jpg?v=1601094939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Beautiful Butterfly Antique Porcelain Thimble Necklace is perfect for quilters, seamstresses and just about anyone that loves unique one if a kind jewelry. Comes with cord but you can switch as needed. </p>
+<p>Made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2162117214297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0823192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2161480106073</id>
+    <published>2019-08-22T13:51:39-05:00</published>
+    <updated>2019-08-22T13:51:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-bunny-fufu-antique-porcelain-thimble-bell-necklace-one-of-a-kind"/>
+    <title>Little Bunny Fufu Antique Porcelain Thimble Bell Necklace - One of a Kind!</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-bunny-fufu-antique-porcelain-thimble-bell-necklace-one-of-a-kind.jpg?v=1601094937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Little Bunny Fufu Antique Porcelain Thimble Bell Necklace is perfect for quilters, seamstresses, and just about anyone that love pretty and unique jewelry. Comes with cord but can change out as you need. This one is also a little Bell the lightly jingles when moved....so sweet! </p>
+<p>One of a kind made in the USA. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2161480106073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>0821192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552383809</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-white-silver-filigree-earrings"/>
+    <title>Reclaimed Glass White Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-white-silver-filigree-earrings.jpg?v=1601090944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White, from vintage Pond's Cold Cream jars</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552383809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552376129</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-ice-blue-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Ice Blue Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-ice-blue-silver-filigree-earrings.jpg?v=1601090942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Aquamarine, from antique Mason Jars</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552376129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552364737</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-pink-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Pink Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-pink-silver-filigree-earrings.jpg?v=1601090941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pink, from antique pink depression glass</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552364737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552355969</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-black-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Black Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-black-silver-filigree-earrings.jpg?v=1601090940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Black, from antique black depression glass </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552355969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552348353</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-amethyst-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Amethyst Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-amethyst-silver-filigree-earrings.jpg?v=1601090937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Amethyst, from early 1900's medicine bottles</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552348353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8143</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552335873</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-emerald-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Emerald Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-emerald-silver-filigree-earrings.jpg?v=1601090935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Emerald, from vintage beer bottles</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552335873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552327233</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-ruby-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Ruby Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-ruby-silver-filigree-earrings.jpg?v=1601090933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ruby, from 1940's ruby beer bottles </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552327233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552314497</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-cobalt-silver-filigree-earrings"/>
+    <title>Reclaimed Glass Cobalt Silver Filigree Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-cobalt-silver-filigree-earrings.jpg?v=1601090931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cobalt, from vintage Noxzema jars</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552314497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552299201</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-white-cage-earrings"/>
+    <title>Reclaimed Glass White Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-white-cage-earrings.jpg?v=1601090930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White, from vintage Pond's Cold Cream jars</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552299201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552290689</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-pink-cage-earrings"/>
+    <title>Reclaimed Glass Pink Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-pink-cage-earrings.jpg?v=1601090929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pink, from antique pink depression glass</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552290689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552274753</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-ruby-cage-earrings"/>
+    <title>Reclaimed Glass Ruby Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-ruby-cage-earrings.jpg?v=1601090927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ruby, from 1940's ruby beer bottles</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552274753</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552266497</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-cobalt-cage-earrings"/>
+    <title>Reclaimed Glass Cobalt Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-cobalt-cage-earrings.jpg?v=1601090926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cobalt, from vintage Noxzema jars </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552266497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552255745</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-multi-cage-earrings"/>
+    <title>Reclaimed Glass Multi Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-multi-cage-earrings.jpg?v=1601090925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552255745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552247425</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-black-cage-earrings"/>
+    <title>Reclaimed Glass Black Cage Earrings</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-black-cage-earrings.jpg?v=1601090924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Black, from antique black depression glass</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552247425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8169</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552221441</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-white-silver-filigree-necklace"/>
+    <title>Reclaimed Glass White Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-white-silver-filigree-necklace.jpg?v=1601090921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White, from vintage Pond's Cold Cream jars</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552221441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552209473</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-emerald-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Emerald Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-emerald-silver-filigree-necklace.jpg?v=1601090920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Emerald, from vintage beer bottles </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552209473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552196097</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-amethyst-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Amethyst Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-amethyst-silver-filigree-necklace.jpg?v=1601090919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Amethyst, from early 1900's medicine bottles</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552196097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552185601</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-black-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Black Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-black-silver-filigree-necklace.jpg?v=1601090918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Black, from antique black depression glass</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552185601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552177345</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-ice-blue-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Ice Blue Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-ice-blue-silver-filigree-necklace.jpg?v=1601090917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ice Blue, from antique Mason Jars </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552177345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552165057</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-pink-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Pink Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-pink-silver-filigree-necklace.jpg?v=1601090916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pink, from antique pink depression glass</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552165057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1552155521</id>
+    <published>2015-07-16T17:45:00-05:00</published>
+    <updated>2015-07-16T17:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/reclaimed-glass-ruby-silver-filigree-necklace"/>
+    <title>Reclaimed Glass Ruby Silver Filigree Necklace</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/reclaimed-glass-ruby-silver-filigree-necklace.jpg?v=1601090915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ruby, from 1940's ruby beer bottles</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1552155521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

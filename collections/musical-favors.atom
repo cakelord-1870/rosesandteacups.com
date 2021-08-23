@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/musical-favors.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-04T09:13:42-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2171760771161</id>
+    <published>2019-09-04T09:13:42-05:00</published>
+    <updated>2019-09-04T09:13:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card"/>
+    <title>Kimberly Shaw Poinsettia Teacup Christmas Music Sheet Tea Card</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-poinsettia-teacup-christmas-music-sheet-tea-card.png?v=1601094969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A classic poinsettia teacup delivers a warm Holiday tea in a traditional Christmas musical setting. The front music sheet is a hand-drawn illustration of Handel's, "Messiah," duet chorus Part 1, No.12 - For unto us a child is born.<br></span></p>
+<p><span>The inside reads, <strong>"With Christmas carols ringing true, This gift of tea I send to you."<br></strong></span></p>
+<p><span>Tea inside: <strong>Holiday Tea</strong> a blend of Ceylon black tea, citrus, almond, clove, and cinnamon from Harney &amp; Sons Fine Teas.</span></p>
+<p><span>Card size is 4 1/4" x 5 1/2" and comes with a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2171760771161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>343KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/19605651457</id>
+    <published>2017-10-27T13:23:42-05:00</published>
+    <updated>2017-10-27T13:23:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tall-ribbed-6-cup-teapot-musical-christmas"/>
+    <title>Tall Ribbed 6 Cup Teapot Musical Christmas</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tall-ribbed-6-cup-teapot-musical-christmas.jpg?v=1601093657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>35 ounces (6 Cup).  This teapot  measures 7 1/2” tall &amp; 7 1/4” spout to handle.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/19605651457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>10282017-31N-563-126M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15726739457</id>
+    <published>2017-10-27T13:23:42-05:00</published>
+    <updated>2017-10-27T13:23:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/classic-6-cup-teapot"/>
+    <title>Classic 6 Cup Teapot Music Notes</title>
+    <s:type>Porcelain Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/classic-6-cup-teapot-music-notes.jpg?v=1601093615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Teapots<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>36 ounces (6 Cup).  This teapot measures 6 1/2” Tall &amp; 9” from spout to handle.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15726739457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">63.99</s:price>
+      <s:sku>10272017-15N-564-206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10340309825</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-musical-note"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Musical Note</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-musical-note.jpg?v=1601093504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10340309825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10222017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10338535489</id>
+    <published>2017-10-20T17:53:02-05:00</published>
+    <updated>2017-10-20T17:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/musical-note-8-cup-square-porcelain-teapot"/>
+    <title>Musical Note 8 Cup Square Porcelain Teapot</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/musical-note-8-cup-square-porcelain-teapot.jpg?v=1601093489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This square shaped teapot holds 8 cups and has gold accents.</span></p>
+<p><span>For additional patterns click on the Roses and Wisteria Square Teapot.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10338535489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>10222017-4N-570-206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10338522945</id>
+    <published>2017-10-20T17:53:02-05:00</published>
+    <updated>2017-10-20T17:53:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/musical-notes-round-3-cup-porcelain-teapot"/>
+    <title>Musical Notes Round 3 Cup Porcelain Teapot</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/musical-notes-round-3-cup-porcelain-teapot.jpg?v=1601093476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This classic round teapot holds 3 cups and has gold accents.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10338522945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>10222017N-565-206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10348999873</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/musical-notes-porcelain-cream-and-sugar-set"/>
+    <title>Musical Notes Porcelain Cream and Sugar Set</title>
+    <s:type>Cream and Sugar Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/musical-notes-porcelain-cream-and-sugar-set.jpg?v=1601093562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Cream and Sugar Sets<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Porcelain Cream and Sugar Set with Gold Accents</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10348999873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10242017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1547783937</id>
+    <published>2015-07-10T14:51:00-05:00</published>
+    <updated>2015-07-10T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-christmas-cameo-music-boxes"/>
+    <title>Set of 3 Christmas Cameo Music Boxes</title>
+    <s:type>Cameo Music Boxes</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-christmas-cameo-music-boxes.jpg?v=1601090782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Cameo Music Boxes<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Petite melody makers are graced with December insignias. Lovely holiday remembrances for loved ones. Acrylic case with brass movement. 2.5 x 2". Set of 3.  White Christmas and 2 other holiday melodies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1547783937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>9484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1494327105</id>
+    <published>2015-07-10T14:51:00-05:00</published>
+    <updated>2015-07-10T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-4-holiday-hurdy-gurdies"/>
+    <title>Set of 4 Holiday Hurdy Gurdies</title>
+    <s:type>Hurdy Gurdies</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-4-holiday-hurdy-gurdies.jpg?v=1601089294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Hurdy Gurdies<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Vintage Christmas Images grace these adorable wind-up boxes. Songs include: Toyland, Silent Night, Jingle Bells and What Child is This. 2x1x1</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1494327105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>2235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

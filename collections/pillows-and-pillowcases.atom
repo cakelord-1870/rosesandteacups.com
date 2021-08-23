@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/pillows-and-pillowcases.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-07T07:58:24-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6606178254937</id>
+    <published>2021-07-07T07:58:24-05:00</published>
+    <updated>2021-07-07T07:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-ivory-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Ivory Cameo Blush Pink Lace Rose Adorned Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-ivory-cameo-blush-pink-lace-rose-adorned-square-pillow-one-of-a-kind.jpg?v=1626912743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Ivory Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6606178254937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0707211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4657028169817</id>
+    <published>2020-06-12T10:08:38-05:00</published>
+    <updated>2020-06-12T10:08:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gilded-cherub-opulence-lace-square-pillow"/>
+    <title>Gilded Cherub Opulence Lace Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gilded-cherub-opulence-lace-square-pillow-one-of-a-kind.jpg?v=1601095184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our 17 x 17 Square Gilded Cherub Opulence Lace Pillow are lined with an elegant jacquard in antique gold and soft ivory. They are trimmed to perfection with embroidered and hand beaded lace, custom dyed florals and a sweet gilded cherub.  USA MADE</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4657028169817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.99</s:price>
+      <s:sku>061220-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628736016473</id>
+    <published>2020-05-21T13:44:33-05:00</published>
+    <updated>2020-05-21T13:44:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-crocheted-lace-rose-adorned-square-pillow.jpg?v=1590152536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Crocheted Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628736016473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628632502361</id>
+    <published>2020-05-21T12:19:18-05:00</published>
+    <updated>2020-05-21T12:19:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow-1"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628632502361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628603175001</id>
+    <published>2020-05-21T12:06:01-05:00</published>
+    <updated>2020-05-21T12:06:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures: 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628603175001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628593147993</id>
+    <published>2020-05-21T11:57:50-05:00</published>
+    <updated>2020-05-21T11:57:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-bolster-pillow"/>
+    <title>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-dark-pink-cameo-lace-rose-adorned-bolster-pillow.jpg?v=1590152530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Dark Pink Cameo Lace Rose Adorned Bolster Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 28" from ruffle to ruffle but more if you include the amazing crocheted lace! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628593147993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628566212697</id>
+    <published>2020-05-21T11:31:40-05:00</published>
+    <updated>2020-05-21T11:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-pink-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Pink Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628566212697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628523155545</id>
+    <published>2020-05-21T11:01:06-05:00</published>
+    <updated>2020-05-21T11:01:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-burgundy-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Burgundy Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628523155545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628460208217</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-royal-purple-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Royal Purple Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628460208217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628386283609</id>
+    <published>2020-05-21T09:25:50-05:00</published>
+    <updated>2020-05-21T09:25:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-gold-ivory-cameo-lace-rose-adornedsquare-pillow"/>
+    <title>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose Adorned Square Pillow</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-gold-ivory-cameo-lace-rose-adorned-square-pillow.jpg?v=1590152521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Gold &amp; Ivory Cameo Lace Rose AdornedSquare Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628386283609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0521201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4627193561177</id>
+    <published>2020-05-20T23:08:06-05:00</published>
+    <updated>2020-05-20T23:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-it-to-god-embroidered-pillow"/>
+    <title>Give It To God Embroidered Pillow</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-it-to-god-embroidered-pillow.jpg?v=1590066185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give It To God Go To Sleep Embroidered Pillow has rich royal blue thread that says it all.</p>
+<p>Pillow measures: 21 x 11 Made in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4627193561177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>0520205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054729891929</id>
+    <published>2019-04-04T13:54:15-05:00</published>
+    <updated>2019-04-04T13:54:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/shabby-bunny-pillow"/>
+    <title>Shabby Bunny Pillow</title>
+    <s:type>shabby bunny pillows</s:type>
+    <s:vendor>Chubby Bunny Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/shabby-bunny-pillow.jpg?v=1601094737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chubby Bunny Cottage<br>
+        <strong>Type: </strong>shabby bunny pillows<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Shabby bunny pillow is a gray &amp; white stripe with dark pink roses. it has a white organza ribbon bow with a bouquet of tiny dark pink roses &amp; some white pearls. it has a white tail. this is so adorable. measures 8″ wide x 10 ” tall. one of a kind. </span> USA Handmade</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054729891929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>03032017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1854380965977</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-skates-pillow-ornament"/>
+    <title>Beaded Skates Pillow Ornament</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-skates-pillow-ornament.png?v=1601094505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These darling stuffed ornaments are a generous 4.5 x 3.5  inches and are handcrafted in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1854380965977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11172018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1852138881113</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-pillow-santa-ornament-tassel-santa"/>
+    <title>Beaded Pillow Santa Ornament - Tassel Santa</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-pillow-santa-ornament-tassel-santa.png?v=1601094504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These darling stuffed ornaments are a generous 4.5 x 3.5  inches and are handcrafted in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1852138881113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11162018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1852066005081</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-stuffed-santa-ornament-pink-santa"/>
+    <title>Beaded Pillow Santa Ornament - Pink Santa</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-pillow-santa-ornament-pink-santa.png?v=1601094503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These darling stuffed ornaments are a generous 4.5 x 3.5  inches and are handcrafted in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1852066005081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11162018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1852062171225</id>
+    <published>2018-11-16T11:23:19-06:00</published>
+    <updated>2018-11-16T11:23:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-stuffed-santa-ornament"/>
+    <title>Beaded Pillow Santa Ornament - Snowy Santa</title>
+    <s:type>Victorian Christmas Ornaments</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Beaded-Pillow-Santa-Ornament-Snowy-Santa_f03cda7e-f8bc-48d0-abe3-4cd80bd7d055.png?v=1628899938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Christmas Ornaments<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These darling stuffed ornaments are a generous 4.5 x 3.5  inches and are handcrafted in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1852062171225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>11162018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844408647769</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chickadee-teacup-embroidered-christmas-pillow"/>
+    <title>Chickadee Teacup Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chickadee-teacup-embroidered-christmas-pillow.png?v=1601094499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Chickadee &amp; Christmas Tea"</div>
+<div>Intricately embroidered Chickadee in Christmas Tea cup with roses and pine cones. Teacup embroidered in soft seafoam green on ivory moire' taffeta background. Seafoam green moire' taffeta trim.  Ivory backing with zippered opening.  16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844408647769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>11142018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844404060249</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-deer-embroidered-christmas-pillow"/>
+    <title>Midnight Deer Embroidered Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-deer-embroidered-christmas-pillow.png?v=1601094497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>"Midnight Deer Whitework scene embroidered on midnight blue moire' taffeta with Swarovski crystals with zippered back opening.</div>
+<div>16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844404060249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>11142018-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1844394066009</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/country-embroidered-merry-christmas-pillow"/>
+    <title>Country Embroidered Merry Christmas Pillow</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/country-embroidered-merry-christmas-pillow.png?v=1601094494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Embroidered "Merry Christmas"  on gray/white pillow ticking with forest-deer-cardinal scene on back and large red piping edging. Zippered back opening. 100% cotton. 16x16</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1844394066009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11142018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1801089122393</id>
+    <published>2018-11-06T07:56:05-06:00</published>
+    <updated>2018-11-06T07:56:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals"/>
+    <title>Burgundy Embroidered Merry Christmas Pillow with Swarovski Crystals</title>
+    <s:type>pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-embroidered-merry-christmas-pillow-with-swarovski-crystals.png?v=1601094463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>pillow<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Burgundy Embroidered Merry Christmas Victorian Script Pillow with Swarovski crystals on elegant ivory moire' taffeta f<span class="">ront &amp; back.  Trimmed in burgundy moire' with roped satin piping.  Zipper opening in back.  16x16 </span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1801089122393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11062018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9782981761</id>
+    <published>2017-06-29T13:26:20-05:00</published>
+    <updated>2017-06-29T13:26:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/multicolor-tea-cups-accent-pillow"/>
+    <title>Multicolor Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/multicolor-tea-cups-accent-pillow.jpg?v=1601093218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">The back of the pillow always matches the  ruffle. Fabric is subject to change depending on availability.  14 inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9782981761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>06292017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902761153</id>
+    <published>2016-07-11T11:20:00-05:00</published>
+    <updated>2016-07-11T11:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-wedding-ring-bearer-pillow"/>
+    <title>Personalized Wedding Ring Bearer Pillow</title>
+    <s:type>Personalized Wedding Ring Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Personalized-Wedding-Ring-Bearer-Pillow_77910467-01c8-4e9e-beae-a8bcecc47c11.jpg?v=1628813606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Personalized Wedding Ring Pillow<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wedding Keepsake/Ringbearer Pillow. 12x12 Your choice color of text, color of flowers, and color of ribbon design. Has ribbon on back for ringbearer easy to slip hands under for carrying. Please be sure that we have the following information before you place your order: Bride &amp; Groom Name Date &amp; Time Place and/or City, State Color of Text Color of Flowers Color of Ribbon design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902761153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9784643585</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-tea-cups-accent-pillow"/>
+    <title>Christmas Tea Cups Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/christmas-tea-cups-accent-pillow.jpg?v=1601093219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9784643585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>06292017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689485057</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-and-white-tea-time-accent-pillow"/>
+    <title>Black and White Tea Time Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-and-white-tea-time-accent-pillow.jpg?v=1601092303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span size="4" style="font-size: large;">Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689485057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34579N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5689450113</id>
+    <published>2016-04-09T16:53:00-05:00</published>
+    <updated>2016-04-09T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bright-and-bold-tea-accent-pillow"/>
+    <title>Bright and Bold Teapots Accent Pillow</title>
+    <s:type>Tea Pillows</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bright-and-bold-teapots-accent-pillow.jpg?v=1601092301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Pillows<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pillows are approximately 14" square. Fabric is subject to change depending on availability.  100% Cotton</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5689450113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>34577N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/english-bone-china-cake-plates.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-02-17T17:39:54-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477625040985</id>
+    <published>2020-02-17T17:39:54-06:00</published>
+    <updated>2020-02-17T17:39:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-tier-dot-rose-english-bone-china-cake-stand-made-in-england"/>
+    <title>3 Tier Dot Rose English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-tier-dot-rose-english-bone-china-cake-stand-made-in-england.jpg?v=1582030906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China 3</span>-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 10, 8 and 6 inch Bone China Plates Brass Finish Fittings </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477625040985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>7409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477601874009</id>
+    <published>2020-02-17T17:07:37-06:00</published>
+    <updated>2020-02-17T17:07:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-summertime-blue-roses-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Summertime Blue Roses English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-summertime-blue-roses-english-bone-china-cake-stand-made-in-england.jpg?v=1582030903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477601874009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>3038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4477594763353</id>
+    <published>2020-02-17T17:00:13-06:00</published>
+    <updated>2020-02-17T17:00:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-lily-of-the-valley-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Lily of the Valley English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-lily-of-the-valley-english-bone-china-cake-stand-made-in-england.jpg?v=1582030902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4477594763353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>74142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4470637953113</id>
+    <published>2020-02-12T17:02:08-06:00</published>
+    <updated>2020-02-12T17:02:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/2-tier-dot-rose-english-bone-china-cake-stand-made-in-england"/>
+    <title>2 Tier Dot Rose English Bone China Cake Stand Made in England</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/2-tier-dot-rose-english-bone-china-cake-stand-made-in-england_e504a391-9dae-4c71-8c16-5d2eb30dcfde.jpg?v=1587860225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dot Rose Made in England By Adderley English Bone China </span>2-Tier Cake Stand perfect for desserts such as party cakes, scones, cookies and more! Classic pattern featuring petite pink rosebuds.</p>
+<p>Tidbit Trays: 8 and 6 inch Bone China Plates Brass Finish Fittings </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4470637953113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>7414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

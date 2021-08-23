@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/fall-halloween-tea-party.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-11T13:10:58-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2178146697305</id>
+    <published>2019-09-11T13:10:58-05:00</published>
+    <updated>2019-09-11T13:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Pumpkin Spice Scented Fall Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Pumpkin Spice Scented Fall teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great for Fall gifts!  Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2178146697305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPumpkin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177275035737</id>
+    <published>2019-09-10T14:08:06-05:00</published>
+    <updated>2019-09-10T14:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ribbon-awareness-party-favors-set-of-3-sachets"/>
+    <title>Pink Ribbon Awareness Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ribbon-awareness-party-favors-set-of-3-sachets.jpg?v=1601094972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Ribbon Awareness Party Favors Set of 3 Sachets are filled with divine smelling real lavender buds. This sweet little gift has a pretty pink ribbon thoughtfully attached for hanging. </p>
+<p>FMeasures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177275035737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177271038041</id>
+    <published>2019-09-10T12:43:58-05:00</published>
+    <updated>2019-09-10T12:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peter-rabbit-fall-party-favors-set-of-3-sachets"/>
+    <title>Peter Rabbit Fall Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peter-rabbit-fall-party-favors-set-of-3-sachets.jpg?v=1601094971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peter Rabbit Fall Party Favors Set of 3 Sachets with Pumpkin Spice Scent! Perfect Fall party gifts! </p>
+<p>Measures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177271038041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1351470973029</id>
+    <published>2018-09-24T18:11:21-05:00</published>
+    <updated>2018-09-24T18:11:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-fashioned-halloween-witches-and-cats"/>
+    <title>Old Fashioned Halloween Witches and Cats 2 Sheets of Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Violette</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-fashioned-halloween-witches-and-cats-2-sheets-of-stickers.png?v=1601094337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Violette<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Each sticker package contains two sticker sheets of die cut stickers, each approximately 3.75 x 7.75.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1351470973029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>092418-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349799870565</id>
+    <published>2018-09-20T14:29:38-05:00</published>
+    <updated>2018-09-20T14:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fall-blessings-pumpkin-linen-kitchen-apron"/>
+    <title>Fall Blessings Pumpkin Linen Kitchen Apron</title>
+    <s:type>Apron</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-blessings-pumpkin-linen-kitchen-apron.png?v=1601094334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Apron<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Natural linen and embroidered adult apron with "Fall Blessings" and pumpkin design, orange straps and pocket with brown ruffle trim. </span><br><br><span>33" H x 28" W</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349799870565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>092018-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349798068325</id>
+    <published>2018-09-20T14:26:05-05:00</published>
+    <updated>2018-09-20T14:26:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thankful-fall-kitchen-apron"/>
+    <title>Thankful Fall Kitchen Apron</title>
+    <s:type>Apron</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thankful-fall-kitchen-apron.jpg?v=1601094333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Apron<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White fabric adult apron with ribbon trim at the top and on pocket. Leaves and acorn wreath with "Thankful" screen printed design. </span><br><br><span>29" H x 28 1/2" W</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349798068325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>092018-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8391215105</id>
+    <published>2016-11-04T09:47:00-05:00</published>
+    <updated>2016-11-04T09:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/november-porcelain-teacup-and-saucer-in-satin-lined-gift-box"/>
+    <title>November Porcelain Teacup and Saucer in Satin Lined Gift Box</title>
+    <s:type>Flower of the Month</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/november-porcelain-teacup-and-saucer-in-satin-lined-gift-box.jpg?v=1601092787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Flower of the Month<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">November Porcelain Teacup and Saucer in Satin Lined Gift Box is Vintage Style with Cream Background Floral made of Fine Porcelain 24K Gold Trimmed.  Arrives in Satin Lined Round Gift Box.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8391215105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>110416-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343933505</id>
+    <published>2016-10-28T15:56:00-05:00</published>
+    <updated>2016-10-28T15:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thanksgiving-tea-tin-gift-bag-set"/>
+    <title>Thanksgiving Tea Tin Gift Bag Set</title>
+    <s:type>gift</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thanksgiving-tea-tin-gift-bag-set.jpg?v=1601092774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>gift<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Thanksgiving Tea Tin Gift Bag Set is the perfect gift to give to the hostess or host of the biggest feast of the year. They work hard to make your get together amazing so why not reward their efforts with a gift they'll adore! </span></p>
+<p><span>Includes lovely gift bag holding a matching tea tin with yummy individually wrapped assorted flavors tea and has matching note card to be used to let them know just how much you enjoyed your visit. </span></p>
+<p><span>Tea Tin with Flip Top and lovely Victorian tea graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span><span>Food Safe and perfect for tea or candy tea party favor or gift.</span><span> 6 Matching Wrapped Assorted Flavors Tea Bags inside.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343933505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102816-17J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8313516993</id>
+    <published>2016-10-24T11:58:00-05:00</published>
+    <updated>2016-10-24T11:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/welcome-thanksgiving-hankie-card"/>
+    <title>Welcome Thanksgiving Hankie  Card</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/welcome-thanksgiving-hankie-card.jpg?v=1601092742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Give Thanks Hankie Card features a beautiful Victorian lady ready to serve Thanksgiving Dinner in her lovely hanky dress.  "Thanksgiving - The year has turned its circle, the seasons come and go, the harvest is all gathered in, orchards have shared their treasures, fields their yellow grain.  So open wide the doorway, Thanksgiving comes again." </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8313516993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>102416J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5685168385</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-set-of-4-good-times-spiced-mug-and-tea-cup-mat"/>
+    <title>Gift Boxed Set of 4 Good Times Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-set-of-4-good-times-spiced-mug-and-tea-cup-mat.jpg?v=1601092254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5   Set of 4 Mats <span>Tied with Ribbon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5685168385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>34522N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5685140417</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-set-of-4-pumpkin-spiced-mug-and-tea-cup-mat"/>
+    <title>Gift Boxed Set of 4 Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-set-of-4-fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5   Set of 4 Mats <span>Tied with Ribbon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5685140417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>34521N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5685059969</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-set-of-4-cat-on-pumpkin-spiced-mug-and-tea-cup-mat"/>
+    <title>Gift Boxed Set of 4 Cat on Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-set-of-4-cat-on-fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5   Set of 4 Mats <span>Tied with Ribbon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5685059969</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34520NJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5684584257</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cat-on-pumpkin-spiced-mug-and-tea-cup-mat"/>
+    <title>Cat on Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cat-on-fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5684584257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>34512NET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5684503873</id>
+    <published>2016-04-07T17:59:00-05:00</published>
+    <updated>2016-04-07T17:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hummingbird-spiced-mug-and-tea-cup-mat"/>
+    <title>Fall Pumpkin Spiced Mug and Tea Cup Mat</title>
+    <s:type>Spiced Mug and Tea Cup Mat</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-pumpkin-spiced-mug-and-tea-cup-mat.jpg?v=1601092242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Spiced Mug and Tea Cup Mat<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Filled with real spices for long lasting scent. Place warm tea or coffee mug on mat to release spicy aroma. 5 x 5</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5684503873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>34511NET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343446785</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-thanksgiving-envelopes"/>
+    <title>6 Tea Bags in Thanksgiving Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-thanksgiving-envelopes-favors.jpg?v=1601092771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming Thanksgiving graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Victorian Lady in Tea Cup You Are My Cup of Tea Black and White.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343446785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282016-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343460865</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thanksgiving-tea-tin"/>
+    <title>Thanksgiving Tea Tin</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thanksgiving-tea-tin.jpg?v=1601092772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tea Tin with Flip Top and lovely Thanksgiving graphics. Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.  Our Tea Tins are </span>Food Safe and perfect for tea or candy tea party favor or gift.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343460865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282016-17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343425665</id>
+    <published>2015-12-24T10:05:00-06:00</published>
+    <updated>2015-12-24T10:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/thanksgiving-gift-bag-with-hang-tag"/>
+    <title>Thanksgiving Gift Bag with Hang Tag</title>
+    <s:type></s:type>
+    <s:vendor>Once Upon a Hanky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/thanksgiving-gift-bag-with-hang-tag.jpg?v=1601092769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hanky<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bag measures 5.5 x 3.25 x 8.5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343425665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>10282016-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2156410049</id>
+    <published>2015-10-02T08:37:00-05:00</published>
+    <updated>2015-10-02T08:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-pumpkin-tureen-with-ladel"/>
+    <title>White Fall Pumpkin Tureen with Ladel</title>
+    <s:type>Halloween Thanksgiving Tea Party</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-fall-pumpkin-tureen-with-ladel.jpg?v=1601091369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Halloween Thanksgiving Tea Party<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Pumpkin Tureen with Ladel perfect for soups! Pumpkin Casserole with Ladle, 11.50" This pumpkin shaped casserole is 11 1/2" long, 8" wide and 6 1/2"high and holds over 2 quarts. The pumpkin shape with hand made and applied vines and leaves makes an exquisite presentation. The ladle is also embellished with vines and leaves. We expect this to be one of our most popular items. While microwave safe, we recommend hand washing.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2156410049</id>
+      <title>Default</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>8136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2133702465</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/owls-and-flowers-girls-standard-pillow-case"/>
+    <title>Owls and Flowers Girls Standard Pillow Case</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/owls-and-flowers-girls-standard-pillow-case.jpg?v=1601091317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            34.99 - 37.99
+            <a href="https://rosesandteacups.com/products/owls-and-flowers-girls-standard-pillow-case">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So Sweet!  Owls and Flowers, Polka Dots and Swirls are featured on this adorable girl's pillow case.  USA Made of Top Quality Cotton!  Standard/Queen 20 x 30</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133702465</id>
+      <title>No Embroidery</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>22361N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2133702465</id>
+      <title>Add Embroidery</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>23360N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126087041</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Le bain" embroidered decorative cotton guest towel 15x22</p>
+<p>Choose Red or Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22331N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22332N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125478401</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bonne-nuit-good-night-boudoir-pillow"/>
+    <title>Fall Linen Guest Towels Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-linen-guest-towels-set-of-2.jpg?v=1601091244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Embroidered on hemstitched oatmeal colored 100% linen. 14x22</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125478401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22330N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10103147713</id>
+    <published>2015-09-23T11:01:00-05:00</published>
+    <updated>2015-09-23T11:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/new-white-pumpkin-teapot"/>
+    <title>New White Fall Pumpkin Teapot - FREE Pumpkin Spice Tea Included!</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/new-white-fall-pumpkin-teapot-free-pumpkin-spice-tea-included.jpg?v=1601093297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>One of our most popular items, this pumpkin shape teapot is a must for any teapot collector. With a large 28 ounce capacity, it stands 9" long and 5" high. The scalloped pumpkin shape is accented with hand applied vines and leaves and is exquisitely detailed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10103147713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>8121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2067425729</id>
+    <published>2015-09-15T17:15:00-05:00</published>
+    <updated>2015-09-15T17:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-fall-teacup-and-saucer-favors"/>
+    <title>4 Fall Tea Party Teacup and Saucer Tea Party Favors</title>
+    <s:type>Halloween Thanksgiving Tea Party</s:type>
+    <s:vendor>Lynns Concepts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-fall-tea-party-teacup-and-saucer-tea-party-favors.jpg?v=1601091219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynns Concepts<br>
+        <strong>Type: </strong>Halloween Thanksgiving Tea Party<br>
+        <strong>Price: </strong>
+            38.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">4 Fall Tea Party Teacup and Saucer Favors are<span> wrapped in a clear cello with a beautiful orange organza bow adorned with your choice of spoon. Tea included in each favor is decaffeinated and is wrapped in a matching wrapper. This is a full size teacup holding approximately 6oz.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2067425729</id>
+      <title>Default</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>9545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518302081</id>
+    <published>2015-07-13T12:29:00-05:00</published>
+    <updated>2015-07-13T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-pumpkin-cream-and-sugar-set"/>
+    <title>White Fall Pumpkin Cream and Sugar Set</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-fall-pumpkin-cream-and-sugar-set.jpg?v=1601090076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Create a whimsical atmosphere with this pumpkin shape sugar &amp; creamer set, 4.75". The scalloped pumpkin shape is accented with hand applied vines and leaves and is exquisitely detailed. Microwave and dishwasher safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518302081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>8123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518293441</id>
+    <published>2015-07-13T12:29:00-05:00</published>
+    <updated>2015-07-13T12:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-pumpkin-tea-cup-and-saucer-1"/>
+    <title>White Fall Pumpkin Tea Cup and Saucer - FREE Pumpkin Spice Tea Included!</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-fall-pumpkin-tea-cup-and-saucer-free-pumpkin-spice-tea-included.jpg?v=1601090075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Treat your guests to an unusual cup of coffee or tea with our hand made pumpkin shaped cup and saucer. The round fluted cup holds 7 ounces and is accented with hand applied leaves and vines. The saucer is leaf shaped and measures 6 1/4". This is a perfect complement to our very popular pumpkin teapot. Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518293441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

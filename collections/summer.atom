@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/summer.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-08T10:30:30-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6609294327897</id>
+    <published>2021-07-08T10:30:30-05:00</published>
+    <updated>2021-07-08T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sea-shells-note-card-portfolio-1"/>
+    <title>Carol Wilson Sea Side Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sea-side-note-card-portfolio.jpg?v=1625835812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sea Side Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6609294327897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763704328281</id>
+    <published>2020-12-15T12:50:33-06:00</published>
+    <updated>2020-12-15T12:50:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-oval-coin-pearl-and-silver-chain-necklace"/>
+    <title>White Oval Coin Pearl and Silver Chain Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-oval-coin-pearl-and-silver-chain-necklace.jpg?v=1608123792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This unique oval shape coin pearl is made by genuine coin pearls. The length is 40 inch. The size of the pearl is 10-11mm by 15-16mm. The chain is silver plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763704328281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>121520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2167778902105</id>
+    <published>2019-08-30T12:42:32-05:00</published>
+    <updated>2019-08-30T12:42:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-red-cardinal-porcelain-birdhouse-night-light"/>
+    <title>Red Cardinal Porcelain Birdhouse Nightlight</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-cardinal-porcelain-birdhouse-nightlight.jpg?v=1601094956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">Beautiful Red Cardinal decorates this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2167778902105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>112318-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128863461465</id>
+    <published>2019-07-08T16:31:43-05:00</published>
+    <updated>2019-07-08T16:31:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/seaside-blooms-hanging-sachets-set-of-4"/>
+    <title>Seaside Blooms Hanging Sachets Set of 4</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/seaside-blooms-hanging-sachets-set-of-4.jpg?v=1601094869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 4 Hanging Sachets in Seaside Blooms Fragrance<br>Gift Wrapped with Bow and Teardrop Gem</p>
+<p>5 x 6 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128863461465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>06132018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2098387877977</id>
+    <published>2019-05-24T18:51:20-05:00</published>
+    <updated>2019-05-24T18:51:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/charming-turtle-beach-abalone-themed-necklace"/>
+    <title>Charming Turtle Beach Abalone Themed Necklace</title>
+    <s:type>Summer Jewelry</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/charming-turtle-beach-abalone-themed-necklace.jpg?v=1601094765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Summer Jewelry<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This charming beach themed with adorable turtle multi-pendant necklace will look amazing with your outfit!</span><br><br>
+<ul>
+<li>21" Long with 3" Extender</li>
+<li>Lobster Claw Closure</li>
+<li>Brushed Silvertone and Goldtone </li>
+<li>Up to 2.25" Long Faux Abalone, Sea Life, and Engraved Pendants</li>
+<li>Engraved Phrases "Sun Sand Sea" and "Take Me To The Ocean"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2098387877977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>052419j4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2098381520985</id>
+    <published>2019-05-24T18:26:35-05:00</published>
+    <updated>2019-05-24T18:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/waves-hit-your-feet-and-the-sand-be-your-seat-starfish-wooden-beach-sign"/>
+    <title>Waves Hit Your Feet And The Sand Be Your Seat Starfish Wooden Beach Sign</title>
+    <s:type>Signs</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/waves-hit-your-feet-and-the-sand-be-your-seat-starfish-wooden-beach-sign.jpg?v=1601094764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Signs<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect piece for any room with a beach theme or for your beach home! Sign reads: Let The Waves Hit Your Feet And The Sand Be Your Seat</p>
+<p> </p>
+<p>12" Tall x 19" Wide x 1" Deep</p>
+<p>Composite Wood Construction</p>
+<p>Paper Artwork Design</p>
+<p>Rope Accent</p>
+<p>2 Saw tooth Hooks For Hanging</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2098381520985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>0524192J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2098378834009</id>
+    <published>2019-05-24T17:41:02-05:00</published>
+    <updated>2019-05-24T17:41:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sand-beneath-our-feet-wood-framed-canvas-beach-sign"/>
+    <title>SAND BENEATH OUR FEET WOOD FRAMED CANVAS BEACH SIGN</title>
+    <s:type>Signs</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sand-beneath-our-feet-wood-framed-canvas-beach-sign.jpg?v=1601094763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Signs<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect piece for any room with a beach theme or for your beach home! Sign reads: With The Sky Above Our Heads And The Sand Beneath Our Feet Life Is Better At The Beach</p>
+<ul>
+<li>15" Tall x 6" Wide x 1" Deep</li>
+<li>Composite Wood Construction</li>
+<li>Canvas with Text Design</li>
+<li>Starfish Accent</li>
+<li>Rope For Hanging</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2098378834009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>0524191J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1867860050009</id>
+    <published>2018-11-22T08:58:19-06:00</published>
+    <updated>2018-11-22T08:58:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-cardinal-porcelain-birdhouse-night-light"/>
+    <title>Red Cardinal Porcelain Birdhouse Night Light</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-cardinal-porcelain-birdhouse-night-light.jpg?v=1601094547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">Beautiful Red Cardinal decorates this porcelain birdhouse nightlight.  Bulb included and plus in rotates to fit your need.  Measure 5 1/4" tall and 3 1/4" wide</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1867860050009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>112318-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1299568328805</id>
+    <published>2018-06-13T11:51:18-05:00</published>
+    <updated>2018-06-13T11:51:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enjoy-the-little-things-travel-cup"/>
+    <title>Enjoy the Little Things Travel Cup</title>
+    <s:type>travel cup</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enjoy-the-little-things-travel-cup.jpg?v=1601094069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>travel cup<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handwash only/FDA approved.</p>
+<span>Clear insulated acrylic travel cup with flower pattern and metallic "Enjoy The Little Things" message. Includes clear lid and straw. </span><br><br><span>7 1/2" H x 3 1/4" W. Holds 20 oz. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1299568328805</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>06132018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4110480705</id>
+    <published>2016-02-07T16:10:00-06:00</published>
+    <updated>2016-02-07T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-in-shell-pendant"/>
+    <title>Pearl in Shell Pendant P052</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-in-shell-pendant-p052.jpg?v=1601091862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The delicate pendant features an 8mm freshwater cultured pearl in a rhodium plated shell. The shell is covered by crystals. Chain is adjustable from 18 inch to 20 inch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4110480705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>33819N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548755265</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turquoise-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Turquoise Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turquoise-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548755265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548747649</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/olive-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Olive Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/olive-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548747649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2927</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548731073</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl"/>
+    <title>Black Handmade Hand Beaded Silk Velvet Triangle Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/black-handmade-hand-beaded-silk-velvet-triangle-peacock-shawl.jpg?v=1601090803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 62" (W) x 30" (H) plus 2" beaded crochet fringes on 2 sides</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 7 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548731073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>2928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548715329</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/burgundy-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Burgundy Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/burgundy-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548715329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>3679</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548704321</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/turquoise-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Turquoise Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/turquoise-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548704321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548700673</id>
+    <published>2015-07-16T13:31:00-05:00</published>
+    <updated>2015-07-16T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/olive-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl"/>
+    <title>Olive Handmade Hand Beaded Silk Velvet Oblong Peacock Shawl</title>
+    <s:type>Peacock Shawls</s:type>
+    <s:vendor>Enchantment</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/olive-handmade-hand-beaded-silk-velvet-oblong-peacock-shawl.jpg?v=1601090791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enchantment<br>
+        <strong>Type: </strong>Peacock Shawls<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Size: 20" (W) x 76" (L) including 4" beaded crochet fringes</span><br><span>Content: 100% silk burnout velvet with beads</span><br><span>Weight: 13 oz Dry clean only</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548700673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>2930</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1512144833</id>
+    <published>2015-07-12T16:11:00-05:00</published>
+    <updated>2015-07-12T16:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ocean-green-tea-gift-soap"/>
+    <title>Ocean Green Tea Gift Soap</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Punch Studios</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ocean-green-tea-gift-soap.jpg?v=1601089943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Punch Studios<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Romantic boxed gift soap is one 3.5 ounce round ether Verbena or Green Tea scented vegetable based bar, paper wrapped, sealed with a sticker in a foil-embellished box. Measures: 2 3/4"X2 3/4"X1 1/4"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1512144833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>8860</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506105793</id>
+    <published>2015-07-11T22:21:29-05:00</published>
+    <updated>2015-07-11T22:21:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-beach"/>
+    <title>48 Decorated Sugar Cubes - Beach</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-beach.jpg?v=1601089702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506105793</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506094721</id>
+    <published>2015-07-11T22:20:20-05:00</published>
+    <updated>2015-07-11T22:20:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/48-decorated-sugar-cubes-summer"/>
+    <title>48 Decorated Sugar Cubes - Summer</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/48-decorated-sugar-cubes-summer.jpg?v=1601089701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 48 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sugar Cubes</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506094721</id>
+      <title>Default</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>6979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/406723526696</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lemons-in-tea-cup-set-of-2-cotton-tea-towels"/>
+    <title>Lemons in Tea Cup Set of 2 Cotton Tea Towels - Only 1 Set Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lemons-in-tea-cup-set-of-2-cotton-tea-towels-only-1-set-left.jpg?v=1601093845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/406723526696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011718-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505494849</id>
+    <published>2015-07-11T20:02:31-05:00</published>
+    <updated>2015-07-11T20:02:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-beach"/>
+    <title>15 Decorated Sugar Cubes - Beach</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-beach.jpg?v=1601089662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505494849</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1505494273</id>
+    <published>2015-07-11T20:02:07-05:00</published>
+    <updated>2015-07-11T20:02:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-decorated-sugar-cubes-summer"/>
+    <title>15 Decorated Sugar Cubes - Summer</title>
+    <s:type>Decorated Sugar Cubes</s:type>
+    <s:vendor>Too Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-decorated-sugar-cubes-summer.jpg?v=1601089661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Too Sweet<br>
+        <strong>Type: </strong>Decorated Sugar Cubes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our boxes of 15 Decorated Sugar Cubes come with Clear Lid and Gold Cord. They make wonderful hostess gifts and favors and will make your tea table extraordinary!</p>
+<p>Our Decorated Sugar Cubes will last for a year when stored in a cool, dry place! They are hand decorated in the USA and can be used just like ordinary sugar cubes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sug</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1505494273</id>
+      <title>Default</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266505793</id>
+    <published>2015-06-21T16:50:00-05:00</published>
+    <updated>2015-06-21T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sea-shells-note-card-portfolio"/>
+    <title>Carol Wilson Sea Shells Note Card Portfolio - Flawed But Fabulous</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Sea-Shells-Note-Card-Portfolio-Flawed-But-Fabulous_9dbb69a4-a452-452e-8c75-90b8c8361eb7.jpg?v=1629331905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sea Shells Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266505793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>NCP2343</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1224899585</id>
+    <published>2015-06-16T17:27:00-05:00</published>
+    <updated>2015-06-16T17:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-shell-place-setting"/>
+    <title>Peach Shell Place Setting</title>
+    <s:type>Custom Ceramic Teaware</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-shell-place-setting.jpg?v=1601088250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Custom Ceramic Teaware<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicate handmade flowers and leaves. Intricate lacework in dimensional glaze. Multiple coats of color glaze are carefully applied, then finished with two coats of gloss glaze. The over glaze is always carefully applied by brush, never dipped. Measures - dinner plate - 12"rd, salad/dessert plate - 9"rd, bowl - 7.5"rd, mug - 3"rd x 4.5"h Food safe. Only non-toxic, lead free glazes are used. Please handle with care, the handmade flowers and leaves are fragile. Hand wash. Do not microwave. Variations are to be expected and are part of the charm of the handmade piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1224899585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>9062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

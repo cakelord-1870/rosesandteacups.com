@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/magnet-favors.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-07-02T14:33:20-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4672166920281</id>
+    <published>2020-07-02T14:33:20-05:00</published>
+    <updated>2020-07-02T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets"/>
+    <title>Victorian Hat Purse Rose Shoe Umbrella Party Favor Magnets</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets.jpg?v=1593781543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful gifts or perfect party favors. Fine strokes of gold embellish prominent pieces of a Victorian lady's life. As English roses accentuate, so will these magnets upon you refrigerator or magnetic board.</span><br><br><span>These small decorations charmingly secure pictures of loved ones and notes.</span><br><br><span>A charming gift for friends.</span><br><br>
+<ul class="bullet_list">
+<li>Hat, 3". Rose, 2 1/4". Purse, 2". Shoe, 2 3/8". Umbrella, 3 1/4". Teapot, 2 1/2".</li>
+<li>Polyresin and resin.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4672166920281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>5030857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1469550209</id>
+    <published>2015-07-08T18:20:00-05:00</published>
+    <updated>2015-07-08T18:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/magnet-favors"/>
+    <title>Set of 6 Victorian Lady Magnet Favors</title>
+    <s:type>Victorian Lady Magnet Favor Set</s:type>
+    <s:vendor>Royal Buttons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-victorian-lady-magnet-favors.jpg?v=1601089057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Buttons<br>
+        <strong>Type: </strong>Victorian Lady Magnet Favor Set<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Gift Boxed Set of 6 1-inch Round Victorian Lady Magnets in 6 Styles</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1469550209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>8658</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1469500929</id>
+    <published>2015-07-08T18:20:00-05:00</published>
+    <updated>2015-07-08T18:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-magnet-favors"/>
+    <title>Tea Cup Magnet Favors</title>
+    <s:type>Tea Cup Magnet Favor Set</s:type>
+    <s:vendor>Royal Buttons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-magnet-favors.jpg?v=1601089044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Buttons<br>
+        <strong>Type: </strong>Tea Cup Magnet Favor Set<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Gift Boxed Set of 6 1-inch Round Tea Cup Magnets in 6 Styles</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1469500929</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>7266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/carol-wilson-portfolios.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-07-08T10:30:30-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6609294327897</id>
+    <published>2021-07-08T10:30:30-05:00</published>
+    <updated>2021-07-08T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sea-shells-note-card-portfolio-1"/>
+    <title>Carol Wilson Sea Side Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sea-side-note-card-portfolio.jpg?v=1625835812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sea Side Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6609294327897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0708211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562157494361</id>
+    <published>2021-04-16T17:00:05-05:00</published>
+    <updated>2021-04-16T17:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-market-bouquet-note-card-portfolio"/>
+    <title>Carol Wilson Market Bouquet Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-market-bouquet-note-card-portfolio.jpg?v=1618664683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Market Bouquet Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562157494361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>051221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562125873241</id>
+    <published>2021-04-16T15:50:24-05:00</published>
+    <updated>2021-04-16T15:50:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-peonies-note-card-portfolio"/>
+    <title>Carol Wilson Peonies Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-peonies-note-card-portfolio.jpg?v=1618664681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Peonies Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562125873241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6562114633817</id>
+    <published>2021-04-16T15:27:11-05:00</published>
+    <updated>2021-04-16T15:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-sunflowers-note-card-portfolio"/>
+    <title>Carol Wilson Sunflowers Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-sunflowers-note-card-portfolio.jpg?v=1618664679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Sunflowers Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing along with metallic highlights on portfolio which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with magnetic closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6562114633817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>041621-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4192511233</id>
+    <published>2020-02-24T17:20:50-06:00</published>
+    <updated>2020-02-24T17:20:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-hummingbird-note-card-portfolio"/>
+    <title>Carol Wilson Pansies and Warbler Note Card Portfolio - Very Limited!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-pansies-and-warbler-note-card-portfolio-very-limited.jpg?v=1601091932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Pansies and Warbler Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4192511233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>339603N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4478977507417</id>
+    <published>2020-02-18T17:51:17-06:00</published>
+    <updated>2020-02-18T17:51:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-floral-heart-note-card-portfolio-1"/>
+    <title>Carol Wilson Floral Heart Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-floral-heart-note-card-portfolio.jpg?v=1582072500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Floral Heart Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4478977507417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>339607N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4478974001241</id>
+    <published>2020-02-18T17:31:02-06:00</published>
+    <updated>2020-02-18T17:31:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-classic-butterfly-note-card-portfolio-1"/>
+    <title>Carol Wilson Classic Butterflies and Roses Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-classic-butterflies-and-roses-note-card-portfolio.jpg?v=1582072489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Classic Butterflies and Roses Note Card Portfolio features soft open roses and beautiful butterfly graphics, lacy die cutting, gold foiling and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with our new magnetic closure.  They make marvelous gifts! Selected from the beloved Carol's Rose Garden collection. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4478974001241</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>5055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111950651481</id>
+    <published>2019-06-12T15:21:56-05:00</published>
+    <updated>2019-06-12T15:21:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-wedding-ring-quilt-note-card-portfolio"/>
+    <title>Carol Wilson Wedding Ring Quilt Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-wedding-ring-quilt-note-card-portfolio.jpg?v=1601094813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Wedding Ring Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111950651481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0616201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111948193881</id>
+    <published>2019-06-12T15:17:45-05:00</published>
+    <updated>2019-06-12T15:17:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fan-quilt-note-card-portfolio"/>
+    <title>Carol Wilson Fan Quilt Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fan-quilt-note-card-portfolio.jpg?v=1582071421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Fan Quilt Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111948193881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0616202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111945211993</id>
+    <published>2019-06-12T15:08:43-05:00</published>
+    <updated>2019-06-12T15:08:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-charlottes-butterflies-note-card-portfolio"/>
+    <title>Carol Wilson Charlottes Butterflies Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-charlottes-butterflies-note-card-portfolio.jpg?v=1601094812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Charlottes Butterflies Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111945211993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0603201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111942033497</id>
+    <published>2019-06-12T15:02:45-05:00</published>
+    <updated>2019-06-12T15:02:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-classic-hydrangea-note-card-portfolio"/>
+    <title>Carol Wilson Classic Hydrangea Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Classic-Hydrangea-Note-Card-Portfolio_c5889633-ad0f-45d8-922f-b6e97c9cef01.jpg?v=1629245809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Classic Hydrangea Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio </span></p>
+<p><span>Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely set.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111942033497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0730201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111931121753</id>
+    <published>2019-06-12T14:39:17-05:00</published>
+    <updated>2019-06-12T14:39:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-red-rose-portfolio"/>
+    <title>Carol Wilson Red Rose Note Card Portfolio</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-red-rose-note-card-portfolio.jpg?v=1582071420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Red Rose Portfolio 10 Note Cards and Envelopes in Matching Velcro-Closure Portfolio</p>
+<p><span>Now with gold foil trim on the portfolio to enhance the beauty even further!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CaW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111931121753</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111922733145</id>
+    <published>2019-06-12T14:11:26-05:00</published>
+    <updated>2019-06-12T14:11:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-heart-wreath-portfolio"/>
+    <title>Carol Wilson Rose Heart Wreath Portfolio - Very Limited!</title>
+    <s:type>Carol Wilson</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-rose-heart-wreath-portfolio-very-limited.jpg?v=1605399096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Rose Heart Wreath 10 Note Cards and Envelopes in Matching Velcro-Closure Portfolio </p>
+<p>Now with gold foil trim on the portfolio to enhance the beauty even further!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carol Wilson</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111922733145</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111921061977</id>
+    <published>2019-06-12T14:08:33-05:00</published>
+    <updated>2019-06-12T14:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-violets-note-card-portfolio-1"/>
+    <title>Carol Wilson Violets Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-violets-note-card-portfolio_befd3abb-4f58-4102-9080-73b9bd7f0ef2.jpg?v=1587860151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Stationery Violets Note Card Portfolio 10 4 x 5 1/2 Teapot Quilt Note Cards and Envelopes in Matching Velcro-Closure Portfolio Now has gold foil trim on portfolio opening flap to add that much more beauty to an already lovely set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CaW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111921061977</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>4985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10185342081</id>
+    <published>2017-09-20T12:32:53-05:00</published>
+    <updated>2017-09-20T12:32:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-winter-scene-note-holiday-christmas-card-portfolio"/>
+    <title>Carol Wilson Winter Scene Holiday Christmas Note Cards In Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-winter-scene-holiday-christmas-note-cards-in-portfolio.jpg?v=1601093318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Carol Wilson Winter Scene Holiday Christmas Note Cards In Matching Portfolio include 10 cards and envelopes that are both embossed and die cut</span></p>
+<p><span>10 4 x 5 1/2 Note cards and Envelopes in Matching Velcro-Closure Portfolio</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10185342081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>09202017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/7717857601</id>
+    <published>2016-10-28T12:12:00-05:00</published>
+    <updated>2016-10-28T12:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-amaryllis-wreath-portfolio"/>
+    <title>Carol Wilson Amaryllis Wreath Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-amaryllis-wreath-portfolio.jpg?v=1582071329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Amaryllis Wreath Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/7717857601</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1889</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1910451521</id>
+    <published>2016-09-05T12:04:00-05:00</published>
+    <updated>2016-09-05T12:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cw-chickdee-mini-port"/>
+    <title>Carol Wilson Chickadee Mini Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-chickadee-mini-portfolio.jpg?v=1601091119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Chickadee Mini Portfolio includes 10 embossed cards and 10 envelopes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1910451521</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1307853684837</id>
+    <published>2016-09-01T09:45:00-05:00</published>
+    <updated>2016-09-01T09:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-christmas-presents-note-card-portfolio"/>
+    <title>Carol Wilson Christmas Presents Note Card Portfolio</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-christmas-presents-note-card-portfolio.jpg?v=1601094092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Gold Ribbon Wreath Christmas Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1307853684837</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>14732j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1910481601</id>
+    <published>2016-09-01T09:45:00-05:00</published>
+    <updated>2016-09-01T09:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cw-gold-ribbon-wreath"/>
+    <title>Carol Wilson Gold Ribbon Wreath</title>
+    <s:type>Carol Wilson Note Card Portfolios</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-gold-ribbon-wreath.jpg?v=1601091120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Carol Wilson Note Card Portfolios<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Carol Wilson Gold Ribbon Wreath Christmas Note Card Portfolio 10 4 x 5 1/2 Notecards and Envelopes in Matching Velcro-Closure Portfolio</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1910481601</id>
+      <title>Default</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>1473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1266492353</id>
+    <published>2016-08-16T13:25:00-05:00</published>
+    <updated>2016-08-16T13:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-wreath-note-card-portfolio"/>
+    <title>Carol Wilson Wreath Note Card Portfolio - Limited Supply!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Carol-Wilson-Wreath-Note-Card-Portfolio-Limited-Supply_929180c0-31fe-450c-afdc-d058c78e54dd.jpg?v=1629245553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Wreath Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1266492353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>5052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3538041665</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/holly-berry-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Holly Berry Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/holly-berry-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1582071264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>10 4 x 5 1/2 Holly Berry Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3538041665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>22470N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3538029505</id>
+    <published>2015-06-26T16:30:00-05:00</published>
+    <updated>2015-06-26T16:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettia-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery"/>
+    <title>Poinsettia Note Card Portfolio Carol Wilson Fine Arts Holiday Christmas Stationery</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettia-note-card-portfolio-carol-wilson-fine-arts-holiday-christmas-stationery.jpg?v=1601091629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Carol Wilson Poinsettia Note Cards are the perfect way to send your greetings this holiday season.</span></p>
+<p><span>10 4 x 5 1/2 Poinsettia Note Cards and Envelopes in Matching Velcro-Closure Portfolio</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3538029505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>22468N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9610297985</id>
+    <published>2015-06-21T16:50:00-05:00</published>
+    <updated>2015-06-21T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-garden-floral-note-card-portfolio"/>
+    <title>Carol Wilson Garden Floral Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-garden-floral-note-card-portfolio.jpg?v=1582071361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Hummingbird Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9610297985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>05302017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9610286913</id>
+    <published>2015-06-21T16:50:00-05:00</published>
+    <updated>2015-06-21T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-butterflies-note-card-portfolio"/>
+    <title>Carol Wilson Butterflies Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-butterflies-note-card-portfolio.jpg?v=1601093182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Hummingbird Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9610286913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>05302017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9610276673</id>
+    <published>2015-06-21T16:50:00-05:00</published>
+    <updated>2015-06-21T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-lilac-drops-note-card-portfolio"/>
+    <title>Carol Wilson Lilac Drops Note Card Portfolio</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-lilac-drops-note-card-portfolio.jpg?v=1601093180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carol Wilson Stationery Hummingbird Note Card Portfolios feature vibrant graphics, lacy die cutting and heavy embossing which create a uniquely feminine style.  Note Card Portfolios include 10 4x5 note cards and 10 matching envelopes in a coordinating portfolio with velcro closure.  They make marvelous gifts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9610276673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>05302017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-time-jigsaw-puzzles.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-09-02T14:08:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6437537089</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/grandmas-quilts-1000-piece-jigsaw-puzzle"/>
+    <title>Grandma&apos;s Quilts 1000 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grandmas-quilts-1000-piece-jigsaw-puzzle.jpg?v=1601092356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture. Piece sizes in the 1000 piece count, average about 1 inch per piece. Each piece in the puzzles has a unique shape!  26.625" x 19.25"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6437537089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>01067N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1988244737</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/strawberry-tea-500-piece-jigsaw-puzzle"/>
+    <title>Strawberry Tea 500 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/strawberry-tea-500-piece-jigsaw-puzzle.jpg?v=1601091167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture.  Each piece in the puzzles has a unique shape! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1988244737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>1076N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1988195521</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/china-collage-1000-piece-jigsaw-puzzle"/>
+    <title>China Collage 1000 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/china-collage-1000-piece-jigsaw-puzzle.jpg?v=1601091166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture. Piece sizes in the 1000 piece count, average about 1 inch per piece. Each piece in the puzzles has a unique shape! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1988195521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>1074N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1988160897</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/more-tea-cups-1000-piece-jigsaw-puzzle-1"/>
+    <title>More Tea Cups 1000 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/more-tea-cups-1000-piece-jigsaw-puzzle.jpg?v=1601091164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture. Piece sizes in the 1000 piece count, average about 1 inch per piece. Each piece in the puzzles has a unique shape! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1988160897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>1072N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1988127489</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/more-tea-cups-1000-piece-jigsaw-puzzle"/>
+    <title>Grandma&apos;s Chintz 2000 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/grandmas-chintz-2000-piece-jigsaw-puzzle.jpg?v=1601091162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture. Piece sizes in the 1000 piece count, average about 1 inch per piece. Each piece in the puzzles has a unique shape!  <b>Finished Size:</b><span> 39.25"x 26.625"</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1988127489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>1070N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1988124865</id>
+    <published>2015-09-02T14:08:00-05:00</published>
+    <updated>2015-09-02T14:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cups-1000-piece-jigsaw-puzzle"/>
+    <title>Tea Cups 1000 Piece Jigsaw Puzzle</title>
+    <s:type>Tea Gifts</s:type>
+    <s:vendor>Cobble Hill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cups-1000-piece-jigsaw-puzzle.jpg?v=1601091161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cobble Hill<br>
+        <strong>Type: </strong>Tea Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our tea time puzzles are high-quality, with a European feel. The puzzle pieces and the puzzle box are both wrapped in linen, which reduces glare, makes it easier to see details, and gives the puzzle more depth and texture. Piece sizes in the 1000 piece count, average about 1 inch per piece. Each piece in the puzzles has a unique shape! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1988124865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>1066N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

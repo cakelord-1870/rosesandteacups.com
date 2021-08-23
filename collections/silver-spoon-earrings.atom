@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/silver-spoon-earrings.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-07-23T11:10:21-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318001705061</id>
+    <published>2018-07-23T11:10:21-05:00</published>
+    <updated>2018-07-23T11:10:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silvertone-flower-spoon-style-hoop-earrings"/>
+    <title>Flower Silver Spoon Style Hoop Earrings</title>
+    <s:type>silver spoon earrings</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-silver-spoon-style-hoop-earrings.jpg?v=1582071395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>silver spoon earrings<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Intricately designed silver spoon hoop earrings will look stunning with any of your outfits!</span>
+<ul>
+<li>Antique<span mce-data-marked="1"> </span>Silvertone</li>
+<li>1.25" Post<span> </span>Style<span> </span>Earrings</li>
+<li>C Hoop Earrings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318001705061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>07232018-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1318001573989</id>
+    <published>2018-07-23T11:10:21-05:00</published>
+    <updated>2018-07-23T11:10:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silvertone-spoon-style-hoop-earrings-1"/>
+    <title>Scrolling Silver Spoon Style Hoop Earrings - Only 3 Left!</title>
+    <s:type>silver spoon earrings</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/scrolling-silver-spoon-style-hoop-earrings-only-3-left.png?v=1601094199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>silver spoon earrings<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>Intricately designed silver spoon hoop earrings will look stunning with any of your outfits!</span></div>
+<ul>
+<li>Antique<span> </span>Silvertone</li>
+<li>1" Post<span> </span>Style<span> </span>Earrings</li>
+<li>C Hoop Earrings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1318001573989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>07232018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1317993906277</id>
+    <published>2018-07-23T11:10:21-05:00</published>
+    <updated>2018-07-23T11:10:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silvertone-spoon-style-hoop-earrings"/>
+    <title>Flower Vine Silver Spoon Style Hoop Earrings</title>
+    <s:type>silver spoon earrings</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flower-vine-silver-spoon-style-hoop-earrings.jpg?v=1601094197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>silver spoon earrings<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Intricately designed silver spoon hoop earrings will look stunning with any of your outfits!</span></p>
+<p>Antiqued<span> </span>Silvertone</p>
+<p>1" Post<span> </span>Style<span> </span>Earrings</p>
+<p>C Hoop Earrings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1317993906277</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>07232018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

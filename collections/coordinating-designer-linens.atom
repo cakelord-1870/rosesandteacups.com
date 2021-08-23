@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/coordinating-designer-linens.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-28T17:00:30-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768736510041</id>
+    <published>2020-12-28T17:00:30-06:00</published>
+    <updated>2020-12-28T17:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack"/>
+    <title>Carol Wilson Fine Arts Tea Towel Tea Cup Stack</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack.jpg?v=1609247024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Tea Cup Stack 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768736510041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734576729</id>
+    <published>2020-12-28T16:56:53-06:00</published>
+    <updated>2020-12-28T16:56:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea"/>
+    <title>Carol Wilson Fine Arts Tea Towel Blue Hydrangea</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-blue-hydrangea.jpg?v=1609247022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Blue Hydrangea 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734576729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768734478425</id>
+    <published>2020-12-28T16:55:55-06:00</published>
+    <updated>2020-12-28T16:55:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-pansy-teacup"/>
+    <title>Carol Wilson Fine Arts Tea Towel Pansy Teacup</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-pansy-teacup.jpg?v=1609247021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Pansy Teacup 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768734478425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358401851481</id>
+    <published>2019-11-22T18:01:14-06:00</published>
+    <updated>2019-11-22T18:01:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lake-bike-14-x-22-linen-guest-towels"/>
+    <title>Lake Bike 14 x 22 Linen Guest Towels</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lake-bike-14-x-22-linen-guest-towels.jpg?v=1601095080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lake Bike Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358401851481</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6938</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358386516057</id>
+    <published>2019-11-22T17:39:59-06:00</published>
+    <updated>2019-11-22T17:39:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/14-x-22-linen-guest-towels"/>
+    <title>Set of 2 14 x 22 Linen Guest Towels Daffodils - Only 3 Set Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-14-x-22-linen-guest-towels-daffodils-only-3-set-available.jpg?v=1601095078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 14 x 22 Linen Guest Towels  Dafffodil</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LaL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358386516057</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4358214418521</id>
+    <published>2019-11-22T15:39:41-06:00</published>
+    <updated>2019-11-22T15:39:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-bouquet-guest-towels-set-of-2"/>
+    <title>Rose Bouquet Guest Towels Set of 2</title>
+    <s:type>Linens and Lace</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-bouquet-guest-towels-set-of-2.jpg?v=1601095077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Linens and Lace<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rose Bouquet Set of 2 14 x 22 Linen Guest Towels</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linens and Lace</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4358214418521</id>
+      <title>Default</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6937</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4356598956121</id>
+    <published>2019-11-21T11:35:24-06:00</published>
+    <updated>2019-11-21T11:35:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-bird-on-stacked-tea-cups-set-of-2-cotton-tea-towels"/>
+    <title>Hummingbirds and Tiffany Blue Teacup Tea Towels Set of 2</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hummingbirds-and-tiffany-blue-teacup-tea-towels-set-of-2.jpg?v=1601095074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Hummingbirds and Tiffany Blue Teacup Tea Towels has an adorable of nest of babies hummingbirds being cared for by their mother. This set contains two 24” x 36” cotton flour sack towels packaged in clear cellophane and tied with ribbon. They are soft, lint free, highly absorbent and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4356598956121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>08062018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111084888153</id>
+    <published>2019-06-11T15:16:39-05:00</published>
+    <updated>2019-06-11T15:16:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-ct-time-for-sweets-cocktail-napkins-limited-supply"/>
+    <title>20 Count Time For Sweets Cocktail Napkins - Only 1 Set Available!</title>
+    <s:type>tea party supplies</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-count-time-for-sweets-cocktail-napkins-only-1-set-available.jpg?v=1609459927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>tea party supplies<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Top Quality 20 Count Time For Sweets Cocktail Napkins perfect for tea parties and showers!</p>
+<p>Folds out to 10x10</p>
+<p>3ply</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111084888153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1861911478361</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available"/>
+    <title>Happiness is Homemade Kitchen Oven Dress Towel - Only One Available!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/happiness-is-homemade-kitchen-oven-dress-towel-only-one-available.jpg?v=1601094538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1861911478361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>112018-J6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1363993886821</id>
+    <published>2018-10-26T17:09:49-05:00</published>
+    <updated>2018-10-26T17:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spice-up-your-life-kitchen-oven-dress-towel"/>
+    <title>Spice Up Your Life Kitchen Oven Dress Towel</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Moments in Thyme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spice-up-your-life-kitchen-oven-dress-towel.jpg?v=1601094391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moments in Thyme<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Spice Up Your Life Kitchen Oven Dress Towel <span>is perfect for dressing up any kitchen.</span><span> Hangs over oven door, cabinet knob, towel rack or use as decoration.  A hanger is included for decorating or hanging where ever you please. The towels are 100% cotton and washable. Ribbon color can vary. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1363993886821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>102618-TJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/467615940648</id>
+    <published>2018-03-07T12:16:29-06:00</published>
+    <updated>2018-03-07T12:16:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-bird-nest-guest-towel-hostess-napkins"/>
+    <title>Spring Bird Nest Guest Towel Hostess Napkins</title>
+    <s:type>Paper Guest Towels</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-bird-nest-guest-towel-hostess-napkins.jpg?v=1601093909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Paper Guest Towels<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Bird Nest Guest Towel Hostess Napkins feature lovely birds caring for their nest of blue eggs.  </p>
+<p><span>Folded size: 4.4 x 7.9" / 11 x 20 cm Triple ply paper. Contains 15</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467615940648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/467612401704</id>
+    <published>2018-03-07T11:47:14-06:00</published>
+    <updated>2018-03-07T11:47:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/berry-patch-guest-towel-hostess-napkins"/>
+    <title>Berry Patch Guest Towel Hostess Napkins</title>
+    <s:type>Guest Towels Pink</s:type>
+    <s:vendor>Michel Design Works</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/berry-patch-guest-towel-hostess-napkins.png?v=1601093907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Michel Design Works<br>
+        <strong>Type: </strong>Guest Towels Pink<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product__section product__section--description"></div>
+<div class="product__section product__section--description">These triple ply guest towel hostess napkins are printed with raspberries, blackberries, and strawberries. Lovely addition for any event, home and bath.</div>
+<div class="product__section product__section--details">
+<div class="product__property product__dimensions"><span class="product__propertyValue">Folded size: 4.4 x 7.9" / 11 x 20 cm</span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Guest Towels</s:tag>
+    <s:tag>Hostess</s:tag>
+    <s:tag>Napkins</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/467612401704</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>030718-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2128369857</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-guest-towel"/>
+    <title>Chic and Shabby Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-guest-towel.jpg?v=1601091312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shabby Roses Guest Towel 100% pure linen in 6 color ways.  Blue on natural; taupe on natural; lavender on natural; pink floral and green stripe on natural, blue damask and taupe damask. Generous 20 x 25</p>
+<p>Choose ruffle or plain. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22350N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Lavender Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22353N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Rose</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22354N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Blue Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22355N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2128369857</id>
+      <title>Taupe Damask</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>22356N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2126087041</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/le-bain-the-bath-embroidered-guest-towel"/>
+    <title>Le Bain (The Bath) Embroidered Guest Towel</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/le-bain-the-bath-embroidered-guest-towel.jpg?v=1601091294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Le bain" embroidered decorative cotton guest towel 15x22</p>
+<p>Choose Red or Blue</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22331N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2126087041</id>
+      <title>Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>22332N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2125478401</id>
+    <published>2015-09-26T12:10:00-05:00</published>
+    <updated>2015-09-26T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bonne-nuit-good-night-boudoir-pillow"/>
+    <title>Fall Linen Guest Towels Set of 2</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fall-linen-guest-towels-set-of-2.jpg?v=1601091244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Embroidered on hemstitched oatmeal colored 100% linen. 14x22</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2125478401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22330N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1324716785765</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bird-on-stacked-tea-cups-set-of-2-cotton-tea-towels"/>
+    <title>Bird on Stacked Tea Cups Set of 2 Cotton Tea Towels</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bird-on-stacked-tea-cups-set-of-2-cotton-tea-towels.jpg?v=1601094264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This set contains two 24” x 36” cotton flour sack towels packaged in clear cellophane and tied with ribbon. They are soft, lint free, highly absorbent and quick drying. The perfect alternative to paper towels. Guaranteed to be your favorite kitchen accessory! Machine washable.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1324716785765</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>08062018-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/406723526696</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lemons-in-tea-cup-set-of-2-cotton-tea-towels"/>
+    <title>Lemons in Tea Cup Set of 2 Cotton Tea Towels - Only 1 Set Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lemons-in-tea-cup-set-of-2-cotton-tea-towels-only-1-set-left.jpg?v=1601093845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/406723526696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011718-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/406719103016</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/antique-tea-cups-set-of-2-cotton-tea-towels"/>
+    <title>Antique Tea Cups Set of 2 Cotton Tea Towels - Only 4 Available!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/antique-tea-cups-set-of-2-cotton-tea-towels-only-4-available.jpg?v=1601093843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/406719103016</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011718-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8671904641</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chintz-vases-set-of-2-cotton-tea-towels"/>
+    <title>Chintz Vases Set of 2 Cotton Tea Towels - Only 1 Set Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chintz-vases-set-of-2-cotton-tea-towels-only-1-set-left.jpg?v=1601092838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8671904641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011617-27N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8671867457</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/strawberry-tea-cup-set-of-2-cotton-tea-towels"/>
+    <title>Strawberry Tea Cup Set of 2 Cotton Tea Towels</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/strawberry-tea-cup-set-of-2-cotton-tea-towels.jpg?v=1601092834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8671867457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011617-25N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8671861121</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daffodils-tea-cup-set-of-2-cotton-tea-towels"/>
+    <title>Daffodils Tea Cup Set of 2 Cotton Tea Towels - Only 3 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daffodils-tea-cup-set-of-2-cotton-tea-towels-only-3-left.jpg?v=1601092833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30 x 30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8671861121</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>011617-24NJE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5888327617</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-tea-cup-violas-tea-towels"/>
+    <title>Set of 2 Tea Cup Violas Tea Towels</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-tea-cup-violas-tea-towels.jpg?v=1601092308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>You'll love our Gift Wrapped Tea Towels! </span><br><span>Set of 2 Cotton 30x30 Flour Sack Tea Towels Tied with a Ribbon with Gift Card</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5888327617</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>34651N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1553936641</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/herbal-tea-cups-6-cotton-20-x-20-napkins"/>
+    <title>Herbal Tea Cups 6 Cotton 20 x 20 Napkins - Only 1 Set of 6 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/herbal-tea-cups-6-cotton-20-x-20-napkins-only-1-set-of-6-left.jpg?v=1601090968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>White napkins each printed with a decorative graphic</li>
+<li>Bundle of six 100% cotton napkins; 20"x20"</li>
+<li>Packaged in a sealed cello bag</li>
+<li>Perfect for both formal and casual occasions</li>
+</ul>
+<div>Machine wash cold in gentle cycle. Use a color guard mild detergent. NO Bleach. Air dry or tumble dry, no heat. Iron from reverse side only. Designed, packaged and printed in the USA.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1553936641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>1335N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1553735873</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-nc1099-teacups-6-cotton-20x20-napkins"/>
+    <title>Harvest Bounty 6 Cotton 20x20 Napkins - Only 2 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/harvest-bounty-6-cotton-20x20-napkins-only-2-left.jpg?v=1601090961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>White napkins each printed with a decorative graphic</li>
+<li>Bundle of six 100% cotton napkins; 20"x20"</li>
+<li>Packaged in a sealed cello bag</li>
+<li>Perfect for both formal and casual occasions</li>
+</ul>
+<div>Machine wash cold in gentle cycle. Use a color guard mild detergent. NO Bleach. Air dry or tumble dry, no heat. Iron from reverse side only. Designed, packaged and printed in the USA.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1553735873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1963N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

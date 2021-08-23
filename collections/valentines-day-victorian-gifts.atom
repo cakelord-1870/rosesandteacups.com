@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/valentines-day-victorian-gifts.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-12-28T16:58:29-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768735494233</id>
+    <published>2020-12-28T16:58:29-06:00</published>
+    <updated>2020-12-28T16:58:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-rose-heart"/>
+    <title>Carol Wilson Fine Arts Tea Towel Rose Heart</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-rose-heart.jpg?v=1609247023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Rose Heart 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768735494233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2169856950361</id>
+    <published>2019-09-02T11:10:53-05:00</published>
+    <updated>2019-09-02T11:10:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-country-rose-broken-china-jewelry-one-of-a-kind"/>
+    <title>Old Country Rose Broken China Jewelry - One of a Kind</title>
+    <s:type>Broken China Jewelry Rings</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-rose-broken-china-jewelry-one-of-a-kind.jpeg?v=1601094961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Broken China Jewelry Rings<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Old Country Rose Broken China Jewelry is always a fan favorite with rich colored roses. These pieces offered include one of a kind tear drop and heart shaped china.  Each piece includes a cord for wearing or change to your favorite chain.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169856950361</id>
+      <title>Tear Drop</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>090219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169856950361</id>
+      <title>Heart Shaped with 24K Gold on Left</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>090220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169856950361</id>
+      <title>Heart Shaped with 24K Gold on the Right</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>090221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2169856950361</id>
+      <title>Heart Shaped with 24K Gold on the Top</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>090222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2162215125081</id>
+    <published>2019-08-23T12:05:23-05:00</published>
+    <updated>2019-08-23T12:05:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cherub-lacy-lavender-ornament-sachet"/>
+    <title>Cherub Lacy Lavender Ornament Sachet</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherub-lacy-lavender-ornament-sachet.jpg?v=1601094944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Cherub Lacy Lavender Ornament Sachet is simply divine! Filled with real lavender buds, decorated with satin &amp; shimmering jewels plus accented with irredessent glitter. Hangs by a strand of faux pearls. Makes an amazing gift, party favor and perfect for decor. </p>
+<p>Made in the USA </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2162215125081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0823196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2145106853977</id>
+    <published>2019-08-01T12:21:30-05:00</published>
+    <updated>2019-08-01T12:21:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-rose-in-blue-silver-spoon-bracelet-with-crystals-and-broken-china-jewelry-charm-in-sterling-setting-in-gift-box"/>
+    <title>Pink Rose on Blue Stripe Silver Spoon Bracelet with Vintage Broken China Porcelain Heart Shaped Charm</title>
+    <s:type>Silver Spoon China Charm Bracelets</s:type>
+    <s:vendor>vintage revival</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-on-blue-stripe-silver-spoon-bracelet-with-vintage-broken-china-porcelain-heart-shaped-charm.jpg?v=1601094918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vintage revival<br>
+        <strong>Type: </strong>Silver Spoon China Charm Bracelets<br>
+        <strong>Price: </strong>
+            103.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pink Rose on Blue Stripe Silver Spoon Bracelet has crystals and Broken China Jewelry Charm in Sterling Setting includes Gift Box. This USA Handcrafted bracelet is made from pieces of broken china and a vintage silver plate spoon. Each china piece is artfully cut and set in sterling silver to create a one-of-a-kind jewelry art masterpiece you'll love to wear. Crystal beads accent the colors of the china. This is a one of a kind piece! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2145106853977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">103.99</s:price>
+      <s:sku>9260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2111011815513</id>
+    <published>2019-06-11T13:04:42-05:00</published>
+    <updated>2019-06-11T13:04:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available"/>
+    <title>Love Flourish Scrolling Heart Teacup and Saucer - Only 1 Available!</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/love-flourish-scrolling-heart-teacup-and-saucer-only-1-available_d7e9093e-0ad7-4186-a345-291e307f7fe5.jpg?v=1601094805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Flourish Hand-painted Ceramic Teacup and Saucer</p>
+<p>Hand-wash only</p>
+<p>FDA approved.</p>
+<p>2 1/2"H X 3 1/4" Opening.</p>
+<p>Holds 7 oz. Saucer: 5 3/4"Diameter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2111011815513</id>
+      <title>Default</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1975138386009</id>
+    <published>2019-01-29T12:28:31-06:00</published>
+    <updated>2019-01-29T12:28:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-necklace"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Necklace</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-necklace.jpg?v=1601094659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This vintage inspired Victorian romance heart necklace features a prong set genuine Swarovski Austrian crystal filigree heart drop on an exquisite limited edition Victorian flower motif chevron. The chevron has 5 additional Swarovski Elements in Amethyst to complete the look. The necklace chain measures 16 inches in length and features 24 kt. antique gold plated Figaro link chain with matching antique connectors that can be found on the matching earrings.</span></p>
+<p><a href="https://rosesandteacups.com/collections/latest-arrivals-new-items-products/products/vintage-style-austrian-crystal-chandelier-heart-earrings" target="_blank" title="Matching Vintage Heart Earrings" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage_Style_Austrian_Crystal_Chandelier_Heart_Earrings_480x.jpg?v=1547507254" alt="Vintage Style Austrian Crystal Chandelier Heart Earrings" width="143" height="156"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1975138386009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>012919-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969541218393</id>
+    <published>2019-01-24T13:30:52-06:00</published>
+    <updated>2019-01-24T13:30:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-hanging-ribbon-valentine-all-hearts-greeting-includes-envelope-limted-rare-print"/>
+    <title>3-Piece Hanging Ribbon Valentine All Hearts Greeting - Includes Envelope - Limted Rare Print!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Old Print Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-hanging-ribbon-valentine-all-hearts-greeting-includes-envelope-limted-rare-print.jpg?v=1601094645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Old Print Factory<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3-Piece Hanging Ribbon Valentine All Hearts Individually packaged with envelope, card hangs 5 x 14</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>H&amp;S</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969541218393</id>
+      <title>Default</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969538433113</id>
+    <published>2019-01-24T13:24:47-06:00</published>
+    <updated>2019-01-24T13:24:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-hanging-ribbon-valentine-greeting-in-pink-limited-rare-print"/>
+    <title>3-Piece Hanging Ribbon Valentine Greeting in Pink Includes Envelope - Limited Rare Print!</title>
+    <s:type>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party</s:type>
+    <s:vendor>Old Print Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-hanging-ribbon-valentine-greeting-in-pink-includes-envelope-limited-rare-print.jpg?v=1601094644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Old Print Factory<br>
+        <strong>Type: </strong>Alice in Wonderland Teapot Tea Cups Tea Sets Tea Accessories Tea Party<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3-Piece Hanging Ribbon Valentine! Individually packaged with envelope, card hangs 5 x 14</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Holidays and Seasons</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969538433113</id>
+      <title>Default</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1968382836825</id>
+    <published>2019-01-23T14:23:43-06:00</published>
+    <updated>2019-01-23T14:23:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-roses-teacup-gift-set-limited"/>
+    <title>Red Roses Teacup Gift Set - Limited!</title>
+    <s:type>Tea Cup Favors</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-roses-teacup-gift-set-limited.jpg?v=1601094635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Tea Cup Favors<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Roses Teacup Gift Set includes yummy tea is wrapped in cello adorned with lovely bow and accented with a glittered heart.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1968382836825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>012319-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959742373977</id>
+    <published>2019-01-14T17:03:15-06:00</published>
+    <updated>2019-01-14T17:03:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-earrings"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Earrings</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-earrings.jpg?v=1582071406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These vintage inspired Victorian romance heart earrings measure 2.25" in length. These gorgeous earrings are made in antiqued natural brass with our special anti tarnish lacquer finish. The heart drops feature hand pronged genuine Swarovski Austrian crystals and hypo allergenic surgical steel genuine Swarovski Austrian crystal earring posts too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959742373977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>011419-7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959717732441</id>
+    <published>2019-01-14T16:43:05-06:00</published>
+    <updated>2019-01-14T16:43:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/angels-cherubs-hearts-key-earrings-antique-silver"/>
+    <title>Angels Cherubs Hearts &amp; Key Earrings - Antique Silver</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/angels-cherubs-hearts-key-earrings-antique-silver.jpg?v=1601094628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These handcrafted antique reproduction Victorian Angel earrings features our Victorian Romance puffed hearts and keys theme. These earrings are antique silver plated and measure 2 inches long...the little puffed hearts have an engraved flower.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959717732441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>011419-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1959586758745</id>
+    <published>2019-01-14T15:11:09-06:00</published>
+    <updated>2019-01-14T15:11:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-victorian-style-cupids-glass-hearts-earrings"/>
+    <title>Vintage Victorian Style Cupids &amp; Glass Hearts Earrings</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-victorian-style-cupids-glass-hearts-earrings.jpg?v=1582071405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>These antique reproduction Victorian style romance earrings feature Austrian crystal hearts with cherubs and keys. Hypo allergenic, surgical steel earring posts with Austrian crystals completes the look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1959586758745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1955739107417</id>
+    <published>2019-01-11T18:13:47-06:00</published>
+    <updated>2019-01-11T18:13:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lusious-lavender-mug-gift-set"/>
+    <title>Lovely Lavender Mug Gift Set</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-mug-gift-set.jpg?v=1601094612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Lovely Lavender Mug Gift Set includes an 11 once mug and beautiful heart shaped box. Perfect for Valentine's Day, Mother's Day or just to put a smile on someone's face.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1955739107417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>011119-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548591489</id>
+    <published>2019-01-11T16:46:17-06:00</published>
+    <updated>2019-01-11T16:46:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-pink-lilac"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Pink Lilac - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-pink-lilac-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548591489</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1949119381593</id>
+    <published>2019-01-07T11:06:18-06:00</published>
+    <updated>2019-01-07T11:06:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/valentine-greeting-teacup-favor-gift-to-my-sweetheart"/>
+    <title>Valentine Greeting Teacup Favor Gift - To My Sweetheart</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valentine-greeting-teacup-favor-gift-to-my-sweetheart.jpg?v=1601094605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Valentine Greeting Teacup Favor Gift is perfect to send to your love as a sweet gift or to use as a party favor at your Valentine's day party. Each includes yummy traditional Earl Grey tea inside the swirl design porcelain teacup. Arrives in cello adorned with beautiful bow ready to give or place on your table. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1949119381593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>010719-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1949109125209</id>
+    <published>2019-01-07T10:57:37-06:00</published>
+    <updated>2019-01-07T10:57:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/valentine-greeting-teacup-favor-gift-to-the-one-i-love"/>
+    <title>Valentine Greeting Teacup Favor Gift - To The One I Love</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valentine-greeting-teacup-favor-gift-to-the-one-i-love.jpg?v=1601094604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Valentine Greeting Teacup Favor Gift is perfect to send to your love as a sweet gift or to use as a party favor at your Valentine's day party. Each includes yummy traditional Earl Grey tea inside the swirl design porcelain teacup. Arrives in cello adorned with beautiful bow ready to give or place on your table. One of a Kind! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1949109125209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>010719-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1948991225945</id>
+    <published>2019-01-07T07:57:05-06:00</published>
+    <updated>2019-01-07T07:57:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/valentine-greeting-teacup-favor-gift-good-little-girl"/>
+    <title>Valentine Greeting Teacup Favor Gift - Good Little Girl</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/valentine-greeting-teacup-favor-gift-good-little-girl.jpg?v=1601094599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Valentine Greeting Teacup Favor Gift is perfect to send to your love as a sweet gift or to use as a party favor at your Valentine's day party. Each includes yummy traditional Earl Grey tea inside the swirl design porcelain teacup. Arrives in cello adorned with beautiful bow ready to give or place on your table.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1948991225945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>010719-5J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1948963995737</id>
+    <published>2019-01-07T07:47:23-06:00</published>
+    <updated>2019-01-07T07:47:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-postcard-valentine-scented-sachet-pretty-in-pink"/>
+    <title>Vintage Style Postcard Valentine Scented Sachet - Pretty in Pink</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-postcard-valentine-scented-sachet-pretty-in-pink.jpg?v=1582071404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The perfect way to send a Valentine's greeting slash gift is with our Vintage Style Postcard Valentine Scented Sachets. Each has the lovely scent of Lily of the Valley with heart shaped beading and vintage style lace. Small enough to mail to your love and big enough to impress for years to come as a keepsake. One of a kind! 4"x3"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1948963995737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>010719-3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1948962619481</id>
+    <published>2019-01-07T07:43:41-06:00</published>
+    <updated>2019-01-07T07:43:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-postcard-valentine-scented-sachet-heart-shaped-gift"/>
+    <title>Vintage Style Postcard Valentine Scented Sachet - Heart Shaped Gift</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-postcard-valentine-scented-sachet-heart-shaped-gift.jpg?v=1601094597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The perfect way to send a Valentine's greeting slash gift is with our Vintage Style Postcard Valentine Scented Sachets. Each has the lovely scent of Lily of the Valley with heart shaped beading and vintage style lace. Small enough to mail to your love and big enough to impress for years to come as a keepsake. One of a kind! 4"x3"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1948962619481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>010719-2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1948961767513</id>
+    <published>2019-01-07T07:19:07-06:00</published>
+    <updated>2019-01-07T07:19:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-postcard-valentine-scented-sachet-present"/>
+    <title>Vintage Style Postcard Valentine Scented Sachet - Present</title>
+    <s:type>Valentines Day Victorian Gifts</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-postcard-valentine-scented-sachet-present.jpg?v=1582071403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Valentines Day Victorian Gifts<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The perfect way to send a Valentine's greeting slash gift is with our Vintage Style Postcard Valentine Scented Sachets. Each has the lovely scentof Lily of the Valley with heart shaped beading and vintage style lace. Small enough to mail to your love and big enough to impress for years to come as a keepsake. One of a kind! 4"x3"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1948961767513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>910719-1J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1939959906393</id>
+    <published>2018-12-31T15:30:44-06:00</published>
+    <updated>2018-12-31T15:30:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-time-valentine-stickers-23-full-color-stickers"/>
+    <title>Old-Time Valentine Stickers - 23 Full-Color Stickers</title>
+    <s:type>Victorian Stickers</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-time-valentine-stickers-23-full-color-stickers.jpg?v=1582071401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Victorian Stickers<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Engaging Valentine designed stickers — reproduced from rare sources — adding old-fashioned charm to greeting cards, gifts, stationery and more. 23 lovely designs featuring Victorian era to the 1920's motifs include an abundance of cupids, flowers; charming children and hearts bearing such romantic messages as "To My Sweetheart" and "My Heart's Dearest".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1939959906393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1525598273</id>
+    <published>2018-08-03T13:59:54-05:00</published>
+    <updated>2018-08-03T13:59:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victoria-silver-spoon-jewelry-and-pearl-necklace"/>
+    <title>Victoria Silver Spoon Jewelry and Pearl Necklace - Only 1 Left!</title>
+    <s:type>Silver Spoon Creature Necklaces</s:type>
+    <s:vendor>Silver Spoon Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-spoon-creature-necklaces-victoria-silver-spoon-jewelry-and-pearl-necklace-1.gif?v=1561401215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silver Spoon Jewelry<br>
+        <strong>Type: </strong>Silver Spoon Creature Necklaces<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Victoria Silver and Pearl Necklace This stunning necklace features a 1 1/4 inch x 1 1/4 inch silver plate heart created from antique demitasse spoon patterns from the 1800's. Freshwater pearls complete this delicate accessory. Length is an adjustable 15-17 inches.</span></li>
+<li><span>Made in the USA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1525598273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>4162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548298113</id>
+    <published>2018-04-26T18:34:04-05:00</published>
+    <updated>2018-04-26T18:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-burgundy-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Burgundy - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-burgundy-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548298113</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2732</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548444865</id>
+    <published>2018-04-26T18:32:38-05:00</published>
+    <updated>2018-04-26T18:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-bright-pink-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Bright Pink - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-bright-pink-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548444865</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278097793</id>
+    <published>2018-04-26T18:32:06-05:00</published>
+    <updated>2018-04-26T18:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-ruby"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Beating Hearts - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-beating-hearts-perfect-for-valentines-day-and-mothers-day.jpg?v=1582072188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278097793</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>04252017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

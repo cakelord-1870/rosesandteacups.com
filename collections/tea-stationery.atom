@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-stationery.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-06-25T18:23:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6731891393</id>
+    <published>2016-06-25T18:23:00-05:00</published>
+    <updated>2016-06-25T18:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-tea-cup-blank-greeting-card"/>
+    <title>Purple Tea Cup Blank Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-tea-cup-blank-greeting-card.jpg?v=1601092434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This high quality, glossy greeting card with coordinating envelope is perfect for so many occasions!  There is plenty of room to personalize your card with Happy Birthday, Thank You, or other special greetings.  These can also be used for Tea Party Invitations!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6731891393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>062616N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6724558209</id>
+    <published>2016-06-25T18:23:00-05:00</published>
+    <updated>2016-06-25T18:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-tea-cup-blank-greeting-card"/>
+    <title>Pink Tea Cup Blank Greeting Card</title>
+    <s:type>Greeting Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-tea-cup-blank-greeting-card.jpg?v=1601092429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Greeting Cards<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This high quality, glossy greeting card with coordinating envelope is perfect for so many occasions!  There is plenty of room to personalize your card with Happy Birthday, Thank You, or other special greetings.  These can also be used for Tea Party Invitations!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6724558209</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>062516-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556071681</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pink"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pink</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pink-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556071681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556067777</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-burgundy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Burgundy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-burgundy-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556067777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556062145</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-yellow"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Yellow</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-yellow-1.gif?v=1561400522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556062145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556053249</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-blue"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Blue</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-blue-1.gif?v=1561400520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556053249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556026305</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-tea-cup-and-teapot-note-cards-pansy"/>
+    <title>Personalized Tea Cup and Teapot Note Cards Pansy</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-stationery-personalized-tea-cup-and-teapot-note-cards-pansy-1.gif?v=1561400521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Personalize our Tea Note Cards with your own custom look!</span><br><span>Choose from our 5 Teacup Note Card Patterns, and let us know exactly what you would like to have printed on them. (Use the "comments" section as you checkout.)  </span><span>We will send you an electronic proof of your note cards for your approval.</span><br><span>Note Cards are folded; 5.47 x 4.21 inches</span></p>
+<p>Watermarks will NOT appear on your note cards!<br>Set of 20 Customized<br>Tea Note Cards with 20 White Envelopes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556026305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>4208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556009217</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-letterhead-and-envelopes"/>
+    <title>Teapot Letterhead and Envelopes</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/teapot-letterhead-and-envelopes.jpg?v=1601090973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teapot 8 1/2 x 11 Stationery</span><br><span>25 Sheets with 25 Matching Envelopes </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556009217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>4098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556008001</id>
+    <published>2015-07-17T09:46:00-05:00</published>
+    <updated>2015-07-17T09:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-cup-letterhead-and-envelopes"/>
+    <title>Tea Cup Letterhead and Envelopes</title>
+    <s:type>Tea Stationery</s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-cup-letterhead-and-envelopes.jpg?v=1601090971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong>Tea Stationery<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Teacup 8 1/2 x 11 Stationery</span><br><span>25 Sheets with 25 Matching Envelopes </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556008001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>2287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541334529</id>
+    <published>2015-07-15T21:50:00-05:00</published>
+    <updated>2015-07-15T21:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ks-baby-shower-invitation"/>
+    <title>Kimberly Shaw Baby Shower Tea Invitation</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-baby-shower-tea-invitation.jpg?v=1601090749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99 - 117.00
+            <a href="https://rosesandteacups.com/products/ks-baby-shower-invitation">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>One Card</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>1112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>Set of 36</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>5413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541334529</id>
+      <title>Set of 12</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>5414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541324353</id>
+    <published>2015-07-15T21:42:00-05:00</published>
+    <updated>2015-07-15T21:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ks-royal-tea-party-invitation"/>
+    <title>Kimberly Shaw Royal Tea Party Invitation</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-royal-tea-party-invitation.jpg?v=1601090747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99 - 117.00
+            <a href="https://rosesandteacups.com/products/ks-royal-tea-party-invitation">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: small;">Meant to impress, there's a real tea bag in this Kimberly Shaw invitation. <br></span></p>
+<p><span style="font-size: small;">Outside reads, "Please Join Us".</span></p>
+<p><span style="font-size: small;">Inside: Fill in the blank style invitation text, see additional image.</span></p>
+<p><span style="font-size: small;">Tea inside: <strong>Earl Grey Decaffeinated</strong>, from Harney &amp; Sons Fine Teas.</span></p>
+<p><span style="font-size: small;">Card measures 4 1/4" x 5 1/2" and includes a white envelope.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541324353</id>
+      <title>One Card</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>5417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541324353</id>
+      <title>Set of 12</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>5419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541324353</id>
+      <title>Set of 36</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>5418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1541285185</id>
+    <published>2015-07-15T21:26:00-05:00</published>
+    <updated>2015-07-15T21:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ks-girls-night-out-invite-card"/>
+    <title>Kimberly Shaw Girls Night Out Invitation Cards</title>
+    <s:type>Kimberly Shaw Tea Greeting Cards</s:type>
+    <s:vendor>Kimberly Shaw</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/kimberly-shaw-girls-night-out-invitation-cards.jpg?v=1601090745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kimberly Shaw<br>
+        <strong>Type: </strong>Kimberly Shaw Tea Greeting Cards<br>
+        <strong>Price: </strong>
+            3.99 - 117.00
+            <a href="https://rosesandteacups.com/products/ks-girls-night-out-invite-card">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: small;">For girls of all ages, there's a real tea bag in this invitation for your guests to enjoy in anticipation of your party.<br></span></p>
+<p><span style="font-size: small;">T<strong><span style="font-weight: normal;">ea inside:</span></strong><strong><span style="font-weight: normal;"><strong> Raspberry Herbal</strong>, a mixture of rosehips, hibiscus, and raspberry which <span style="font-size: small;"><span style="font-weight: normal;">brews to a warm pink. Y</span><strong><span style="font-weight: normal;">es, we had little girls' tea</span></strong><strong><span style="font-weight: normal;">parties in mind!</span></strong></span> From Harney &amp; Sons Fine Teas. </span></strong><strong></strong></span></p>
+<p><span style="font-size: small;"><strong><span style="font-weight: normal;">Inside text: Fill in the blank style invitation text, see additional image.</span></strong></span></p>
+<p><span style="font-size: small;"><strong><span style="font-weight: normal;">Card size is 4 1/4" x 5 1/2" and comes with a white envelope.</span></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541285185</id>
+      <title>One Card</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541285185</id>
+      <title>Set of 12</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>5416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1541285185</id>
+      <title>Set of 36</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>5415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481821249</id>
+    <published>2015-07-09T17:04:00-05:00</published>
+    <updated>2015-07-09T17:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-10-tea-party-invitations-and-envelopes"/>
+    <title>Set of 10 Tea Party Invitations and Envelopes</title>
+    <s:type>Tea Party Invitations</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-10-tea-party-invitations-and-envelopes.jpg?v=1601089154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Party Invitations<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You'll love the tea party graphics on every part of this invitation.  Inside template makes it is easy to fill in the details of your event, and coordinating envelopes add the finishing touch!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481821249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>6689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1481781697</id>
+    <published>2015-07-09T16:46:00-05:00</published>
+    <updated>2015-07-09T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/old-country-roses-note-cards"/>
+    <title>Old Country Roses Note Cards</title>
+    <s:type>Tea Note Cards</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-roses-note-cards.jpg?v=1601089151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Note Cards<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Old Country Roses Folded Note Cards with Envelopes</span><br><span>Set of 10 Folded 5.47 x 4.21 inches</span><br><span>Old Country Roses Teacups Note Cards</span><br><span>with 10 Matching Envelopes</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1481781697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>4095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

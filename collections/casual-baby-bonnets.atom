@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/casual-baby-bonnets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-01-08T09:48:13-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421584978009</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set"/>
+    <title>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set.jpg?v=1601095174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set is cute gift boxed set that includes beautiful USA hand sewn hankie with ribbons.  This is sure to be a cherished keepsake</p>
+<p>Inside text reads:</p>
+<p class="yiv6809635359MsoNormal">A Tiny Square of Linen and a Dainty</p>
+<p class="yiv6809635359MsoNormal">Edge of Lace, Designed into a Bonnet</p>
+<p class="yiv6809635359MsoNormal">To Frame Your Baby’s Face.</p>
+<p class="yiv6809635359MsoNormal"> </p>
+<p class="yiv6809635359MsoNormal">After Baby’s Worn it, Fold and Tuck</p>
+<p class="yiv6809635359MsoNormal">Away… and it Becomes a Hankie for Your</p>
+<p class="yiv6809635359MsoNormal">Daughter’s Wedding Day,</p>
+<p class="yiv6809635359MsoNormal">Or if the Baby is a Boy, on the Day</p>
+<p class="yiv6809635359MsoNormal">He Marries this can be the “Something Old” for His Joyful Bride to Be.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421584978009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0108203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/413321396264</id>
+    <published>2018-01-23T12:20:41-06:00</published>
+    <updated>2018-01-23T12:20:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hankie-christening-bonnet"/>
+    <title>Hankie Christening Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Alice&apos;s Cottage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hankie-christening-bonnet.jpg?v=1582071376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alice&#39;s Cottage<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from a beautifully embroidered handkerchief, this is the perfect gift for your favorite newborn. Gift box, with poem shown.<br> <br> <em><strong>Poem Text</strong></em><br> I am a little bonnet<br> As you can plainly see.<br> But could you guess a handkerchief<br> Is what I use to be?<br> <br> Wear me home from the hospital<br> And again on Christening Day.<br> Then safely keep me tucked away<br> Until your Wedding Day.<br> <br> For good fortune all brides<br> Must wear something old<br> So just clip a couple of stitches<br> And a wedding hanky will unfold.<br> <br> If perhaps it is a boy<br> On the day he is to wed<br> Won't his bride be proud to use<br> The bonnet worn upon his head.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/413321396264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0120201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085751809</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/petite-rose-baby-bonnet"/>
+    <title>Petite Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/petite-rose-baby-bonnet.jpg?v=1601093076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">About the girliest bonnet you'll ever find, our Petite Roses Baby Bonnet has roses inside and out!  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085751809</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-3N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085738881</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-rose-baby-bonnet"/>
+    <title>Sweet Rose Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-rose-baby-bonnet.jpg?v=1601093075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Polka Dots and Roses are the theme of this sweet baby bonnet.  Cotton</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085738881</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017-2N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9085737665</id>
+    <published>2017-03-27T19:35:00-05:00</published>
+    <updated>2017-03-27T19:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fun-flowers-baby-bonnet"/>
+    <title>Fun Flowers Baby Bonnet</title>
+    <s:type>Baby Bonnets</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fun-flowers-baby-bonnet.jpg?v=1601093073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Baby Bonnets<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flowers are blooming and colors are popping (and dragonflies and flying!) on this adorable summer bonnet for baby girls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>Newborn</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>S</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>M</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>L</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9085737665</id>
+      <title>XL</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>03272017N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

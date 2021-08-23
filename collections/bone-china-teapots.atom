@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/bone-china-teapots.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-14T21:09:42-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4388692557913</id>
+    <published>2019-12-14T21:09:42-06:00</published>
+    <updated>2019-12-14T21:09:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/empire-poppy-bone-china-teapot"/>
+    <title>Empire Poppy Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/empire-poppy-bone-china-teapot.jpg?v=1601095171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Empire Poppy Bone China Teapot Holds 4 Cups Made of Fine Bone "Stechol" China </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4388692557913</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>10272017-6J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2101327331417</id>
+    <published>2019-05-29T11:54:44-05:00</published>
+    <updated>2019-05-29T11:54:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-garland-bone-china-teapot"/>
+    <title>French Garland Bone China Teapot - Only 1 Left!</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-garland-bone-china-teapot-only-1-left.jpg?v=1621987954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pour yourself and a friend a steaming beverage from our darling teapot. Think of the herbal drink tantalizing your palate with each sip.</span><br><br><span>Rendered to bone china, a floral decal graces the serving piece. Delicate flourishes add a charming touch not to be missed by you or your guests.</span><br><br><span>Picture this teapot for your next tea party. Whether you be hosting a gathering or selecting the perfect gift for your tea-loving friend, our Prim Pastel Teapot will serve you well.</span><br><br><span>Holds 38 fl. oz. </span><br><span>Dishwasher safe. Not microwave safe. Food safe. </span><br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2101327331417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>0529193J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1349272830053</id>
+    <published>2018-09-19T12:36:49-05:00</published>
+    <updated>2018-09-19T12:36:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pansy-fine-bone-china-teapot"/>
+    <title>Pansy Fine Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansy-fine-bone-china-teapot.jpg?v=1601094330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>40 ounces Cup Teapot. Fine Bone China. 14K Gold Trimmed. Swirl Shape</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1349272830053</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>091918-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/16424632321</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cherry-blossom-bone-china-teapot"/>
+    <title>Cherry Blossom Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherry-blossom-bone-china-teapot.jpg?v=1601093628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>36 ounces Cup Teapot. Fine Bone China. Swirl Shape, Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/16424632321</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-35N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15322120193</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sandras-rose-bone-china-teapot"/>
+    <title>Sandra&apos;s Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sandras-rose-bone-china-teapot.jpg?v=1601093613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 cup Teapot. Fine Bone China. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15322120193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>10272017-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15319531521</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-heart-swag-bone-china-teapot"/>
+    <title>Rose Heart Swag Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-heart-swag-bone-china-teapot.jpg?v=1601093612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 cup Teapot. Fine Bone China. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15319531521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>1203201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15318253569</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/rose-bouquet-bone-china-teapot"/>
+    <title>Rose Bouquet Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/rose-bouquet-bone-china-teapot.jpg?v=1601093611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3 Cup Teapot. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15318253569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15315075073</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-rose-bone-china-teapot"/>
+    <title>Romantic Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-rose-bone-china-teapot.jpg?v=1601093610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>3 Cup Teapot. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15315075073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>10272017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15307538433</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peony-and-strawberry-bone-china-teapot"/>
+    <title>Peony and Strawberry Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peony-and-strawberry-bone-china-teapot.jpg?v=1601093609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4 Cup Tea Pot, 30 ounces. Fine Bone China.Covered with Light Blue Background.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15307538433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15304556545</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/magnolia-bone-china-teapot"/>
+    <title>Magnolia Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/magnolia-bone-china-teapot.jpg?v=1601093608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4 Cup Tea Pot, 30 ounces. Fine Bone China.Covered with Light Blue Background.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15304556545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15300788225</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lizs-garden-bone-china-teapot"/>
+    <title>Liz&apos;s Garden Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lizs-garden-bone-china-teapot.jpg?v=1601093607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 cup Teapot. Fine Bone China.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15300788225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.99</s:price>
+      <s:sku>10272017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15298592769</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/iceberg-bone-china-teapot"/>
+    <title>White Iceberg Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-iceberg-rose-bone-china-teapot.jpg?v=1601093606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4 Cup Tea Pot, 30 ounces. Fine Bone China.Full Covered with Cream Background.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15298592769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15296659457</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/graces-rose-bone-china-teapot"/>
+    <title>Grace&apos;s Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/graces-rose-bone-china-teapot.jpg?v=1601093605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>40 ounces Cup Teapot. Fine Bone China. Gold Trimmed. Swirl Shape</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15296659457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15292956673</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-rose-bone-china-teapot"/>
+    <title>French Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-rose-bone-china-teapot.jpg?v=1601093604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>5 cup Teapot. Fine Bone China</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15292956673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15288696833</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cottage-rose-bone-china-teapot"/>
+    <title>Cottage Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cottage-rose-bone-china-teapot.jpg?v=1601093603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>40 ounces Cup Teapot. Fine Bone China. Swirl Shape, Gold Trimmed.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15288696833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-3NJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15284371457</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/alices-garden-bone-china-teapot"/>
+    <title>Alice&apos;s Garden Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/alices-garden-bone-china-teapot.jpg?v=1601093602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4 Cup Teapot, 30 ounces. Fine Bone China. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15284371457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/15284142081</id>
+    <published>2017-10-27T09:20:40-05:00</published>
+    <updated>2017-10-27T09:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beau-rose-bone-china-teapot"/>
+    <title>Beau Rose Bone China Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beau-rose-bone-china-teapot.jpg?v=1601093600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4 Cup Teapot, 30 ounces. Fine Bone China. Gold Trimmed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/15284142081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10272017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10165189697</id>
+    <published>2017-09-14T14:40:53-05:00</published>
+    <updated>2017-09-14T14:40:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bone-china-5-cup-english-rose-red-teapot"/>
+    <title>Bone China 5 Cup English Rose Red Teapot</title>
+    <s:type>Bone China Teapots</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bone-china-5-cup-english-rose-red-teapot.jpg?v=1601093302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Bone China Teapots<br>
+        <strong>Price: </strong>
+            43.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bone China 5 Cup English Rose Red Teapot with Gold Trim (not made in England)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10165189697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.19</s:price>
+      <s:sku>09142017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1199908417</id>
+    <published>2015-06-13T20:43:00-05:00</published>
+    <updated>2015-06-13T20:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-poppy-english-bone-china-teapot"/>
+    <title>6C Poppy English Bone China Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-poppy-english-bone-china-teapot.jpg?v=1601088248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            76.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Cup Fine Bone China Poppy Teapot made in England by Roy Kirkham approx 32 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1199908417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">76.99</s:price>
+      <s:sku>8467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1198243393</id>
+    <published>2015-06-13T16:57:00-05:00</published>
+    <updated>2015-06-13T16:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-peace-rose-english-bone-china-teapot"/>
+    <title>6C Peace Rose English Bone China Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-peace-rose-english-bone-china-teapot.jpg?v=1601088247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            70.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Cup Fine Bone China Peace Rose Teapot Made in England by Adderley Ceramics approx. 36 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1198243393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.99</s:price>
+      <s:sku>8470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1198170177</id>
+    <published>2015-06-13T16:50:00-05:00</published>
+    <updated>2015-06-13T16:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-pansy-english-bone-china-teapot"/>
+    <title>6 Cup Special Pansy English Bone China Teapot By Roy Kirkham</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-cup-special-pansy-english-bone-china-teapot-by-roy-kirkham.jpg?v=1601088246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Cup Fine Bone China Special Pansy Teapot made in England by Roy Kirkham approx 32 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1198170177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>8466</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1197956609</id>
+    <published>2015-06-13T16:14:00-05:00</published>
+    <updated>2015-06-13T16:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-empire-english-bone-china-pansy-teapot"/>
+    <title>6C Empire English Bone China Pansy Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-empire-english-bone-china-pansy-teapot.jpg?v=1601088244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Cup Fine Bone China 40oz capacity Teapot made by Adderley Cermics Stoke on Trent England hand decorated and with Green Embellishments so that teapot is safe for Dishwasher.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>English Teaware</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1197956609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>8476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106146625</id>
+    <published>2015-06-13T15:34:00-05:00</published>
+    <updated>2015-06-13T15:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-autumn-poppy-english-bone-china-teapot"/>
+    <title>6C Autumn Poppy English Bone China Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-autumn-poppy-english-bone-china-teapot.jpg?v=1601092649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6C Autumn Poppy English Bone China Teapot approx. 36 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2-Day-Berta Sets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106146625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>09292016-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106132673</id>
+    <published>2015-06-13T15:34:00-05:00</published>
+    <updated>2015-06-13T15:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-butterfly-garden-english-bone-china-teapot"/>
+    <title>6C Butterfly Garden English Bone China Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-butterfly-garden-english-bone-china-teapot.jpg?v=1601092648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6C Butterfly Garden English Bone China Teapot approx. 32 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2-Day-Berta Sets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106132673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>09292016-14N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106116737</id>
+    <published>2015-06-13T15:34:00-05:00</published>
+    <updated>2015-06-13T15:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6c-burgandy-rose-english-bone-china-teapot"/>
+    <title>6C Burgandy Rose English Bone China Teapot</title>
+    <s:type>English Teapots</s:type>
+    <s:vendor>Magpie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6c-burgandy-rose-english-bone-china-teapot.jpg?v=1601092647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magpie<br>
+        <strong>Type: </strong>English Teapots<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6C Burgandy Rose English Bone China Teapot approx. 36 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2-Day-Berta Sets</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106116737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>09292016-13N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

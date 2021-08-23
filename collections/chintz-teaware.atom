@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/chintz-teaware.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2018-01-26T19:49:33-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/417701232680</id>
+    <published>2018-01-26T19:49:33-06:00</published>
+    <updated>2018-01-26T19:49:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bimini-collection-16-piece-stoneware-service-for-4"/>
+    <title>Bimini Collection 16 Piece Stoneware Service for 4</title>
+    <s:type>Dinner Sets</s:type>
+    <s:vendor>Lorenzo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bimini-collection-16-piece-stoneware-service-for-4.png?v=1601093866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lorenzo<br>
+        <strong>Type: </strong>Dinner Sets<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Bimini Collection features color combinations and designs that bring together an old world look with a modern style. Textured beaded edges give this set a unique feel and design. Stoneware construction adds durability and sturdiness to this everyday set. This sets offers a beautiful combination of serene green and blue colors to create a landscape of beauty on each piece. Each set includes 4 of each: 10.5" Dinner Plate, 6" Bowl (18 ounce), 8" Salad Plate, 16 ounce mug (6" x 4" x 4.5"). Dishwasher and microwave safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/417701232680</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518205185</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ink-rose-and-golden-grapes-on-white-chintz-33-oz-porcelain-teapot-satin-lined-gift-box"/>
+    <title>Pink Rose and Golden Grapes Chintz Porcelain Teapot Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-and-golden-grapes-chintz-porcelain-teapot-satin-lined-gift-box.jpg?v=1601090067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Rose and Golden Grapes Chintz</p>
+<p>33 oz. Porcelain Teapot</p>
+<p>Satin Lined Gift Box</p>
+<p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518205185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>3206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518197057</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-roses-and-golden-grapes-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box"/>
+    <title>Pink Roses and Golden Grapes Chintz Porcelain Creamer Set on Tray Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-roses-and-golden-grapes-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box.jpg?v=1582071170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518197057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>3205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518188865</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-piece-pink-rose-and-golden-grapes-on-white-chintz-6-generous-full-size-porcelain-teacups-and-saucers-in-round-satin-lined-gift-box"/>
+    <title>12 Piece Pink Rose and Golden Grapes on White Chintz 6 Generous Full Size Porcelain Teacups and Saucers in Round Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-piece-pink-rose-and-golden-grapes-on-white-chintz-6-generous-full-size-porcelain-teacups-and-saucers-in-round-satin-lined-gift-box.jpg?v=1601090065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518188865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>3204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518177665</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-white-rose-on-mint-chintz-large-40-oz-porcelain-teapot-and-creamer-set-satin-lined-gift-box"/>
+    <title>3 Piece White Rose on Mint Chintz Large 40 oz. Porcelain Teapot and Creamer Set Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-white-rose-on-mint-chintz-large-40-oz-porcelain-teapot-and-creamer-set-satin-lined-gift-box.jpg?v=1601090064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518177665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.99</s:price>
+      <s:sku>3203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518167425</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lush-roses-chintz-4-piece-porcelain-snack-set-satin-lined-gift-box"/>
+    <title>Lush Roses Chintz 4 Piece Porcelain Tea or Coffee Snack Set Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lush-roses-chintz-4-piece-porcelain-tea-or-coffee-snack-set-satin-lined-gift-box.jpg?v=1601090063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            46.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518167425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.50</s:price>
+      <s:sku>1146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518156417</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-lush-roses-chintz-bone-china-teapot-and-creamer-set-satin-lined-gift-box"/>
+    <title>3 Piece Lush Roses Chintz Bone China Teapot and Creamer Set Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-lush-roses-chintz-bone-china-teapot-and-creamer-set-satin-lined-gift-box.jpg?v=1582071169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            82.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518156417</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.75</s:price>
+      <s:sku>3200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518140161</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-piece-lush-open-rose-chintz"/>
+    <title>12 Piece Lush Open Rose Chintz</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-piece-lush-open-rose-chintz.jpg?v=1601090062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p>
+<p><span>6 Generous Full Size Teacups and Saucers</span><span> in Round Satin Lined Gift Box!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518140161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>3199</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518127489</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-piece-porcelain-snack-set-in-gift-box-pink-roses-and-lilacs-on-white-chintz"/>
+    <title>4 Piece Porcelain Tea or Coffee Snack Set in Gift Box Pink Roses and Lilacs on White Chintz</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-piece-porcelain-tea-or-coffee-snack-set-in-gift-box-pink-roses-and-lilacs-on-white-chintz.jpg?v=1582071167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518127489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>3198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518123329</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-roses-and-lilacs-chintz-porcelain-33-oz-teapot-satin-lined-gift-box"/>
+    <title>Pink Roses and Lilacs Chintz Porcelain 33 oz. Teapot Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-roses-and-lilacs-chintz-porcelain-33-oz-teapot-satin-lined-gift-box.jpg?v=1601090061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518123329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>3197</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518119297</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/double-pink-rose-on-white-chintz-33-oz-porcelain-teapot-satin-lined-gift-box"/>
+    <title>Double Pink Rose on White Chintz 33 oz. Porcelain Teapot Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Double-Pink-Rose-on-White-Chintz-33-oz-Porcelain-Teapot-Satin-Lined-Gift-Box_3c38c842-62b9-4435-b64a-d930d2020838.jpg?v=1628986303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518119297</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>3195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518114369</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/3-piece-double-pink-rose-on-white-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box"/>
+    <title>3 Piece Double Pink Rose on White Chintz Porcelain Creamer Set on Tray Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/3-piece-double-pink-rose-on-white-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box.jpg?v=1582071166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518114369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>3194</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518107457</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-piece-porcelain-snack-set-in-gift-box-yellow-roses-and-lilacs-on-white-chintz"/>
+    <title>4 Piece Porcelain Tea or Coffee Snack Set in Gift Box Yellow Roses and Lilacs on White Chintz</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/4-piece-porcelain-tea-or-coffee-snack-set-in-gift-box-yellow-roses-and-lilacs-on-white-chintz.jpg?v=1582071165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518107457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>3193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518100801</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-roses-and-lilacs-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box"/>
+    <title>Yellow Roses and Lilacs Chintz Porcelain Creamer Set on Tray Satin Lined Gift Box</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-roses-and-lilacs-chintz-porcelain-creamer-set-on-tray-satin-lined-gift-box.jpg?v=1582071164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518100801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>3192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518087105</id>
+    <published>2015-07-13T11:38:00-05:00</published>
+    <updated>2015-07-13T11:38:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/yellow-roses-and-lilacs-chintz-33-oz-teapot-satin-lined-gift-box"/>
+    <title>Yellow Roses and Lilacs Chintz 33 oz. Teapot Satin Lined Gift Box!</title>
+    <s:type>Chinz Teaware</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/yellow-roses-and-lilacs-chintz-33-oz-teapot-satin-lined-gift-box.jpg?v=1582071163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Chinz Teaware<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>USA Hand Decorated Porcelain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518087105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>3191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

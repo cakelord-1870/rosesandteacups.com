@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/small-french-hats.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-09-29T12:31:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107075713</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-ivory-riding-hat"/>
+    <title>Small French Ivory Riding Hat</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-ivory-riding-hat.jpg?v=1601092681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French ivory riding hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107075713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>09292016-55N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107054081</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-black-with-brown"/>
+    <title>Small French Hat Black with Brown</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-black-with-brown.jpg?v=1601092680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French black with plumbrown hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107054081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>09292016-54N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107038849</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-black-with-plum"/>
+    <title>Small French Hat Black with Plum</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Small-French-Hat-Black-with-Plum_0bc1a4a7-3eaf-4493-a1be-58a2f89539aa.jpg?v=1629072715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French black with plum hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107038849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>09292016-53N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107029057</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-boater-hat-antique-lace-with-french-blue"/>
+    <title>Small French Boater Hat Antique Lace with French Blue</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-boater-hat-antique-lace-with-french-blue.jpg?v=1601092678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French antique lace hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107029057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-52N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107017025</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-ivory-with-seafoam"/>
+    <title>Small French Hat Ivory with Seafoam</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-ivory-with-seafoam.jpg?v=1601092676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French ivory hat with seafoam accents is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107017025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-51N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8107004353</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/mall-french-hat-lavender"/>
+    <title>Small French Hat French Lavender</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-french-lavender.jpg?v=1601092675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French lavender hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8107004353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-50N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106993793</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-vintage-green-1"/>
+    <title>Small French Hat Vintage Green</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-vintage-green_222c6d95-e5dc-4f57-8b1b-be18c5796c9b.jpg?v=1601092674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French vintage green hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106993793</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-49N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106962561</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-vintage-green-velvet"/>
+    <title>Small French Hat Vintage Green Velvet</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-vintage-green-velvet.jpg?v=1601092673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French vintage green velvet hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106962561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-48N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106956225</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-plum-velvet"/>
+    <title>Small French Hat Plum Velvet</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-plum-velvet.jpg?v=1601092672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French plum velvet hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106956225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-47N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106948993</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-turquoise-velvet"/>
+    <title>Small French Hat Turquoise Velvet</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-turquoise-velvet.jpg?v=1601092670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French turqoise velvet hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106948993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-46N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106942081</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-burgundy"/>
+    <title>Small French Hat Burgundy</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-burgundy.jpg?v=1601092670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French burgundy hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106942081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>09292016-45N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106930433</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-small-french-hat-mauve"/>
+    <title>Small French Hat Brown</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-brown.jpg?v=1601092669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French brown hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106930433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-44N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106921665</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-mauve"/>
+    <title>Small French Hat Mauve</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-mauve.jpg?v=1601092667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French mauve hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106921665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-43N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106892737</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-plum"/>
+    <title>Small French Hat Plum</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-plum.jpg?v=1601092665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French plum hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106892737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-41N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8106883649</id>
+    <published>2016-09-29T12:31:00-05:00</published>
+    <updated>2016-09-29T12:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/small-french-hat-turquoise"/>
+    <title>Small French Hat Turquoise</title>
+    <s:type>Small French Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/small-french-hat-turquoise.jpg?v=1601092663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Small French Hats<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This small French turqoise hat is designed to sit on top of the hat with romantic netting down the back.  USA Handcrafted with feathers, florals, lace and netting accents.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8106883649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>09292016-40N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

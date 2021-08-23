@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/petits-fours-tea-cakes.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-04-12T16:32:44-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2061530333273</id>
+    <published>2019-04-12T16:32:44-05:00</published>
+    <updated>2019-04-12T16:32:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-tea-hat-petits-fours-only-available-through-mothers-day-shipping-first-week-of-may-hurry-they-wont-last-long"/>
+    <title>15 Tea Hat Petits Fours (Only available through Mother&apos;s Day - Shipping First Week of May) Hurry they won&apos;t last long!!</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-tea-hat-petits-fours-only-available-through-mothers-day-shipping-first-week-of-may-hurry-they-wont-last-long_9402543e-8866-424f-a50a-8526af69f7f7.jpg?v=1601094741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            78.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our tea hats begin with a shortbread cookie topped with delicious layers of moist cake. Next they are covered with chocolate and adorned with a hand cut flower fashioned from chocolate fondant. Varieties include; Chocolate Mint, Banana and Coconut Creme, Raspberry, and Lime, 15 confections are presented in an elegant gift box and tied with a beautiful bow. (13ozs.)</span></p>
+<p><span>(All Petits Fours must be shipped UPS 2nd Day.  2-Day Refrigerated Shipping Fee is included in price.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2061530333273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.35</s:price>
+      <s:sku>1250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517929729</id>
+    <published>2017-10-07T17:02:39-05:00</published>
+    <updated>2017-10-07T17:02:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/demi-tasse-petits-fours-cakes-party-packages-box-of-36"/>
+    <title>Demi Tasse Party Packages Petits Fours Box of 36</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/demi-tasse-party-packages-petits-fours-box-of-36.jpg?v=1601090050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            82.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Yummy little cakes perfect for Tea Parties - Bridal Events - Birthdays and more!</span></p>
+<p><span>Almond Cake Petit Four with Raspberry Puree</span><br><span>Almond Cake Petit Four with Orange Buttercream</span><br><span>Almond Cake Petit Four with Pineapple Puree </span><br><span>Almond Cake Petit Four with Lime Buttercream Filling</span><br><span>Chocolate Cake Petit Four with Truffle Cream Filling</span><br><span>Vanilla Cake Petit Four with Strawberry Buttercream</span><br><span>All finished with Pastel Chocolate and tiny Bows</span></p>
+<p><span>(All Petits Fours must be shipped UPS 2nd Day. </span><span> 2-Day Refrigerated Shipping Fee is included in price.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517929729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.85</s:price>
+      <s:sku>1269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517967041</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/demitasse-wedding-bleu-petit-fours-box-of-36"/>
+    <title>Demitasse Wedding Bleu Petit Fours Party Cakes Box of 36 - Returning in April</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/demitasse-wedding-bleu-petit-fours-party-cakes-box-of-36-returning-in-april.jpg?v=1601090055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            82.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wedding packages enrobed in a delicate robin egg blue chocolate and tied up with an ivory bow. These luscious little vanilla cakes are layered with raspberry puree and vanilla buttercream.</span></p>
+<p><span>(All Petits Fours must be shipped UPS 2nd Day. </span><span> 2-Day Refrigerated Shipping Fee is included in price.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517967041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.85</s:price>
+      <s:sku>8369</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517960065</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/demitasse-wedding-petits-fours-box-of-36"/>
+    <title>Demitasse Wedding Petits Fours Box of 36</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/demitasse-wedding-petits-fours-box-of-36.jpg?v=1601090054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            82.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ivory "Packages": Vanilla Cake Petit Four filled with Raspberry Puree and Vanilla Buttercream</span><br><span>Lily of the Valley: Vanilla Cake Petit Four filled with Strawberry Creme</span><br><span>Dainty Flower: Vanilla Cake Petit Four filled with Bittersweet Truffle Cream</span></p>
+<p><span>( 2-Day Refrigerated Shipping Fee is required on all Petits Fours. An additional $14.00 fee has been added into the price ($55.90) already to cover the freight plus regular shipping of $12.95 paid at check out covers the $26.95 UPS 2nd Day charges. All Petits Fours will ship with ice packs UPS 2nd Day to ensure they do not stay in transit too long to preserve shape and freshness.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517960065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.85</s:price>
+      <s:sku>1260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517954689</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/girly-girl-petits-fours-box-of-35-full-size"/>
+    <title>Girly Girl Petits Fours Box of 35 Full Size</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girly-girl-petits-fours-box-of-35-full-size.jpg?v=1601090052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            96.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>White Chocolate Bliss: Vanilla Cake Petit Four with White Chocolate Truffle Cream and Strawberry Preserves</span><br><span>Dreamy Strawberry Cream: Almond Cake Petit Four with Strawberry Buttercream</span><br><span>Chocoholic: Chocolate Cake Petit Four filled with Bittersweet Truffle Cream and Raspberry Jam</span><br><span>Trufflelicious: Chocolate Cake Petit Four filled with Bittersweet Truffle and Raspberry Cream</span><br><span>Pretty in Pink: Vanilla Cake Petit Four filled with Milk Chocolate Truffle</span><br><span>Go Nutty: Vanilla Cake Petit Four filled with Roasted Hazelnut Cream</span><br><span>Berry Zen: Vanilla Cake Petit Four filled with Raspberry Puree and Vanilla Buttercream</span></p>
+<p><span>( 2-Day Refrigerated Shipping Fee is required on all Petits Fours. An additional $10.00 fee has been added into the price ($69.99) already to cover the freight plus regular shipping of $16.95 paid at check out covers the $26.95 UPS 2nd Day charges. All Petits Fours will ship with ice packs UPS 2nd Day to ensure they do not stay in transit too long to preserve shape and freshness.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517954689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.94</s:price>
+      <s:sku>1256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517946433</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/wedding-cremes-box-of-35"/>
+    <title>Wedding Cremes Box of 35 (Spring Item. Available at the end of March.)</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/wedding-cremes-box-of-35-spring-item-available-at-the-end-of-march.jpg?v=1601090051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            96.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Your Bridal Tea or Wedding Event will be the talk of the month when your table is heaped with our Wedding Creme Petits Fours!</span><br><br><span>Ivory, Cream, White and Spring Mint create a romantic Bridal color scheme.</span><br><span>Ivory Hearts: Almond Cake Petit Four filled with Milk Chocolate Truffle Cream</span><br><span>Lily of the Valley: Vanilla Cake Petit Four filled with Raspberry Puree and Vanilla Buttercream</span><br><span>Pineapple Cream Package: Vanilla Cake Petit Four filled with Pineapple Puree and Vanilla Buttercream</span><br><span>Dainty Rose: Vanilla Cake Petit Four filled with White Chocolate Buttercream and Apricot Puree</span><br><span>Impatiens: Vanilla Cake Petit Four filled with Bittersweet Truffle Cream and Orange Buttercream</span></p>
+<p><span>( 2-Day Refrigerated Shipping Fee is required on all Petits Fours. An additional $10.00 fee has been added into the price ($69.99) already to cover the freight plus regular shipping of $16.95 paid at check out covers the $26.95 UPS 2nd Day charges. All Petits Fours will ship with ice packs UPS 2nd Day to ensure they do not stay in transit too long to preserve shape and freshness.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517946433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.94</s:price>
+      <s:sku>1189</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517872257</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/original-petits-fours-assortment-box-of-35-full-size"/>
+    <title>Original Classic Mixed Petits Fours Assortment Box of 35</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/original-classic-mixed-petits-fours-assortment-box-of-35.jpg?v=1613175087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            96.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mocha: Chocolate Cake Petit Four filled with French Roast Coffee Cream</span><br><span>White Chocolate: Vanilla Cake Petit Four filled with White Chocolate Buttercream</span><br><span>Milk Chocolate Clef: Vanilla Cake Petit Four filled with Milk Chocolate Truffle Cream and Apricot Preserves</span><br><span>Strawberry Heart: Vanilla Cake Petit Four filled with Strawberry Buttercream</span><br><span>Triple Chocolate: Chocolate Cake Petit Four filled with Bittersweet Truffle Cream and Paspberry Jam</span><br><span>Lemon Diamond: Vanilla Cake Petit Four filled with Tart Lemon Curd and Sweet Vanilla Buttercream</span><br><span>Orange Truffle: Vanilla Cake Petit Four filled with Bittersweet Truffle Cream and Sweet Orange Buttercream</span></p>
+<p><span>( 2-Day Refrigerated Shipping Fee is required on all Petits Fours. An additional $10.00 fee has been added into the price ($69.99) already to cover the freight plus regular shipping of $16.95 paid at check out covers the $26.95 UPS 2nd Day charges. All Petits Fours will ship with ice packs UPS 2nd Day to ensure they do not stay in transit too long to preserve shape and freshness.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517872257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.94</s:price>
+      <s:sku>1254</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517861697</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/classic-chocolate-petits-fours-box-of-35-full-size"/>
+    <title>Classic Chocolate Petits Fours Box of 35 Full Size</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/classic-chocolate-petits-fours-box-of-35-full-size.jpg?v=1601090045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            96.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mocha: Chocolate Cake Petit Four filled with French Roast Coffee Cream</span><br><span>Truffle: Chocolate Cake Petit Four with Bittersweet Truffle Cream</span><br><span>Milk Chocolate Clef: Vanilla Cake Petit Four with Apricot Puree and Milk Chocolate Truffle Cream</span><br><span>Milk Chocolate Squares: Vanilla Cake Petit Four with Milk Chocolate Truffle Cream</span><br><span>Triple Chocolate: Chocolate Cake Petit Four filled with Bittersweet Truffle Cream and Paspberry Jam</span><br><span>Hazelnut: Chocolate Cake Petit Four with Roasted Hazelnut Buttercream</span><br><span>Chocolate Almond: Chocolate Cake Petit Four filled with Almond Buttercream and Raspberry</span></p>
+<p><span>(All Petits Fours must be shipped UPS 2nd Day. </span><span> 2-Day Refrigerated Shipping Fee is included in price.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517861697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.94</s:price>
+      <s:sku>1252</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1517837953</id>
+    <published>2015-07-13T10:56:00-05:00</published>
+    <updated>2015-07-13T10:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/the-classic-packages-petits-fours-box-of-35"/>
+    <title>The Classic Packages Petits Fours Box of 35 - Returning in June!</title>
+    <s:type>Petits Fours</s:type>
+    <s:vendor>Divine Delights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/the-classic-packages-petits-fours-box-of-35-returning-in-june.jpg?v=1601090044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divine Delights<br>
+        <strong>Type: </strong>Petits Fours<br>
+        <strong>Price: </strong>
+            96.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These yummy packages are finished with beautiful pastels, handsome mochas, and chocolates, and carefully trimmed with delicate ribbons, bows, and flowers. Includes: White Chocolate, Strawberry, Luscious Lemon, Mocha, Triple Chocolate, Pineapple, and Raspberry Creme.</span></p>
+<p><span>( 2-Day Refrigerated Shipping Fee is required on all Petits Fours. An additional $10.00 fee has been added into the price ($69.99) already to cover the freight plus regular shipping of $16.95 paid at check out covers the $26.95 UPS 2nd Day charges. All Petits Fours will ship with ice packs UPS 2nd Day to ensure they do not stay in transit too long to preserve shape and freshness.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1517837953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.94</s:price>
+      <s:sku>1239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

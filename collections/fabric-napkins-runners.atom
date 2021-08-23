@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/fabric-napkins-runners.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-11-13T17:28:02-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4749790937177</id>
+    <published>2020-11-13T17:28:02-06:00</published>
+    <updated>2020-11-13T17:28:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/days-of-yore-roses-tablecloth"/>
+    <title>Days of Yore Roses Linen Tablecloth</title>
+    <s:type>French Linens</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/days-of-yore-roses-linen-tablecloth.jpg?v=1605359025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>French Linens<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This lovely linen is an exact reproduction of one that underlaid al fresco feasts half a century past. Sumptuously thick cotton as our grandmothers knew.</span>
+<ul class="bullet_list">
+<li>52" sq.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4749790937177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>111320J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8898521409</id>
+    <published>2020-01-17T12:59:36-06:00</published>
+    <updated>2020-01-17T12:59:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-lace-table-topper-sage"/>
+    <title>Beaded Lace Small Table Topper Sage - Only 1 Available</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-lace-small-table-topper-sage-only-1-available.jpg?v=1601092968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">Gorgeous 18 inch table topper features embroidered fabric, beading and lace.  Sure to add elegance to any decor!</span></p>
+<p><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2"></span><span style="font-family: Verdana; font-size: small;" face="Verdana" size="2">USA MADE</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8898521409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>02222017-26N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1785097060441</id>
+    <published>2018-11-03T17:07:11-05:00</published>
+    <updated>2018-11-03T17:07:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/winter-wonderland-blue-jays-coordinating-napkins-set-of-4-18x18"/>
+    <title>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/winter-wonderland-blue-jays-coordinating-christmas-tree-napkins-set-of-4-18x18.png?v=1601094431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Winter Wonderland Blue Jays Coordinating Christmas Tree Napkins Set of 4 18x18</p>
+<p>Reversible.</p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1785097060441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>11032018-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8784270145</id>
+    <published>2017-02-03T12:42:00-06:00</published>
+    <updated>2017-02-03T12:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-linens-coordinating-table-topper-napkins-tea-towel-cozy-hotpad"/>
+    <title>Tea Linens Coordinating Table Topper Napkins Tea Towel Cozy Hotpad</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-linens-coordinating-table-topper-napkins-tea-towel-cozy-hotpad.jpg?v=1601092913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This amazing USA handcrafted set features a special tea fabric from England.  </p>
+<div>Afternoon Tea (Blue) Fabric Set</div>
+<div>Table Topper 54x54;</div>
+<div>Four 16x16 Napkins;</div>
+<div>8x8 InsulatedHot Pad;</div>
+<div>Tea Towel 18x27 Cotton/Linen blend;</div>
+<div>Tea PotCozy-reversible.</div>
+<div>(Other than tea towel, all are 100% cotton)</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8784270145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>02032017N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8898492161</id>
+    <published>2015-07-15T10:53:00-05:00</published>
+    <updated>2015-07-15T10:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beaded-lace-table-topper-lavender"/>
+    <title>Beaded Lace Small Table Topper Lavender - Only 1 Available</title>
+    <s:type>Theme Wedding Necessities</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beaded-lace-small-table-topper-lavender-only-1-available.jpg?v=1601092964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Theme Wedding Necessities<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 18 inch table topper features embroidered fabric with lace and beading.  Sure to add elegance to any decor!</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HoD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8898492161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>02222017-28N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1553936641</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/herbal-tea-cups-6-cotton-20-x-20-napkins"/>
+    <title>Herbal Tea Cups 6 Cotton 20 x 20 Napkins - Only 1 Set of 6 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/herbal-tea-cups-6-cotton-20-x-20-napkins-only-1-set-of-6-left.jpg?v=1601090968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>White napkins each printed with a decorative graphic</li>
+<li>Bundle of six 100% cotton napkins; 20"x20"</li>
+<li>Packaged in a sealed cello bag</li>
+<li>Perfect for both formal and casual occasions</li>
+</ul>
+<div>Machine wash cold in gentle cycle. Use a color guard mild detergent. NO Bleach. Air dry or tumble dry, no heat. Iron from reverse side only. Designed, packaged and printed in the USA.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1553936641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>1335N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1553735873</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-nc1099-teacups-6-cotton-20x20-napkins"/>
+    <title>Harvest Bounty 6 Cotton 20x20 Napkins - Only 2 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/harvest-bounty-6-cotton-20x20-napkins-only-2-left.jpg?v=1601090961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>White napkins each printed with a decorative graphic</li>
+<li>Bundle of six 100% cotton napkins; 20"x20"</li>
+<li>Packaged in a sealed cello bag</li>
+<li>Perfect for both formal and casual occasions</li>
+</ul>
+<div>Machine wash cold in gentle cycle. Use a color guard mild detergent. NO Bleach. Air dry or tumble dry, no heat. Iron from reverse side only. Designed, packaged and printed in the USA.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1553735873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>1963N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1553600257</id>
+    <published>2015-07-11T20:45:00-05:00</published>
+    <updated>2015-07-11T20:45:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/nc1082-daffodils-6-cotton-20x20-napkins"/>
+    <title>NC1086 Peonies 6 Cotton 20x20 Napkins - Only 1 Set of 6 Left!</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/nc1086-peonies-6-cotton-20x20-napkins-only-1-set-of-6-left.jpg?v=1582071239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>White napkins each printed with a decorative graphic</li>
+<li>Bundle of six 100% cotton napkins; 20"x20"</li>
+<li>Packaged in a sealed cello bag</li>
+<li>Perfect for both formal and casual occasions</li>
+</ul>
+<div>Machine wash cold in gentle cycle. Use a color guard mild detergent. NO Bleach. Air dry or tumble dry, no heat. Iron from reverse side only. Designed, packaged and printed in the USA.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1553600257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>6928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1787222130777</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-general-taupe-reversible-table-runner-and-napkin-set"/>
+    <title>French General Taupe Reversible Table Runner and Napkin Set</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-general-taupe-reversible-table-runner-and-napkin-set.png?v=1601094457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> </b><span>Reversible "French General" Designer fabric - Mauve/Coral/Gray/Tan Table Runner w/tassels and solid color border &amp; backing 14x42 and (4)  18x18 matching Fleur de lis napkins  100% Cotton</span></p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1787222130777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>11032018-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1787206598745</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/french-general-mauve-reversible-table-runner-and-napkin-set"/>
+    <title>French General Mauve Reversible Table Runner and Napkin Set</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/french-general-mauve-reversible-table-runner-and-napkin-set.png?v=1601094455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> </b><span>Reversible "French General" Designer fabric - Mauve/Coral/Gray/Tan Table Runner w/tassels and solid color border &amp; backing 14x42 and (4)  18x18 matching Fleur de lis napkins  100% Cotton</span></p>
+<p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1787206598745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>11032018-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1556327553</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/13x42-autumn-table-runners-red"/>
+    <title>13x42 Autumn Table Runners Red</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/13x42-autumn-table-runners-red.jpg?v=1601090977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1556327553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>6635</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513519233</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cupcakes-and-chocolate-napkins"/>
+    <title>Cupcakes and Chocolate Napkins</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cupcakes-and-chocolate-napkins.jpg?v=1601090028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p>
+<p>A rich chocolaty brown!  <span>Set of 4 18x18</span></p>
+<p><span>(shown with matching Tea Cup Carrier.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513519233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>6644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513513857</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cupcakes-and-chocolate-40x40-table-topper"/>
+    <title>Cupcakes and Chocolate 40x40 Table Topper</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cupcakes-and-chocolate-40x40-table-topper.jpg?v=1601090026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513513857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>6643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513507905</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cupcakes-and-chocolate-13x42-table-runner"/>
+    <title>Cupcakes and Chocolate 13x42 Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cupcakes-and-chocolate-13x42-table-runner.jpg?v=1601090024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513507905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>6642</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513494593</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-tea-cup-fabric-cream-tea-cups-napkins-set-of-4-18x18"/>
+    <title>Carol Wilson Tea Cup Fabric Cream Tea Cups Napkins Set of 4 18x18</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-tea-cup-fabric-cream-tea-cups-napkins-set-of-4-18x18.jpg?v=1601090022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513494593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>7701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513489025</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-tea-cup-fabric-cream-tea-cups-13x42-reversible-table-runner"/>
+    <title>Carol Wilson Tea Cup Fabric Cream Tea Cups 13x42 Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-tea-cup-fabric-cream-tea-cups-13x42-reversible-table-runner.jpg?v=1601090019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513489025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>7700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513475905</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-handcrafted-egyptian-glass-red-teapot-ornament"/>
+    <title>13x42 Autumn Table Runners Orange</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/13x42-autumn-table-runners-orange.jpg?v=1601090017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewn to perfection in the USA by Nannette Stewart Originals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513475905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>6636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1830291177561</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/postcard-merry-christmas-reversible-table-runner"/>
+    <title>Postcard Merry Christmas Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/postcard-merry-christmas-reversible-table-runner.png?v=1601094486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Postcard Merry Christmas"    Christmas Roses and Cranberry print on white with Postcard script.  (100% Cotton)</span></p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1830291177561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11112018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1790933532761</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-and-pine-cones-table-topper"/>
+    <title>Roses and Pine Cones Table Topper</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-and-pine-cones-table-topper.png?v=1601094460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses and Pine Cones Table Topper 42x 42</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1790933532761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>11042018N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786966474841</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/roses-and-pine-cones-reversible-table-runner"/>
+    <title>Roses and Pine Cones Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/roses-and-pine-cones-reversible-table-runner.png?v=1601094452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses and Pine Cones Reversible Table Runner 14 x 42  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786966474841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786959691865</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-gold-merry-christmas-reversible-table-runner"/>
+    <title>Silver and Gold Merry Christmas Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-gold-merry-christmas-reversible-table-runner.png?v=1601094450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Pinecones Reversible Table Runner 14 x 42  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786959691865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786954252377</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-and-gold-pinecones-reversible-table-runner"/>
+    <title>Silver and Gold Pinecones Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-and-gold-pinecones-reversible-table-runner.png?v=1601094448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver and Gold Pinecones Reversible Table Runner 14 x 42  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786954252377</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786945208409</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-patchwork-reversible-table-runner"/>
+    <title>Blue Patchwork Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-patchwork-reversible-table-runner.png?v=1601094446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Patchwork Reversible Table Runner 15 x 40  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786945208409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786933248089</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poinsettias-and-mums-reversible-table-runner"/>
+    <title>Poinsettias and Mums Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poinsettias-and-mums-reversible-table-runner.png?v=1601094443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mosaic Angels Reversible Table Runner 16 x 42  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786933248089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1786905886809</id>
+    <published>2015-07-10T18:10:00-05:00</published>
+    <updated>2015-07-10T18:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-christmas-eve-reversible-table-runner"/>
+    <title>Victorian Christmas Eve Reversible Table Runner</title>
+    <s:type>Fabric Napkins and Table Runners</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-christmas-eve-reversible-table-runner.png?v=1601094441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Fabric Napkins and Table Runners<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victorian Christmas Eve Reversible Table Runner 16 x 42  Reversible</p>
+<p>USA MADE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1786905886809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>11032018-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

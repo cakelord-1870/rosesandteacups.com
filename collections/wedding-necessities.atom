@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/wedding-necessities.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T13:03:13-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6708097286233</id>
+    <published>2021-08-12T13:03:13-05:00</published>
+    <updated>2021-08-12T13:03:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spicy-winterberry-tea-cup-tea-box-favor"/>
+    <title>Spicy Winterberry Tea Cup Tea Box Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Spicy-Winterberry-Tea-Cup-Tea-Box-Favor.png?v=1628859783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea grown in India<br>Packaged in USA<br> Wooden chest made in India<br> Six Winterberry single serve tea bags packaged in a wooden chest<br> Tea chest measures 3.25"x 3.5"<br>100% Organic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6708097286233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>0812213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6707792871513</id>
+    <published>2021-08-12T10:18:58-05:00</published>
+    <updated>2021-08-12T10:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/filigree-teardrop-sterling-silver-reclaimed-glass-earrings-cobalt-blue-vintage-noxema-jar-glass"/>
+    <title>Filigree Teardrop Sterling Silver Reclaimed Glass Earrings - Cobalt Blue - Vintage Noxema Jar Glass</title>
+    <s:type>Vintage Glass Jewelry</s:type>
+    <s:vendor>Bottled Up Jewelry Etsy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Filigree-Teardrop-Sterling-Silver-Reclaimed-Glass-Earrings-Cobalt-Blue-Vintage-Noxema-Jar-Glass.jpg?v=1628859781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottled Up Jewelry Etsy<br>
+        <strong>Type: </strong>Vintage Glass Jewelry<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Glowing 10mm glass gems are handmade, created from the broken pieces of antique glass and bottles reclaimed from the habitats, ground and fired! The glass is mounted in the beautiful sterling filigree setting with sterling ear wire. The beautiful filigree setting measures approx. 3/4" of an inch in length not including the ear wire and is 1/2" wide at the widest point. Cobalt, from vintage Noxzema jars.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6707792871513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>0812211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764246573145</id>
+    <published>2020-12-16T18:33:59-06:00</published>
+    <updated>2020-12-16T18:33:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-keshi-freshwater-pearl-necklace-earring-set"/>
+    <title>Peacock Keshi Freshwater Pearl Necklace Earring Set</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-keshi-freshwater-pearl-necklace-earring-set.jpg?v=1608210220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This necklace and earring are made by peacock color keshi pearls, cultured freshwater white pearls and white crystals. The neckalce is in 17 inch with 2.5 inch extension. The matching earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764246573145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>1216204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4764243951705</id>
+    <published>2020-12-16T18:32:04-06:00</published>
+    <updated>2020-12-16T18:32:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/keshi-queen-freshwater-pearl-necklace"/>
+    <title>Keshi Queen Freshwater Pearl Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/keshi-queen-freshwater-pearl-necklace.jpg?v=1608210219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant looking necklace and earring are made by AAA+ quality white keshi pearls and red &amp;l ight blue crystals in 17 inch with 2.5 inch extension. All white keshi pearls are very good luster and flawless. Earring hook is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4764243951705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1216203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763704328281</id>
+    <published>2020-12-15T12:50:33-06:00</published>
+    <updated>2020-12-15T12:50:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/white-oval-coin-pearl-and-silver-chain-necklace"/>
+    <title>White Oval Coin Pearl and Silver Chain Necklace</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-oval-coin-pearl-and-silver-chain-necklace.jpg?v=1608123792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This unique oval shape coin pearl is made by genuine coin pearls. The length is 40 inch. The size of the pearl is 10-11mm by 15-16mm. The chain is silver plated.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763704328281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>121520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763701968985</id>
+    <published>2020-12-15T12:42:09-06:00</published>
+    <updated>2020-12-15T12:42:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-freshwater-pearl-necklace-pn112"/>
+    <title>White Freshwater Pearl Necklace PN112</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/white-freshwater-pearl-necklace-pn112.jpg?v=1608123791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>7mm 85 inch cultured freshwater white pearl necklace with very good luster and hand knotted.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763701968985</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>1215201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4763687485529</id>
+    <published>2020-12-15T11:54:53-06:00</published>
+    <updated>2020-12-15T11:54:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunny-spring-pearl-necklace-and-earring-set"/>
+    <title>Sunny Spring Pearl Necklace and Earring Set F147</title>
+    <s:type>Pearl Jewelry</s:type>
+    <s:vendor>Jane&apos;s Pearl World</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunny-spring-pearl-necklace-and-earring-set-f147.jpg?v=1608123789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jane&#39;s Pearl World<br>
+        <strong>Type: </strong>Pearl Jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Made with freshwater cultured keshi pearls and crystals. The length is 18 inch with 2 inch extension. Price includes one pair of earrings. The earring wire is sterling silver.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4763687485529</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>F147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4672166920281</id>
+    <published>2020-07-02T14:33:20-05:00</published>
+    <updated>2020-07-02T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets"/>
+    <title>Victorian Hat Purse Rose Shoe Umbrella Party Favor Magnets</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets.jpg?v=1593781543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful gifts or perfect party favors. Fine strokes of gold embellish prominent pieces of a Victorian lady's life. As English roses accentuate, so will these magnets upon you refrigerator or magnetic board.</span><br><br><span>These small decorations charmingly secure pictures of loved ones and notes.</span><br><br><span>A charming gift for friends.</span><br><br>
+<ul class="bullet_list">
+<li>Hat, 3". Rose, 2 1/4". Purse, 2". Shoe, 2 3/8". Umbrella, 3 1/4". Teapot, 2 1/2".</li>
+<li>Polyresin and resin.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4672166920281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>5030857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670688886873</id>
+    <published>2020-06-30T17:20:39-05:00</published>
+    <updated>2020-06-30T17:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable"/>
+    <title>Sparkling Black Stardust Necklace Earrings Set - Just 2 Avaialable!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-black-stardust-necklace-earrings-set-just-2-avaialable.jpg?v=1601095201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This piece is just stunning. Black with a sprinkle of white creates a dressy look, and the oval shapes are reminiscent of cameos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670688886873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4628800471129</id>
+    <published>2020-05-21T14:29:44-05:00</published>
+    <updated>2020-05-21T14:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-in-pearls-decorative-bird"/>
+    <title>Pretty Pink in Pearls Decorative Bird</title>
+    <s:type>Victorian Ornaments</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-in-pearls-decorative-bird.jpg?v=1590152538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Ornaments<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty Pink in Pearls Decorative Bird has gator style clip to place wherever your heart desires. This pretty birdie is all dressed up with pearls and lace.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4628800471129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>0615191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615765196889</id>
+    <published>2020-05-15T12:52:22-05:00</published>
+    <updated>2020-05-15T12:52:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter"/>
+    <title>Purple and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant purple and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615765196889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615758938201</id>
+    <published>2020-05-15T12:47:57-05:00</published>
+    <updated>2020-05-15T12:47:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/hot-pink-tulle-and-rhinestone-garter"/>
+    <title>Hot Pink Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/hot-pink-tulle-and-rhinestone-garter.jpg?v=1589634268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615758938201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615737409625</id>
+    <published>2020-05-15T12:33:51-05:00</published>
+    <updated>2020-05-15T12:33:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/radiant-flower-purple-tulle-garter"/>
+    <title>Radiant Flower Purple Tulle Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/radiant-flower-purple-tulle-garter.jpg?v=1589634266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lovely ruffles add a touch of romance to this purple tulle wedding garter featuring smaller purple and pink flowers accented with rhinestones. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615737409625</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4615745372249</id>
+    <published>2020-05-15T12:18:58-05:00</published>
+    <updated>2020-05-15T12:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-and-black-sequin-satin-garter"/>
+    <title>Aqua and Black Sequin Satin Rhinestone Jeweled Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-and-black-sequin-satin-rhinestone-jeweled-garter.jpg?v=1589634267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This vibrant aqua and black garter combines lace, sequins, satin and a sheer touch of fabric. The clear sparkling rhinestone and dangling aqua rhinestone create dazzle and luminosity. One size fits most</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4615745372249</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>0515202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4614073057369</id>
+    <published>2020-05-14T18:22:48-05:00</published>
+    <updated>2020-05-14T18:22:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/aqua-tulle-and-rhinestone-garter"/>
+    <title>Aqua Tulle and Rhinestone Garter</title>
+    <s:type>Bridal Wedding Garters</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/aqua-tulle-and-rhinestone-garter.jpg?v=1589547829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Bridal Wedding Garters<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This fun and colorful garter is adorned with a sparkling rhinestone ornament and silvery elastic. It is made of aqua tulle for a bright, fresh look. One size fits most. Also available in black, blush and hot pink.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4614073057369</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>0514201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506142670937</id>
+    <published>2020-03-11T14:24:15-05:00</published>
+    <updated>2020-03-11T14:24:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Madame Bunny Teapot and Teacup Soap Party Favors Set of 4</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-4.jpg?v=1584018364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations features our lovely Madame Bunny pattern. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 8 soaps with 2 in each favor. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506142670937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-SJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506059604057</id>
+    <published>2020-03-11T12:42:56-05:00</published>
+    <updated>2020-03-11T12:42:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sweet-bunny-rose-candy-and-tea-tin-perfect-party-favor"/>
+    <title>Sweet Bunny Rose Candy and Tea Tin Perfect Party Favor</title>
+    <s:type>Tin Tea Sets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sweet-bunny-rose-candy-and-tea-tin-perfect-party-favor.jpg?v=1584018362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tin Tea Sets<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sweet Bunny Rose Candy &amp; Tea Tin Perfect Party Favor with Flip Top has an ornate feel with beautiful pink roses and elegant floral border. Beautiful for Easter or pretty for parties. This adorable rabbit is a classy way to present your gift, favors, cookies, candies and more.  Our tins are </span><span>Food Safe and perfect for tea cookies or candy tea party favors or gifts.   </span></p>
+<p><span>Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506059604057</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0306201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4500704854105</id>
+    <published>2020-03-06T16:43:43-06:00</published>
+    <updated>2020-03-06T16:43:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-bunny-with-blue-bird-candy-and-tea-tin-perfect-party-favor-1"/>
+    <title>Madame Bunny with Blue Bird Candy and Tea Tin Perfect Party Favor</title>
+    <s:type>Tin Tea Sets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-bunny-with-blue-bird-candy-and-tea-tin-perfect-party-favor.jpg?v=1583586101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tin Tea Sets<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Madame Bunny with Blue Bird Candy &amp; Tea Tin Perfect Party Favor with Flip Top has an ornate feel with beautiful pink roses and elegant floral border. Beautiful for Easter or pretty for parties. This adorable rabbit is a classy way to present your gift, favors, cookies, candies and more.  Our tins are </span><span>Food Safe and perfect for tea cookies or candy tea party favors or gifts.   </span></p>
+<p><span>Will hold 12 teas or 4 oz. of loose tea. 3.5" tall by 2-7/8" wide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4500704854105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0306201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482481422425</id>
+    <published>2020-02-21T12:20:21-06:00</published>
+    <updated>2020-02-21T12:20:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/deep-blue-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set"/>
+    <title>Deep Blue Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/deep-blue-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set.jpg?v=1582376688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Deep Blue Lamp Work Bead and Silver Necklace, Bracelet and Earring Set is perfect for completing that look of classy and put together for anything that may come whether it's business, church, or just because you love it.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482481422425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>022120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4482477654105</id>
+    <published>2020-02-21T12:03:39-06:00</published>
+    <updated>2020-02-21T12:03:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-rose-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set"/>
+    <title>Pink Rose Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set</title>
+    <s:type>jewelry</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-lamp-work-bead-teal-and-silver-necklace-bracelet-and-earring-set.jpg?v=1582376687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>jewelry<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink Rose Lamp Work Bead Teal and Silver Necklace, Bracelet and Earring Set is perfect for completing that look of classy and put together for anything that may come whether it's business, church, or just because you love it.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4482477654105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>022120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442712440921</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen"/>
+    <title>Give Thanks Sunflower Garden Magnetic Shopping List To Do Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/give-thanks-sunflower-garden-magnetic-shopping-list-to-do-pad-with-pen.jpg?v=1579957331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give Thanks Sunflowers Pansies &amp; Butterflies Magnetic Shopping List To Do Pad includes Pen and Gift Tag  wrapped in an organza ribbon. Beautiful Floral Magnetic Shopping List Pads perfect for those to do lists! Make </span><span>any </span><span>list a lovely addition to the kitchen or desk using the magnet to place on metal surfaces!  Our feminine pretty shopping list notepads come in a variety of lovely colors with floral and animal graphics.  Sweet as hostess gifts and favors, as well! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442712440921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0124203</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4421584978009</id>
+    <published>2020-01-08T09:48:13-06:00</published>
+    <updated>2020-01-08T09:48:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set"/>
+    <title>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set</title>
+    <s:type>Hanky Cards</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/adorable-baby-hankie-bonnet-shower-favor-gift-card-set.jpg?v=1601095174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Hanky Cards<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorable Baby Hankie Bonnet Shower Favor Gift Card Set is cute gift boxed set that includes beautiful USA hand sewn hankie with ribbons.  This is sure to be a cherished keepsake</p>
+<p>Inside text reads:</p>
+<p class="yiv6809635359MsoNormal">A Tiny Square of Linen and a Dainty</p>
+<p class="yiv6809635359MsoNormal">Edge of Lace, Designed into a Bonnet</p>
+<p class="yiv6809635359MsoNormal">To Frame Your Baby’s Face.</p>
+<p class="yiv6809635359MsoNormal"> </p>
+<p class="yiv6809635359MsoNormal">After Baby’s Worn it, Fold and Tuck</p>
+<p class="yiv6809635359MsoNormal">Away… and it Becomes a Hankie for Your</p>
+<p class="yiv6809635359MsoNormal">Daughter’s Wedding Day,</p>
+<p class="yiv6809635359MsoNormal">Or if the Baby is a Boy, on the Day</p>
+<p class="yiv6809635359MsoNormal">He Marries this can be the “Something Old” for His Joyful Bride to Be.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4421584978009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>0108203</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4376080908377</id>
+    <published>2019-12-05T09:47:32-06:00</published>
+    <updated>2019-12-05T09:47:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ocr-pink-bud-earrings"/>
+    <title>Old Country Rose Yellow Red Pink Rose Bud Sterling Silver Broken China Earrings with Fresh Water Pearls</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Cardew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/old-country-rose-yellow-red-pink-rose-bud-sterling-silver-broken-china-earrings-with-fresh-water-pearls.jpg?v=1601095122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardew<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Old Country Rose Yellow Red Pink Rose Bud Sterling Silver Earrings with Fresh Water Pearls .925 Sterling Silver with Royal Albert Old Country Roses Pink Bud China Inlay Broken China Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CRe</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4376080908377</id>
+      <title>Default</title>
+      <s:price currency="USD">97.99</s:price>
+      <s:sku>3891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4371410452569</id>
+    <published>2019-12-02T10:47:26-06:00</published>
+    <updated>2019-12-02T10:47:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available"/>
+    <title>Glistening Gold and Pearls Pink Velvet Ribbon Victorian Holiday Christmas Ornament - Only 2 Available!</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Burton &amp; Burton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/glistening-gold-and-pearls-pink-velvet-ribbon-victorian-holiday-christmas-ornament-only-2-available.jpg?v=1601095100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton &amp; Burton<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold and Pearls Pink Velvet Ribbon Victorian Ornament - beautiful glistening gold, pearls and velvet ribbon is just breath taking. Only the highest quality ribbons, lace, fabrics, beads and trim are used by the crafters of these original designs. Our Designer Victorian Ornaments measure 9 inches in diameter. Most of the ornaments measure around 9 inches in height with pearl tassel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4371410452569</id>
+      <title>Default</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>8009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

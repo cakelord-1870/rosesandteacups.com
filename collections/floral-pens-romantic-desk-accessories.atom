@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/floral-pens-romantic-desk-accessories.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-22T13:22:49-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6598000181337</id>
+    <published>2021-06-22T13:22:49-05:00</published>
+    <updated>2021-06-22T13:22:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchanted-garden-address-book"/>
+    <title>Enchanted Garden Address Book</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchanted-garden-address-book.jpg?v=1624453462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Roses, Butterflies and Pretty Floral pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6598000181337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1268749697</id>
+    <published>2021-06-22T13:15:16-05:00</published>
+    <updated>2021-06-22T13:15:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-garden-address-book"/>
+    <title>Vintage Garden Address Book - Just 1 Available!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-garden-address-book-just-1-available.jpg?v=1624407151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous Pink Florals, Butterflies and Lace pattern Address Book with Elastic Closure and Ribbon Placeholder</p>
+<p>Measures:  6.3 x 3.5 inches</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1268749697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>9407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1367849665</id>
+    <published>2021-06-22T12:13:28-05:00</published>
+    <updated>2021-06-22T12:13:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vegetable-garden-ceramic-desk-set"/>
+    <title>Vegetable Garden Ceramic Desk Set - Only 4 Left!</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vegetable-garden-ceramic-desk-set-only-4-left.jpg?v=1624407167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Folded Note Cards, Die Cut notepad and Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1367849665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5811</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4672166920281</id>
+    <published>2020-07-02T14:33:20-05:00</published>
+    <updated>2020-07-02T14:33:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets"/>
+    <title>Victorian Hat Purse Rose Shoe Umbrella Party Favor Magnets</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Victorian Trading Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-hat-purse-rose-shoe-umbrella-party-favor-magnets.jpg?v=1593781543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian Trading Co.<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beautiful gifts or perfect party favors. Fine strokes of gold embellish prominent pieces of a Victorian lady's life. As English roses accentuate, so will these magnets upon you refrigerator or magnetic board.</span><br><br><span>These small decorations charmingly secure pictures of loved ones and notes.</span><br><br><span>A charming gift for friends.</span><br><br>
+<ul class="bullet_list">
+<li>Hat, 3". Rose, 2 1/4". Purse, 2". Shoe, 2 3/8". Umbrella, 3 1/4". Teapot, 2 1/2".</li>
+<li>Polyresin and resin.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4672166920281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>5030857</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4652489539673</id>
+    <published>2020-06-06T12:50:26-05:00</published>
+    <updated>2020-06-06T12:50:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/woman-of-god-bookmark-pen-gift-set"/>
+    <title>Woman of God Bookmark Pen Gift Set</title>
+    <s:type>Christian Gifts</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Woman-of-God-Bookmark-Pen-Gift-Set_4c5d2fd7-2630-4ef2-b874-883ce7f7841d.jpg?v=1629159172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Woman of God Bookmark Pen Gift Set includes a thinner, sleeker profile click pen with inspirational scripture bookmark. The gift box has been re-designed to fit more easily in a purse or tote.
+<p><br>Gift Set includes:</p>
+<ul>
+<li>Click pen is 5-1/2" in length and has black ink.</li>
+<li>Bookmark measures 1-1/2" x 5-7/8"</li>
+<li>Packaged together in a Wrapped &amp; Ready acrylic box.</li>
+</ul>
+<p><br><em>We are his workmanship created in Christ Jesus.</em><span> </span>Ephesians 2:10 KJV</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4652489539673</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0606201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4444089712729</id>
+    <published>2020-01-25T11:50:32-06:00</published>
+    <updated>2020-01-25T11:50:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen"/>
+    <title>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad with Pen</title>
+    <s:type>Magnetic Shopping List Pads</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/spring-tulips-pansies-and-bumble-bees-magnetic-shopping-to-do-list-pad-with-pen.jpg?v=1580043747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Magnetic Shopping List Pads<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Spring Tulips Pansies and Bumble Bees Magnetic Shopping To Do List Pad make perfect floral and pretty grocery lists, garden notes and reminders of things to do.  With a magnet on the back to place on steel surfaces you can use in the kitchen, office, she-shed crafting areas and more!  Our feminine shopping list notepads make sweet hostess gifts and party favors all wrapped up in organza ribbon with pen. If you look closely you will notice sweet bumble bees with forget me nots and butterflies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4444089712729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0125201</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4442586710105</id>
+    <published>2020-01-24T08:20:28-06:00</published>
+    <updated>2020-01-24T08:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad"/>
+    <title>Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad</title>
+    <s:type>Sticky Notes</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sunflowers-yellow-daisies-and-pansies-with-butterfly-sticky-note-pad.jpg?v=1579957329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Sticky Notes<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sunflowers Yellow Daisies and Pansies with Butterfly Sticky Note Pad has Scripture saying "Give Thanks with a Grateful Heart" Notepad includes 75 die cut sheets and measures a nice size of 4" x 4.75"</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4442586710105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>0124201</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1350865601</id>
+    <published>2018-01-08T15:57:18-06:00</published>
+    <updated>2018-01-08T15:57:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/falling-in-love-with-hydrangea-ceramic-desk-set"/>
+    <title>Falling in Love with Hydrangea Ceramic Desk Set</title>
+    <s:type>Stationery</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/falling-in-love-with-hydrangea-ceramic-desk-set.jpg?v=1601088474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Stationery<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Falling in Love with Hydrangeas</span><br><span>Folded Note Cards, Die Cut Pad Designer Pen in Ceramic Basket</span><br><span>7.25 x 6.25 x 2.25</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1350865601</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>5795</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/490963173416</id>
+    <published>2016-04-01T16:17:00-05:00</published>
+    <updated>2016-04-01T16:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/best-mom-ever-pen-set"/>
+    <title>Best Mom Ever Pen Set - Limited Supply!</title>
+    <s:type>Hanging Sachets</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/best-mom-ever-pen-set-limited-supply.jpg?v=1601093934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Hanging Sachets<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Absolutely a must for every mother!  This beautiful metal pen set comes gift boxed in a pink and white slide box. One pen says Best Mom Ever ......because she is!! The other has the cutest polka dots on the bottom part and to die for roses on the lid.  She will remember how much she is love every time she uses them. </div>
+<ul>
+<li>set of two beautiful pens</li>
+<li>black ink</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/490963173416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>032218-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1526528769</id>
+    <published>2015-07-14T15:22:00-05:00</published>
+    <updated>2015-07-14T15:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-floral-pen"/>
+    <title>Gold Floral Pen</title>
+    <s:type></s:type>
+    <s:vendor>Roses And Teacups </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-floral-pen.jpg?v=1601090423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous gold pen with pink and blue roses.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1526528769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>6671</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349954561</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/you-make-an-eternal-difference-pen-and-bookmark-gift-set"/>
+    <title>You Make an Eternal Difference Pen and Bookmark Gift Set - Very Limited! 4 Left!</title>
+    <s:type>Christian Gifts &amp; Favors</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/you-make-an-eternal-difference-pen-and-bookmark-gift-set-very-limited-4-left.jpg?v=1582071367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts &amp; Favors<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You Make an Eternal Difference Top Quality Ball Point Pen with Cap plus matching Bookmark  references Philippians 1:3</p>
+<p>Gift Wrapped Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349954561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>10242017-22N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10349899265</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/woman-of-god-living-loved-poppies-pen-and-bookmark-gift-set"/>
+    <title>Woman of God Living Loved Poppies Pen and Bookmark Gift Set</title>
+    <s:type>Christian Gifts &amp; Favors</s:type>
+    <s:vendor>CTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/woman-of-god-living-loved-poppies-pen-and-bookmark-gift-set.jpg?v=1601093591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CTA<br>
+        <strong>Type: </strong>Christian Gifts &amp; Favors<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Woman of God Living Loved Top Quality Ball Point Pen with Cap plus matching Bookmark  references Jeremiah 31:3</p>
+<p>Gift Wrapped Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10349899265</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>10242017-20N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587469441</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/midnight-rose-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Midnight Rose Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/midnight-rose-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587469441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587457281</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tulips-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Tulips Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tulips-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587457281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587443841</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/colorful-roses-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Colorful Roses Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/colorful-roses-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587443841</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587433409</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/enchanted-meadow-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Enchanted Meadow Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/enchanted-meadow-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587433409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587420161</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/flultter-butterfly-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Flultter Butterfly Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/flultter-butterfly-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587420161</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5587385025</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-floral-writing-pen-with-touchpad-stylus"/>
+    <title>Blue Floral Writing Pen with Touchpad Stylus</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lady Jayne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-floral-writing-pen-with-touchpad-stylus.jpg?v=1601092152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lady Jayne<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br>Pen size: 5.25" tall. Ball pen, black ink.<br>Included: pen with beautiful all over floral patterns</p>
+<p>Retractable Ball Point Pen with Touchpad Stylus Tip</p>
+.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5587385025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>34390N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1526282177</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/i-will-praise-you-lord-pen"/>
+    <title>I Will Praise You Lord Pen- 5 LEFT!</title>
+    <s:type>Christian Gifts &amp; Favors</s:type>
+    <s:vendor>Brownlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/i-will-praise-you-lord-pen-5-left.jpg?v=1601090388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brownlow<br>
+        <strong>Type: </strong>Christian Gifts &amp; Favors<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">I Will Praise You Lord<span> Top Quality Ball Point Pen with Cap.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1526282177</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8902</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1526271233</id>
+    <published>2015-07-14T14:34:00-05:00</published>
+    <updated>2015-07-14T14:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/under-his-wings-pen"/>
+    <title>Under His Wings Pen- 2 LEFT!</title>
+    <s:type>Christian Gifts &amp; Favors</s:type>
+    <s:vendor>Brownlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/under-his-wings-pen-2-left.jpg?v=1601090385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brownlow<br>
+        <strong>Type: </strong>Christian Gifts &amp; Favors<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Under His Wings<span> Top Quality Ball Point Pen with Cap.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1526271233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1526082881</id>
+    <published>2015-07-14T14:30:00-05:00</published>
+    <updated>2015-07-14T14:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ribbon-pen"/>
+    <title>Pink Ribbon Pen</title>
+    <s:type>Pens</s:type>
+    <s:vendor>Brownlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ribbon-pen.jpg?v=1601090370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brownlow<br>
+        <strong>Type: </strong>Pens<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Exceptional high quality, designer roller ball pen with pink ribbon design. A great gift for anyone! Percentage of sales goes toward the fight against breast cancer. Size: 5.25 x 0.50 x 0.50 Inches</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1526082881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>8920</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504240321</id>
+    <published>2015-07-11T14:16:30-05:00</published>
+    <updated>2015-07-11T14:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-writing-pen-pink-stripe"/>
+    <title>Floral Writing Pen - Pink Stripe 1 LEFT!</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-writing-pen-pink-stripe-1-left.jpeg?v=1601089506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br> Pen size: 5.5" tall. Ball pen, blue ink.<br> Included: Pen with pink cap, green stripes, and butterfly patterns.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504240321</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>7707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504236225</id>
+    <published>2015-07-11T14:15:27-05:00</published>
+    <updated>2015-07-11T14:15:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-writing-pen-spring-floral"/>
+    <title>Floral Writing Pen - Spring Floral</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-writing-pen-spring-floral.jpg?v=1601089504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen<br> Pen size: 5.5" tall. Ball pen, blue ink.<br> Included: pen with beautiful all over floral patterns</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504236225</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>2846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504230657</id>
+    <published>2015-07-11T14:14:00-05:00</published>
+    <updated>2015-07-11T14:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-writing-pen"/>
+    <title>Floral Writing Pen - Tulips 2 LEFT!</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/floral-writing-pen-tulips-2-left.jpg?v=1601089502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen - Tulips <br> Pen size: 5.5" tall. Ball pen, blue ink.<br> Included: pen with beautiful tulip and all over floral patterns</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504230657</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>2844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6886152577</id>
+    <published>2015-07-11T14:11:00-05:00</published>
+    <updated>2015-07-11T14:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/floral-writing-pen-grapes"/>
+    <title>Floral Writing Pen - Grapes 2 LEFT!</title>
+    <s:type>Pens &amp; Desk Accessories</s:type>
+    <s:vendor>Lissom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pens-desk-accessories-floral-writing-pen-grapes-1.gif?v=1561399904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lissom<br>
+        <strong>Type: </strong>Pens &amp; Desk Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Floral Writing Pen</p>
+<p>Pen size: 5.5" tall.</p>
+<p>Ball pen, blue ink.</p>
+<p>Included: Pen with beautiful grapes pattern</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PpD</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6886152577</id>
+      <title>Default</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>07092016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

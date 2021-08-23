@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/egyptian-glass-ornaments.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-08-03T15:43:21-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1558279233</id>
+    <published>2020-08-03T15:43:21-05:00</published>
+    <updated>2020-08-03T15:43:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gold-etched-egyptian-glass-tea-cup-ornament"/>
+    <title>Gold Etched Egyptian Glass Tea Cup Ornament</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gold-etched-egyptian-glass-tea-cup-ornament.jpg?v=1601091043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>24K Gold Trim 4 to 4.5 inches in height</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1558279233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>3034N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1558284801</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/egyptian-glass-pink-crystal-dangle-ornament"/>
+    <title>Egyptian Glass Pink Crystal Dangle Ornament</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/egyptian-glass-pink-crystal-dangle-ornament.jpg?v=1601091044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>24K Gold Trim  6 to 8 inches in height</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1558284801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>3035N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1558275329</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/egyptian-glass-red-and-gold-teapot-ornament"/>
+    <title>Egyptian Glass Handcrafted Pink Pear Ornament</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/egyptian-glass-handcrafted-pink-pear-ornament.jpg?v=1601091042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>24K Gold Trim 4 to 4.5 inches in height</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1558275329</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7346</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1513422977</id>
+    <published>2015-07-11T20:02:00-05:00</published>
+    <updated>2015-07-11T20:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/limited-edition-egyptian-glass-pink-ribbon-teapot-ornament"/>
+    <title>LIMITED EDITION Egyptian Glass Pink Ribbon Teapot Ornament - 2 Left!</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/limited-edition-egyptian-glass-pink-ribbon-teapot-ornament-2-left.jpg?v=1601090014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Handcrafted Egyptian Glass Pink Ribbon Teapot </span><span>Ornaments with 24K Gold Trim 3.5 in height </span><br><span>Benefits Breast Cancer Prevention!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1513422977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>7183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504649281</id>
+    <published>2015-07-11T15:37:00-05:00</published>
+    <updated>2015-07-11T15:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/egyptian-glass-perfume-bottles"/>
+    <title>Egyptian Glass Perfume Bottles</title>
+    <s:type>Egyptian Glass Ornaments</s:type>
+    <s:vendor>Egyptian Museum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/egyptian-glass-perfume-bottles.jpg?v=1601089538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egyptian Museum<br>
+        <strong>Type: </strong>Egyptian Glass Ornaments<br>
+        <strong>Price: </strong>
+            76.68 - 215.64
+            <a href="https://rosesandteacups.com/products/egyptian-glass-perfume-bottles">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Egyptian Glass Perfume Bottles favors</p>
+<p><span> Mini Clear Etched Perfume bottles in assorted colors / styles / shapes. Set of 12</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504649281</id>
+      <title>Set of 12 Perfume Bottles</title>
+      <s:price currency="USD">76.68</s:price>
+      <s:sku>7191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504649281</id>
+      <title>Set of 24 Perfume Bottles</title>
+      <s:price currency="USD">143.76</s:price>
+      <s:sku>7192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504649281</id>
+      <title>Set of 36 Perfume Bottles</title>
+      <s:price currency="USD">215.64</s:price>
+      <s:sku>7193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

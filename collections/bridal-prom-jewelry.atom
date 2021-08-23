@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/bridal-prom-jewelry.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-06-30T17:00:45-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4670682431577</id>
+    <published>2020-06-30T17:00:45-05:00</published>
+    <updated>2020-06-30T17:00:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set"/>
+    <title>Sparkling Antiqued White and Crystal Necklace Earrings Set - 2 Sets Available!</title>
+    <s:type>Beccas Bling</s:type>
+    <s:vendor>Beccas Bling</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/sparkling-antiqued-white-and-crystal-necklace-earrings-set-2-sets-available.jpg?v=1593608718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beccas Bling<br>
+        <strong>Type: </strong>Beccas Bling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Just lovely and very dressy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4670682431577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054654984281</id>
+    <published>2019-04-04T11:00:54-05:00</published>
+    <updated>2019-04-04T11:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs"/>
+    <title>Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/red-lace-fingerless-gloves-perfect-for-tea-parties-and-bridal-affairs.jpg?v=1601094726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in bold red</span><span> with ruffles and bows. Red Lace Fingerless Gloves Perfect for Tea Parties and Bridal Affairs or Dress Up Fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054654984281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054652264537</id>
+    <published>2019-04-04T10:49:20-05:00</published>
+    <updated>2019-04-04T10:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/black-lace-fingerless-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Black Lace Fingerless Gloves Perfect for Tea Parties or Bridal Affairs!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Black-Lace-Fingerless-Gloves-Perfect-for-Tea-Parties-or-Bridal-Affairs_f462aff3-3f41-44ef-ad36-73ba0d843c37.jpg?v=1628728474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ultra feminine fingerless black lace gloves with bows and ruffles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054652264537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2054639878233</id>
+    <published>2019-04-04T10:23:50-05:00</published>
+    <updated>2019-04-04T10:23:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs"/>
+    <title>Pink Fingerless Lace Gloves Perfect for Tea Parties or Bridal Affairs!!</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-fingerless-lace-gloves-perfect-for-tea-parties-or-bridal-affairs_a92f4175-a5ca-49b0-91e1-1a158f68be8e.jpg?v=1601094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate fingerless lace gloves in soft pink with ruffles and bows. Perfect for tea parties, bridal affairs or dress up fun! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2054639878233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>2370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1975138386009</id>
+    <published>2019-01-29T12:28:31-06:00</published>
+    <updated>2019-01-29T12:28:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-style-austrian-crystal-chandelier-heart-necklace"/>
+    <title>Vintage Style Austrian Crystal Chandelier Heart Necklace</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Jewelry Mine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-style-austrian-crystal-chandelier-heart-necklace.jpg?v=1601094659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jewelry Mine<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This vintage inspired Victorian romance heart necklace features a prong set genuine Swarovski Austrian crystal filigree heart drop on an exquisite limited edition Victorian flower motif chevron. The chevron has 5 additional Swarovski Elements in Amethyst to complete the look. The necklace chain measures 16 inches in length and features 24 kt. antique gold plated Figaro link chain with matching antique connectors that can be found on the matching earrings.</span></p>
+<p><a href="https://rosesandteacups.com/collections/latest-arrivals-new-items-products/products/vintage-style-austrian-crystal-chandelier-heart-earrings" target="_blank" title="Matching Vintage Heart Earrings" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0852/2588/products/Vintage_Style_Austrian_Crystal_Chandelier_Heart_Earrings_480x.jpg?v=1547507254" alt="Vintage Style Austrian Crystal Chandelier Heart Earrings" width="143" height="156"></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1975138386009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>012919-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518958465</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-stretch-bracelet-anna"/>
+    <title>Pearl Stretch Bracelet Anna</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Atlanta Show</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-stretch-bracelet-anna.jpg?v=1601090118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atlanta Show<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518958465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>7252</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518956993</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/bling-stretch-bracelet"/>
+    <title>Bling Stretch Bracelet</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Atlanta Show</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/bling-stretch-bracelet.jpg?v=1601090117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atlanta Show<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518956993</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>7251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518946049</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/waves-rhinestone-jewelry-set"/>
+    <title>Waves Rhinestone Jewelry Set</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Atlanta Show</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/waves-rhinestone-jewelry-set.jpg?v=1601090110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atlanta Show<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518946049</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>7260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1518939905</id>
+    <published>2015-07-13T14:15:00-05:00</published>
+    <updated>2015-07-13T14:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chandelier-rhinestone-jewelry-set"/>
+    <title>Chandelier Rhinestone Jewelry Set</title>
+    <s:type>Fashion Bridal and Prom Jewelry</s:type>
+    <s:vendor>Atlanta Show</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chandelier-rhinestone-jewelry-set.jpg?v=1601090100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atlanta Show<br>
+        <strong>Type: </strong>Fashion Bridal and Prom Jewelry<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1518939905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>7257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

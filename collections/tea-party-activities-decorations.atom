@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-party-activities-decorations.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-20T23:53:59-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2138289078361</id>
+    <published>2019-07-20T23:53:59-05:00</published>
+    <updated>2019-07-20T23:53:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-time-adult-coloring-book"/>
+    <title>Tea Time Adult Coloring Book</title>
+    <s:type>Coloring Book</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-time-adult-coloring-book.jpg?v=1601094912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Coloring Book<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Inspired by historical tea culture and its modern popularity, 31 original designs to color include beautiful tea settings; whimsical arrangements of stacked tea cups; charming teapots; delicious tea time snacks; and tea-related designs, patterns, and borders. Also included are images of vintage tea advertisements. </span><span>Specially designed for experienced colorists.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2138289078361</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>0720192</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2134083666009</id>
+    <published>2019-07-16T16:19:25-05:00</published>
+    <updated>2019-07-16T16:19:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fun-with-tea-with-over-30-activities-games-songs-crafts-decorations-tea-book"/>
+    <title>Fun with Tea with Over 30 Activities Games Songs Crafts Decorations Tea Book</title>
+    <s:type>Tea Books</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/fun-with-tea-with-over-30-activities-games-songs-crafts-decorations-tea-book.png?v=1601094888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Books<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Includes more than 30 activities: Original Tea Songs, Word Games, Fun Tea Party Recipes, Tea Themed Crafts, and Party Decorations</span></p>
+<p><span>This cute little book is great for readers of all ages. It is aimed at children, but–come on!–who wouldn’t want to play with tea puzzles, relax with coloring tea kettles, and learn some new tea songs? For the musically inclined, there is even sheet music to play. I particularly enjoyed this because I play several instruments. Just having catchy lyrics is not enough; I want to hear the rhythm. There are inspirational quotes, places for journaling, drawing prompts, arts and crafts projects, and more. What’s also really fun is that there are cut-outs ready for use. There’s even instructions for making a traditional paper tea lantern, which was nice. The games included can be a bit silly, but they are fun and would make great ice-breakers for older people. The recipes included in this book are easy yet delectable, too. Overall, this” book is a must-have. It’s both extremely fun and extremely practical.</span></p>
+<p><span>Sofcover 123 pages</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2134083666009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>0716196</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2134067183705</id>
+    <published>2019-07-16T15:50:20-05:00</published>
+    <updated>2019-07-16T15:50:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/afternoon-tea-must-have-guide-tea-book"/>
+    <title>Afternoon Tea Must Have Guide Tea Book</title>
+    <s:type>Tea Books</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/afternoon-tea-must-have-guide-tea-book.jpg?v=1582071426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Books<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>One of the most civilized, sociable, and relaxing of customs is gathering around a beautifully laid table to take afternoon tea. Packed with gorgeous images, this informative guide contains details on every aspect of the formal tea, including how to make and serve it at its very best, the etiquette of tea-drinking, the correct china and silverware to use, how to host a tea party, and even how the tea gown evolved. Recipes for delicious teatime treats round out this must-have guide.</span></p>
+<p><span>Hardcover 7.5x7.5 80 pages</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2134067183705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>0716194</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122603626585</id>
+    <published>2019-06-28T11:04:04-05:00</published>
+    <updated>2019-06-28T11:04:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-yellow-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available"/>
+    <title>Little Yellow Roses and Lilacs Porcelain Plates Set of 4 - Only 1 Available</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-yellow-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available.jpg?v=1601094847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Little Yellow Roses and Lilacs Porcelain Plates our perfect for serving cookies, a slice of cake or a yummy cup cake. Plate is 6 inch in diameter and are 14k gold trimmed. Set of 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122603626585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0627198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122000203865</id>
+    <published>2019-06-27T20:15:20-05:00</published>
+    <updated>2019-06-27T20:15:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-red-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available"/>
+    <title>Little Red Roses and Lilacs Porcelain Plates Set of 4 - Only 1 Available</title>
+    <s:type>Cake Stands Dessert Plates</s:type>
+    <s:vendor>Olympia Decals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-red-roses-and-lilacs-porcelain-plates-set-of-4-only-1-available.jpg?v=1601094845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olympia Decals<br>
+        <strong>Type: </strong>Cake Stands Dessert Plates<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our Little Red Roses and Lilacs Porcelain Plates our perfect for serving cookies, a slice of cake or a yummy cup cake. Plate is 6 inch in diameter and are 14k gold trimmed. Set of 4.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122000203865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>0627198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2120515190873</id>
+    <published>2019-06-25T16:32:09-05:00</published>
+    <updated>2019-06-25T16:32:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-in-pink-tea-party-dress-up-hat-for-girls"/>
+    <title>Little Girls Pretty in Pink Tea Party Dress Up Hat</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/little-girls-pretty-in-pink-tea-party-dress-up-hat.jpg?v=1601094837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty in Pink Tea Party Dress Up Hat has beautiful lovely soft pink feathers and a big beautiful rose to match.  Perfect for dress up play and tea parties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2120515190873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041219-J1P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2118463160409</id>
+    <published>2019-06-22T10:02:29-05:00</published>
+    <updated>2019-06-22T10:02:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/132-tea-party-stickers"/>
+    <title>132 Tea Party Stickers</title>
+    <s:type>Tea Stickers and Labels</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/132-tea-party-stickers.jpeg?v=1601094832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Stickers and Labels<br>
+        <strong>Price: </strong>
+            4.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Tea Time Stickers are adorable combinations of roses, teacups, teapots, and more. These pink and pastel decorations are very complimentary. Plant a sheet of stickers in a gift bag, or decorate a thank you card, and it's always tea time!</span>
+<p><b>Tea Time Stickers product details:</b></p>
+<ul>
+<li>4 sheets per package</li>
+<li>5 assorted designs per sheet</li>
+<li>132 stickers</li>
+<li>4 1/4in wide x 5 3/4in tall</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2118463160409</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.98</s:price>
+      <s:sku>062219J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2061519880281</id>
+    <published>2019-04-12T15:18:00-05:00</published>
+    <updated>2019-04-12T15:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-purple-tea-party-dress-up-hat-for-girls"/>
+    <title>Pretty Purple Tea Party Dress Up Hat for Girls</title>
+    <s:type>Girls Tea Party Dress Ups Hats</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-purple-tea-party-dress-up-hat-for-girls.jpg?v=1601094740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Girls Tea Party Dress Ups Hats<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pretty Purple Tea Party Dress Up Hat has beautiful deep purple feathers and crystal adorned flower.  Perfect for dress up play and tea parties.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2061519880281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>041219-J1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936792961</id>
+    <published>2016-09-01T14:32:00-05:00</published>
+    <updated>2016-09-01T14:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/butterflies-tea-party-activity-coloring-book"/>
+    <title>Butterflies Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/butterflies-tea-party-activity-coloring-book.png?v=1601092325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Let your creativity soar as you color these 31 exquisitely decorated butterfly images. Each of the designs features a unique background of flowers, plants, sunbursts, and clouds that adds to the beauty of the fancifully rendered creatures. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Fantasy Butterflies </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936792961</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34679N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936781441</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dragonflies-tea-party-activity-coloring-book"/>
+    <title>Dragonflies Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dragonflies-tea-party-activity-coloring-book.png?v=1601092324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Thirty-one exuberant full-page illustrations to color feature dragonflies in imaginative renditions of natural settings. Inspired by Zentangle, a mode of repetitive patterns, the sweeping designs incorporate a dazzling array of flowers, leaves, and swirling interlocking shapes. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Entangled Dragonflies </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936781441</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34678N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936723649</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/art-nouveau-fashions-tea-party-activity-coloring-book"/>
+    <title>Art Nouveau Fashions Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/art-nouveau-fashions-tea-party-activity-coloring-book.png?v=1601092322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>coloring book presents 31 full-page illustrations of women and girls in the broad-shouldered, narrow-waisted fashions in vogue from the 1890s to the early 1900s. Graceful period motifs appear in the backgrounds. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Art Nouveau Fashions</i><span> and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress. </span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936723649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34677N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5936522817</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/vintage-hand-fans-tea-party-activity-coloring-book"/>
+    <title>Vintage Hand Fans Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/vintage-hand-fans-tea-party-activity-coloring-book.jpg?v=1601092321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The stunning artistic details in these 31 vintage hand fans make these illustrations a delightful challenge for experienced colorists. Beautifully rendered by artist Marty Noble, the book also offers historical notes on each image, detailing country of origin, age, and more. Illustrations are printed on one side of the perforated pages for easy removal and display. Specially designed for experienced colorists, </span><i>Vintage Hand Fans </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>For Adults or Older Children</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5936522817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34674N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5929823873</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/paisley-tea-party-activity-coloring-book"/>
+    <title>Paisley Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/paisley-tea-party-activity-coloring-book.png?v=1601092320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These stunning new designs offer a wild take on the twisted teardrop shapes known as Persian pickles or paisleys. Original full-page drawings allow colorists to create contrasts and make the patterns pulse with psychedelic power. Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, </span><i>Crazy Paisley </i><span>and other Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</span></p>
+<p><span>Illustrations are printed on one side of the perforated pages for easy removal and display.</span></p>
+<p><span>For Adults or Older Children</span></p>
+<div><span style="font-family: verdana, arial; font-size: small; line-height: normal;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5929823873</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34672N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5929807937</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacocks-tea-party-activity-coloring-book"/>
+    <title>Peacocks Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-peacocks-tea-party-activity-coloring-book-1.gif?v=1561400508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Any peacock would be proud of these gorgeous designs to color. Many of the 31 dazzling drawings were inspired by traditional arts and antiquities as well as vintage wallpapers, mosaics, and pottery motifs, while others are all-original illustrations created by the imaginative artist Marty Noble. <br>Pages are perforated and printed on one side only for easy removal and display. Specially designed for experienced colorists, Creative Haven® adult coloring books offer an escape to a world of inspiration and artistic fulfillment. Each title is also an effective and fun-filled way to relax and reduce stress.</p>
+<p><span>Illustrations are printed on one side of the perforated pages for easy removal and display.</span></p>
+<p><span>For Adults or Older Children</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5929807937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>34671N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/5929652353</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/stained-glass-mandalas-tea-party-activity-colorin-book"/>
+    <title>Stained Glass Mandalas Tea Party Activity Coloring  Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/stained-glass-mandalas-tea-party-activity-coloring-book.jpg?v=1601092318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They're found in snowflakes, seashell spirals, the petals of flowers, and other objects. They're called mandalas — round designs filled with circles, squares, triangles, and other figures. This coloring book invites you to color 8 of these fascinating patterns. When you're finished, place the pictures in a window or near another source of bright light and watch them glow like stained glass.</p>
+<p>Simple but beautiful coloring for all ages.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/5929652353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>34670N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479527937</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-victorian-doll-paper-dolls-girls-tea-party-reusable-activity-set-1"/>
+    <title>Little Victorian Doll Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-little-victorian-doll-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561400323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Doll 8 Costumes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479527937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>7685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479414145</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-house-coloring-book"/>
+    <title>Victorian House Coloring Book</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-house-coloring-book.jpg?v=1601089102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Color the rooms!  </span><span>48 Pages</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479414145</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7691</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479397505</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/alice-in-wonderland-girls-tea-party-reusable-activity-book"/>
+    <title>My Very Own Tea Party Reusable Sticker Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/my-very-own-tea-party-reusable-sticker-activity-set.jpg?v=1601089098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Remember Colorforms? Same idea!</span>
+<p>Over 60 REUSABLE Large Full Color Static Cling Stickers!<br>(The sticker sheet is 8.5 x 11; your stickers will be much larger than they appear!)</p>
+<p>Features TWO Fairy Tale Pink Tea Party Tables on an Large 8.5 x 11 Laminated Boards.</p>
+<p>Stickers can also be used on windows, stainless steel appliances, mirrors, and more! They peel right off again!</p>
+<p>It's a FAVOR!  It's a GIFT!  It's an ACTIVITY!  It's Reusable!<br><br>Made in the USA! YES! Even the stickers!</p>
+<p>This is the perfect favor for a tea party! It's a fun activity at the party and a wonderful gift to take home and use again and again!<br><br>Recommended for ages 4 and up. (No watermarks will be on your actual product.)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479397505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>7682</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479384193</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/great-fashions-paper-dolls-girls-tea-party-reusable-activity-set"/>
+    <title>Great Fashions Victorian Era Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-great-fashions-victorian-era-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561400039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Dolls and 28 Costumes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479384193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479365825</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-fashion-paper-dolls-girls-tea-party-reusable-activity-set"/>
+    <title>Victorian Fashion Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-victorian-fashion-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561401238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Dolls and 28 Costumes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479365825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479350849</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-family-paper-dolls-girls-tea-party-reusable-activity-set"/>
+    <title>Victorian Family Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-victorian-family-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561401236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Dolls and 48 Costumes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479350849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479316865</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/little-victorian-doll-paper-dolls-girls-tea-party-reusable-activity-set"/>
+    <title>Victorian Children Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-victorian-children-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561401215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>2 Dolls and 29 Costumes </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479316865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479286017</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/godeys-fashions-paper-dolls-girls-tea-party-reusable-activity-set"/>
+    <title>Godey&apos;s Fashions Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-godey-s-fashions-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561400023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>32 Pages 2 Dolls</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479286017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7684</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479246081</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/4-victorian-dolls-girls-tea-party-reusable-sticker-activity-set"/>
+    <title>Gibson Girls Paper Dolls Girls Tea Party Reusable Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-gibson-girls-paper-dolls-girls-tea-party-reusable-activity-set-1.gif?v=1561399956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Young Ladies and 24 Costumes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479246081</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>7683</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1479222977</id>
+    <published>2015-07-09T11:07:00-05:00</published>
+    <updated>2015-07-09T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/fairytale-princess-girls-tea-party-reusable-sticker-activity-set"/>
+    <title>Fairytale Princess Girls Tea Party Reusable Sticker Activity Set</title>
+    <s:type>Girls Tea Party Activities</s:type>
+    <s:vendor>Dover</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/girls-tea-party-activities-fairytale-princess-girls-tea-party-reusable-sticker-activity-set-1.gif?v=1561399866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dover<br>
+        <strong>Type: </strong>Girls Tea Party Activities<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>23 Reusable Stickers and 1 Princess in a 4 x 6 Booklet</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1479222977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>500N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

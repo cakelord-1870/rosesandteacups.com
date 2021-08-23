@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/ring-pillows-flower-girl-baskets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2016-07-11T11:20:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6902761153</id>
+    <published>2016-07-11T11:20:00-05:00</published>
+    <updated>2016-07-11T11:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/personalized-wedding-ring-bearer-pillow"/>
+    <title>Personalized Wedding Ring Bearer Pillow</title>
+    <s:type>Personalized Wedding Ring Pillow</s:type>
+    <s:vendor>Nannette Stewart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Personalized-Wedding-Ring-Bearer-Pillow_77910467-01c8-4e9e-beae-a8bcecc47c11.jpg?v=1628813606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nannette Stewart<br>
+        <strong>Type: </strong>Personalized Wedding Ring Pillow<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wedding Keepsake/Ringbearer Pillow. 12x12 Your choice color of text, color of flowers, and color of ribbon design. Has ribbon on back for ringbearer easy to slip hands under for carrying. Please be sure that we have the following information before you place your order: Bride &amp; Groom Name Date &amp; Time Place and/or City, State Color of Text Color of Flowers Color of Ribbon design</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6902761153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>07112016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506650561</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peacock-feather-ring-pillow"/>
+    <title>Peacock Feather Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peacock-feather-ring-pillow.jpg?v=1601089739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Measuring 7" x 7", this elegant ring pillow is covered in cream satin. The front is decorated with a green and teal satin sash, two peacock feathers and a rhinestone ornament. The ornament combines light blue rhinestones with one central dark blue rhinestone and a series of tiny green rhinestones.</span><br>
+<div><span style="color: #000033; font-family: verdana, arial, 'sans serif'; line-height: 17.25px; text-align: center; background-color: #fffafa;"> </span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506650561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8531</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506449537</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-ring-pillow"/>
+    <title>Taupe Rose Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-ring-pillow.jpg?v=1601089720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This taupe satin ring pillow is decorated on the front side with a darker taupe sash. In the middle is a ivory rose with a pearl/rhinestone deco. Size: 7" x 7".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506449537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506397889</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-flower-girl-basket"/>
+    <title>Taupe Rose Flower Girl Basket</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-flower-girl-basket.jpg?v=1601089715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This taupe satin flower basket is decorated on the front with darker taupe ribbon and a ivory rose. Size: 7.75" tall. Petals not Included.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506397889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506348225</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-ring-pillow"/>
+    <title>Chic and Shabby Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-ring-pillow.jpg?v=1601089712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This cream satin pillow with cream shantung fabric sash has a hand crafted paper flower and pearl spray accent adding dimension in a most elegant way. In the center of the flower is a pearl/rhinestone decoration. It measures 7.25" x 7.25".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506348225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506294593</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-flower-girl-basket"/>
+    <title>Chic and Shabby Flower Girl Basket</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-flower-girl-basket.jpg?v=1601089706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flower petals can be carried down the aisle in elegance with this 'chic &amp; shabby' flower basket.  It is covered in cream satin with a cream shantung fabric sash and measures 8.25". A hand crafted paper flower and pearl spray accent give this basket added dimension. Inside the flower's center is a pearl/rhinestone accents. Petals not included.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506294593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

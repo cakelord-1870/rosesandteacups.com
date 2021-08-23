@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/lighted-christmas-canvases.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-12-03T06:55:29-06:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372406927449</id>
+    <published>2019-12-03T06:55:29-06:00</published>
+    <updated>2019-12-03T06:55:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lighted-christmas-festive-red-candles-and-pine-window-box-holiday-canvas-only-1-available"/>
+    <title>Lighted Christmas Festive Red Candles and Pine Window Box Holiday Canvas - Only 1 Available!</title>
+    <s:type>Christmas Accents</s:type>
+    <s:vendor>Ohio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lighted-christmas-festive-red-candles-and-pine-window-box-holiday-canvas-only-1-available.jpg?v=1601095116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ohio<br>
+        <strong>Type: </strong>Christmas Accents<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">15.75 x 31 x 1 inches Christmas Canvas featuring battery operated LED lighting on a charming image of Candles in a window box of pine branches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372406927449</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10142016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4372397129817</id>
+    <published>2019-12-03T06:40:08-06:00</published>
+    <updated>2019-12-03T06:40:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lighted-merry-christmas-holiday-canvas-only-1-available"/>
+    <title>Lighted Merry Christmas Holiday Canvas - Only 1 Available!</title>
+    <s:type>Christmas Accents</s:type>
+    <s:vendor>Ohio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lighted-merry-christmas-holiday-canvas-only-1-available.jpg?v=1601095115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ohio<br>
+        <strong>Type: </strong>Christmas Accents<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">12 x 20 x 1 Christmas Canvas featuring battery operated LED lighting on a charming image of a snowy night with Christmas Tree and Merry Christmas written in snow on a windshield.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4372397129817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10142016N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8250157633</id>
+    <published>2019-12-03T06:40:08-06:00</published>
+    <updated>2019-12-03T06:40:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lighted-christmas-pine-window-box-holiday-canvas"/>
+    <title>Lighted Christmas Festive Candles and Pine Window Box Holiday Canvas - Only 1 Available!</title>
+    <s:type>Christmas Accents</s:type>
+    <s:vendor>Ohio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lighted-christmas-festive-candles-and-pine-window-box-holiday-canvas-only-1-available.jpg?v=1601092717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ohio<br>
+        <strong>Type: </strong>Christmas Accents<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">15.75 x 31 x 1 inches Christmas Canvas featuring battery operated LED lighting on a charming image of Candles in a window box of pine branches.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8250157633</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>10142016-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

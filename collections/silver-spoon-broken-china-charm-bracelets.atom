@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/silver-spoon-broken-china-charm-bracelets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-09-19T15:50:39-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4102474760281</id>
+    <published>2019-09-19T15:50:39-05:00</published>
+    <updated>2019-09-19T15:50:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/silver-spoon-bracelet-with-ornate-cross-charm"/>
+    <title>Silver Spoon Bracelet with Ornate Cross Charm</title>
+    <s:type>Silver Spoon Bracelets</s:type>
+    <s:vendor>WAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/silver-spoon-bracelet-with-ornate-cross-charm.jpg?v=1601094992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WAM<br>
+        <strong>Type: </strong>Silver Spoon Bracelets<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Trendy spoon bracelet with cross charm is sure to be your favorite piece!</span><br>
+<ul>
+<li>Antique Silvertone</li>
+<li>Rose Design with Ornate Cross Charm</li>
+<li>Spoon Bracelet</li>
+<li>7" Long</li>
+<li>1.75" Long Cross and Faux Pearl Charms</li>
+<li>Magnetic Closure</li>
+<li>Lead &amp; Nickel Compliant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4102474760281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2145106853977</id>
+    <published>2019-08-01T12:21:30-05:00</published>
+    <updated>2019-08-01T12:21:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-rose-in-blue-silver-spoon-bracelet-with-crystals-and-broken-china-jewelry-charm-in-sterling-setting-in-gift-box"/>
+    <title>Pink Rose on Blue Stripe Silver Spoon Bracelet with Vintage Broken China Porcelain Heart Shaped Charm</title>
+    <s:type>Silver Spoon China Charm Bracelets</s:type>
+    <s:vendor>vintage revival</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-rose-on-blue-stripe-silver-spoon-bracelet-with-vintage-broken-china-porcelain-heart-shaped-charm.jpg?v=1601094918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vintage revival<br>
+        <strong>Type: </strong>Silver Spoon China Charm Bracelets<br>
+        <strong>Price: </strong>
+            103.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Pink Rose on Blue Stripe Silver Spoon Bracelet has crystals and Broken China Jewelry Charm in Sterling Setting includes Gift Box. This USA Handcrafted bracelet is made from pieces of broken china and a vintage silver plate spoon. Each china piece is artfully cut and set in sterling silver to create a one-of-a-kind jewelry art masterpiece you'll love to wear. Crystal beads accent the colors of the china. This is a one of a kind piece! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2145106853977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">103.99</s:price>
+      <s:sku>9260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1977291931737</id>
+    <published>2019-01-30T18:26:59-06:00</published>
+    <updated>2019-01-30T18:26:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-roses-with-broken-china-hearts-and-pearls-bracelet"/>
+    <title>Blue Roses with Broken China Hearts and Pearls Bracelet</title>
+    <s:type>Broken China charms and Jewelry</s:type>
+    <s:vendor>Brambleberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-roses-with-broken-china-hearts-and-pearls-bracelet.jpg?v=1601094663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brambleberry<br>
+        <strong>Type: </strong>Broken China charms and Jewelry<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Broken China Bracelet - Polymer Clay Flowers - China Heart Charms - Charm Bracelet - Broken China Charm Bracelet</span><br><br><span>Polymer clay, handmade roses are on this stunning handmade bracelet with three broken china heart charms. Everything on this broken china bracelet has been hand made except the glass pearl beads. </span><br><br><span>This broken china and porcelain clay charm bracelet was 100 % crafted by me. The heart charms were cut from a vintage china plate. It is then soldered a bezel around it with lead free, silver based solder. The colors shades of blue from light to dark. The colors were mixed to match the flowers on the broken china charm. The flowers are roses and forget-me-knots.</span><br><br><span>The porcelain clay flowers and leaves were handmade for cold porcelain clay. Two coats of sealer was used on them. They are extremely strong and durable.They were attached to the bracelet with jump rings that have been soldered closed and have soldered all the jump rings closed.</span><br><br><span>This is an extremely labor intense procedure and it takes several days to complete one like this. Ninety percent of the attachments have been wire wrapped. </span><br><br><span>The closure is a round silver plate toggle clasp. This bracelet measures 7 1/2".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1977291931737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>013019-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

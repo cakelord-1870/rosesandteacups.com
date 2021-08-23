@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/theme-wedding-necessities.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-11T22:40:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6850342721</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pearl-rhinestone-ivory-bouquet"/>
+    <title>Pearl Rhinestone Ivory Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pearl-rhinestone-ivory-bouquet.jpg?v=1601092462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 8.5" gorgeous bouquet is comprised of cream satin roses, elegant pearls and stunning rhinestone accents that encircle the entire bouquet.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850342721</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.99</s:price>
+      <s:sku>07072016-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6850229249</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/crystal-flower-bouquet-in-white-or-ivory"/>
+    <title>Crystal Flower Bouquet in White or Ivory</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/crystal-flower-bouquet-in-white-or-ivory.jpg?v=1601092460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This amazing crystal flower bouquet mixes ivory satin roses and dazzling crystals for a one of a kind look. The handle is wrapped in crocheted lace and pearls. A satin bow with rhinestones adds to this glamorous bouquet. Bouquet measures 7".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850229249</id>
+      <title>White</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>07072016N-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6850229249</id>
+      <title>Ivory</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>07072016N-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506472129</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ivory-taupe-rose-wide-vintage-lace-garter-wide"/>
+    <title>Ivory Taupe Rose Wide Vintage Lace Garter Wide</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ivory-taupe-rose-wide-vintage-lace-garter-wide.jpg?v=1601089722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This stylish garter is made up of a wide band of taupe lace, light ivory feathers, a small taupe rose and a larger light ivory flower. The large flower is accented with light ivory lace and a pearl/rhinestone ornament. One size fits most. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506472129</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>8512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506449537</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-ring-pillow"/>
+    <title>Taupe Rose Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-ring-pillow.jpg?v=1601089720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This taupe satin ring pillow is decorated on the front side with a darker taupe sash. In the middle is a ivory rose with a pearl/rhinestone deco. Size: 7" x 7".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506449537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506440513</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-guest-book"/>
+    <title>Taupe Rose Guest Book</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-guest-book.jpg?v=1601089719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This 8.5" x 6" guest book has a taupe satin cover. The front is decorated with a darker taupe sash and a ivory rose. Beads attached to wires extend outward from the rose. A rhinestone and pearl decoration in the center of the rose completes the design.</span><br><span>This guest book holds 55 pages for a total of 990 signatures.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506440513</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>8504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506425281</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-bridal-bouquet"/>
+    <title>Taupe Rose Bridal Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-bridal-bouquet.jpg?v=1601089718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant taupe rose bouquet has a clear acrylic handle, taupe satin ruffle and a series of dark and ivory satin flowers.The center ivory flower is decorated with pearl/rhinestone ornament. Size: Width = 6".Length = 6.5".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506425281</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>8502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506411649</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-pen-set"/>
+    <title>Taupe Rose Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-pen-set.jpg?v=1601089716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink and a 3.75" x 3.75" taupe satin pen base The base is decorated with a darker taupe sash and a ivory rose. A rhinestone and pearl decoration in the center of the rose completes the design. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506411649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>8506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506397889</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/taupe-rose-flower-girl-basket"/>
+    <title>Taupe Rose Flower Girl Basket</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/taupe-rose-flower-girl-basket.jpg?v=1601089715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This taupe satin flower basket is decorated on the front with darker taupe ribbon and a ivory rose. Size: 7.75" tall. Petals not Included.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506397889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>8503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506377153</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-guest-book"/>
+    <title>Chic and Shabby Guest Book</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-guest-book.jpg?v=1601089714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Family and friends will find this elegant guest book covered in cream satin as they arrive at the reception.  To give this guest book its unique look, a hand crafted flower with a pearl/rhinestones ornament decorates the cover.  Below the hand crafted paper flower is gathered with a cream shantung fabric sash and a pearl spray accent.  The guest book is 8.5" long and contains 55 pages for 990 signatures.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506377153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506358401</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-bouquet"/>
+    <title>Chic and Shabby Bouquet</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-bouquet.jpg?v=1601089713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The exquisite chic &amp; shabby bouquet measures 6.5" diameter, with a handle 6.5" wrapped in white satin ribbon for easy carrying. Blush and cream flowers create a bouquet the bride will love to carry.  Flowers are adorned with pearls and rhinestones for an added touch of elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506358401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>8493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506348225</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-ring-pillow"/>
+    <title>Chic and Shabby Ring Pillow</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-ring-pillow.jpg?v=1601089712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This cream satin pillow with cream shantung fabric sash has a hand crafted paper flower and pearl spray accent adding dimension in a most elegant way. In the center of the flower is a pearl/rhinestone decoration. It measures 7.25" x 7.25".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506348225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>8498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506338561</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-boutonniere"/>
+    <title>Chic and Shabby Boutonniere</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-boutonniere.jpg?v=1601089711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This attractive chic &amp; shabby boutonniere is the perfect accent for a groom's jacket.A cream hand crafted paper flower houses pearls and rhinestones for a soft and elegant look. The boutonniere measures 2.25".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506338561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>8494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506307457</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-bridal-pen-set"/>
+    <title>Chic and Shabby Bridal Pen Set</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-bridal-pen-set.jpg?v=1601089708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This pen set includes a silver pen with black ink attached to a cream satin covered base and a cream shantung fabric sash.  The hand crafted paper flower decoration with pearl/rhinestone ornament in the center and pearl spray accent will not go unnoticed as guests enter the reception.  The base measures 3.75".</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506307457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>8501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506295489</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-hair-clip"/>
+    <title>Chic and Shabby Hair Clip</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-hair-clip.jpg?v=1601089707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This elegant 3" clip/pin combines a beautiful hand crafted paper flower with a pearl accent.  Inside the flower lies a pearl and rhinestone ornament.  Both a hair clip and pin are found in back, so you can use this item to decorate your hair, clothing or other items.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506295489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>8499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1506294593</id>
+    <published>2015-07-11T22:40:00-05:00</published>
+    <updated>2015-07-11T22:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/chic-and-shabby-flower-girl-basket"/>
+    <title>Chic and Shabby Flower Girl Basket</title>
+    <s:type>Theme Wedding Accessories</s:type>
+    <s:vendor>Lillian Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/chic-and-shabby-flower-girl-basket.jpg?v=1601089706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lillian Rose<br>
+        <strong>Type: </strong>Theme Wedding Accessories<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Flower petals can be carried down the aisle in elegance with this 'chic &amp; shabby' flower basket.  It is covered in cream satin with a cream shantung fabric sash and measures 8.25". A hand crafted paper flower and pearl spray accent give this basket added dimension. Inside the flower's center is a pearl/rhinestone accents. Petals not included.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1506294593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>8495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

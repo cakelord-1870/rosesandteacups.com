@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/tea-bag-tea-party-favors.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2020-03-11T14:24:15-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/4506142670937</id>
+    <published>2020-03-11T14:24:15-05:00</published>
+    <updated>2020-03-11T14:24:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Madame Bunny Teapot and Teacup Soap Party Favors Set of 4</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/madame-bunny-teapot-and-teacup-soap-party-favors-set-of-4.jpg?v=1584018364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations features our lovely Madame Bunny pattern. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 8 soaps with 2 in each favor. Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4506142670937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>102918-SJ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2178146697305</id>
+    <published>2019-09-11T13:10:58-05:00</published>
+    <updated>2019-09-11T13:10:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Pumpkin Spice Scented Fall Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pumpkin-spice-scented-fall-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Pumpkin Spice Scented Fall teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great for Fall gifts!  Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2178146697305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPumpkin</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2178077294681</id>
+    <published>2019-09-11T11:11:51-05:00</published>
+    <updated>2019-09-11T11:11:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/our-never-so-lost-angel-favor-lavender-sachets-set-of-3-gifts"/>
+    <title>Our Never So Lost Angel Favor Lavender Sachets Set of 3 Gifts</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/our-never-so-lost-angel-favor-lavender-sachets-set-of-3-gifts.jpeg?v=1601094974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Never So Lost Angel Favor Lavender Sachets Set of 3 Gifts are so sweet and encouraging. Each party favor is with with real lavender which give each divine scent.</p>
+<p>Measures: 3.75" wide x 4.25" long </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2178077294681</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>08311913</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177275035737</id>
+    <published>2019-09-10T14:08:06-05:00</published>
+    <updated>2019-09-10T14:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pink-ribbon-awareness-party-favors-set-of-3-sachets"/>
+    <title>Pink Ribbon Awareness Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-ribbon-awareness-party-favors-set-of-3-sachets.jpg?v=1601094972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Ribbon Awareness Party Favors Set of 3 Sachets are filled with divine smelling real lavender buds. This sweet little gift has a pretty pink ribbon thoughtfully attached for hanging. </p>
+<p>FMeasures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177275035737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2177271038041</id>
+    <published>2019-09-10T12:43:58-05:00</published>
+    <updated>2019-09-10T12:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peter-rabbit-fall-party-favors-set-of-3-sachets"/>
+    <title>Peter Rabbit Fall Party Favors Set of 3 Sachets</title>
+    <s:type>Fall Tea Items</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peter-rabbit-fall-party-favors-set-of-3-sachets.jpg?v=1601094971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Fall Tea Items<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peter Rabbit Fall Party Favors Set of 3 Sachets with Pumpkin Spice Scent! Perfect Fall party gifts! </p>
+<p>Measures: 3.75"x 4.25"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2177271038041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2168679039065</id>
+    <published>2019-08-31T18:15:22-05:00</published>
+    <updated>2019-08-31T18:15:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gossiping-tea-ladies-with-teacup-tea-party-favor-envelope-sachets"/>
+    <title>Gossiping Tea Ladies With Teacup Tea Party Favor Lavender Sachets Set of 3</title>
+    <s:type>Assorted Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gossiping-tea-ladies-with-teacup-tea-party-favor-lavender-sachets-set-of-3.jpg?v=1582071430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Assorted Favors<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Gossiping Tea Ladies with Teacup Tea Party Favor Envelope Sachets is the perfect party gift. Each party favor is with with real lavender which give each divine scent. Accented with a porcelain teacup and hung by a strand of faux pearls. </p>
+<p>Measures: 3.75" wide x 4.25" long </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2168679039065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>0831191</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122707140697</id>
+    <published>2019-06-28T17:08:57-05:00</published>
+    <updated>2019-06-28T17:08:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pastels-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Pretty Pastels Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pastels-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor. 2 sets of each color.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122707140697</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPastels</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122646519897</id>
+    <published>2019-06-28T13:45:56-05:00</published>
+    <updated>2019-06-28T13:45:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/marvelvous-mint-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Marvelous Mint Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/marvelous-mint-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122646519897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJMint</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2122596286553</id>
+    <published>2019-06-28T10:48:41-05:00</published>
+    <updated>2019-06-28T10:48:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/beautiful-blue-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Beautiful Blue Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/beautiful-blue-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2122596286553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJBlue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2121716760665</id>
+    <published>2019-06-27T13:04:56-05:00</published>
+    <updated>2019-06-27T13:04:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/lovely-lavender-teapot-and-teacup-soap-party-favors-set-of-8"/>
+    <title>Lovely Lavender Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/lovely-lavender-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2121716760665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJLavender</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1969219928153</id>
+    <published>2019-01-24T10:23:21-06:00</published>
+    <updated>2019-01-24T10:23:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-3-burgundy-roses-and-tear-drop-pearl-on-ivory-lace-scented-sachets"/>
+    <title>Set of 3 Burgundy Roses and Tear Drop Pearl on Ivory Lace Scented Sachet Party Favors</title>
+    <s:type>Victorian Decor Sachets</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-3-burgundy-roses-and-tear-drop-pearl-on-ivory-lace-scented-sachet-party-favors.jpg?v=1601094636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Victorian Decor Sachets<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 3 Burgundy Roses and Tear Drop Pearl on Ivory Lace Scented Sachets has a soft lovely Lily of the Valley scent.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1969219928153</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>012419-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1760137511001</id>
+    <published>2018-10-29T09:07:23-05:00</published>
+    <updated>2018-10-29T09:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/teapot-and-teacup-soap-favors-set-of-8"/>
+    <title>Pretty in Pink Teapot and Teacup Soap Party Favors Set of 8</title>
+    <s:type>Elegant Gift Soaps</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-in-pink-teapot-and-teacup-soap-party-favors-set-of-8.jpg?v=1601094396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Elegant Gift Soaps<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful teapot and teacup soap party favors are perfect for gift giving at your tea parties and birthday celebrations. Great bridal shower favors and pretty party gifts for all occasions. Each favor includes 2 nice size lightly scented  soaps wrapped in clear cello and adorned with a satin grosgrain bow. Total of 16 soaps with 2 in each favor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1760137511001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>102918-SJPink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/285036412968</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-christmas-teapot-envelopes-favors"/>
+    <title>6 Tea Bags in Christmas Teapot Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-christmas-teapot-envelopes-favors.png?v=1601093748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming Christmas Teapot graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/285036412968</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>111517N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343446785</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-thanksgiving-envelopes"/>
+    <title>6 Tea Bags in Thanksgiving Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-thanksgiving-envelopes-favors.jpg?v=1601092771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming Thanksgiving graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Victorian Lady in Tea Cup You Are My Cup of Tea Black and White.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343446785</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282016-15N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8343438657</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-angel-envelopes"/>
+    <title>6 Tea Bags in Angel Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-angel-envelopes-favors.jpg?v=1601092770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming Angel graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8343438657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>10282016-14N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947744769</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-lets-have-tea-envelopes"/>
+    <title>6 Tea Bags in Let&apos;s Have Tea Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-lets-have-tea-envelopes-favors.jpg?v=1601091774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Victorian Ladies with Tea Party Text.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947744769</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33307N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947740033</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-cup-of-tea-envelopes"/>
+    <title>6 Tea Bags in Cup of Tea Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-cup-of-tea-envelopes-favors.jpg?v=1601091773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Victorian Lady in Tea Cup You Are My Cup of Tea Black and White.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947740033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33306N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947734465</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-garden-tea-envelopes"/>
+    <title>6 Tea Bags in Garden Tea Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-Tea-Bags-in-Garden-Tea-Envelopes-Favors_2dcd6a23-4fe9-4511-850c-2af664d5e95a.jpg?v=1629331920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Garden Tea Table and Chairs with Tea Party text.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947734465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33305N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947727809</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-time-for-tea-envelopes"/>
+    <title>6 Tea Bags in Time for Tea Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-time-for-tea-envelopes-favors.jpg?v=1601091772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Chintz Tea Cups and Saucers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947727809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33304N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947720257</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-my-favorite-teapot-envelopes"/>
+    <title>6 Tea Bags in My Favorite Teapot Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-my-favorite-teapot-envelopes-favors.jpg?v=1601091770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Teapot with Flowers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947720257</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33302N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947714305</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-tea-party-envelopes"/>
+    <title>6 Tea Bags in Tea Party Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-tea-party-envelopes-favors.jpg?v=1601091769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Tea Party with teapot, cupcakes, florals and pink stripes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947714305</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33301N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3947713729</id>
+    <published>2016-01-23T11:52:00-06:00</published>
+    <updated>2016-01-23T11:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-tea-bags-in-tea-time-envelopes"/>
+    <title>6 Tea Bags in Tea Time Envelopes Favors</title>
+    <s:type>Tea Bags</s:type>
+    <s:vendor>Once Upon a Hankie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-tea-bags-in-tea-time-envelopes-favors.jpg?v=1582071279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Once Upon a Hankie<br>
+        <strong>Type: </strong>Tea Bags<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Delight your guests with tea bags in envelopes with charming tea graphics.  Assorted Teas.  <span>English Breakfast, Earl Grey, Blueberry, Raspberry, Green Tea, Peach Tea, Orange Spice Tea.  </span>Tea Time with Roses and Old Fashioned Lady.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3947713729</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>33300N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1504052609</id>
+    <published>2015-07-11T13:33:13-05:00</published>
+    <updated>2015-07-11T13:33:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/tea-and-tea-bag-rest-favor-set-of-4"/>
+    <title>Tea and Tea Bag Rest Favor Set of 4</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Maryland China</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/tea-and-tea-bag-rest-favor-set-of-4.jpg?v=1601089477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maryland China<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            27.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea and Tea Bag Rests<br> Set of 4 Favor Bags<br> Each favor comes with a Cherry Bing with Almond Tea Bag and a beautiful white porcelain tea bag rest in the shape of a teapot. Each favor is wrapped in elegant cello and tied with a pink ribbon.</p>
+<p>The tea rest measures approximately 3.25 x 2.5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1504052609</id>
+      <title>Default</title>
+      <s:price currency="USD">27.96</s:price>
+      <s:sku>3696</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/285038477352</id>
+    <published>2015-07-11T00:30:57-05:00</published>
+    <updated>2015-07-11T00:30:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-christmas-teapot-tea-time-favor-bags"/>
+    <title>6 Christmas Teapot Tea Time Party Favor Bags</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-christmas-teapot-tea-time-party-favor-bags.png?v=1601093749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So adorable!  Each Christmas Teapot tea party tea time gift wrapped favor bag contains a Christmas teapot tea bag, a cinnamon stick, 2 honey sticks and 2 decorated holiday sugar cubes.    Wrapped in clear cello and tied with a bow!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/285038477352</id>
+      <title>Default</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>111517-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10228214529</id>
+    <published>2015-07-11T00:30:57-05:00</published>
+    <updated>2015-07-11T00:30:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/6-victorian-lady-tea-party-favor-bags-with-sugar-cubes-tea-honey-and-cinnamon-sticks"/>
+    <title>6 Victorian Lady Tea Party Favor Bags</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Roses And Teacups</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/6-victorian-lady-tea-party-favor-bags.jpg?v=1601093329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Roses And Teacups<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">So adorable!  Each Victorian Ladies tea party tea time gift wrapped favor bag contains a pretty Victorian tea bag, a cinnamon stick, 2 honey sticks and 2 sugar cubes decorated with teapots!  Wrapped in clear cello and tied with a bow!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeT</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10228214529</id>
+      <title>Default</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>09282017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

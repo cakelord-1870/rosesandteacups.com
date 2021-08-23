@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/pink-cherub-home-collection.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2015-07-05T13:31:00-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/1511294273</id>
+    <published>2015-07-05T13:31:00-05:00</published>
+    <updated>2015-07-05T13:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/cherub-shower-curtain-hooks-set-of-6"/>
+    <title>Cherub Shower / Curtain Hooks Set of 6</title>
+    <s:type>Waste Baskets Tissue Holders</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/cherub-shower-curtain-hooks-set-of-6.jpg?v=1601089903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Waste Baskets Tissue Holders<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Our Cameo Shower Curtain Hooks are made from Designer heavy duty chrome-plated metal. They feature romantic cameos and pink roses and are accented with clear beaded tassels.</span><br><span>Measures: 5" long x 2" wide.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1511294273</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.99</s:price>
+      <s:sku>7088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

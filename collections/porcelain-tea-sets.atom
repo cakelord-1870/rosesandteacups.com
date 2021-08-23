@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/porcelain-tea-sets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-10-21T18:42:46-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336735553</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-chickadee"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Chickadee</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-chickadee.jpg?v=1601093474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336735553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-105N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336727233</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-hummingbird"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Hummingbird</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-hummingbird.jpg?v=1601093472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336727233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-101N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336711489</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-lily-of-the-valley"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Lily of the Valley</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-lily-of-the-valley.jpg?v=1601093471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336711489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-101N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336706817</id>
+    <published>2017-10-21T18:42:46-05:00</published>
+    <updated>2017-10-21T18:42:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-eiffel-tower"/>
+    <title>20 oz Porcelain Teapot with Cream and Sugar Set - Eiffel Tower</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/20-oz-porcelain-teapot-with-cream-and-sugar-set-eiffel-tower.jpg?v=1601093470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These sets are available in any of our lovely floral patterns from our hand decorated porcelain pages.  Just ask!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336706817</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>10212017-100N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10184970497</id>
+    <published>2017-09-20T08:52:44-05:00</published>
+    <updated>2017-09-20T08:52:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/10-piece-porcelain-tea-set-in-pink-rose-with-free-metal-stand"/>
+    <title>10 Piece Porcelain Tea Set in Pink Rose with FREE Metal Stand</title>
+    <s:type></s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/10-piece-porcelain-tea-set-in-pink-rose-with-free-metal-stand.jpg?v=1601093316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This lovely pink rose porcelain tea set includes a 3-cup lidded teapot with 24k gold accents, 4 tea cups and 4 saucers.  A gold metal stand is included.  Tea Set is Dishwasher safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10184970497</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>09201017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/20270252033</id>
+    <published>2015-11-16T15:40:00-06:00</published>
+    <updated>2015-11-16T15:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/dahlia-porcelain-tea-set"/>
+    <title>Dahlia Porcelain Tea Set</title>
+    <s:type>Porcelain Tea Sets</s:type>
+    <s:vendor>Coastline</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/dahlia-porcelain-tea-set.jpg?v=1601093685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coastline<br>
+        <strong>Type: </strong>Porcelain Tea Sets<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>1 Teapot, 1 Set of Sugar &amp; Creamer, and 4 Sets of Cup &amp; Saucer. Gold Trimmed. Made of Porcelain.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/20270252033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.99</s:price>
+      <s:sku>10292017-22N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/12659326977</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-lily-of-the-valley-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece Lily of the Valley Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-lily-of-the-valley-porcelain-tea-set.jpg?v=1601093599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/12659326977</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10042017-4N-540-225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10262575745</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-pansy-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece Pansy Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-pansy-porcelain-tea-set.jpg?v=1601093339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10262575745</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10052017N-540-166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257147585</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-winter-cardinal-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece Winter Cardinal Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-winter-cardinal-porcelain-tea-set.jpg?v=1601093334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257147585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10042017-6N-540-126C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257144065</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-white-rose-spray-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece White Rose Spray Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-white-rose-spray-porcelain-tea-set.jpg?v=1601093333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257144065</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10042017-4N-540-225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257143425</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-strawberry-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece Strawberry Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-strawberry-porcelain-tea-set.jpg?v=1601093332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257143425</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10042017-3N-540-207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10257140801</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-blackberry-porcelain-tea-set-plus-30-additional-patterns"/>
+    <title>15 Piece Blackberry Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-blackberry-porcelain-tea-set.jpg?v=1601093331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10257140801</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>10042017-2N-540-217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8911394689</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-magnolia-porcelain-tea-set"/>
+    <title>15 Piece Magnolia Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-magnolia-porcelain-tea-set.jpg?v=1601093016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8911394689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02262017-2N-540-160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8911393473</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-shamrock-porcelain-tea-set"/>
+    <title>15 Piece Shamrock Porcelain Tea Set</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-piece-shamrock-porcelain-tea-set.jpg?v=1601093015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</p>
+<p><strong>Click on our Lily of the Valley Set to See Additional Patterns!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8911393473</id>
+      <title>Default Title</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02262017N-540-148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/8908985025</id>
+    <published>2015-07-13T15:25:00-05:00</published>
+    <updated>2015-07-13T15:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/15-piece-porcelain-tea-set-1"/>
+    <title>15 Piece Lily of the Valley Porcelain Tea Set Plus 30 Additional Patterns</title>
+    <s:type>Hand Decorated Teapots</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/15-Piece-Lily-of-the-Valley-Porcelain-Tea-Set-Plus-30-Additional-Patterns_3201a2ac-15e2-45e8-999f-a4d6f8fcd0e8.jpg?v=1628728453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Hand Decorated Teapots<br>
+        <strong>Price: </strong>
+            288.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous 15 piece Tea Set includes Teapot, 6 tea cups and 6 saucers and cream and sugar set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TeW</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Wisteria Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-8N-240-219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Hydrangea</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-9N-240-146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Lily of the Valley</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-10N-240-157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Magnolia</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-11N-240-195</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Musical Note</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-12N-240-206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Peach Blossom</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-13N-240-167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Butterflies</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-14N-240-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Bouquet of Pansies</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-15N-240-231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Pink Rose Spray</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-16N-240-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Rhapsody Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-17N-240-205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Pink Toile</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-18N-240-200PKR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>White Rose Spray</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-19N-240-225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Sweet Pea</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-20N-240-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Wisteria</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-21N-240-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Grapes And Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-22N-240-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Elizabeth Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-23N-240-138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Olympia Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-24N-240-164</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Doves And Roses</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-25N-240-136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Ivy &amp; Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-26N-240-150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Bouquet of Flowers</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-27N-240-229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Hummingbird</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-28N-240-145A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Summer Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-29N-240-185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Yellow Rose</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-30N-240-193</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Lilac Bouquet</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-31N-240-156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Pansy</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-32N-240-166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/8908985025</id>
+      <title>Claremont</title>
+      <s:price currency="USD">288.89</s:price>
+      <s:sku>02252017-33N-240-127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1224899585</id>
+    <published>2015-06-16T17:27:00-05:00</published>
+    <updated>2015-06-16T17:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/peach-shell-place-setting"/>
+    <title>Peach Shell Place Setting</title>
+    <s:type>Custom Ceramic Teaware</s:type>
+    <s:vendor>Whimbliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/peach-shell-place-setting.jpg?v=1601088250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whimbliss<br>
+        <strong>Type: </strong>Custom Ceramic Teaware<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicate handmade flowers and leaves. Intricate lacework in dimensional glaze. Multiple coats of color glaze are carefully applied, then finished with two coats of gloss glaze. The over glaze is always carefully applied by brush, never dipped. Measures - dinner plate - 12"rd, salad/dessert plate - 9"rd, bowl - 7.5"rd, mug - 3"rd x 4.5"h Food safe. Only non-toxic, lead free glazes are used. Please handle with care, the handmade flowers and leaves are fragile. Hand wash. Do not microwave. Variations are to be expected and are part of the charm of the handmade piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1224899585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>9062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

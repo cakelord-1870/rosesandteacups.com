@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/childrens-girls-childs-tin-tea-sets.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-06-07T14:24:08-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/3554088705</id>
+    <published>2021-06-07T14:24:08-05:00</published>
+    <updated>2021-06-07T14:24:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pansies-and-butterflies-wicker-style"/>
+    <title>Pansies and Butterflies Childrens Tin Teaset FREE tea! Little Girls 15pc Tea Set in a Purple Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-purple-wicker-style-basket.jpg?v=1601091655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Child size Pansies and Butterflies 15 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3554088705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>112015-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743144636505</id>
+    <published>2020-10-27T18:15:33-05:00</published>
+    <updated>2020-10-27T18:15:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/unicorn-childrens-tin-teaset-free-tea-19pc-tea-set-for-little-girls-in-a-white-wicker-style-basket"/>
+    <title>Unicorn Childrens Tin Teaset FREE Tea! 19pc Tea Set for Little Girls in a White Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/unicorn-childrens-tin-teaset-free-tea-19pc-tea-set-for-little-girls-in-a-white-wicker-style-basket.jpg?v=1603890216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 19 piece lovely children's tin tea set has adorable pink florals on a pink and blue background .  The perfect tea set for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. This set also has 4 spoons with holder!  FREE tea included with all children tea sets! </p>
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743144636505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743142178905</id>
+    <published>2020-10-27T18:03:20-05:00</published>
+    <updated>2020-10-27T18:03:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/princess-childrens-tin-teaset-free-tea-little-girls-19pc-tea-set-in-a-pink-wicker-style-basket"/>
+    <title>Princess Childrens Tin Teaset FREE tea! Little Girls 19pc Tea Set in a Pink Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/princess-childrens-tin-teaset-free-tea-little-girls-19pc-tea-set-in-a-pink-wicker-style-basket.jpg?v=1603890215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unicorns, Butterflies, Castles and a Princess all on one childs tea set!!  Child size 19 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates, 4 napkins plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743142178905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4743141359705</id>
+    <published>2020-10-27T18:01:37-05:00</published>
+    <updated>2020-10-27T18:01:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/daisies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-pink-wicker-style-basket"/>
+    <title>Daisies and Butterflies Childrens Tin Teaset FREE tea! Little Girls 15pc Tea Set in a Pink Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/daisies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-pink-wicker-style-basket.jpg?v=1603890214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Child size Daisies and Butterflies 15 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4743141359705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10272013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/442987249704</id>
+    <published>2015-07-07T20:56:00-05:00</published>
+    <updated>2015-07-07T20:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/children-18pc-tin-tea-set-for-4-girls-pink-bow"/>
+    <title>Pink Bow Childrens Tin Teaset FREE tea! 15pc Tea Set for Little Girls in a Pink Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pink-bow-childrens-tin-teaset-free-tea-15pc-tea-set-for-little-girls-in-a-pink-wicker-style-basket.jpg?v=1601093894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 15 piece lovely children's tin tea set is SO cute with adorable pink bows and polka dots! The perfect tea set for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! </p>
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/442987249704</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>021718</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9181008833</id>
+    <published>2015-07-07T20:47:00-05:00</published>
+    <updated>2015-07-07T20:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/children-18pc-tin-tea-set-for-4-girls-sorrel"/>
+    <title>Sorrel Childrens Tin Teaset FREE tea! 20pc Tea Set for Little Girls in a Mint Green Wicker Style Picnic Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Sorrel-Childrens-Tin-Teaset-FREE-tea-20pc-Tea-Set-for-Little-Girls-in-a-Mint-Green-Wicker-Style-Picnic-Basket_41243d9a-b4aa-40a7-9069-c1168dfd7b54.jpg?v=1629159149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 20 piece lovely children's tin tea set has adorable burgundy and pink florals on a mint green background .  The perfect tea set for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket. This set also has 4 spoons with holder!  and FREE tea included with all children tea sets! </p>
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9181008833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>04132017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1456432001</id>
+    <published>2015-07-07T20:17:00-05:00</published>
+    <updated>2015-07-07T20:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/children-18pc-tin-tea-set-for-4-girls-orange-blossom"/>
+    <title>Children 18pc Tin Tea Set for 4 Girls - Orange Blossom - Only 1 Left - FREE tea included!</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/children-18pc-tin-tea-set-for-4-girls-orange-blossom-only-1-left-free-tea-included.jpg?v=1617840751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each set has a set of 4 cups, 4 saucers, 4 plates plus you can select from the picnic style basket that contains flatware. Includes FREE punch flavored tea.  <strong>Food Safe</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1456432001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>7907</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

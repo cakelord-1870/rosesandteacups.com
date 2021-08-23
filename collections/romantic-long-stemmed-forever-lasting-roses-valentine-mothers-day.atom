@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/romantic-long-stemmed-forever-lasting-roses-valentine-mothers-day.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-07-04T14:37:35-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278086081</id>
+    <published>2019-07-04T14:37:35-05:00</published>
+    <updated>2019-07-04T14:37:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-patriot"/>
+    <title>12-inch Lacquered And Edged in 24K Gold - Patriot</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/12-inch-lacquered-and-edged-in-24k-gold-patriot.jpg?v=1601093152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process.</p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278086081</id>
+      <title>Default</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>04252017-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278088513</id>
+    <published>2019-01-11T16:52:29-06:00</published>
+    <updated>2019-01-11T16:52:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-zebra"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Zebra - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-zebra-perfect-for-valentines-day-and-mothers-day.jpg?v=1582072151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278088513</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>04252017-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548591489</id>
+    <published>2019-01-11T16:46:17-06:00</published>
+    <updated>2019-01-11T16:46:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-pink-lilac"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Pink Lilac - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-pink-lilac-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548591489</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548298113</id>
+    <published>2018-04-26T18:34:04-05:00</published>
+    <updated>2018-04-26T18:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-burgundy-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Burgundy - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-burgundy-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548298113</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2732</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548444865</id>
+    <published>2018-04-26T18:32:38-05:00</published>
+    <updated>2018-04-26T18:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-bright-pink-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Bright Pink - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-bright-pink-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548444865</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2734</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278097793</id>
+    <published>2018-04-26T18:32:06-05:00</published>
+    <updated>2018-04-26T18:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-ruby"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Beating Hearts - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-beating-hearts-perfect-for-valentines-day-and-mothers-day.jpg?v=1582072188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278097793</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>04252017-6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548886465</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-yellow"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Yellow - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-yellow-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548886465</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>8353</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548842177</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-yellow-to-red"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Yellow to Red - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-yellow-to-red-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="detail layout-column-half-right">
+<div class="description user-content lightboximages">
+<p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p>
+</div>
+<div class="desktop-only"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548842177</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2746</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548681473</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-red-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Red - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-red-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p>
+<p>x!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548681473</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2743</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548558401</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-pink-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Pink - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-pink-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548558401</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2739</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548523009</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-white-to-yellow"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - White to Yellow - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-white-to-yellow-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548523009</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2737</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548511425</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-white-to-pink"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - White to Pink - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-white-to-pink-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548511425</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2736</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548475137</id>
+    <published>2017-09-19T12:52:52-05:00</published>
+    <updated>2017-09-19T12:52:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-white-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - White - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-white-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548475137</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1550308865</id>
+    <published>2015-07-16T15:11:00-05:00</published>
+    <updated>2015-07-16T15:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/add-engraving-on-the-stem"/>
+    <title>Add engraving on the stem</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/add-engraving-on-the-stem.jpg?v=1601090865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The stem photos are magnified.  The engraving will be small.  Please <strong>DOUBLE CHECK</strong> your personalization message, as there are NO RETURNS on personalized roses.  <strong>25 Characters Maximum</strong>. Use the text box on the checkout page for your message.  Thank you for your understanding.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1550308865</id>
+      <title>Default</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>8352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278106177</id>
+    <published>2015-07-16T13:48:12-05:00</published>
+    <updated>2015-07-16T13:48:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-orange-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Orange - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-orange-perfect-for-valentines-day-and-mothers-day.jpg?v=1582072199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278106177</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>04252017-8N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/9278092481</id>
+    <published>2015-07-16T13:48:12-05:00</published>
+    <updated>2015-07-16T13:48:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-long-stemmed-forever-lasting-rose-purple-free-shipping-perfect-for-valentines-day-and-mothers-day"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - Purple - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-purple-perfect-for-valentines-day-and-mothers-day.jpg?v=1582072167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/9278092481</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>04252017-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548854849</id>
+    <published>2015-07-16T13:48:12-05:00</published>
+    <updated>2015-07-16T13:48:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-white-to-purple"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - White to Purple - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-white-to-purple-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mot</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548854849</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2747</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1548624065</id>
+    <published>2015-07-16T13:29:00-05:00</published>
+    <updated>2015-07-16T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/12-inch-lacquered-and-edged-in-24k-gold-white-satin"/>
+    <title>Romantic Long Stemmed Forever Lasting Rose - White Satin - Perfect for Valentines Day and Mothers Day</title>
+    <s:type>Gold Dipped Lacquered Roses</s:type>
+    <s:vendor>The Forever Rose</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-long-stemmed-forever-lasting-rose-white-satin-perfect-for-valentines-day-and-mothers-day.jpg?v=1582071825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Forever Rose<br>
+        <strong>Type: </strong>Gold Dipped Lacquered Roses<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give the gift of beautiful long stemmed roses for Valentine's Day, Mother's Day or birthday that never dies. These real, full-size (12-inch) roses are preserved for a lifetime through a 40-step, 5-day process. <span>All Romantic Long Stemmed Forever Lasting Roses are handcrafted from real roses, carefully grown in nurseries, selected at the peak of their beauty and preserved in a durable lacquer shell to capture their detail and natural beauty. They are then dipped and plated with a real 24K Gold to create this breathtaking masterpiece for your life-time enjoyment. </span></p>
+<p>Colors are natural and gold is 24K! Roses come in a gold gift box!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1548624065</id>
+      <title>Default</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>2741</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

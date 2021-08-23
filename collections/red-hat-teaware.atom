@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/red-hat-teaware.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2017-10-21T15:34:54-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/10336429825</id>
+    <published>2017-10-21T15:34:54-05:00</published>
+    <updated>2017-10-21T15:34:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-red-hat"/>
+    <title>Catherine Porcelain Tea Cup and Saucer Set of 2 - Red Hat</title>
+    <s:type>tea cups</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/catherine-porcelain-tea-cup-and-saucer-set-of-2-red-hat.jpg?v=1601093452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>tea cups<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set of 2 porcelain tea cups with vibrant colors and gold edging.  Full Size FDA approved.  Cup has a slight bell shape with a small pedestal bottom and half heart handle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10336429825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>10212017-85N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10345202945</id>
+    <published>2017-03-11T13:39:00-06:00</published>
+    <updated>2017-03-11T13:39:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-2-victorian-tankards-red-hat"/>
+    <title>Set of 2 Victorian Tankards Floral Mugs - Red Hat</title>
+    <s:type>Victorian Tankards</s:type>
+    <s:vendor>Fielder Keepsake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-2-victorian-tankards-floral-mugs-red-hat.jpg?v=1601093511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fielder Keepsake<br>
+        <strong>Type: </strong>Victorian Tankards<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Gorgeous porcelain tankards hand decorated in the USA.  11 oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10345202945</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10232017-11N-520-203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

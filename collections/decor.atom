@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/decor.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2021-08-12T13:03:13-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/6708097286233</id>
+    <published>2021-08-12T13:03:13-05:00</published>
+    <updated>2021-08-12T13:03:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/spicy-winterberry-tea-cup-tea-box-favor"/>
+    <title>Spicy Winterberry Tea Cup Tea Box Favor</title>
+    <s:type>Tea Theme Favors</s:type>
+    <s:vendor>Mary Lake Thompson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Spicy-Winterberry-Tea-Cup-Tea-Box-Favor.png?v=1628859783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mary Lake Thompson<br>
+        <strong>Type: </strong>Tea Theme Favors<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tea grown in India<br>Packaged in USA<br> Wooden chest made in India<br> Six Winterberry single serve tea bags packaged in a wooden chest<br> Tea chest measures 3.25"x 3.5"<br>100% Organic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tea Table</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6708097286233</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>0812213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6708090699865</id>
+    <published>2021-08-12T12:37:06-05:00</published>
+    <updated>2021-08-12T12:37:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/christmas-holiday-holly-berry-porcelain-teapot-night-light"/>
+    <title>Christmas Holiday Holly Berry Porcelain Teapot Night Light</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Green Pastures Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Christmas-Holiday-Holly-Berry-Porcelain-Teapot-Night-Light.jpg?v=1628859782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green Pastures Wholesale<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Roses And Teacups is thrilled to present our new Holiday Christmas Tree Teapot Night Light! This Holiday Christmas porcelain Tea Pot Nightlight measures <span>5"x4"x6" and comes with bulb. Makes great gift for family and friends. Stylish decorative accent for any decor!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6708090699865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.95</s:price>
+      <s:sku>0812212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6606178254937</id>
+    <published>2021-07-07T07:58:24-05:00</published>
+    <updated>2021-07-07T07:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-victorian-ivory-cameo-lace-rose-adorned-square-pillow"/>
+    <title>Romantic Victorian Ivory Cameo Blush Pink Lace Rose Adorned Square Pillow - One of a Kind!</title>
+    <s:type>Victorian Pillows</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-victorian-ivory-cameo-blush-pink-lace-rose-adorned-square-pillow-one-of-a-kind.jpg?v=1626912743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Victorian Pillows<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Romantic Victorian Ivory Cameo Lace Rose Adorned Square Pillow has hand dyed fabric and crocheted lace made in the USA. </p>
+<p>Measures approximately 17x17</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6606178254937</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>0707211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6596573986905</id>
+    <published>2021-06-17T13:02:59-05:00</published>
+    <updated>2021-06-17T13:02:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-and-pink-hydrangea-porcelain-teapot-in-gift-box"/>
+    <title>Blue and Pink Hydrangea Porcelain Teapot in Gift Box - Shipping Late July</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-and-pink-hydrangea-porcelain-teapot-in-gift-box-shipping-late-july.jpg?v=1624021484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue and Pink Hydrangea Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6596573986905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0617212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6596572971097</id>
+    <published>2021-06-17T12:58:29-05:00</published>
+    <updated>2021-06-17T12:58:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/english-camellia-porcelain-teapot-in-gift-box"/>
+    <title>English Camellia Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/english-camellia-porcelain-teapot-in-gift-box.jpg?v=1624021483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">English Camellia Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6596572971097</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0617211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1342302093413</id>
+    <published>2021-06-17T12:53:38-05:00</published>
+    <updated>2021-06-17T12:53:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/poppyseed-porcelain-teapot-in-gift-box"/>
+    <title>Poppyseed Porcelain Teapot in Gift Box</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/poppyseed-porcelain-teapot-in-gift-box.jpg?v=1601094288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Poppyseed Teapot in Gift Box  <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34 oz</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1342302093413</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>09051018-16N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2095677735001</id>
+    <published>2021-06-17T12:49:04-05:00</published>
+    <updated>2021-06-17T12:49:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/morning-glory-gift-boxed-porcelain-teapot"/>
+    <title>Morning Glory Gift Boxed Porcelain Teapot</title>
+    <s:type>gift boxed teapots</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/morning-glory-gift-boxed-porcelain-teapot.jpg?v=1601094762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>gift boxed teapots<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Morning Glory Gift Boxed Porcelain Teapot is an amazingly beautiful floral pattern that includes an adorable tassel and satin bow.</span></p>
+<p><span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  </span></p>
+<p><span>Holds 34 oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2095677735001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>052119J2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/3554088705</id>
+    <published>2021-06-07T14:24:08-05:00</published>
+    <updated>2021-06-07T14:24:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pansies-and-butterflies-wicker-style"/>
+    <title>Pansies and Butterflies Childrens Tin Teaset FREE tea! Little Girls 15pc Tea Set in a Purple Wicker Style Basket</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pansies-and-butterflies-childrens-tin-teaset-free-tea-little-girls-15pc-tea-set-in-a-purple-wicker-style-basket.jpg?v=1601091655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Child size Pansies and Butterflies 15 piece lovely children's tin tea set has a beautiful purple pansies and pretty little butterfly pattern perfect for little girls of all ages!  Each kids teaset has a set of 4 teacups, 4 saucers, 4 plates plus the picnic style wicker basket and tray. FREE tea included with all children tea sets! 
+<p>All of our tea ware is FDA tested and deemed Food Safe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/3554088705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>112015-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510850881</id>
+    <published>2021-06-07T14:21:53-05:00</published>
+    <updated>2021-06-07T14:21:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pink-butterfly-wicker-style"/>
+    <title>Childrens Porcelain Tea Set in Rounded Wicker Style Basket - Pink Butterfly - FREE TEA INCLUDED! Shipping Late August</title>
+    <s:type>Girls&apos; Porcelain Tea Sets in Wicker Baskets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/childrens-porcelain-tea-set-in-rounded-wicker-style-basket-pink-butterfly-free-tea-included-shipping-late-august.jpg?v=1625703091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Tea Sets in Wicker Baskets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful child size porcelain tea set includes two teacups and saucers, teapot, sugar and creamer set along with spoon and fork. Teapot measures: 5.5"W x 4"H holds 4oz. Teacups measures: 1 1/4"H x 1.3" diameter holding 1.5oz  <strong>Food Safe</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510850881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>7817</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510852545</id>
+    <published>2021-06-07T14:20:09-05:00</published>
+    <updated>2021-06-07T14:20:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pink-blush-wicker-style"/>
+    <title>Childrens Porcelain Tea Set in Rounded Wicker Style Basket - Pink Blush - FREE TEA INCLUDED!</title>
+    <s:type>Girls&apos; Porcelain Tea Sets in Wicker Baskets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/childrens-porcelain-tea-set-in-rounded-wicker-style-basket-pink-blush-free-tea-included.jpg?v=1601089780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Tea Sets in Wicker Baskets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful child size porcelain tea set includes two teacups and saucers, teapot, sugar and creamer set along with spoon and fork. Teapot measures: 5.5"W x 4"H holds 4oz. Teacups measures: 1 1/4"H x 1.3" diameter holding 1.5oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510852545</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>7818</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1679327169</id>
+    <published>2021-06-07T13:28:45-05:00</published>
+    <updated>2021-06-07T13:28:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-kids-girls-porcelain-teaset-tea-set-pink-rose-wicker-style"/>
+    <title>Childrens Porcelain Girls Tea Set - Pink Rose in Wicker Style Basket - FREE TEA INCLUDED! Returning in July</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/Childrens-Porcelain-Girls-Tea-Set-Pink-Rose-in-Wicker-Style-Basket-FREE-TEA-INCLUDED-Returning-in-July_1571072f-e8de-45d4-993c-02b6a6174848.jpg?v=1628899915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Childs Tea Set in Square Wicker Style Basket includes cute little forks and spoons to complete this lovely set she'll love for years to come. <span> I</span><span>ncludes two tea cups and saucers, teapot, sugar and creamer set along with 2 spoons and forks.  Teapot measures: 5.5"W x 4"H holds 4oz. Teacups measures: 1 1/4"H x 1.3" diameter holding 1.5oz All sets are FDA approved food safe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LVL</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1679327169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>9504</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10332732225</id>
+    <published>2021-06-07T13:05:05-05:00</published>
+    <updated>2021-06-07T13:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-porcelain-tea-set-in-wicker-style-basket-hydrangea"/>
+    <title>Children&apos;s Porcelain Tea Set in Wicker Style Basket - Hydrangea - FREE TEA INCLUDED!</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/childrens-porcelain-tea-set-in-wicker-style-basket-hydrangea-free-tea-included.jpg?v=1601093371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful blue hydrangea Children's Porcelain Tea Set (teaset) in Wicker Style Basket has a powder blue basket with matching gingham pattern padding for the perfect storage and play time. FDA approved food safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Little Victorian Ladies</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10332732225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>10202017-4N3</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/10332747905</id>
+    <published>2021-06-07T12:40:59-05:00</published>
+    <updated>2021-06-07T12:40:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-porcelain-tea-set-in-wicker-style-basket-bee-buzz"/>
+    <title>Children&apos;s Porcelain Tea Set in Wicker Style Basket - Bee Buzz - FREE TEA INCLUDED!</title>
+    <s:type>Girls Childrens Tea Cups Sets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/childrens-porcelain-tea-set-in-wicker-style-basket-bee-buzz-free-tea-included.jpg?v=1601093372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls Childrens Tea Cups Sets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful Children's Porcelain Tea Set (childs teaset) in a Wicker Style Basket has an adorable bumble bee and floral pattern perfect for a kids tea party.  This cute set even includes spoons and forks!  Sturdy white basket with pretty yellow gingham padding for secure storage. Each set has 2 teacups and saucers, teapot with lid, 2 plates, and a sugar bowl with lid.  FDA approved food safe.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Little Victorian Ladies</s:tag>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/10332747905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>10202017-4N1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1510853185</id>
+    <published>2021-06-07T12:06:37-05:00</published>
+    <updated>2021-06-07T12:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/childrens-porcelain-teaset-kids-childs-tea-set-wicker-style-pink-chintz"/>
+    <title>Children Porcelain Tea Set in  Rounded Wicker Style Basket - Pink Chintz - FREE TEA INCLUDED!</title>
+    <s:type>Girls&apos; Porcelain Tea Sets in Wicker Baskets</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/children-porcelain-tea-set-in-rounded-wicker-style-basket-pink-chintz-free-tea-included.jpg?v=1601089782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Girls&#39; Porcelain Tea Sets in Wicker Baskets<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful child size porcelain tea set with all over pink rose chintz pattern perfect for little girls. This teaset includes two teacups and saucers, teapot, sugar and creamer set along with spoon and fork. Teapot measures: 5.5"W x 4"H holds 4oz. Teacups measures: 1 1/4"H x 1.3" diameter holding 1.5oz  <strong>Food Safe</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1510853185</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.99</s:price>
+      <s:sku>7819</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556321185881</id>
+    <published>2021-04-06T13:51:54-05:00</published>
+    <updated>2021-04-06T13:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/gift-boxed-porcelain-mug-with-tassel-roses-and-poppies"/>
+    <title>Gift Boxed Porcelain Mug with Tassel - Purple Roses and Poppies</title>
+    <s:type>Gift Boxed Mugs</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/gift-boxed-porcelain-mug-with-tassel-purple-roses-and-poppies.jpg?v=1617800709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Gift Boxed Mugs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Gift Boxed Porcelain Mug - Purple Roses and Poppies with matching gift box adorned with lovely satin bow. Pattern encircles entire mug as it does the box (even has cute design on bottom) which also has a sweet blue "jewel" placed perfectly on the lid.</p>
+<p>Holds 11 oz. and 4.6" tall</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556321185881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0406212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6556313485401</id>
+    <published>2021-04-06T13:27:07-05:00</published>
+    <updated>2021-04-06T13:27:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-teapot-in-gift-box"/>
+    <title>Elegance Purple Roses and Poppies Porcelain Teapot in Gift Box</title>
+    <s:type></s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/elegance-purple-roses-and-poppies-porcelain-teapot-in-gift-box.jpg?v=1624752716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beautiful Purple Rose Elegance Porcelain Teapot in Gift Box has lavender and white roses along with few pretty poppies in a scrolling pattern on both sides. Pattern completely surrounding the teapot and matching gift box.  The matching box is adorned with a satin bow and include a cute tassel.  Perfect for gift giving. <span>9.5" x 5.6" Porcelain Tea Pot / Gift Box  Holds 34oz</span>  Also has matching gift boxed teacups,<a href="https://rosesandteacups.com/collections/tea-for-one" title="Lavender and Rose Porcelain Tea For One in Matching Gift Box" target="_blank"> tea for one</a> and mugs: <br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6556313485401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>0406211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2137343361113</id>
+    <published>2021-03-31T11:13:42-05:00</published>
+    <updated>2021-03-31T11:13:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/set-of-6-blue-and-gold-flourish-wholesale-tea-cups-and-saucers-in-gift-box-5-95-flat-rate-shipping"/>
+    <title>Set of 6 Blue and Gold Flourish Wholesale Tea Cups and Saucers in Gift Box - Limited Stock!</title>
+    <s:type>Discount Tea Cups</s:type>
+    <s:vendor>Imperial</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/set-of-6-blue-and-gold-flourish-wholesale-tea-cups-and-saucers-in-gift-box-limited-stock.jpg?v=1617235956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Imperial<br>
+        <strong>Type: </strong>Discount Tea Cups<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue and gold flourish bulk porcelain tea cups and saucers set of 6 in Gift Box.<span>  Full Size - Porcelain</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2137343361113</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11072017-12N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544322363481</id>
+    <published>2021-03-12T12:10:29-06:00</published>
+    <updated>2021-03-12T12:10:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-rose-elegance-porcelain-tea-for-one-gift-boxed"/>
+    <title>Porcelain Tea for One Gift Box - Purple Rose Elegance</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/porcelain-tea-for-one-gift-box-purple-rose-elegance.jpg?v=1618618312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple Rose Elegance Porcelain Tea for One Gift Boxed adorable combination of lidded teapot and tea cup in matching gift box adorned with satin bow. <span>Perfect for Mother's Day, birthday gift, events, and don't forget to gift yourself! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544322363481</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>032221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/6544313483353</id>
+    <published>2021-03-12T11:45:36-06:00</published>
+    <updated>2021-03-12T11:45:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed"/>
+    <title>Blue &amp; Pink Hydrangea Porcelain Tea For One Gift Boxed</title>
+    <s:type>Tea for One</s:type>
+    <s:vendor>Delton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-pink-hydrangea-porcelain-tea-for-one-gift-boxed.jpg?v=1615640651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delton<br>
+        <strong>Type: </strong>Tea for One<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue and Pink Hydrangea with butterfly teapot sits in teacup presented in matching gift box adorned with satin bow. <span>Adorable combination of lidded teapot and tea cup!</span></p>
+<p><span>5.8" Gift Boxed Porcelain Tea For One</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/6544313483353</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>031221-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771985490009</id>
+    <published>2021-01-06T18:55:32-06:00</published>
+    <updated>2021-01-06T18:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Majestic Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/majestic-purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771985490009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771982868569</id>
+    <published>2021-01-06T18:49:58-06:00</published>
+    <updated>2021-01-06T18:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Pretty Pink Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/pretty-pink-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft blush pink and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771982868569</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771980181593</id>
+    <published>2021-01-06T18:43:52-06:00</published>
+    <updated>2021-01-06T18:43:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Purple Victorian Cameo Lace and Hand Beaded Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/purple-victorian-cameo-lace-and-hand-beaded-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameo, roses, bows and beads in soft majestic purple and white create a nightlight dripping in romantic luxury for your home.  Hand dyed and hand beaded. Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771980181593</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771976937561</id>
+    <published>2021-01-06T18:36:54-06:00</published>
+    <updated>2021-01-06T18:36:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind"/>
+    <title>Blue Victorian Cameo Lace and Fringe Nightlight (night light) - One of a Kind!</title>
+    <s:type>Tea and Rose Nightlights</s:type>
+    <s:vendor>Victorian House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/blue-victorian-cameo-lace-and-fringe-nightlight-night-light-one-of-a-kind.jpg?v=1610024593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victorian House<br>
+        <strong>Type: </strong>Tea and Rose Nightlights<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cameos, roses, bows and beads in soft blue and white create a nightlight dripping in romantic luxury for your home.  Handcrafted in the USA!  One of a Kind!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771976937561</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>0106213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4771971399769</id>
+    <published>2021-01-06T18:25:21-06:00</published>
+    <updated>2021-01-06T18:25:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind"/>
+    <title>Romantic Ivory Cameo Lace and Fringe Large Lampshade - One of a Kind!</title>
+    <s:type>Romantic Victorian Lampshades</s:type>
+    <s:vendor>Romantic Victorian Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/romantic-ivory-cameo-lace-and-fringe-large-lampshade-one-of-a-kind.jpg?v=1610024592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Romantic Victorian Home<br>
+        <strong>Type: </strong>Romantic Victorian Lampshades<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Romantic Ivory Cameo Lace and Fringe Large Lamp Shade is beyond beautiful with hand dyed lace and soft long fringe.  This one of kind shade has long hand beaded trim with romantic lace covering.  There is not another like it!  Made by hand with love and care in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4771971399769</id>
+      <title>Default</title>
+      <s:price currency="USD">139.99</s:price>
+      <s:sku>0106212</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/4768736510041</id>
+    <published>2020-12-28T17:00:30-06:00</published>
+    <updated>2020-12-28T17:00:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack"/>
+    <title>Carol Wilson Fine Arts Tea Towel Tea Cup Stack</title>
+    <s:type>Tea Towels</s:type>
+    <s:vendor>ForArtSake</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/carol-wilson-fine-arts-tea-towel-tea-cup-stack.jpg?v=1609247024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ForArtSake<br>
+        <strong>Type: </strong>Tea Towels<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beloved Carol Wilson Fine Arts Tea Towel Tea Cup Stack 16x22 inch flour sack cotton. Useful beautiful Carol's Rose Garden patterns beautify your kitchen, art room and more.  Nice size and vivid colors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/4768736510041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>CWTT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

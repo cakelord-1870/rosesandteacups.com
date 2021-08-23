@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rosesandteacups.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rosesandteacups.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rosesandteacups.com/collections/red-hats.atom"/>
+  <title>Roses And Teacups </title>
+  <updated>2019-04-15T16:12:04-05:00</updated>
+  <author>
+    <name>Roses And Teacups </name>
+  </author>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063730114649</id>
+    <published>2019-04-15T16:12:04-05:00</published>
+    <updated>2019-04-15T16:12:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-black-touring-hat-with-red-16080"/>
+    <title>Ladies Victorian Black Touring Hat with Red #16080</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-black-touring-hat-with-red-16080.jpg?v=1601094743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Victorian Black Touring Hat with Red. This is one of our new classic ladies Victorian Touring Hats in black with a red satin pleated crown, black ruffled lace around the brim, black satin bow, black and red roses, red feathers and black satin bow on the back.</span></p>
+<p><span>This hat is made just for you!  Our hats are hand made with the most care and attention to detail at the time of your order.  This process can take 7-10 days so please give yourself extra time.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063730114649</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-2JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/2063726837849</id>
+    <published>2019-04-15T16:06:10-05:00</published>
+    <updated>2019-04-15T16:06:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/ladies-victorian-black-touring-hat-with-purple-16081"/>
+    <title>Ladies Victorian Black Touring Hat with Purple #16081</title>
+    <s:type>Black Victorian Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/ladies-victorian-black-touring-hat-with-purple-16081.jpg?v=1601094742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Black Victorian Hats<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ladies Victorian Black Touring Hat with Purple. This is one of our new classic ladies Victorian Touring Hats in black with a purple satin pleated crown, black ruffled lace around the brim, black satin bow, black and purple roses, purple feathers and black satin bow on the back.</span></p>
+<p><span>This hat is made just for you!  Our hats are hand made with the most care and attention to detail at the time of your order.  This process can take 7-10 days so please give yourself extra time.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/2063726837849</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.99</s:price>
+      <s:sku>041519-1JW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287147065384</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2867"/>
+    <title>Victorian Red Hat #2867</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2867.jpg?v=1601093765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This red hat boasts loads of feathers plus red beading and roses.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287147065384</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-11N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287144312872</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2865"/>
+    <title>Victorian Red Hat #2865</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2865_315523ce-d950-46dd-92f0-d5455b5360c8.jpg?v=1601093764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A red crochet crown is the focal point of this feather-brimmed hat.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287144312872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-10N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287123439656</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2672pu"/>
+    <title>Victorian Red Hat #2672PU</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2672pu.jpg?v=1601093763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287123439656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287122554920</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2672"/>
+    <title>Victorian Red Hat #2672</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2672.jpg?v=1601093762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287122554920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287119343656</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2014"/>
+    <title>Victorian Red Hat #2014</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2014.jpg?v=1601093761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This red hat features a red chiffon crown plus lace, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287119343656</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-7N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287119015976</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-536"/>
+    <title>Victorian Red Hat #536</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-536.jpg?v=1601093760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Purple crown and roses accent this amazing Victorian Red Hat with beading, feathers and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287119015976</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287102435368</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-535"/>
+    <title>Victorian Red Hat #535</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-535.jpg?v=1601093759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It's all about the bow on this elegant red hat with lace brim, feathers roses and train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287102435368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287102107688</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-533"/>
+    <title>Victorian Red and Purple Hat #533</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-and-purple-hat-533.jpg?v=1601093758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Red Hat with just a touch of purple roses feathers and ribbon.  Long red train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287102107688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287101190184</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-victorian-red-hat-532"/>
+    <title>Victorian Red Hat #532</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-532.jpg?v=1601093757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">You'll love this Red Hat piled high with feathers and roses and accented with red beads!  Lace brim and long train.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287101190184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717-2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/287099781160</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/victorian-red-hat-2208"/>
+    <title>Victorian Red and Purple Hat #2208</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-and-purple-hat-2208.jpg?v=1601093755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A marvelous combination of Red and Purple!  Purple feathers and lace, red bows and train, combination colors of beading.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/287099781160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>111717N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1389789825</id>
+    <published>2017-11-17T10:01:47-06:00</published>
+    <updated>2017-11-17T10:01:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/copy-of-red-and-purple-hat-2673"/>
+    <title>Victorian Red Hat #2670</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-hat-2670.jpg?v=1601088570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Red Touring Hat with red Lace Bow. This is our classic Touring Hat design with a straw base, red ruffled lace around the brim, red satin pleated crown, big red lace bow in front, red beaded flowers, red feathers and our red English netting bow and train down the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1389789825</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>4416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rosesandteacups.com/products/1389799041</id>
+    <published>2017-11-17T10:00:28-06:00</published>
+    <updated>2017-11-17T10:00:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://rosesandteacups.com/products/red-and-purple-hat-2670pu"/>
+    <title>Victorian Red and Purple Hat #2670PU</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Elsie Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0852/2588/products/victorian-red-and-purple-hat-2670pu.jpg?v=1601088571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elsie Massey<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This classic Touring Hat features a straw base, red ruffled lace around the brim, red satin pleated crown, big purple lace bow in front, red beaded flowers, purple ostrich and a red English netting bow and train down the back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rosesandteacups.com/products/1389799041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>2400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
